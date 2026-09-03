@@ -2,13 +2,8 @@ import os
 import json
 import time
 from google import genai
-from google.genai import types
 
-# v1 API વર્ઝન સેટ કર્યું જેથી Gemini 1.5 404 એરર વગર ચાલે
-client = genai.Client(
-    api_key=os.environ["GEMINI_API_KEY"],
-    http_options=types.HttpOptions(api_version='v1')
-)
+client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
 
 with open('system/progress_tracker.json', 'r', encoding='utf-8') as f:
     tracker = json.load(f)
@@ -17,6 +12,7 @@ if tracker.get('status') == "completed":
     print("🎉 ધોરણ 7 નો તમામ ડેટાબેઝ સફળતાપૂર્વક બની ગયો છે!", flush=True)
     exit(0)
 
+# ધોરણ 7 ના તમામ વિષયો અને તેના કુલ પ્રકરણો
 syllabus = [
     {"name": "Maths", "guj_name": "ગણિત", "chapters": 13},
     {"name": "Science", "guj_name": "વિજ્ઞાન", "chapters": 13},
@@ -27,6 +23,7 @@ syllabus = [
     {"name": "Sanskrit", "guj_name": "સંસ્કૃત", "chapters": 10}
 ]
 
+# પ્રશ્નોના પ્રકાર અને ટાર્ગેટ
 question_types = [
     {"id": "MCQs", "name": "બહુવિકલ્પી પ્રશ્નો (MCQs)", "marks": 1, "target_count": 60},
     {"id": "FillBlanks", "name": "ખાલી જગ્યા પૂરો", "marks": 1, "target_count": 60},
@@ -87,40 +84,32 @@ prompt = f"""
 }}
 """
 
-models_to_try = [
-    "gemini-1.5-flash",
-    "gemini-1.5-pro"
-]
-
+target_model = "gemini-3-flash-preview"
 output_data = ""
 
-for model_name in models_to_try:
-    print(f"⏳ મોડલ {model_name} (v1) દ્વારા પ્રશ્નો બની રહ્યા છે...", flush=True)
-    success = False
-    for attempt in range(1, 4):
-        try:
-            response = client.models.generate_content(model=model_name, contents=prompt)
-            raw_output = response.text.strip()
+print(f"⏳ મોડલ {target_model} સાથે ડેટા જનરેટ થઈ રહ્યો છે...", flush=True)
+
+# 503 સર્વર લોડ સામે આપમેળે 4 વાર રીટ્રાય કરશે
+for attempt in range(1, 5):
+    try:
+        response = client.models.generate_content(model=target_model, contents=prompt)
+        raw_output = response.text.strip()
+        
+        if "{" in raw_output and "}" in raw_output:
+            raw_output = raw_output[raw_output.find("{") : raw_output.rfind("}") + 1]
             
-            if "{" in raw_output and "}" in raw_output:
-                raw_output = raw_output[raw_output.find("{") : raw_output.rfind("}") + 1]
-                
-            output_data = raw_output.strip()
-            print(f"✅ Success! {model_name} દ્વારા ડેટા તૈયાર થઈ ગયો છે.", flush=True)
-            success = True
-            break
-        except Exception as e:
-            print(f"⚠️ પ્રયાસ {attempt} નિષ્ફળ ({model_name}): {e}", flush=True)
-            time.sleep(3)
-            
-    if success:
+        output_data = raw_output.strip()
+        print(f"✅ Success! ડેટા સફળતાપૂર્વક બની ગયો છે.", flush=True)
         break
+    except Exception as e:
+        print(f"⚠️ પ્રયાસ {attempt}/4 માં એરર: {e}", flush=True)
+        time.sleep(6)
 
 if not output_data:
-    print("Error: Gemini 1.5 રન કરવામાં નિષ્ફળતા મળી.", flush=True)
+    print("Error: ડેટા જનરેટ કરવામાં નિષ્ફળતા મળી.", flush=True)
     exit(1)
 
-# ફાઈલ સેવિંગ લોજિક
+# ફાઈલ સેવિંગ લોજિક: Std7/Maths/Maths_MCQs.js
 folder_path = f"Std7/{current_subject['name']}"
 os.makedirs(folder_path, exist_ok=True)
 
