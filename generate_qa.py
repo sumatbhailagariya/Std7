@@ -84,20 +84,43 @@ prompt = f"""
 }}
 """
 
-# સત્તાવાર કાર્યરત મોડલ્સની યાદી
-candidate_models = [
-    "gemini-3-flash-preview",
-    "gemini-3.1-pro-preview"
+# ફક્ત Gemini 1.5 મોડલ્સની જ લિસ્ટ
+models_to_try = []
+
+try:
+    print("Checking your API key for active Gemini 1.5 models...", flush=True)
+    for m in client.models.list():
+        m_name = m.name.lower()
+        if "1.5" in m_name and hasattr(m, 'supported_actions') and "generateContent" in m.supported_actions:
+            clean_name = m.name.replace("models/", "")
+            if clean_name not in models_to_try:
+                models_to_try.append(clean_name)
+except Exception as e:
+    print(f"Auto-scan note: {e}", flush=True)
+
+# ફિક્સ બેકઅપ લિસ્ટ (માત્ર 1.5 વર્ઝન)
+fallback_15_list = [
+    "gemini-1.5-flash-002",
+    "gemini-1.5-flash",
+    "gemini-1.5-flash-latest",
+    "gemini-1.5-flash-8b",
+    "gemini-1.5-pro-002",
+    "gemini-1.5-pro"
 ]
+
+for fb in fallback_15_list:
+    if fb not in models_to_try:
+        models_to_try.append(fb)
+
+print(f"Targeting Gemini 1.5 Models: {models_to_try}", flush=True)
 
 output_data = ""
 
-for model_name in candidate_models:
-    print(f"⏳ મોડલ {model_name} સાથે કનેક્ટ થઈ રહ્યું છે...", flush=True)
+for model_name in models_to_try:
+    print(f"⏳ મોડલ {model_name} દ્વારા પ્રશ્નો બની રહ્યા છે...", flush=True)
     success = False
     
-    # અસ્થાયી 503 એરર સામે 3 વાર રીટ્રાય કરશે
-    for attempt in range(1, 4):
+    for attempt in range(1, 3):
         try:
             response = client.models.generate_content(model=model_name, contents=prompt)
             raw_output = response.text.strip()
@@ -111,20 +134,16 @@ for model_name in candidate_models:
             break
         except Exception as e:
             err_str = str(e)
-            print(f"⚠️ પ્રયાસ {attempt}/3 નિષ્ફળ ({model_name}): {err_str}", flush=True)
-            
-            # જો મોડલ ઉપલબ્ધ જ ન હોય તો ખોટો સમય બગાડ્યા વિના આગળ વધવું
-            if "no longer available" in err_str or "NOT_FOUND" in err_str:
+            print(f"⚠️ પ્રયાસ નિષ્ફળ ({model_name}): {err_str}", flush=True)
+            if "NOT_FOUND" in err_str or "no longer available" in err_str:
                 break
-                
-            # 503 હાઈ ડિમાન્ડ હોય તો 5 સેકન્ડ રાહ જોઈને ફરી ટ્રાય કરવી
-            time.sleep(5)
+            time.sleep(3)
             
     if success:
         break
 
 if not output_data:
-    print("Error: બધા જ પ્રયાસો નિષ્ફળ ગયા છે.", flush=True)
+    print("Error: Gemini 1.5 ના બધા જ મોડલ્સ ફેલ ગયા છે.", flush=True)
     exit(1)
 
 # ફાઈલ સેવિંગ લોજિક
@@ -160,4 +179,4 @@ if tracker['current_chapter'] > max_chapters:
 with open('system/progress_tracker.json', 'w', encoding='utf-8') as f:
     json.dump(tracker, f, indent=4)
 
-print("Task Completed Successfully! Std 7 data saved.", flush=True)
+print("Task Completed Successfully! Std 7 data saved with Gemini 1.5.", flush=True)
