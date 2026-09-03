@@ -2,8 +2,13 @@ import os
 import json
 import time
 from google import genai
+from google.genai import types
 
-client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
+# v1 API વર્ઝન સેટ કર્યું જેથી Gemini 1.5 404 એરર વગર ચાલે
+client = genai.Client(
+    api_key=os.environ["GEMINI_API_KEY"],
+    http_options=types.HttpOptions(api_version='v1')
+)
 
 with open('system/progress_tracker.json', 'r', encoding='utf-8') as f:
     tracker = json.load(f)
@@ -12,7 +17,6 @@ if tracker.get('status') == "completed":
     print("🎉 ધોરણ 7 નો તમામ ડેટાબેઝ સફળતાપૂર્વક બની ગયો છે!", flush=True)
     exit(0)
 
-# ધોરણ 7 ના તમામ વિષયો અને તેના કુલ પ્રકરણો
 syllabus = [
     {"name": "Maths", "guj_name": "ગણિત", "chapters": 13},
     {"name": "Science", "guj_name": "વિજ્ઞાન", "chapters": 13},
@@ -23,7 +27,6 @@ syllabus = [
     {"name": "Sanskrit", "guj_name": "સંસ્કૃત", "chapters": 10}
 ]
 
-# પ્રશ્નોના પ્રકાર અને ટાર્ગેટ
 question_types = [
     {"id": "MCQs", "name": "બહુવિકલ્પી પ્રશ્નો (MCQs)", "marks": 1, "target_count": 60},
     {"id": "FillBlanks", "name": "ખાલી જગ્યા પૂરો", "marks": 1, "target_count": 60},
@@ -84,43 +87,17 @@ prompt = f"""
 }}
 """
 
-# ફક્ત Gemini 1.5 મોડલ્સની જ લિસ્ટ
-models_to_try = []
-
-try:
-    print("Checking your API key for active Gemini 1.5 models...", flush=True)
-    for m in client.models.list():
-        m_name = m.name.lower()
-        if "1.5" in m_name and hasattr(m, 'supported_actions') and "generateContent" in m.supported_actions:
-            clean_name = m.name.replace("models/", "")
-            if clean_name not in models_to_try:
-                models_to_try.append(clean_name)
-except Exception as e:
-    print(f"Auto-scan note: {e}", flush=True)
-
-# ફિક્સ બેકઅપ લિસ્ટ (માત્ર 1.5 વર્ઝન)
-fallback_15_list = [
-    "gemini-1.5-flash-002",
+models_to_try = [
     "gemini-1.5-flash",
-    "gemini-1.5-flash-latest",
-    "gemini-1.5-flash-8b",
-    "gemini-1.5-pro-002",
     "gemini-1.5-pro"
 ]
-
-for fb in fallback_15_list:
-    if fb not in models_to_try:
-        models_to_try.append(fb)
-
-print(f"Targeting Gemini 1.5 Models: {models_to_try}", flush=True)
 
 output_data = ""
 
 for model_name in models_to_try:
-    print(f"⏳ મોડલ {model_name} દ્વારા પ્રશ્નો બની રહ્યા છે...", flush=True)
+    print(f"⏳ મોડલ {model_name} (v1) દ્વારા પ્રશ્નો બની રહ્યા છે...", flush=True)
     success = False
-    
-    for attempt in range(1, 3):
+    for attempt in range(1, 4):
         try:
             response = client.models.generate_content(model=model_name, contents=prompt)
             raw_output = response.text.strip()
@@ -133,17 +110,14 @@ for model_name in models_to_try:
             success = True
             break
         except Exception as e:
-            err_str = str(e)
-            print(f"⚠️ પ્રયાસ નિષ્ફળ ({model_name}): {err_str}", flush=True)
-            if "NOT_FOUND" in err_str or "no longer available" in err_str:
-                break
+            print(f"⚠️ પ્રયાસ {attempt} નિષ્ફળ ({model_name}): {e}", flush=True)
             time.sleep(3)
             
     if success:
         break
 
 if not output_data:
-    print("Error: Gemini 1.5 ના બધા જ મોડલ્સ ફેલ ગયા છે.", flush=True)
+    print("Error: Gemini 1.5 રન કરવામાં નિષ્ફળતા મળી.", flush=True)
     exit(1)
 
 # ફાઈલ સેવિંગ લોજિક
@@ -179,4 +153,4 @@ if tracker['current_chapter'] > max_chapters:
 with open('system/progress_tracker.json', 'w', encoding='utf-8') as f:
     json.dump(tracker, f, indent=4)
 
-print("Task Completed Successfully! Std 7 data saved with Gemini 1.5.", flush=True)
+print("Task Completed Successfully! Std 7 data saved.", flush=True)
