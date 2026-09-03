@@ -2,13 +2,15 @@ name: Std 7 Data Generator
 
 on:
   schedule:
-    # 24 કલાકમાં બરાબર 12 વખત (દર 2 કલાકે એક વાર) ચાલશે
+    # 24 કલાકમાં બરાબર 12 વખત (દર 2 કલાકે એક વાર)
     - cron: '0 */2 * * *' 
   workflow_dispatch: 
 
 jobs:
   generate-data:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # સેવ કરવાની પરવાનગી કોડમાંથી જ કન્ફર્મ રહેશે
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
@@ -32,4 +34,5 @@ jobs:
           git config --global user.email "bot@std7data"
           git add .
           git commit -m "Auto-generated daily data" || echo "No changes to commit"
+          git pull --rebase origin main || true
           git push
