@@ -206,3 +206,161 @@ var Std7_Maths_MCQs = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "અપૂર્ણાંક અને દશાંશ સંખ્યાઓ",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "નીચેનામાંથી કયો શુદ્ધ અપૂર્ણાંક (Proper Fraction) છે?\n(A) 7/5\n(B) 3/2\n(C) 4/7\n(D) 5/3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 4/7</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes યાદ રાખજો કે જેનો અંશ છેદ કરતા નાનો હોય તેને 'શુદ્ધ' અપૂર્ણાંક કહેવાય. (અંશ < છેદ)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "2/3 નો વ્યસ્ત શું થાય?\n(A) -2/3\n(B) 3/2\n(C) 1\n(D) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 3/2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes મુજબ 'વ્યસ્ત' એટલે અંશને છેદમાં અને છેદને અંશમાં પલટાવી દેવો (ઉલટ-સુલટ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "0.1 × 0.1 = ?\n(A) 0.1\n(B) 1.1\n(C) 0.01\n(D) 0.001",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 0.01</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણાકારમાં દશાંશ સ્થળનો સરવાળો થાય. અહીં 1 + 1 = 2 દશાંશ સ્થળ કાપવા પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "7/3 એ કેવો અપૂર્ણાંક છે?\n(A) શુદ્ધ અપૂર્ણાંક\n(B) અશુદ્ધ અપૂર્ણાંક\n(C) મિશ્ર અપૂર્ણાંક\n(D) દશાંશ અપૂર્ણાંક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) અશુદ્ધ અપૂર્ણાંક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો અંશ મોટો અને છેદ નાનો હોય, તો તે 'અશુદ્ધ' અપૂર્ણાંક છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "2/5 ના 1/2 કેટલા થાય?\n(A) 1/5\n(B) 3/7\n(C) 2/10\n(D) A અને C બંને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) A અને C બંને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ના' એટલે ગુણાકાર. (2/5) × (1/2) = 2/10, જેને છેદ ઉડાડતા 1/5 મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "3.25 ÷ 10 = ?\n(A) 32.5\n(B) 0.325\n(C) 325\n(D) 0.0325",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 0.325</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાગાકારમાં દશાંશ ચિન્હ 'ડાબી' બાજુ ખસે. જેટલા શૂન્ય એટલા ડગલા ડાબી બાજુ ચાલો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "5/9 + 2/9 = ?\n(A) 7/18\n(B) 7/9\n(C) 10/9\n(D) 3/9",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 7/9</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો છેદ સમાન હોય તો અંશનો સીધો સરવાળો કરી શકાય, છેદ એમ જ રહેશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "0.01 × 100 = ?\n(A) 0.1\n(B) 1\n(C) 10\n(D) 100",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 100 વડે ગુણાકાર એટલે દશાંશ ચિન્હ 2 ડગલા 'જમણી' બાજુ ખસેડવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "નીચેનામાંથી કઈ સંખ્યા સૌથી મોટી છે?\n(A) 0.5\n(B) 0.05\n(C) 0.55\n(D) 0.005",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 0.55</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દશાંશ પછીના અંકો સરખા કરો (0.50, 0.05, 0.55, 0.005) હવે સરખામણી સરળ બનશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "1/2 ÷ 3 = ?\n(A) 3/2\n(B) 1/6\n(C) 2/3\n(D) 6",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 1/6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાગાકારને ગુણાકારમાં ફેરવી બીજી સંખ્યાનો વ્યસ્ત લેવો: 1/2 × 1/3 = 1/6.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "7 સેમી ને મીટરમાં કઈ રીતે લખાય?\n(A) 0.7 મી\n(B) 0.07 મી\n(C) 0.007 મી\n(D) 70 મી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 0.07 મી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 મીટર = 100 સેમી. એટલે સેમીને મીટરમાં ફેરવવા 100 વડે ભાગવા પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "3/4 × 0 = ?\n(A) 3/4\n(B) 4/3\n(C) 0\n(D) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દુનિયાની કોઈપણ સંખ્યાનો શૂન્ય સાથે ગુણાકાર હંમેશા 'ઝીરો' જ આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "5 કિગ્રા 5 ગ્રામ = ________ કિગ્રા\n(A) 5.5\n(B) 5.05\n(C) 5.005\n(D) 5500",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 5.005</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 કિગ્રા = 1000 ગ્રામ, તેથી 5 ગ્રામ = 5/1000 = 0.005 કિગ્રા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "એક લંબચોરસની લંબાઈ 2/3 મી અને પહોળાઈ 1/2 મી છે, તો તેનું ક્ષેત્રફળ શોધો.\n(A) 1/3 ચો.મી.\n(B) 3/5 ચો.મી.\n(C) 1/6 ચો.મી.\n(D) 7/6 ચો.મી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 1/3 ચો.મી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબચોરસનું ક્ષેત્રફળ = લંબાઈ × પહોળાઈ = (2/3) × (1/2) = 2/6 = 1/3.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "2/3 ને કઈ સંખ્યા વડે ગુણતા જવાબ 1 મળે?\n(A) 2/3\n(B) 3/2\n(C) 1\n(D) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 3/2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈપણ સંખ્યા અને તેના 'વ્યસ્ત' નો ગુણાકાર હંમેશા 1 થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "0.2 × 0.3 = ?\n(A) 0.6\n(B) 0.06\n(C) 6.0\n(D) 0.006",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 0.06</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 × 3 = 6 કરો અને બંને સંખ્યાના મળીને કુલ 2 દશાંશ સ્થળ કાપો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "1/2 ÷ 1/2 = ?\n(A) 1/4\n(B) 1\n(C) 0\n(D) 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાન સંખ્યાને તે જ સંખ્યા વડે ભાગતા જવાબ હંમેશા 1 જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "4/5 ÷ 4 = ?\n(A) 1/5\n(B) 16/5\n(C) 1\n(D) 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 1/5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4/5 × 1/4 (વ્યસ્ત કરો), 4-4 ઉડી જશે, વધશે માત્ર 1/5.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "2.5 ÷ 0.5 = ?\n(A) 0.5\n(B) 5\n(C) 50\n(D) 1.25",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંનેમાંથી દશાંશ ચિન્હ કાઢી નાખો (25 ÷ 5), જવાબ 5 આવશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "કયો અપૂર્ણાંક સૌથી નાનો છે?\n(A) 1/2\n(B) 1/3\n(C) 1/4\n(D) 1/5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) 1/5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો અંશ સમાન (1) હોય, તો જેનો 'છેદ' મોટો તે અપૂર્ણાંક સૌથી નાનો કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "3 ÷ 1/2 = ?\n(A) 3/2\n(B) 1.5\n(C) 6\n(D) 1/6",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાગાકારના ગુણાકાર કરો અને 1/2 ને ઉંધા કરી 2/1 (એટલે કે 2) કરો. 3 × 2 = 6.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "2/7 × 3 = ?\n(A) 6/7\n(B) 5/7\n(C) 6/21\n(D) 2/21",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 6/7</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂર્ણાંક સંખ્યાનો ગુણાકાર હંમેશા 'અંશ' સાથે જ થાય, છેદ સાથે નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "0.05 × 7 = ?\n(A) 3.5\n(B) 0.35\n(C) 0.035\n(D) 35",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 0.35</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5 × 7 = 35, પછી દશાંશના બે સ્થળ કાપો. જવાબ તૈયાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "100 ÷ 0.1 = ?\n(A) 10\n(B) 100\n(C) 1000\n(D) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 1000</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0.1 એટલે 1/10. ભાગાકારનો ગુણાકાર કરો તો 100 × 10 = 1000.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "શુદ્ધ અપૂર્ણાંક અને અશુદ્ધ અપૂર્ણાંકનો ગુણાકાર હંમેશા:\n(A) 1 થી મોટો હોય\n(B) 1 થી નાનો હોય\n(C) શુદ્ધ અપૂર્ણાંક કરતા મોટો અને અશુદ્ધ કરતા નાનો હોય\n(D) 0 હોય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) શુદ્ધ અપૂર્ણાંક કરતા મોટો અને અશુદ્ધ કરતા નાનો હોય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ નિયમ યાદ રાખવો! (દા.ત. 1/2 × 3/2 = 3/4)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "2/3 ને મિશ્ર સંખ્યામાં ફેરવી શકાય?\n(A) હા\n(B) ના\n(C) કહી શકાય નહીં\n(D) માત્ર અશુદ્ધ અપૂર્ણાંકને જ ફેરવી શકાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) માત્ર અશુદ્ધ અપૂર્ણાંકને જ ફેરવી શકાય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શુદ્ધ અપૂર્ણાંક 1 કરતા નાનો હોય એટલે તેને મિશ્રમાં ન ફેરવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "15.4 ÷ 100 = ?\n(A) 1.54\n(B) 154\n(C) 0.154\n(D) 0.0154",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 0.154</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 100 માં બે શૂન્ય છે, એટલે દશાંશ ચિન્હને ડાબી બાજુ બે કદમ ખસેડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "1/2, 1/2 અને 1/2 નો ગુણાકાર કેટલો થાય?\n(A) 3/2\n(B) 1/8\n(C) 1/6\n(D) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 1/8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંશનો ગુણાકાર (1×1×1) અને છેદનો ગુણાકાર (2×2×2) અલગથી કરવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "5 પૈસા ને રૂપિયામાં દશાંશ સ્વરૂપે લખો.\n(A) ₹ 0.5\n(B) ₹ 0.05\n(C) ₹ 0.005\n(D) ₹ 5.0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ₹ 0.05</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 રૂપિયો = 100 પૈસા, એટલે પૈસાને 100 વડે ભાગવાથી રૂપિયા મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "1/3 નો 3/4 ભાગ એટલે કેટલા?\n(A) 4/9\n(B) 1/4\n(C) 1/12\n(D) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 1/4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (1/3) × (3/4) માં 3-3 સામસામે ઉડી જશે, એટલે વધશે 1/4.</p></div>"
+    }
+  ]
+}
