@@ -2,9 +2,9 @@ name: Std 7 Data Generator
 
 on:
   schedule:
-    # 24 કલાકમાં 10 વખત (અંદાજે દર 2.4 કલાકે)
-    - cron: '0 1,3,6,8,11,13,15,18,20,22 * * *'
-  workflow_dispatch:
+    # 24 કલાકમાં બરાબર 12 વખત (દર 2 કલાકે એક વાર) ચાલશે
+    - cron: '0 */2 * * *' 
+  workflow_dispatch: 
 
 jobs:
   generate-data:
@@ -31,5 +31,5 @@ jobs:
           git config --global user.name "Std7-AI-Bot"
           git config --global user.email "bot@std7data"
           git add .
-          git commit -m "Auto-generated Std 7 data" || echo "No changes to commit"
+          git commit -m "Auto-generated daily data" || echo "No changes to commit"
           git push
