@@ -1,5 +1,6 @@
 import os
 import json
+import time
 from google import genai
 
 client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
@@ -85,21 +86,17 @@ prompt = f"""
 }}
 """
 
-print("Searching for live text models from your API account...", flush=True)
-valid_models = []
-try:
-    for model in client.models.list():
-        if hasattr(model, 'supported_actions') and "generateContent" in model.supported_actions:
-            name = model.name.lower()
-            if not any(word in name for word in ['video', 'audio', 'tts', 'vision', 'image', 'exp', 'learnlm', 'embedding', 'aqa']):
-                valid_models.append(model.name)
-except Exception as e:
-    print(f"Error fetching models: {e}", flush=True)
+# સક્રિય અને સપોર્ટેડ મોડલ્સની નવી પ્રાયોરિટી લિસ્ટ
+models_to_try = [
+    "gemini-2.6-flash",
+    "gemini-2.0-flash",
+    "gemini-1.5-flash",
+    "gemini-2.5-pro"
+]
 
-valid_models.sort(key=lambda x: ('flash' not in x.lower(), x))
 output_data = ""
 
-for m in valid_models[:3]:
+for m in models_to_try:
     try:
         print(f"⏳ Pending: {m} મોડલ દ્વારા પ્રશ્નો બની રહ્યા છે...", flush=True)
         response = client.models.generate_content(model=m, contents=prompt)
@@ -109,13 +106,14 @@ for m in valid_models[:3]:
             raw_output = raw_output[raw_output.find("{") : raw_output.rfind("}") + 1]
             
         output_data = raw_output.strip()
-        print("✅ Success! ડેટા બની ગયો છે.", flush=True)
+        print(f"✅ Success! {m} મોડલ દ્વારા ડેટા બની ગયો છે.", flush=True)
         break
     except Exception as e:
         print(f"❌ Failed with {m}. Error: {e}", flush=True)
+        time.sleep(2)
 
 if not output_data:
-    print("Error: ડેટા જનરેટ કરવામાં નિષ્ફળતા મળી.", flush=True)
+    print("Error: બધા જ માન્ય મોડલ્સ ફેલ ગયા છે.", flush=True)
     exit(1)
 
 # ફાઈલ સેવિંગ લોજિક: Std7/Maths/Maths_MCQs.js
