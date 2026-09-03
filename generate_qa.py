@@ -45,7 +45,6 @@ max_chapters = current_subject["chapters"]
 
 print(f"Generating {current_q_type['name']} for Std 7 {current_subject['name']} Chapter {ch_num}...", flush=True)
 
-# પ્રશ્નના પ્રકાર મુજબ ચોક્કસ સૂચનાઓ
 type_rules = ""
 if current_q_type['id'] == "MCQs":
     type_rules = "દરેક પ્રશ્ન સાથે 4 વિકલ્પો (A, B, C, D) આપવા."
@@ -56,7 +55,6 @@ elif current_q_type['id'] == "TrueFalse":
 elif current_q_type['id'] == "MatchPairs":
     type_rules = "વિભાગ A અને વિભાગ B ના જોડકાં સ્પષ્ટ કરવા અને નીચે સાચો ઉત્તર આપવો."
 
-# AI માટેનો પ્રોમ્પ્ટ
 prompt = f"""
 તમે ગુજરાત બોર્ડ (GSEB) ના એક્સપર્ટ શિક્ષક છો.
 તમારે ધોરણ 7, વિષય: '{current_subject['guj_name']}', પ્રકરણ: {ch_num} ના નવા ઘટાડેલા NCERT સિલેબસ મુજબ પ્રશ્નો બનાવવાના છે.
@@ -86,37 +84,50 @@ prompt = f"""
 }}
 """
 
-# સક્રિય અને સપોર્ટેડ મોડલ્સની નવી પ્રાયોરિટી લિસ્ટ
-models_to_try = [
-    "gemini-2.6-flash",
-    "gemini-2.0-flash",
-    "gemini-1.5-flash",
-    "gemini-2.5-pro"
+# સત્તાવાર કાર્યરત મોડલ્સની યાદી
+candidate_models = [
+    "gemini-3-flash-preview",
+    "gemini-3.1-pro-preview"
 ]
 
 output_data = ""
 
-for m in models_to_try:
-    try:
-        print(f"⏳ Pending: {m} મોડલ દ્વારા પ્રશ્નો બની રહ્યા છે...", flush=True)
-        response = client.models.generate_content(model=m, contents=prompt)
-        raw_output = response.text.strip()
-        
-        if "{" in raw_output and "}" in raw_output:
-            raw_output = raw_output[raw_output.find("{") : raw_output.rfind("}") + 1]
+for model_name in candidate_models:
+    print(f"⏳ મોડલ {model_name} સાથે કનેક્ટ થઈ રહ્યું છે...", flush=True)
+    success = False
+    
+    # અસ્થાયી 503 એરર સામે 3 વાર રીટ્રાય કરશે
+    for attempt in range(1, 4):
+        try:
+            response = client.models.generate_content(model=model_name, contents=prompt)
+            raw_output = response.text.strip()
             
-        output_data = raw_output.strip()
-        print(f"✅ Success! {m} મોડલ દ્વારા ડેટા બની ગયો છે.", flush=True)
+            if "{" in raw_output and "}" in raw_output:
+                raw_output = raw_output[raw_output.find("{") : raw_output.rfind("}") + 1]
+                
+            output_data = raw_output.strip()
+            print(f"✅ Success! {model_name} દ્વારા ડેટા તૈયાર થઈ ગયો છે.", flush=True)
+            success = True
+            break
+        except Exception as e:
+            err_str = str(e)
+            print(f"⚠️ પ્રયાસ {attempt}/3 નિષ્ફળ ({model_name}): {err_str}", flush=True)
+            
+            # જો મોડલ ઉપલબ્ધ જ ન હોય તો ખોટો સમય બગાડ્યા વિના આગળ વધવું
+            if "no longer available" in err_str or "NOT_FOUND" in err_str:
+                break
+                
+            # 503 હાઈ ડિમાન્ડ હોય તો 5 સેકન્ડ રાહ જોઈને ફરી ટ્રાય કરવી
+            time.sleep(5)
+            
+    if success:
         break
-    except Exception as e:
-        print(f"❌ Failed with {m}. Error: {e}", flush=True)
-        time.sleep(2)
 
 if not output_data:
-    print("Error: બધા જ માન્ય મોડલ્સ ફેલ ગયા છે.", flush=True)
+    print("Error: બધા જ પ્રયાસો નિષ્ફળ ગયા છે.", flush=True)
     exit(1)
 
-# ફાઈલ સેવિંગ લોજિક: Std7/Maths/Maths_MCQs.js
+# ફાઈલ સેવિંગ લોજિક
 folder_path = f"Std7/{current_subject['name']}"
 os.makedirs(folder_path, exist_ok=True)
 
@@ -131,9 +142,7 @@ with open(file_path, mode, encoding='utf-8') as f:
     else:
         f.write(f',\n"{ch_num}": ' + output_data + '\n')
 
-# ---------------------------------------------------------
-# ટ્રાન્ઝિશન લોજીક (પ્રકરણ -> પ્રશ્ન પ્રકાર -> વિષય)
-# ---------------------------------------------------------
+# ટ્રેકર અપડેટ
 tracker['current_chapter'] += 1
 
 if tracker['current_chapter'] > max_chapters:
