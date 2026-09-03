@@ -572,3 +572,211 @@ var Std7_Maths_MCQs = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "સાદા સમીકરણો",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "જો x + 5 = 12 હોય, તો x ની કિંમત કેટલી થાય? <br> A. 7 <br> B. 17 <br> C. 5 <br> D. 12",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 7</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘+’ ને બરાબરની પેલે પાર લઈ જાવ તો ‘-’ થાય. તેથી, 12 - 5 = 7.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સમીકરણ x - 3 = 10 માં x ની કિંમત શોધો. <br> A. 7 <br> B. 13 <br> C. -7 <br> D. 3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 13</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘-’ ને સામેની બાજુ લઈ જતા ‘+’ થાય. એટલે કે 10 + 3 = 13.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "4x = 20 માં x ની કિંમત શું હશે? <br> A. 16 <br> B. 24 <br> C. 5 <br> D. 80",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગુણાકારમાં રહેલી સંખ્યા સામે જાય તો ભાગાકારમાં જાય. 20 ÷ 4 = 5.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જો y/3 = 7 હોય, તો y બરાબર કેટલા? <br> A. 10 <br> B. 4 <br> C. 21 <br> D. 2.33",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 21</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભાગાકારમાં હોય તે સામે જાય તો ગુણાકારમાં જાય. 7 × 3 = 21.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "નીચેનામાંથી કયું સમીકરણ દર્શાવે છે? <br> A. x + 5 > 10 <br> B. x - 3 < 7 <br> C. 2x + 3 = 15 <br> D. 4y + 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 2x + 3 = 15</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમીકરણમાં હંમેશા ‘=’ (બરાબર) નું ચિહ્ન હોવું ફરજિયાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સમીકરણ 3n + 7 = 25 માં n ની કિંમત શોધો. <br> A. 6 <br> B. 5 <br> C. 8 <br> D. 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પહેલા સરવાળાને બાદ કરો (25-7=18), પછી ગુણાકારને ભાગો (18/3=6).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "કયા મૂલ્ય માટે 2p - 1 = 9 સાચું ઠરશે? <br> A. 4 <br> B. 5 <br> C. 10 <br> D. 8",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઓપ્શન મૂકીને ચેક કરો: 2(5)-1 = 10-1 = 9. સાચું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "‘કોઈ સંખ્યા x ના ત્રણ ગણામાં 5 ઉમેરતા 20 મળે’ આ વિધાનનું સમીકરણ શું થાય? <br> A. x + 5 = 20 <br> B. 3x + 5 = 20 <br> C. 3x - 5 = 20 <br> D. x/3 + 5 = 20",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 3x + 5 = 20</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘ગણા’ એટલે ગુણાકાર અને ‘ઉમેરતા’ એટલે સરવાળો (+) યાદ રાખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "જો 10z = 100 હોય, તો z = ? <br> A. 10 <br> B. 90 <br> C. 110 <br> D. 1000",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બંને બાજુથી એક-એક શૂન્ય ઉડાડી દો, z = 10 આવી જશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સમીકરણમાં ‘ચલ’ કોને કહેવાય? <br> A. જેની કિંમત બદલાતી નથી <br> B. જેની કિંમત ચોક્કસ હોતી નથી <br> C. માત્ર અંકોને <br> D. બરાબરની નિશાનીને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) જેની કિંમત ચોક્કસ હોતી નથી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘ચલ’ એટલે જે ‘ચાલે’ અથવા ‘બદલાય’. x, y, z વગેરે ચલ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "જો m/2 - 5 = 0 હોય, તો m શોધો. <br> A. 5 <br> B. 10 <br> C. 2.5 <br> D. -10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): -5 સામે જાય તો +5 થાય, અને m/2 = 5 એટલે કે m = 5 x 2 = 10.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "‘y માંથી 7 બાદ કરતા 3 મળે’ આનું ગાણિતિક સ્વરૂપ કયું? <br> A. 7 - y = 3 <br> B. y + 7 = 3 <br> C. y - 7 = 3 <br> D. 3 - y = 7",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) y - 7 = 3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘બાદ કરતા’ શબ્દ આવે એટલે ‘-’ નિશાની આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સમીકરણ 5x = 0 માં x ની કિંમત શું થાય? <br> A. 5 <br> B. -5 <br> C. 0 <br> D. વ્યાખ્યાયિત નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શૂન્યને કોઈપણ (શૂન્ય સિવાયની) સંખ્યા વડે ભાગતા જવાબ 0 જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "4(m + 3) = 20 માં m ની કિંમત શોધો. <br> A. 2 <br> B. 5 <br> C. 1 <br> D. 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પહેલા 20 ને 4 વડે ભાગો (20/4=5), પછી 5 માંથી 3 બાદ કરો (5-3=2).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "જો 3p - 10 = 5 હોય, તો p બરાબર કેટલા? <br> A. 5 <br> B. 15 <br> C. 10 <br> D. 3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 5 + 10 = 15; હવે 15 ÷ 3 = 5. સ્ટેપ બાય સ્ટેપ ઉકેલ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "નીચેનામાંથી કયો x = 2 નો ઉકેલ છે? <br> A. 2x + 1 = 5 <br> B. x - 2 = 2 <br> C. 3x = 10 <br> D. x + 5 = 8",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 2x + 1 = 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): x ની જગ્યાએ 2 મૂકો: 2(2)+1 = 4+1 = 5. ડાબા = જબા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "જો x/4 = 1/2 હોય, તો x = ? <br> A. 1 <br> B. 2 <br> C. 4 <br> D. 8",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ચોકડી ગુણાકાર: 2x = 4, તેથી x = 2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સમીકરણ 7n + 5 = 19 માં n ની કિંમત ____ છે. <br> A. 2 <br> B. 3 <br> C. 4 <br> D. 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 19 માંથી 5 જાય તો 14, અને 14 ને 7 વડે ભાગતા 2 મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "કોઈ સંખ્યાના ચોથા ભાગમાં 3 ઉમેરતા 7 મળે. <br> A. 4x + 3 = 7 <br> B. x/4 + 3 = 7 <br> C. x/4 - 3 = 7 <br> D. 4/x + 3 = 7",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) x/4 + 3 = 7</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘ચોથો ભાગ’ એટલે છેદમાં 4 મૂકવા (x/4).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "જો 2q + 6 = 12 હોય, તો q ની કિંમત શોધો. <br> A. 6 <br> B. 3 <br> C. 9 <br> D. 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 12 માંથી 6 કાઢો તો 6 વધે, હવે 6 ના અડધા કરો એટલે 3!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "સમીકરણમાં ‘=’ ચિહ્ન શું સૂચવે છે? <br> A. ડાબી અને જમણી બાજુ અસમાન છે <br> B. ડાબી અને જમણી બાજુ સમાન છે <br> C. ચલની કિંમત 0 છે <br> D. માત્ર સરવાળો સૂચવે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ડાબી અને જમણી બાજુ સમાન છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમીકરણ એટલે ત્રાજવું; બંને પલ્લાં સરખાં હોવા જોઈએ (=).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "જો a + 8 = 5 હોય, તો a = ? <br> A. 3 <br> B. -3 <br> C. 13 <br> D. -13",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) -3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નાની સંખ્યામાંથી મોટી બાદ થાય તો જવાબ ઋણ (-) આવે. 5 - 8 = -3.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "સમીકરણ 10 = 2 + 4y નો ઉકેલ શું છે? <br> A. 2 <br> B. 4 <br> C. 3 <br> D. 8",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 10 - 2 = 8; હવે 8 ને 4 વડે ભાગતા 2 મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "જો x = -1 હોય, તો 2x + 5 ની કિંમત કેટલી? <br> A. 7 <br> B. 3 <br> C. -7 <br> D. -3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 2(-1) + 5 = -2 + 5 = 3. ચિહ્નોનું ધ્યાન રાખવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "‘m ના 7 ગણામાં 7 ઉમેરતા 77 મળે’ - સમીકરણ બનાવો. <br> A. 7m + 7 = 77 <br> B. m + 7 = 77 <br> C. 7m = 77 <br> D. 7m - 7 = 77",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 7m + 7 = 77</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 7 ગણા એટલે 7m, અને ઉમેરતા એટલે +7. સીધું સટ્ટ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "જો 3n - 2 = 46 હોય, તો n = ? <br> A. 14 <br> B. 15 <br> C. 16 <br> D. 18",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 16</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 46 + 2 = 48. હવે 48/3 = 16. ઘડિયા આવડવા જરૂરી છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "x/2 + 2 = 8 માં x ની કિંમત શોધો. <br> A. 3 <br> B. 12 <br> C. 10 <br> D. 20",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 12</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 8 - 2 = 6. હવે છેદમાં રહેલા 2 સામે જાય તો ગુણાય, 6 x 2 = 12.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "જો 0 = 16 + 4(m - 6) હોય, તો m શોધો. <br> A. 2 <br> B. 4 <br> C. 6 <br> D. 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 16 સામે જાય તો -16. -16/4 = -4. હવે m - 6 = -4, તો m = 6 - 4 = 2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "‘કોઈ એક સંખ્યા x માંથી 4 બાદ કરતા 6 મળે છે’ તેનું સમીકરણ કયું? <br> A. x - 4 = 6 <br> B. 4 - x = 6 <br> C. x + 4 = 6 <br> D. x/4 = 6",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) x - 4 = 6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વિધાનને વાંચતા જાવ અને ગાણિતિક સંજ્ઞાઓ મુકતા જાવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "જો 20t = -10 હોય, તો t = ? <br> A. -2 <br> B. -1/2 <br> C. 2 <br> D. 1/2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) -1/2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): t = -10/20 = -1/2. છેદ ઉડાડવામાં ઉતાવળ ન કરવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "સમીકરણ 4 + 5(p - 1) = 34 માં p શોધો. <br> A. 6 <br> B. 7 <br> C. 5 <br> D. 8",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 7</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 34 - 4 = 30; 30/5 = 6; હવે 6 + 1 = 7. ટૂંકી રીતે ઉકેલો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "જો 3x + 10 = 1 હોય, તો x = ? <br> A. 3 <br> B. -3 <br> C. 11 <br> D. -11",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) -3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1 - 10 = -9. -9 / 3 = -3. નિશાની ખૂબ મહત્વની છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "નીચેનામાંથી કયું સમીકરણ x = 5 ઉકેલ તરીકે ધરાવે છે? <br> A. x - 5 = 10 <br> B. 2x = 10 <br> C. x + 5 = 5 <br> D. x/5 = 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 2x = 10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મૌખિક ગણતરી કરો, 2 ગુણ્યા 5 બરાબર 10 થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "કોઈ સંખ્યાના 6 ગણામાંથી 5 બાદ કરતા 7 મળે. <br> A. 6x - 5 = 7 <br> B. 5x - 6 = 7 <br> C. 6x + 5 = 7 <br> D. x/6 - 5 = 7",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 6x - 5 = 7</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘બાદ કરતા’ એટલે - (માઈનસ) ની નિશાની મુકવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "જો y + 10 = 10 હોય, તો y ની કિંમત કેટલી? <br> A. 20 <br> B. 10 <br> C. 0 <br> D. 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સરખી સંખ્યા બંને બાજુ હોય તો ઉડી જાય અથવા 10 - 10 = 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "8x = 4 માં x ની કિંમત શું થાય? <br> A. 2 <br> B. 1/2 <br> C. 4 <br> D. 32",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 1/2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઉતાવળમાં 8/4 = 2 ન કરી દેતા! સાચું x = 4/8 = 1/2 છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "જો 4 + 3x = 13 હોય, તો x = ? <br> A. 3 <br> B. 4 <br> C. 5 <br> D. 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 13 - 4 = 9. હવે 9/3 = 3. મોઢે પણ ગણી શકાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "સમીકરણ 2m = 10 માં m નું મૂલ્ય ____ છે. <br> A. 5 <br> B. 20 <br> C. 8 <br> D. 12",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 10 ના અડધા એટલે 5. ગુણાકાર સામે જાય તો ભાગાકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "જો z/3 = 5/4 હોય, તો z ની કિંમત શોધો. <br> A. 15/4 <br> B. 20/3 <br> C. 12/5 <br> D. 15",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 15/4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): છેદના 3 સામે અંશમાં ગુણાશે. 5 x 3 = 15, એટલે 15/4.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "સમીકરણ 3(x-2) = 15 માં x ની કિંમત કેટલી? <br> A. 5 <br> B. 7 <br> C. 3 <br> D. 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 7</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 15/3 = 5; હવે x - 2 = 5, તો x = 5 + 2 = 7.</p></div>"
+    }
+  ]
+}
