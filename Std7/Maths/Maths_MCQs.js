@@ -2341,3 +2341,211 @@ var Std7_Maths_MCQs = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "સંમિતિ (Symmetry)",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "નિયમિત બહુકોણ માટે સંમિતિની રેખાઓની સંખ્યા કેટલી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તેની બાજુઓની સંખ્યા જેટલી (વિકલ્પ મુજબ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જેટલી બાજુઓ સમાન, તેટલી જ સંમિતિની રેખાઓ મળે. દા.ત. ચોરસને 4 બાજુ સમાન તો 4 રેખા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સમબાજુ ત્રિકોણને કેટલી સંમિત રેખાઓ હોય છે? (A) 1 (B) 2 (C) 3 (D) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમબાજુ ત્રિકોણમાં ત્રણેય બાજુ સરખી હોવાથી 3 સંમિત રેખાઓ મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ચોરસમાં પરિભ્રમણીય સંમિતિનો ક્રમ કેટલો હોય છે? (A) 2 (B) 3 (C) 4 (D) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ચોરસને 90° ના ખૂણે ફેરવતા તે મૂળ જેવો જ દેખાય છે, આમ 360° ના પૂર્ણ ચક્રમાં તે 4 વખત સમાન દેખાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "નીચેનામાંથી કયા અક્ષરમાં માત્ર ઊભી સંમિત રેખા છે? (A) B (B) M (C) E (D) K",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) M</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અરીસો ઊભો રાખતા જે અક્ષર આખો દેખાય તેમાં ઊભી સંમિતિ હોય. M ને વચ્ચેથી કાપતા બે સરખા ભાગ પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વર્તુળને કેટલી સંમિત રેખાઓ હોય છે? (A) 1 (B) 2 (C) 4 (D) અસંખ્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) અસંખ્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વર્તુળના કેન્દ્રમાંથી પસાર થતી દરેક રેખા તેની સંમિત રેખા બને, જે અગણિત હોઈ શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "લંબચોરસ માટે પરિભ્રમણીય સંમિતિનો ક્રમ કેટલો છે? (A) 1 (B) 2 (C) 3 (D) 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લંબચોરસને 180° અને 360° ફેરવતા તે મૂળ જેવો દેખાય છે, તેથી ક્રમ 2 થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "નિયમિત ષટ્કોણને કેટલી સંમિત રેખાઓ હોય છે? (A) 4 (B) 5 (C) 6 (D) 3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નિયમિત બહુકોણની બાજુઓ = સંમિત રેખાઓ. ષટ્કોણને 6 બાજુઓ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સમદ્વિબાજુ ત્રિકોણમાં સંમિત રેખાઓની સંખ્યા કેટલી? (A) 1 (B) 2 (C) 3 (D) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમદ્વિબાજુ એટલે જેની 'બે' બાજુ સરખી હોય, તેમાં માત્ર વેધ દ્વારા 1 સંમિત રેખા મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "અક્ષર 'Z' માં પરિભ્રમણીય સંમિતિનો ક્રમ કેટલો છે? (A) 1 (B) 2 (C) 3 (D) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Z ને 180° ફેરવતા તે ફરીથી Z જેવો જ દેખાય છે, એટલે કે અડધા આંટામાં એકવાર મૂળ સ્થિતિમાં આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "જો પરિભ્રમણીય સંમિતિનો ક્રમ 3 હોય, તો પરિભ્રમણ કોણ કેટલો હશે? (A) 90° (B) 180° (C) 120° (D) 60°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 120°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પરિભ્રમણ કોણ = 360 / ક્રમ. અહીં 360 ÷ 3 = 120°.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "નીચેનામાંથી કયા અંગ્રેજી અક્ષરમાં રૈખિક સંમિતિ નથી પણ પરિભ્રમણીય સંમિતિ છે? (A) S (B) A (C) E (D) T",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) S</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'S' ને વચ્ચેથી કાપતા બે સરખા ભાગ ન થાય, પણ 180° ફેરવતા તે મૂળ જેવો દેખાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ચોરસ માટે પરિભ્રમણ કોણ કેટલો હોય છે? (A) 45° (B) 90° (C) 180° (D) 360°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 90°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ચોરસનો ક્રમ 4 છે. 360 ÷ 4 = 90°.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "નિયમિત પંચકોણની પરિભ્રમણીય સંમિતિનો ક્રમ જણાવો. (A) 5 (B) 4 (C) 6 (D) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નિયમિત બહુકોણ માટે 'બાજુઓની સંખ્યા' જ તેનો 'સંમિતિનો ક્રમ' હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "અક્ષર 'O' ને કેટલી સંમિત રેખાઓ હોય છે? (A) 1 (B) 2 (C) અસંખ્ય (D) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) અસંખ્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અક્ષર 'O' વર્તુળાકાર હોવાથી તેને ગમે તે દિશામાંથી કેન્દ્રમાંથી પસાર થતી રેખા વડે કાપી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિષમબાજુ ત્રિકોણને સંમિત રેખાઓની સંખ્યા કેટલી? (A) 0 (B) 1 (C) 2 (D) 3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વિષમબાજુ એટલે બધી જ બાજુઓ અલગ, તેથી તેને એકપણ સંમિત રેખા મળતી નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સમાંતરબાજુ ચતુષ્કોણમાં સંમિત રેખાઓની સંખ્યા કેટલી હોય છે? (A) 1 (B) 2 (C) 0 (D) 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમાંતરબાજુ ચતુષ્કોણમાં સામસામેની બાજુ સમાંતર હોય છે પણ તેને રૈખિક સંમિતિ હોતી નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "અક્ષર 'H' માં રૈખિક સંમિતિની સંખ્યા કેટલી? (A) 1 (B) 2 (C) 3 (D) 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'H' ને આડો અને ઊભો એમ બંને રીતે બે સરખા ભાગમાં વહેંચી શકાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "કયા પ્રકારના ત્રિકોણને પરિભ્રમણીય સંમિતિનો ક્રમ 3 હોય છે? (A) સમબાજુ (B) સમદ્વિબાજુ (C) વિષમબાજુ (D) કાટકોણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) સમબાજુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે બહુકોણ નિયમિત હોય તેનો ક્રમ તેની બાજુઓ જેટલો જ હોય. સમબાજુ ત્રિકોણની 3 બાજુ સમાન માટે ક્રમ 3.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "અર્ધવર્તુળને કેટલી સંમિત રેખાઓ હોય છે? (A) 1 (B) 2 (C) 0 (D) અસંખ્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અર્ધવર્તુળને માત્ર શિરોલંબ (ઊભી) રેખા દ્વારા જ બે સરખા ભાગમાં વહેંચી શકાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સમબાજુ ચતુષ્કોણને કેટલી સંમિત રેખાઓ હોય છે? (A) 1 (B) 2 (C) 4 (D) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમબાજુ ચતુષ્કોણ (Rhombus) ના વિકર્ણો જ તેની સંમિત રેખાઓ બને છે, જેની સંખ્યા 2 છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "પરિભ્રમણનું કેન્દ્ર એટલે શું? (A) બિંદુ કે જેની આસપાસ વસ્તુ ફરે (B) વસ્તુની લંબાઈ (C) વસ્તુનો આકાર (D) રેખા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) બિંદુ કે જેની આસપાસ વસ્તુ ફરે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પંખો જે બિંદુ પર ફરે છે તે તેનું 'પરિભ્રમણ કેન્દ્ર' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "પતંગાકાર ચતુષ્કોણ માટે સંમિતિની રેખા કેટલી? (A) 1 (B) 2 (C) 3 (D) 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પતંગાકારમાં એક જ વિકર્ણ એવો હોય છે જે તેને બે એકરૂપ ભાગમાં વહેંચે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "પરિભ્રમણ દરમિયાન જે ખૂણે વસ્તુ મૂળ આકાર જેવી દેખાય તેને શું કહેવાય? (A) કેન્દ્ર (B) પરિભ્રમણ કોણ (C) ત્રિજ્યા (D) વ્યાસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પરિભ્રમણ કોણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જેટલા 'ડિગ્રી' (ખૂણો) ફેરવો અને તે પાછો એવો જ દેખાય તે ખૂણો એટલે પરિભ્રમણ કોણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "નિયમિત અષ્ટકોણમાં સંમિતિની રેખાઓની સંખ્યા કેટલી? (A) 6 (B) 7 (C) 8 (D) 9",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'અષ્ટ' એટલે 8, નિયમિત બહુકોણ હોવાથી તેની બાજુઓ જેટલી જ એટલે કે 8 રેખાઓ મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "અંગ્રેજી અક્ષર 'X' માં સંમિતિનો ક્રમ કેટલો હોય? (A) 1 (B) 2 (C) 3 (D) 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'X' ને 180° અને 360° ફેરવતા તે મૂળ જેવો દેખાય છે, માટે ક્રમ 2 થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "જો આકૃતિનો પરિભ્રમણ કોણ 60° હોય તો સંમિતિનો ક્રમ કેટલો હશે? (A) 3 (B) 4 (C) 5 (D) 6",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) 6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ક્રમ = 360 / ખૂણો. એટલે કે 360 ÷ 60 = 6.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "કયા અક્ષરમાં માત્ર આડી સંમિત રેખા છે? (A) A (B) E (C) M (D) W",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) E</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અરીસો આડો મૂકતા 'E' ના બે સરખા ભાગ ઉપર-નીચે દેખાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ઘડિયાળના કાંટાનું પરિભ્રમણ કઈ દિશામાં હોય છે? (A) ઘડિયાળના કાંટાની દિશા (B) વિરુદ્ધ દિશા (C) સીધી રેખા (D) આડી દિશા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ઘડિયાળના કાંટાની દિશા (Clockwise)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઘડિયાળના કાંટા જે રીતે 1, 2, 3 પર જાય તેને 'દક્ષિણાવર્ત' અથવા 'Clockwise' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "કયા અક્ષરમાં આડી અને ઊભી એમ બંને સંમિત રેખાઓ છે? (A) O (B) H (C) I (D) આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): H, I, O અને X એવા અક્ષરો છે જેમાં આડી અને ઊભી બંને સંમિતિ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "સંમિતિનો ક્રમ લઘુત્તમ કેટલો હોઈ શકે? (A) 0 (B) 1 (C) 2 (D) 3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કોઈપણ વસ્તુને 360° ફેરવો એટલે તે પાછી મૂળ સ્થિતિમાં તો આવે જ, માટે લઘુત્તમ ક્રમ 1 ગણાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "નિયમિત નવકોણ (Nonagon) માટે પરિભ્રમણ કોણ કેટલો હોય? (A) 40° (B) 90° (C) 60° (D) 30°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 40°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 360 ÷ 9 = 40°. નવકોણ એટલે 9 બાજુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "કયો અક્ષર અડધો આંટો ફેરવતા પણ બદલાતો નથી? (A) N (B) S (C) H (D) આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): N, S, H, I, O, X, Z ને 180° (અડધો આંટો) ફેરવતા તે એવા જ દેખાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "સમબાજુ ત્રિકોણનું પરિભ્રમણ કેન્દ્ર ક્યાં હોય છે? (A) શિરોબિંદુ પર (B) મધ્યકેન્દ્ર પર (C) બાજુ પર (D) બહારના ભાગમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મધ્યકેન્દ્ર (Centroid) પર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કોઈપણ નિયમિત આકૃતિ તેના ભૌમિતિક કેન્દ્ર (Centre) ની આસપાસ જ ફરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "ષટ્કોણના પરિભ્રમણ કોણનું માપ શું હોય? (A) 60° (B) 120° (C) 90° (D) 45°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 60°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 360 / 6 = 60°.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વર્તુળનું પરિભ્રમણ કેન્દ્ર કયું બિંદુ હોય? (A) વ્યાસનું અંત્યબિંદુ (B) વર્તુળનું કેન્દ્ર (C) પરિઘ પરનું બિંદુ (D) ગમે તે બિંદુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વર્તુળનું કેન્દ્ર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વર્તુળને તેના મધ્યબિંદુ (કેન્દ્ર) થી ફેરવો તો જ તે તે જ જગ્યાએ રહેલું દેખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "નીચેનામાંથી કયો આકાર પરિભ્રમણીય સંમિતિ ધરાવે છે પણ રૈખિક સંમિતિ નથી? (A) ચોરસ (B) સમાંતરબાજુ ચતુષ્કોણ (C) લંબચોરસ (D) વર્તુળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સમાંતરબાજુ ચતુષ્કોણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમાંતરબાજુ ચતુષ્કોણને 180° ફેરવતા તે એવો જ દેખાય છે, પણ તેને અરીસા જેવી રૈખિક સંમિતિ હોતી નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "અક્ષર 'W' ને 180° ફેરવતા તે કેવો દેખાશે? (A) W (B) M (C) E (D) N",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) M</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'W' ઊંધો થતા 'M' જેવો દેખાય છે, માટે તે 180° એ પરિભ્રમણીય સંમિતિ ધરાવતો નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "પરિભ્રમણીય સંમિતિનો ક્રમ જો 1 હોય તો તેનો અર્થ શું થાય? (A) તે 180° એ સમાન દેખાય (B) તે 90° એ સમાન દેખાય (C) તે માત્ર આખો આંટો (360°) ફેરવ્યા પછી જ મૂળ સ્થિતિમાં આવે (D) તેને સંમિતિ નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) તે માત્ર આખો આંટો ફેરવ્યા પછી જ મૂળ સ્થિતિમાં આવે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ક્રમ 1 એટલે કે તે 360° ના એક ચક્રમાં માત્ર એકવાર (છેલ્લે) જ મૂળ જેવી દેખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "નિયમિત દશકોણની સંમિત રેખાઓ કેટલી? (A) 5 (B) 10 (C) 20 (D) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દશકોણ એટલે 10 બાજુઓ. નિયમિત શબ્દ હોય તો બાજુ = રેખા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "સમબાજુ ચતુષ્કોણના પરિભ્રમણ કોણનું માપ શું હોય? (A) 90° (B) 180° (C) 120° (D) 60°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 180°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમબાજુ ચતુષ્કોણ (Rhombus) 180° ના પરિભ્રમણે મૂળ સ્થિતિમાં આવે છે.</p></div>"
+    }
+  ]
+}
