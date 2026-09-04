@@ -1479,3 +1479,311 @@ var Std7_Maths_MCQs = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "સંમેય સંખ્યાઓ",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "જે સંખ્યાને p/q (જ્યાં q ≠ 0) સ્વરૂપમાં દર્શાવી શકાય તેને શું કહેવાય? \n(A) પૂર્ણાંક સંખ્યા \n(B) સંમેય સંખ્યા \n(C) પ્રાકૃતિક સંખ્યા \n(D) પૂર્ણ સંખ્યા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સંમેય સંખ્યા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંમેય સંખ્યામાં 'સ' એટલે 'સરખા ભાગ' (ગુણોત્તર). p/q માં 'q' ક્યારેય 0 ન હોવો જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "નીચેનામાંથી કઈ સંખ્યા સંમેય સંખ્યા નથી? \n(A) 5/7 \n(B) -3/4 \n(C) 8/0 \n(D) 0/1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 8/0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદ (નીચેની સંખ્યા) માં ઝીરો આવે તો તે 'પાપ' ગણાય (અવ્યાખ્યાયિત), એટલે તે સંમેય સંખ્યા નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સંમેય સંખ્યા -5/9 માં અંશ કયો છે? \n(A) 9 \n(B) -9 \n(C) 5 \n(D) -5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) -5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંશ એટલે ઉપરનો ભાગ (આકાશ) અને છેદ એટલે નીચેનો ભાગ (જમીન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "0 એ કેવી સંખ્યા છે? \n(A) ધન સંમેય સંખ્યા \n(B) ઋણ સંમેય સંખ્યા \n(C) ધન કે ઋણ બંને નહીં તેવી સંમેય સંખ્યા \n(D) સંમેય સંખ્યા નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ધન કે ઋણ બંને નહીં તેવી સંમેય સંખ્યા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શૂન્ય એ ન્યુટ્રલ (તટસ્થ) છે. તે પ્લસ પણ નથી અને માઈનસ પણ નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "-2/3 ની સમાન સંમેય સંખ્યા કઈ છે? \n(A) -4/6 \n(B) 4/6 \n(C) -2/6 \n(D) 2/3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) -4/6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપર અને નીચે સમાન સંખ્યા (અહીં 2) વડે ગુણવાથી સમાન સંમેય સંખ્યા મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સંમેય સંખ્યા 15/25 નું પ્રમાણિત સ્વરૂપ કયું છે? \n(A) 3/5 \n(B) 5/3 \n(C) 1/5 \n(D) 3/10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 3/5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંશ અને છેદનો ગુ.સા.અ. શોધી તેનાથી ભાગાકાર કરો. (15÷5=3 અને 25÷5=5)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સંખ્યારેખા પર -3/4 કઈ બાજુએ આવેલી છે? \n(A) 0 ની જમણી બાજુ \n(B) 0 ની ડાબી બાજુ \n(C) 1 ની જમણી બાજુ \n(D) -1 ની ડાબી બાજુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 0 ની ડાબી બાજુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઋણ (-) સંખ્યા હંમેશા ડાબી બાજુ અને ધન (+) સંખ્યા હંમેશા જમણી બાજુ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "બે સંમેય સંખ્યાઓ વચ્ચે કેટલી સંમેય સંખ્યાઓ હોય છે? \n(A) ફક્ત એક \n(B) ફક્ત દસ \n(C) સો \n(D) અસંખ્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) અસંખ્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંમેય સંખ્યાઓનો દરિયો અનંત છે, ગમે તેટલી સંખ્યાઓ વચ્ચે બીજી અસંખ્ય સંખ્યાઓ મળી શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "7/ (-9) ને પ્રમાણિત સ્વરૂપમાં કેવી રીતે લખાય? \n(A) 9/7 \n(B) -7/9 \n(C) 7/9 \n(D) -9/7",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) -7/9</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રમાણિત સ્વરૂપમાં છેદ ક્યારેય ઋણ ન હોવો જોઈએ, તેને અંશમાં શિફ્ટ કરી દો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "નીચેનામાંથી કઈ ધન સંમેય સંખ્યા છે? \n(A) -2/3 \n(B) 5/-8 \n(C) -3/-4 \n(D) -7/11",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) -3/-4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો અંશ અને છેદ બંનેમાં માઈનસ હોય, તો તે 'કેન્સલ' થઈને ધન (+) બની જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "5/4 + (-11/4) ની કિંમત કેટલી થાય? \n(A) 6/4 \n(B) -6/4 \n(C) 16/4 \n(D) -16/4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) -6/4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદ સરખા હોય ત્યારે અંશની જ સરવાળી-બાદબાકી કરવી (5 - 11 = -6).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સંમેય સંખ્યા 2/3 ની વિરોધી સંખ્યા કઈ છે? \n(A) 3/2 \n(B) -3/2 \n(C) -2/3 \n(D) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) -2/3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિરોધી એટલે ફક્ત 'નિશાની' બદલો. (+ હોય તો - કરો, - હોય તો + કરો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "(-3/5) × 7 ની કિંમત શું થાય? \n(A) -21/5 \n(B) 21/5 \n(C) -3/35 \n(D) -21/35",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) -21/5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણાકારમાં અંશનો ગુણાકાર અંશ સાથે થાય. ( -3 × 7 = -21).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "(-6/5) ÷ (-2/3) ની કિંમત શોધો. \n(A) 12/10 \n(B) 18/10 \n(C) -18/10 \n(D) 9/5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 18/10 (જેનું સાદું રૂપ 9/5 છે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાગાકાર એટલે બીજી સંખ્યાને ઉલટાવીને ગુણાકાર કરવો. બે માઈનસ હોય તો જવાબ પ્લસ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "(-1) એ કેવી સંખ્યા છે? \n(A) ધન સંમેય સંખ્યા \n(B) ઋણ સંમેય સંખ્યા \n(C) શૂન્ય સંમેય સંખ્યા \n(D) આમાંથી એકપણ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઋણ સંમેય સંખ્યા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેની આગળ માઈનસ (-) હોય તે ઋણ સંમેય સંખ્યા કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સંમેય સંખ્યા 4/9 અને 4/11 માંથી કઈ સંખ્યા મોટી છે? \n(A) 4/9 \n(B) 4/11 \n(C) બંને સમાન છે \n(D) કહી શકાય નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 4/9</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો અંશ સરખા હોય, તો જેનો છેદ 'નાનો' હોય તે સંખ્યા 'મોટી' ગણાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "-1/2 અને 1/2 ની વચ્ચે કઈ સંમેય સંખ્યા આવેલી છે? \n(A) 1 \n(B) -1 \n(C) 0 \n(D) 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંખ્યારેખા પર ઋણ અને ધન સંખ્યાની બરોબર વચ્ચે શૂન્ય (0) હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "કોઈપણ સંમેય સંખ્યાનો તેના વ્યસ્ત સાથેનો ગુણાકાર કેટલો થાય? \n(A) 0 \n(B) -1 \n(C) 1 \n(D) તે સંખ્યા પોતે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંખ્યા અને તેનો ઉલટો (વ્યસ્ત) ગુણાય ત્યારે બધું ઉડી જાય અને '1' વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "શૂન્ય (0) નો વ્યસ્ત શું મળે? \n(A) 0 \n(B) 1 \n(C) -1 \n(D) અવ્યાખ્યાયિત (મળે નહીં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) અવ્યાખ્યાયિત (મળે નહીં)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0 ના છેદમાં કંઈ નથી એટલે 1 છે, તેને ઉલટાવો તો 1/0 થાય, જે ગણિતમાં શક્ય નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "(-3/4) ની વ્યસ્ત સંખ્યા કઈ છે? \n(A) 3/4 \n(B) 4/3 \n(C) -4/3 \n(D) -3/4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) -4/3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યસ્ત એટલે સંખ્યાને 'શીર્ષાસન' કરાવો (ઉલટાવો), પણ નિશાની બદલશો નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "બે ઋણ સંમેય સંખ્યાઓનો ગુણાકાર હંમેશા કેવો હોય? \n(A) ઋણ \n(B) ધન \n(C) શૂન્ય \n(D) કહી શકાય નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ધન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માઈનસ × માઈનસ = પ્લસ. દુશ્મનનો દુશ્મન દોસ્ત!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સંમેય સંખ્યા 0.5 ને p/q સ્વરૂપે કેવી રીતે લખાય? \n(A) 5/1 \n(B) 1/5 \n(C) 1/2 \n(D) 5/100",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 1/2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0.5 = 5/10. છેદ ઉડાડો તો 5 એકા 5 અને 5 દુ 10, એટલે 1/2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "નીચેનામાંથી કઈ સંમેય સંખ્યા સૌથી નાની છે? \n(A) 0 \n(B) -1/2 \n(C) -1 \n(D) 1/2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) -1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંખ્યારેખા પર જે સંખ્યા સૌથી વધુ 'ડાબી' બાજુ હોય તે સૌથી નાની કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "(-5/9) + 5/9 ની કિંમત કેટલી? \n(A) 1 \n(B) -10/9 \n(C) 10/18 \n(D) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈપણ સંખ્યામાં તેની વિરોધી સંખ્યા ઉમેરો તો જવાબ હંમેશા 'લાડવો' (0) આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "સંમેય સંખ્યામાં 'q' શું ન હોઈ શકે? \n(A) 1 \n(B) -1 \n(C) 0 \n(D) 100",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદમાં 0 હોય તો ગણિત 'ક્રેશ' થઈ જાય, એટલે q ≠ 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "3/4 ને સમાન હોય તેવી સંમેય સંખ્યા કઈ? \n(A) 6/4 \n(B) 3/8 \n(C) 9/12 \n(D) 12/9",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 9/12</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3/4 ના અંશ અને છેદને 3 વડે ગુણો: 3×3=9 અને 4×3=12.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "બે ધન સંમેય સંખ્યાઓનો સરવાળો હંમેશા કેવો હોય? \n(A) ધન \n(B) ઋણ \n(C) શૂન્ય \n(D) નક્કી ન કરી શકાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ધન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્લસમાં પ્લસ ઉમેરો તો પ્લસ જ વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "(-1) અને 1 નો ગુણાકાર કેટલો થાય? \n(A) 1 \n(B) -1 \n(C) 0 \n(D) 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) -1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણાકારમાં જો એક સંખ્યા માઈનસ હોય, તો આખો જવાબ માઈનસ થઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "4/5 - 2/5 ની કિંમત કેટલી? \n(A) 6/5 \n(B) 2/0 \n(C) 2/5 \n(D) 1/5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 2/5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદ સમાન હોય તો અંશની સીધી બાદબાકી કરી નાખવી (4-2=2).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "નીચેનામાંથી કઈ સંખ્યા 0 થી મોટી છે? \n(A) -5/6 \n(B) -1/2 \n(C) 1/10 \n(D) -3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 1/10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બધી જ ધન સંમેય સંખ્યાઓ શૂન્ય કરતાં મોટી હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "-8/10 નું પ્રમાણિત સ્વરૂપ કયું છે? \n(A) -4/5 \n(B) 4/5 \n(C) -8/5 \n(D) -2/5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) -4/5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 ના ઘડિયામાં બંને આવે છે. (8÷2=4, 10÷2=5). નિશાની સાથે રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "(-2/3) × (-3/2) ની કિંમત કેટલી? \n(A) -1 \n(B) 0 \n(C) 1 \n(D) 4/9",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંખ્યા અને તેની વ્યસ્ત સંખ્યાનો ગુણાકાર હંમેશા 1 થાય. બે માઈનસ પ્લસ થઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "7/3 એ કેવી સંમેય સંખ્યા છે? \n(A) શુદ્ધ અપૂર્ણાંક જેવી \n(B) અશુદ્ધ અપૂર્ણાંક જેવી \n(C) ઋણ સંમેય સંખ્યા \n(D) શૂન્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) અશુદ્ધ અપૂર્ણાંક જેવી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે અંશ છેદ કરતા મોટો હોય (7 > 3), ત્યારે તે અશુદ્ધ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "સંખ્યારેખા પર -5 ક્યાં હોય? \n(A) -4 ની જમણી બાજુ \n(B) -4 ની ડાબી બાજુ \n(C) 0 ની જમણી બાજુ \n(D) 5 ની જમણી બાજુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) -4 ની ડાબી બાજુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમ ઋણ સંખ્યા મોટી દેખાય, તેમ તે વધુ ડાબી બાજુ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "નીચેનામાંથી કઈ સંખ્યા 1/2 ને સમાન છે? \n(A) 2/1 \n(B) 5/10 \n(C) 0.2 \n(D) 1/4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 5/10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5/10 માં 5 એકા 5 અને 5 દુ 10, એટલે 1/2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "(-4/5) અને (-2/5) માં કઈ સંખ્યા મોટી છે? \n(A) -4/5 \n(B) -2/5 \n(C) બંને સમાન છે \n(D) કહી શકાય નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) -2/5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઋણ સંખ્યાઓમાં જે નાની દેખાય (-2) તે ખરેખર મોટી (-4 કરતા) ગણાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "1/3 + 1/2 ની કિંમત કેટલી? \n(A) 2/5 \n(B) 5/6 \n(C) 1/5 \n(D) 2/6",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 5/6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદ સરખા કરવા લ.સા.અ. (6) લો. (2+3)/6 = 5/6.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "(-3)/1 ને શું કહેવાય? \n(A) પ્રાકૃતિક સંખ્યા \n(B) પૂર્ણ સંખ્યા \n(C) સંમેય સંખ્યા \n(D) અસંમેય સંખ્યા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સંમેય સંખ્યા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરેક પૂર્ણાંક સંખ્યાના છેદમાં 1 લખી શકાય, તેથી તે સંમેય સંખ્યા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "10/(-15) નું અતિસંક્ષિપ્ત રૂપ શું? \n(A) 2/3 \n(B) -2/3 \n(C) -10/15 \n(D) 2/-3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) -2/3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5 વડે ભાગો (10÷5=2, 15÷5=3) અને માઈનસ ઉપર મૂકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "નીચેનામાંથી કઈ સંખ્યા -1 અને 0 ની વચ્ચે છે? \n(A) -1/2 \n(B) -3/2 \n(C) 1/2 \n(D) -2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) -1/2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: -0.5 એ -1 અને 0 ની બરોબર વચ્ચે આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "(-1) ના વ્યસ્તની વિરોધી સંખ્યા કઈ? \n(A) 1 \n(B) -1 \n(C) 0 \n(D) -2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: -1 નો વ્યસ્ત -1 જ થાય, અને -1 ની વિરોધી +1 થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "સંમેય સંખ્યા -7/4 ને મિશ્ર સંખ્યામાં કેવી રીતે લખાય? \n(A) -1 પૂર્ણાંક 3/4 \n(B) -3 પૂર્ણાંક 1/4 \n(C) 1 પૂર્ણાંક 3/4 \n(D) લખાશે નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) -1 પૂર્ણાંક 3/4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 7 ને 4 વડે ભાગો, 4 એકા 4 અને 3 શેષ વધે. નિશાની એમનેમ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "3/5 માં કેટલા ઉમેરતા 0 મળે? \n(A) 5/3 \n(B) -5/3 \n(C) -3/5 \n(D) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) -3/5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શૂન્ય મેળવવા માટે હંમેશા તેની 'વિરોધી' સંખ્યા જ ઉમેરવી પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "સંમેય સંખ્યાનો છેદ હંમેશા કેવો હોવો જોઈએ? \n(A) ધન \n(B) ઋણ \n(C) શૂન્ય \n(D) પૂર્ણાંક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) પૂર્ણાંક (પણ શૂન્ય સિવાયનો)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: p અને q બંને પૂર્ણાંક હોવા જોઈએ, પણ q શૂન્ય ન ચાલે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "1/2 ÷ 2 ની કિંમત કેટલી? \n(A) 1 \n(B) 1/4 \n(C) 4 \n(D) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 1/4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1/2 × 1/2 = 1/4. (2 નો વ્યસ્ત 1/2 વડે ગુણો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "નીચેનામાંથી કઈ જોડી સમાન સંમેય સંખ્યાઓ દર્શાવે છે? \n(A) -7/21 અને 3/9 \n(B) -16/20 અને 20/-25 \n(C) -2/3 અને 2/3 \n(D) 1/3 અને -1/9",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) -16/20 અને 20/-25</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંનેનું અતિસંક્ષિપ્ત રૂપ શોધો, બંને -4/5 આવશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "(-3) / (-7) એ કેવી સંમેય સંખ્યા છે? \n(A) ઋણ \n(B) ધન \n(C) શૂન્ય \n(D) કહી શકાય નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ધન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપર-નીચે બંને માઈનસ એટલે સંખ્યા પોઝિટિવ (+)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "2/3 અને 4/5 માંથી મોટી સંખ્યા કઈ? \n(A) 2/3 \n(B) 4/5 \n(C) બંને સમાન \n(D) એકપણ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 4/5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોકડી ગુણાકાર કરો: 2×5=10 અને 3×4=12. 12 મોટા છે, એટલે 4/5 મોટી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "સંમેય સંખ્યા 5/7 નો વ્યસ્ત શું થાય? \n(A) -5/7 \n(B) 7/5 \n(C) -7/5 \n(D) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 7/5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંશને છેદ બનાવો અને છેદને અંશ - બસ પૂરું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "0/5 ની કિંમત કેટલી થાય? \n(A) 5 \n(B) અવ્યાખ્યાયિત \n(C) 0 \n(D) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપર 0 હોય તો આખી દુનિયા 0 (જવાબ 0), પણ નીચે 0 ન હોવો જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "(-1/4) - 1/4 ની કિંમત કેટલી? \n(A) 0 \n(B) -1/2 \n(C) 1/2 \n(D) -2/8",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) -1/2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (-1-1)/4 = -2/4 = -1/2. દેવું વધે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "સંખ્યારેખા પર 3/4 ક્યાં હોય? \n(A) 0 અને 1 ની વચ્ચે \n(B) 1 અને 2 ની વચ્ચે \n(C) -1 અને 0 ની વચ્ચે \n(D) 3 અને 4 ની વચ્ચે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 0 અને 1 ની વચ્ચે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો અંશ નાનો હોય, તો તે હંમેશા 0 અને 1 (ધન માટે) ની વચ્ચે હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "(-6)/10 અને 9/(-15) વચ્ચે કયો સંબંધ છે? \n(A) < \n(B) > \n(C) = \n(D) નક્કી ન થાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) =</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંનેનું સાદું રૂપ -3/5 છે, તેથી બંને સમાન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "સંમેય સંખ્યા a/b માં 'a' શું હોઈ શકે? \n(A) ફક્ત ધન સંખ્યા \n(B) ફક્ત ઋણ સંખ્યા \n(C) કોઈપણ પૂર્ણાંક સંખ્યા \n(D) ફક્ત પ્રાકૃતિક સંખ્યા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) કોઈપણ પૂર્ણાંક સંખ્યા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંશમાં કંઈ પણ ચાલે (0, +, -), બસ છેદમાં 0 ન હોવો જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "(-2) ÷ 1/2 ની કિંમત કેટલી? \n(A) -1 \n(B) -4 \n(C) -2 \n(D) 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) -4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (-2) × 2/1 = -4. ભાગાકારને ગુણાકાર બનાવી ઉલટાવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "નીચેનામાંથી કઈ સંમેય સંખ્યાનું પ્રમાણિત સ્વરૂપ છે? \n(A) 2/4 \n(B) -3/5 \n(C) 4/-6 \n(D) 10/20",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) -3/5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેના છેદ ઉડતા ન હોય અને છેદ ધન હોય, તેને પ્રમાણિત સ્વરૂપ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "(-5/7) × 0 ની કિંમત કેટલી? \n(A) -5/7 \n(B) 0 \n(C) 1 \n(D) 5/7",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શૂન્ય સાથે ગમે તેનો ગુણાકાર કરો, જવાબ 'ઝીરો' જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "સંમેય સંખ્યામાં 'ગુણાકાર માટેની તટસ્થ સંખ્યા' કઈ છે? \n(A) 0 \n(B) -1 \n(C) 1 \n(D) પોતે જ સંખ્યા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 સાથે ગુણવાથી સંખ્યામાં કોઈ ફેર પડતો નથી, એટલે તે તટસ્થ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "(-1) પૂર્ણાંક 1/2 ને p/q સ્વરૂપે કેવી રીતે લખાય? \n(A) -3/2 \n(B) -2/2 \n(C) 3/2 \n(D) -1/2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) -3/2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2 × 1 + 1 = 3. નિશાની આગળ લગાડો: -3/2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "જો x/5 = -2 હોય, તો x ની કિંમત કેટલી? \n(A) 10 \n(B) -10 \n(C) -5 \n(D) 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) -10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદનો 5 સામે ગુણાકારમાં જશે: -2 × 5 = -10.</p></div>"
+    }
+  ]
+}
