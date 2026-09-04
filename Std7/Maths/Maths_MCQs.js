@@ -1038,3 +1038,311 @@ var Std7_Maths_MCQs = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "ત્રિકોણ અને તેના ગુણધર્મો",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ત્રિકોણને કુલ કેટલા અંગો હોય છે?\n(A) 3\n(B) 4\n(C) 6\n(D) 9",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ત્રિકોણમાં 3 બાજુઓ અને 3 ખૂણાઓ હોય છે, એટલે કે 3 + 3 = 6 અંગો થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ત્રિકોણના શિરોબિંદુને તેની સામેની બાજુના મધ્યબિંદુ સાથે જોડતા રેખાખંડને શું કહેવાય?\n(A) વેધ\n(B) મધ્યગા\n(C) પાયો\n(D) ત્રિજ્યા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મધ્યગા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'મધ્ય'બિંદુ સાથે જોડાય તેને 'મધ્ય'ગા કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ત્રિકોણના શિરોબિંદુથી સામેની બાજુ પરના લંબ રેખાખંડને શું કહેવાય?\n(A) મધ્યગા\n(B) વ્યાસ\n(C) વેધ\n(D) ચાપ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) વેધ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લંબ એટલે 90° નો ખૂણો, જે ઊંચાઈ (વેધ) દર્શાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "કોઈપણ ત્રિકોણને વધુમાં વધુ કેટલી મધ્યગાઓ હોય?\n(A) 1\n(B) 2\n(C) 3\n(D) 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ત્રિકોણને 3 શિરોબિંદુઓ હોય, તેથી 3 મધ્યગાઓ અને 3 વેધ શક્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ત્રિકોણના બહિષ્કોણનું માપ તેના બે અંતઃસંમુખકોણોના માપના ________ જેટલું હોય છે.\n(A) ગુણાકાર\n(B) તફાવત\n(C) સરવાળા\n(D) ભાગાકાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સરવાળા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બહારનો ખૂણો = સામેના બે અંદરના ખૂણાનો સરવાળો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "જો ત્રિકોણના બે અંતઃસંમુખકોણ 60° અને 70° હોય, તો બહિષ્કોણનું માપ કેટલું થાય?\n(A) 130°\n(B) 100°\n(C) 110°\n(D) 180°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 130°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 60 + 70 = 130. સીધો સરવાળો જ જવાબ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ત્રિકોણના ત્રણેય ખૂણાના માપનો સરવાળો કેટલો થાય?\n(A) 90°\n(B) 180°\n(C) 360°\n(D) 270°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 180°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ત્રિકોણ ગમે તેવો હોય (નાનો કે મોટો), સરવાળો હંમેશા 180° જ રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સમબાજુ ત્રિકોણના દરેક ખૂણાનું માપ કેટલું હોય છે?\n(A) 45°\n(B) 90°\n(C) 60°\n(D) 30°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 60°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 180 ÷ 3 = 60. બધી બાજુ સમાન તો બધા ખૂણા પણ સમાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "જે ત્રિકોણની ત્રણેય બાજુઓ અસમાન હોય તેને કેવો ત્રિકોણ કહેવાય?\n(A) સમબાજુ\n(B) સમદ્રિબાજુ\n(C) વિષમબાજુ\n(D) કાટકોણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) વિષમબાજુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'વિષમ' એટલે જે સરખું નથી તે (Unequal sides).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "જે ત્રિકોણની બે બાજુઓ સમાન હોય તેને શું કહેવાય?\n(A) સમબાજુ\n(B) સમદ્રિબાજુ\n(C) વિષમબાજુ\n(D) લઘુકોણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સમદ્રિબાજુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'દ્વિ' એટલે બે. જેની 2 બાજુઓ 'સમ' (સમાન) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ત્રિકોણની કોઈપણ બે બાજુઓની લંબાઈનો સરવાળો તેની ત્રીજી બાજુ કરતા ________ હોય છે.\n(A) ઓછો\n(B) વધારે\n(C) અડધો\n(D) સમાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વધારે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ત્રિકોણ બનાવવા માટે 'બે નો સરવાળો > ત્રીજી બાજુ' હોવો જ જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "કાટકોણ ત્રિકોણમાં સૌથી મોટી બાજુને શું કહેવાય?\n(A) વેધ\n(B) પાયો\n(C) કર્ણ\n(D) ત્રિજ્યા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) કર્ણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 90° ના ખૂણાની બરોબર સામેની બાજુ 'કર્ણ' કહેવાય, જે સૌથી લાંબી હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "પાયથાગોરસનો ગુણધર્મ કયા પ્રકારના ત્રિકોણ માટે સાચો છે?\n(A) લઘુકોણ\n(B) ગુરુકોણ\n(C) કાટકોણ\n(D) વિષમબાજુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) કાટકોણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાયથાગોરસ દાદા ફક્ત 90° (કાટકોણ) માં જ કામ કરે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "નીચેનામાંથી કઈ બાજુઓ કાટકોણ ત્રિકોણ બનાવી શકે?\n(A) 3, 4, 5\n(B) 2, 3, 4\n(C) 1, 1, 2\n(D) 5, 5, 11",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 3, 4, 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 3² + 4² = 9 + 16 = 25. અને 5² = 25. સમાન થાય એટલે કાટકોણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ત્રિકોણના બે ખૂણા 40° અને 50° છે, તો ત્રીજો ખૂણો કેટલાનો હશે?\n(A) 100°\n(B) 80°\n(C) 90°\n(D) 70°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 90°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 180 માંથી (40 + 50 = 90) બાદ કરો. 180 - 90 = 90°.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "એક ત્રિકોણની બાજુઓ 6 સેમી, 8 સેમી અને 10 સેમી છે. શું આ કાટકોણ ત્રિકોણ છે?\n(A) હા\n(B) ના\n(C) કહી શકાય નહીં\n(D) ક્યારેક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) હા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 6²(36) + 8²(64) = 100. 10² = 100. જોડી મળી ગઈ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ત્રિકોણ ABC માં ∠A = 90° હોય, તો સામેની કઈ બાજુ કર્ણ કહેવાય?\n(A) AB\n(B) BC\n(C) AC\n(D) આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) BC</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે શિરોબિંદુ આગળ 90° હોય, તેને છોડીને બાકીના બે અક્ષરો બાજુ (કર્ણ) બનાવે. A ખૂણો હોય તો BC કર્ણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સમદ્રિબાજુ કાટકોણ ત્રિકોણમાં કર્ણ સિવાયના બાકીના બે ખૂણાના માપ કેટલા હોય?\n(A) 60°, 60°\n(B) 45°, 45°\n(C) 30°, 60°\n(D) 90°, 90°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 45°, 45°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એક 90° તો બાકીના બે સરખા હોય તો (180-90)/2 = 45°.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ત્રિકોણની કોઈપણ બે બાજુઓની લંબાઈનો તફાવત ત્રીજી બાજુ કરતા ________ હોય છે.\n(A) વધારે\n(B) સમાન\n(C) ઓછો\n(D) બમણો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ઓછો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સરવાળો ત્રીજીથી વધુ, પણ બાદબાકી (તફાવત) ત્રીજીથી ઓછી હોવી જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "નીચેનામાંથી કઈ લંબાઈઓ ત્રિકોણની બાજુઓ હોઈ શકે?\n(A) 2, 3, 5\n(B) 10, 2, 1\n(C) 3, 4, 5\n(D) 1, 2, 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 3, 4, 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નાની બે બાજુનો સરવાળો (3+4=7) એ 5 કરતા મોટો છે, તેથી શક્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "એક ત્રિકોણના ત્રણેય ખૂણાના માપ સમાન છે. તો દરેક ખૂણાનું માપ કેટલું હશે?\n(A) 90°\n(B) 60°\n(C) 45°\n(D) 180°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 60°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 180 ના ત્રણ સરખા ભાગ એટલે 60.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ત્રિકોણની બહારના ભાગમાં બનતા ખૂણાને શું કહેવાય?\n(A) અંતઃકોણ\n(B) કાટકોણ\n(C) બહિષ્કોણ\n(D) સરળકોણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) બહિષ્કોણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'બહાર' એટલે 'બહિ' - બહિષ્કોણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "જો ત્રિકોણના બે ખૂણા 30° અને 120° હોય, તો તે કેવા પ્રકારનો ત્રિકોણ છે?\n(A) લઘુકોણ\n(B) કાટકોણ\n(C) ગુરુકોણ\n(D) સમબાજુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ગુરુકોણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો એક પણ ખૂણો 90° થી મોટો (અહીં 120°) હોય, તો તે ગુરુકોણ ત્રિકોણ બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "પાયથાગોરસના સૂત્ર મુજબ, કાટકોણ ત્રિકોણ માટે:\n(A) a + b = c\n(B) a² + b² = c²\n(C) a - b = c\n(D) a² - b² = c²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) a² + b² = c²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બે નાની બાજુઓના વર્ગોનો સરવાળો = મોટી બાજુનો વર્ગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "સમબાજુ ત્રિકોણની પરિમિતિ 18 સેમી છે, તો તેની બાજુની લંબાઈ કેટલી?\n(A) 9 સેમી\n(B) 6 સેમી\n(C) 3 સેમી\n(D) 12 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 6 સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 18 ÷ 3 = 6. (કારણ કે ત્રણેય બાજુ સરખી છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ગુરુકોણ ત્રિકોણમાં કેટલા ખૂણા ગુરુકોણ હોય શકે?\n(A) માત્ર એક\n(B) બે\n(C) ત્રણ\n(D) એક પણ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) માત્ર એક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો બે ખૂણા 90° થી મોટા હોય તો સરવાળો 180° થી વધી જાય, જે શક્ય નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "નીચેનામાંથી કયું પાયથાગોરિયન ત્રિપુટી છે?\n(A) (1, 2, 3)\n(B) (5, 12, 13)\n(C) (2, 2, 4)\n(D) (3, 3, 3)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) (5, 12, 13)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 5²(25) + 12²(144) = 169, જે 13 નો વર્ગ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "સમદ્રિબાજુ ત્રિકોણમાં જો સમાન બાજુઓની સામેના ખૂણા પૈકી એક 50° હોય, તો બીજો સમાન ખૂણો કેટલાનો હોય?\n(A) 80°\n(B) 50°\n(C) 130°\n(D) 40°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 50°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમાન બાજુની સામેના ખૂણા હંમેશા સમાન જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ત્રિકોણની મધ્યગા ત્રિકોણના કયા ભાગમાં આવેલી હોય છે?\n(A) હંમેશા અંદરના ભાગમાં\n(B) હંમેશા બહારના ભાગમાં\n(C) બાજુ ઉપર\n(D) ક્યાંય પણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) હંમેશા અંદરના ભાગમાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મધ્યગા હંમેશા ત્રિકોણને અંદરથી જ બે ભાગમાં વહેંચવા પ્રયત્ન કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "ગુરુકોણ ત્રિકોણના વેધ ક્યાં હોઈ શકે?\n(A) માત્ર અંદર\n(B) અંદર અથવા બહાર\n(C) માત્ર બહાર\n(D) માત્ર શિરોબિંદુ પર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) અંદર અથવા બહાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગુરુકોણ ત્રિકોણમાં બે વેધ ત્રિકોણની બહારના ભાગમાં મળે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "જે ત્રિકોણમાં એક ખૂણો 90° હોય તેને શું કહેવાય?\n(A) લઘુકોણ\n(B) કાટકોણ\n(C) ગુરુકોણ\n(D) સરળકોણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) કાટકોણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 90° = કાટખૂણો, તેથી કાટકોણ ત્રિકોણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "એક સીડી દીવાલને અડકીને ઉભી છે. સીડીનો નીચેનો છેડો દીવાલથી 3 મીટર દૂર છે અને ઉપરનો છેડો 4 મીટર ઊંચાઈએ છે. સીડીની લંબાઈ કેટલી હશે?\n(A) 7 મીટર\n(B) 1 મીટર\n(C) 5 મીટર\n(D) 25 મીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 5 મીટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 3, 4, 5 એ પાયથાગોરસની જાણીતી જોડી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "ત્રિકોણનો બહિષ્કોણ 110° છે અને એક અંતઃસંમુખકોણ 40° છે, તો બીજો અંતઃસંમુખકોણ શોધો.\n(A) 150°\n(B) 70°\n(C) 60°\n(D) 110°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 70°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બહિષ્કોણ માંથી આપેલ ખૂણો બાદ કરો: 110 - 40 = 70°.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "કોઈપણ ત્રિકોણમાં ઓછામાં ઓછા કેટલા લઘુકોણ હોય છે?\n(A) 1\n(B) 2\n(C) 3\n(D) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભલે તે કાટકોણ કે ગુરુકોણ હોય, બાકીના બે ખૂણા હંમેશા લઘુકોણ જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "ત્રિકોણના શિરોબિંદુઓ કેટલા હોય છે?\n(A) 2\n(B) 3\n(C) 4\n(D) 6",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ત્રિ'કોણ એટલે 3 ખૂણા, 3 બાજુ અને 3 શિરોબિંદુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "કાટકોણ ત્રિકોણમાં કર્ણનો વર્ગ = પાયાનો વર્ગ + ________ નો વર્ગ.\n(A) વેધ\n(B) મધ્યગા\n(C) ત્રિજ્યા\n(D) વ્યાસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) વેધ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કર્ણ² = બાજુ₁² + બાજુ₂² (જ્યાં બીજી બાજુ વેધ હોઈ શકે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "શું 10 સેમી, 10 સેમી અને 20 સેમી બાજુવાળો ત્રિકોણ શક્ય છે?\n(A) હા\n(B) ના\n(C) કદાચ\n(D) માહિતી અધૂરી છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 10 + 10 = 20. સરવાળો ત્રીજી બાજુ જેટલો છે, પણ નિયમ મુજબ 'મોટો' હોવો જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "એક ત્રિકોણના બે ખૂણા 60° અને 60° છે, તો તે કયા પ્રકારનો ત્રિકોણ છે?\n(A) સમબાજુ\n(B) કાટકોણ\n(C) ગુરુકોણ\n(D) વિષમબાજુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) સમબાજુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 60 + 60 = 120. ત્રીજો ખૂણો પણ 180-120 = 60° જ આવે. ત્રણેય 60° એટલે સમબાજુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "જો ત્રિકોણની બાજુઓ 7, 24, 25 હોય, તો તે કેવો ત્રિકોણ હશે?\n(A) લઘુકોણ\n(B) ગુરુકોણ\n(C) કાટકોણ\n(D) કહી શકાય નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) કાટકોણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 7² (49) + 24² (576) = 625. 25² = 625. મેચ થઈ ગયું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "એક ત્રિકોણનો બહિષ્કોણ 120° છે. જો તેના બંને અંતઃસંમુખકોણ સમાન હોય, તો દરેકનું માપ કેટલું?\n(A) 120°\n(B) 60°\n(C) 30°\n(D) 90°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 60°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બહિષ્કોણના અડધા કરી નાખો. 120 ÷ 2 = 60°.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "નીચેનામાંથી કયું વિધાન સાચું છે?\n(A) ત્રિકોણના બે કાટખૂણા હોય શકે.\n(B) ત્રિકોણના બે ગુરુકોણ હોય શકે.\n(C) ત્રિકોણના ત્રણેય ખૂણા 60° થી મોટા હોય શકે.\n(D) ત્રિકોણના ત્રણેય ખૂણા 60° હોઈ શકે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) ત્રિકોણના ત્રણેય ખૂણા 60° હોઈ શકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 60+60+60 = 180. બાકીનામાં સરવાળો વધી જાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "એક ત્રિકોણમાં એક ખૂણો 100° છે અને બાકીના બે ખૂણા સમાન છે. સમાન ખૂણાનું માપ શોધો.\n(A) 80°\n(B) 40°\n(C) 50°\n(D) 100°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 40°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 180 - 100 = 80. હવે અડધા કરો: 80/2 = 40°.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "કયા પ્રકારના ત્રિકોણમાં બધી મધ્યગાઓ અને વેધ સમાન હોય છે?\n(A) વિષમબાજુ\n(B) સમબાજુ\n(C) ગુરુકોણ\n(D) કાટકોણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સમબાજુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જેની બધી બાજુ સમાન હોય, તેમાં બધું જ (ખૂણા, મધ્યગા, વેધ) સમાન રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "કાટકોણ ત્રિકોણમાં જો એક ખૂણો 35° હોય, તો ત્રીજો ખૂણો કેટલાનો હશે?\n(A) 55°\n(B) 45°\n(C) 90°\n(D) 65°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 55°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કાટકોણ હોય એટલે એક 90° હોય જ. હવે 90 માંથી 35 બાદ કરો. 90 - 35 = 55°.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "ત્રિકોણની એક બાજુને લંબાવતા જે ખૂણો મળે છે તેને શું કહેવાય?\n(A) અંતઃકોણ\n(B) બહિષ્કોણ\n(C) આસન્નકોણ\n(D) અભિકોણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) બહિષ્કોણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બાજુ લંબાવવી એટલે ત્રિકોણની 'બહાર' નીકળવું, માટે બહિષ્કોણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "નીચેનામાંથી કઈ લંબાઈઓથી ત્રિકોણ ન બની શકે?\n(A) 5, 6, 7\n(B) 2, 4, 10\n(C) 3, 4, 5\n(D) 6, 6, 6",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 2, 4, 10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 2 + 4 = 6, જે 10 કરતા નાનો છે. બે બાજુનો સરવાળો ત્રીજીથી ઓછો હોય તો ત્રિકોણ ન બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "સમદ્રિબાજુ ત્રિકોણના સમાન ખૂણાઓ 70° અને 70° છે, તો ત્રીજો ખૂણો કેટલો?\n(A) 70°\n(B) 140°\n(C) 40°\n(D) 110°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 40°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 180 - (70 + 70) = 180 - 140 = 40°.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "કાટકોણ ત્રિકોણની બે બાજુઓ 9 સેમી અને 12 સેમી હોય, તો કર્ણ શોધો.\n(A) 15 સેમી\n(B) 21 સેમી\n(C) 3 સેમી\n(D) 25 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 15 સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 9² (81) + 12² (144) = 225. 225 નું વર્ગમૂળ 15 થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "ત્રિકોણનો બહિષ્કોણ હંમેશા તેના કોઈ પણ અંતઃસંમુખકોણ કરતા ________ હોય છે.\n(A) નાનો\n(B) મોટો\n(C) સમાન\n(D) અડધો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મોટો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કારણ કે બહિષ્કોણ એ બે ખૂણાનો સરવાળો છે, તેથી તે દરેક વ્યક્તિગત ખૂણા કરતા તો મોટો જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "એક ઝાડ જમીનથી 5 મીટર ઊંચાઈએથી તૂટી પડે છે અને તેની ટોચ જમીનને થડથી 12 મીટર દૂર અડે છે. ઝાડની મૂળ ઊંચાઈ કેટલી હશે?\n(A) 13 મીટર\n(B) 17 મીટર\n(C) 18 મીટર\n(D) 12 મીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 18 મીટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પહેલા કર્ણ શોધો (5, 12, 13 ની જોડી). કર્ણ 13 અને નીચેનું થડ 5. 13 + 5 = 18 મીટર કુલ ઊંચાઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "એક ત્રિકોણના ખૂણાઓ 1 : 2 : 3 ના પ્રમાણમાં છે, તો સૌથી મોટા ખૂણાનું માપ કેટલું?\n(A) 30°\n(B) 60°\n(C) 90°\n(D) 120°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 90°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1+2+3 = 6 ભાગ. 180/6 = 30. મોટો ભાગ 3 છે, તો 30 × 3 = 90°.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "ત્રિકોણ PQR માં PQ = PR છે અને ∠P = 80° છે, તો ∠Q કેટલાનો હશે?\n(A) 80°\n(B) 50°\n(C) 100°\n(D) 40°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 50°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 180 - 80 = 100. બે સમાન ખૂણા માટે 100/2 = 50°.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "જે ત્રિકોણના ત્રણેય ખૂણા 90° થી નાના હોય તેને શું કહેવાય?\n(A) કાટકોણ\n(B) ગુરુકોણ\n(C) લઘુકોણ\n(D) વિષમબાજુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) લઘુકોણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લઘુ એટલે નાનું. 90 થી નાના ખૂણા એટલે લઘુકોણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "ચોરસનો વિકર્ણ તેને કયા પ્રકારના બે ત્રિકોણમાં વહેંચે છે?\n(A) સમબાજુ\n(B) કાટકોણ\n(C) ગુરુકોણ\n(D) વિષમબાજુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) કાટકોણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ચોરસના ખૂણા 90° ના હોય છે, એટલે વિકર્ણ દોરતા કાટકોણ ત્રિકોણ જ બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "ત્રિકોણની બાજુઓ 8, 15 અને x સેમી છે. જો આ કાટકોણ ત્રિકોણ હોય અને x કર્ણ હોય, તો x શોધો.\n(A) 17 સેમી\n(B) 23 સેમી\n(C) 7 સેમી\n(D) 16 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 17 સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 8²(64) + 15²(225) = 289. 289 નું વર્ગમૂળ 17 થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "ત્રિકોણ ABC માં AB = AC છે. જો ∠B = 40° હોય તો ∠A = ?\n(A) 40°\n(B) 100°\n(C) 80°\n(D) 140°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 100°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): AB = AC છે માટે ∠B = ∠C = 40°. 180 - (40+40) = 100°.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "લઘુકોણ ત્રિકોણના વેધ ક્યાં આવેલા હોય છે?\n(A) ત્રિકોણની બહાર\n(B) ત્રિકોણની અંદર\n(C) બાજુઓ પર\n(D) હોતા જ નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ત્રિકોણની અંદર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લઘુકોણ ત્રિકોણ 'સીધો' હોય છે, એટલે બધું અંદર જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "નીચેનામાંથી કઈ લંબાઈ પાયથાગોરિયન ત્રિપુટી નથી?\n(A) 3, 4, 5\n(B) 6, 8, 10\n(C) 5, 12, 13\n(D) 2, 3, 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) 2, 3, 4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 2²(4) + 3²(9) = 13. જ્યારે 4² = 16. સમાન નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "ત્રિકોણના કોઈ એક ખૂણા અને તેની બાજુમાં રહેલા બહિષ્કોણનો સરવાળો કેટલો થાય?\n(A) 90°\n(B) 360°\n(C) 180°\n(D) 270°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 180°</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): તેઓ રૈખિક જોડના ખૂણા બનાવે છે, જેનો સરવાળો હંમેશા 180° થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "એક લંબચોરસની લંબાઈ 40 સેમી અને વિકર્ણ 41 સેમી છે. તેની પહોળાઈ શોધો.\n(A) 1 સેમી\n(B) 9 સેમી\n(C) 81 સેમી\n(D) 20 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 9 સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વિકર્ણ² - લંબાઈ² = 41² - 40² = 1681 - 1600 = 81. 81 નું વર્ગમૂળ 9.</p></div>"
+    }
+  ]
+}
