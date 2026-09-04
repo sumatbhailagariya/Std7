@@ -2183,3 +2183,161 @@ var Std7_Maths_MCQs = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "ઘાત અને ઘાતાંક",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "$2 \times 2 \times 2 \times 2 \times 2$ ને ઘાત સ્વરૂપે કેવી રીતે લખાય? \n(A) $2^4$\n(B) $2^5$\n(C) $5^2$\n(D) $2 \times 5$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) $2^5$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>જે સંખ્યા વારંવાર ગુણાય તે 'આધાર' બને અને જેટલી વખત ગુણાય તે 'ઘાતાંક' બને. અહીં 2 એ 5 વખત ગુણાય છે, તેથી $2^5$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "$7^3$ માં ઘાતાંક કયો છે? \n(A) 7\n(B) 21\n(C) 3\n(D) 343",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>નીચે હોય તેને 'આધાર' (Base) કહેવાય અને માથા પર (ઉપર) હોય તેને 'ઘાતાંક' (Exponent) કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "$10^3$ ની કિંમત કેટલી થાય? \n(A) 30\n(B) 100\n(C) 1000\n(D) 300",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 1000</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>10 ની ગમે તેટલી ઘાત હોય, 1 ની પાછળ એટલા મીંડા મૂકી દેવા. અહીં 3 ઘાત છે તો 1 ની પાછળ 3 મીંડા એટલે 1000.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "કિંમત શોધો: $(-1)^{10}$ \n(A) 1\n(B) -1\n(C) 10\n(D) -10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>જો આધાર -1 હોય અને ઘાતાંક 'બેકી' (Even) સંખ્યા હોય, તો જવાબ હંમેશા +1 આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "કિંમત શોધો: $(-1)^{51}$ \n(A) 1\n(B) -1\n(C) 51\n(D) -51",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) -1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>જો આધાર -1 હોય અને ઘાતાંક 'એકી' (Odd) સંખ્યા હોય, તો જવાબ હંમેશા -1 આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "$a^m \times a^n$ નું સાદું રૂપ શું થાય? \n(A) $a^{m-n}$\n(B) $a^{m \times n}$\n(C) $a^{m+n}$\n(D) $a^{m/n}$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) $a^{m+n}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>જ્યારે આધાર સરખા હોય અને વચ્ચે ગુણાકાર હોય, ત્યારે ઘાતાંકોનો સરવાળો થાય. (ગુણાકાર = સરવાળો)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "$a^m \div a^n$ નું સાદું રૂપ શું થાય? (જ્યાં $m > n$) \n(A) $a^{m+n}$\n(B) $a^{m-n}$\n(C) $a^{m \times n}$\n(D) $a^{n-m}$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) $a^{m-n}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>જ્યારે આધાર સરખા હોય અને વચ્ચે ભાગાકાર હોય, ત્યારે ઘાતાંકોની બાદબાકી થાય. (ભાગાકાર = બાદબાકી)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "$(3^2)^4$ ની કિંમત ઘાત સ્વરૂપે શું થાય? \n(A) $3^6$\n(B) $3^2$\n(C) $3^8$\n(D) $3^{16}$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) $3^8$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ઘાતની ઘાત હોય તો ઘાતાંકોનો ગુણાકાર થાય. અહીં $2 \times 4 = 8$, તેથી $3^8$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "$5^0$ ની કિંમત કેટલી? \n(A) 0\n(B) 5\n(C) 1\n(D) -5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>કોઈપણ શૂન્યતર સંખ્યાની ઝીરો (0) ઘાત એટલે હંમેશા જવાબ 1 જ આવે. (સીટી વગાડો... જવાબ 1 લાવો!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "$2^3$ અને $3^2$ માં મોટી સંખ્યા કઈ છે? \n(A) $2^3$\n(B) $3^2$\n(C) બંને સરખી છે\n(D) એકપણ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) $3^2$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>$2^3 = 2 \times 2 \times 2 = 8$ અને $3^2 = 3 \times 3 = 9$. અહીં 9 > 8 હોવાથી $3^2$ મોટું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "81 ને 3 ના આધારમાં ઘાત સ્વરૂપે કેવી રીતે લખાય? \n(A) $3^3$\n(B) $3^2$\n(C) $3^4$\n(D) $3^5$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) $3^4$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>અવિભાજ્ય અવયવ પાડો: $81 = 3 \times 3 \times 3 \times 3$. 3 ચાર વખત છે, માટે $3^4$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "$a^m \times b^m$ નું સમાન પદ કયું? \n(A) $(ab)^m$\n(B) $(a+b)^m$\n(C) $(ab)^{2m}$\n(D) $a \times b \times m$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) $(ab)^m$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>જ્યારે ઘાતાંક સરખો હોય પણ આધાર અલગ હોય, ત્યારે આધારનો ગુણાકાર કરી આખા કૌંસ પર ઘાત મુકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "625 ને 5 ની ઘાત સ્વરૂપે લખો. \n(A) $5^3$\n(B) $5^4$\n(C) $5^5$\n(D) $5^2$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) $5^4$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>$5 \times 5 = 25$, $25 \times 5 = 125$, $125 \times 5 = 625$. કુલ 4 વખત ગુણાકાર થયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "$4^0 + 5^0 + 6^0$ ની કિંમત કેટલી? \n(A) 15\n(B) 0\n(C) 1\n(D) 3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) 3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>$4^0=1, 5^0=1, 6^0=1$. હવે સરવાળો કરો: $1 + 1 + 1 = 3$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "$(\frac{2}{3})^4$ ને કેવી રીતે લખી શકાય? \n(A) $\frac{2^4}{3}$\n(B) $\frac{2}{3^4}$\n(C) $\frac{2^4}{3^4}$\n(D) $\frac{8}{12}$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) $\frac{2^4}{3^4}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>કૌંસની બહાર રહેલી ઘાત અંશ અને છેદ બંનેને સરખી રીતે લાગુ પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "$(-2)^3$ ની કિંમત કેટલી? \n(A) 8\n(B) -8\n(C) 6\n(D) -6",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) -8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ઋણ સંખ્યાની 'એકી' ઘાત હંમેશા ઋણ આવે. $2^3 = 8$, તેથી જવાબ -8.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સંખ્યા 5985.3 ને પ્રમાણિત સ્વરૂપમાં લખો. \n(A) $5.9853 \times 10^3$\n(B) $59.853 \times 10^2$\n(C) $5.9853 \times 10^4$\n(D) $0.59853 \times 10^4$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) $5.9853 \times 10^3$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>દશાંશ ચિહ્નને એવી રીતે ખસેડો કે ડાબી બાજુ માત્ર એક જ અંક વધે. અહીં ચિહ્ન 3 સ્થાન ડાબી બાજુ ખસ્યું, માટે $10^3$ ઘાત આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "$3^0 \times 4^0 \times 5^0$ ની કિંમત શું થાય? \n(A) 60\n(B) 0\n(C) 1\n(D) 12",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>$1 \times 1 \times 1 = 1$. યાદ રાખો, ગુણાકાર હોય તો 1 આવશે, પણ જો વચ્ચે સરવાળો હોત તો જવાબ 3 આવત!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "128 ને 2 ના આધારમાં ઘાત સ્વરૂપે દર્શાવો. \n(A) $2^6$\n(B) $2^7$\n(C) $2^8$\n(D) $2^5$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) $2^7$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>2 ના ગુણાકાર કરતા જાઓ: 2, 4, 8, 16, 32, 64, 128. કુલ 7 વખત એટલે $2^7$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "$10^2 \times 10^5$ = _______ \n(A) $10^{10}$\n(B) $10^7$\n(C) $20^7$\n(D) $100^7$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) $10^7$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>આધાર (10) સરખો છે, માટે ઘાતાંકોનો સરવાળો કરો: $2 + 5 = 7$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "સંખ્યા 1,00,000 ને 10 ના ઘાત સ્વરૂપે કેવી રીતે લખાય? \n(A) $10^4$\n(B) $10^5$\n(C) $10^6$\n(D) $10^7$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) $10^5$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>જેટલા શૂન્ય હોય એટલી ઘાત મૂકી દો. અહીં 5 શૂન્ય છે, માટે $10^5$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "$(-3)^4$ ની કિંમત કેટલી? \n(A) -81\n(B) 81\n(C) -12\n(D) 12",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 81</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ઋણ સંખ્યાની 'બેકી' (4) ઘાત છે, એટલે જવાબ ધન (+) જ આવશે. $3 \times 3 \times 3 \times 3 = 81$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "$1^5 + 1^10 + 1^15$ ની કિંમત કેટલી? \n(A) 3\n(B) 30\n(C) 1\n(D) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>1 ની ગમે તેટલી ઘાત હોય જવાબ 1 જ આવે. તેથી $1 + 1 + 1 = 3$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "$4^3 \div 4^3$ = _______ \n(A) 4\n(B) 0\n(C) 1\n(D) 64",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>કોઈપણ પદને તેના તે જ પદ વડે ભાગતા જવાબ હંમેશા 1 આવે. ઘાતના નિયમ મુજબ $4^{3-3} = 4^0 = 1$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "$7^x = 49$ હોય તો $x$ ની કિંમત શોધો. \n(A) 1\n(B) 2\n(C) 3\n(D) 7",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>$49 = 7 \times 7 = 7^2$. હવે બંને બાજુ સરખાવતા $x = 2$ મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "$2^0 \times 1000$ ની કિંમત કેટલી? \n(A) 0\n(B) 1000\n(C) 2000\n(D) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 1000</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>$2^0 = 1$ થાય. હવે $1 \times 1000 = 1000$. ઉતાવળમાં 0 ન લખાઈ જાય તેનું ધ્યાન રાખવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "$5^4$ ને શું વંચાય? \n(A) 5 ગુણ્યા 4\n(B) 5 ની 4 ઘાત\n(C) 4 ની 5 ઘાત\n(D) 5 અને 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 5 ની 4 ઘાત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>જે સંખ્યા નીચે હોય તેને મુખ્ય સંખ્યા (આધાર) તરીકે અને ઉપર હોય તેને ઘાત તરીકે વંચાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "$(2 \times 3)^2$ ની કિંમત કેટલી? \n(A) 6\n(B) 12\n(C) 36\n(D) 25",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 36</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>પહેલા કૌંસ સાદું કરો: $2 \times 3 = 6$. હવે $6^2 = 6 \times 6 = 36$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "$x^a \times x^b \times x^c$ = _______ \n(A) $x^{abc}$\n(B) $x^{a+b+c}$\n(C) $3x^{a+b+c}$\n(D) $(3x)^{a+b+c}$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) $x^{a+b+c}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ભલે બે થી વધારે પદ હોય, જો બધાનો આધાર સરખો હોય અને ગુણાકારમાં હોય, તો બધી જ ઘાતનો સરવાળો થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "30,00,000 ને પ્રમાણિત સ્વરૂપમાં કેવી રીતે લખાય? \n(A) $3 \times 10^5$\n(B) $3 \times 10^6$\n(C) $30 \times 10^5$\n(D) $0.3 \times 10^7$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) $3 \times 10^6$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>આ સંખ્યામાં 6 શૂન્ય છે. પ્રમાણિત સ્વરૂપમાં $3.0$ પછી 10 ની 6 ઘાત આવશે.</p></div>"
+    }
+  ]
+}
