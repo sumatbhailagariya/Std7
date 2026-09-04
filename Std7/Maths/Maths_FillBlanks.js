@@ -306,3 +306,161 @@ var Std7_Maths_FillBlanks = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "અપૂર્ણાંક અને દશાંશ સંખ્યાઓ",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "$\\frac{2}{3} \\times 3 =$ _______ (2, 3, 6)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>જ્યારે અંશ અને છેદમાં સમાન સંખ્યા હોય ત્યારે તે છેદ ઉડી જાય. અહીં 3 અને 3 ઉડી જશે, એટલે ફક્ત 2 વધશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "$\\frac{5}{7}$ નો વ્યસ્ત _______ છે. ($\\frac{7}{5}$, $\\frac{5}{7}$, 1)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $\\frac{7}{5}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>વ્યસ્ત એટલે સંખ્યાને 'ઉલટાવી' દેવી. અંશ હોય તેને છેદમાં અને છેદ હોય તેને અંશમાં મૂકી દો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "$0.1 \\times 0.1 =$ _______ (0.1, 0.01, 0.11)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0.01</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>દશાંશ સંખ્યાના ગુણાકારમાં પોઈન્ટ પછીના અંકોનો સરવાળો થાય. અહીં બંનેમાં 1-1 આંકડો છે, એટલે જવાબમાં પોઈન્ટ પછી 2 આંકડા હોવા જોઈએ (1x1=1, આગળ 0 લગાવો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "$2.5 \\div 10 =$ _______ (25, 2.5, 0.25)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0.25</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ભાગાકારમાં 10 હોય તો દશાંશ ચિહ્ન 'ડાબી' બાજુ એક ડગલું ખસે. (ભા-ડા : ભાગાકારમાં ડાબી બાજુ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "$\\frac{3}{4}$ ના 16 એટલે _______ (12, 4, 8)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 12</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ગણિતમાં 'ના' (of) એટલે ગુણાકાર. (16 ÷ 4 = 4) અને (4 × 3 = 12). છેદ સાથે ભાગાકાર કરો અને અંશ સાથે ગુણાકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "$0.03 \\times 100 =$ _______ (0.3, 3, 30)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ગુણાકારમાં 100 હોય તો દશાંશ ચિહ્ન 'જમણી' બાજુ બે ડગલાં ખસે. (ગુ-જ : ગુણાકારમાં જમણી બાજુ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "$\\frac{7}{3}$ એ _______ અપૂર્ણાંક છે. (શુદ્ધ, અશુદ્ધ, મિશ્ર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અશુદ્ધ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>જો અંશ મોટો હોય તો તે 'અશુદ્ધ' અને જો છેદ મોટો હોય તો તે 'શુદ્ધ' અપૂર્ણાંક કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "$1.2 \\div 0.3 =$ _______ (4, 0.4, 40)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>બંને સંખ્યામાં પોઈન્ટ પછી સમાન આંકડા હોય તો પોઈન્ટ કાઢી નાખો. 12 ÷ 3 = 4.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "$\\frac{1}{2} \\div 4 =$ _______ (2, $\\frac{1}{8}$, 8)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $\\frac{1}{8}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ભાગાકારને ગુણાકારમાં ફેરવો અને પાછળની સંખ્યાનો વ્યસ્ત કરો. 1/2 × 1/4 = 1/8.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "$0.5 \\times 0.05 =$ _______ (0.25, 0.025, 2.5)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0.025</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>અંકોનો ગુણાકાર કરો (5x5=25). પહેલામાં 1 પોઈન્ટ, બીજામાં 2 પોઈન્ટ = કુલ 3 પોઈન્ટ પછી જવાબ મૂકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "8 નો વ્યસ્ત _______ છે. ($\\frac{1}{8}$, -8, 8)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $\\frac{1}{8}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>કોઈપણ પૂર્ણાંક સંખ્યાના છેદમાં કાંઈ ન હોય તો 1 સમજવો. તેથી 8/1 નો વ્યસ્ત 1/8 થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "$\\frac{2}{5} \\times \\frac{5}{2} =$ _______ (0, 1, $\\frac{4}{25}$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>કોઈપણ સંખ્યાનો તેના વ્યસ્ત સાથે ગુણાકાર હંમેશા 1 જ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "$1.5 \\times 1000 =$ _______ (150, 1500, 15000)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1500</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>1000 માં 3 મીંડા છે, એટલે પોઈન્ટ 3 ડગલાં જમણી બાજુ ખસેડો. એક ડગલું ખસતા 15 થશે, બાકીના 2 ડગલાં માટે 2 મીંડા લગાવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "$7 \\div 3.5 =$ _______ (2, 0.2, 20)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>3.5 એટલે 7 ના અડધા. તેથી 7 ને 3.5 વડે ભાગતા 2 મળે. (અથવા 70 ÷ 35 = 2).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "$3 \\frac{1}{2}$ ને અશુદ્ધ અપૂર્ણાંકમાં _______ લખાય. ($\\frac{3}{2}$, $\\frac{7}{2}$, $\\frac{6}{2}$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $\\frac{7}{2}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>નીચે ગુણાકાર, ઉપર સરવાળો! (2 × 3) + 1 = 7. છેદ એમનો એમ જ રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "$0.2 \\times 6 =$ _______ (1.2, 0.12, 12)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1.2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>સાદો ગુણાકાર કરો (2x6=12). હવે એક આંકડા પછી પોઈન્ટ મૂકી દો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "$10 \\div 0.5 =$ _______ (5, 2, 20)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 20</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>0.5 એટલે અડધો. 10 માં કેટલા અડધા હોય? 20!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "$\\frac{1}{4}$ ના $\\frac{1}{4} =$ _______ ($\\frac{1}{8}$, $\\frac{1}{16}$, 1)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $\\frac{1}{16}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>અંશનો ગુણાકાર અંશ સાથે (1x1=1) અને છેદનો ગુણાકાર છેદ સાથે (4x4=16).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "$0.01 \\div 10 =$ _______ (0.1, 0.001, 0.01)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0.001</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ભાગાકાર છે એટલે પોઈન્ટ ડાબી બાજુ ખસશે. એક મીંડું છે એટલે એક ડગલું ડાબી બાજુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "કયો અપૂર્ણાંક મોટો છે? $0.5$ કે $0.05$ _______ ($0.5$, $0.05$, બંને સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0.5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>દશાંશ પછીના પહેલા આંકડાને સરખાવો. અહીં 5 અને 0 છે. 5 મોટા હોવાથી 0.5 મોટી સંખ્યા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "$4 \\div \\frac{1}{2} =$ _______ (2, 8, 4)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ભાગાકારને ગુણાકાર બનાવો અને 1/2 ને ઉલટાવી 2/1 કરો. 4 × 2 = 8.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "$\\frac{3}{5} + \\frac{1}{5} =$ _______ ($\\frac{4}{10}$, $\\frac{4}{5}$, $\\frac{3}{25}$)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $\\frac{4}{5}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>જો છેદ સમાન હોય, તો છેદને એમ જ રાખી માત્ર અંશનો સરવાળો કરવો (3+1=4).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "$2.71 \\times 10 =$ _______ (27.1, 271, 0.271)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 27.1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>10 વડે ગુણાકાર એટલે પોઈન્ટ એક ડગલું જમણી બાજુ કૂદશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "શુદ્ધ અપૂર્ણાંકમાં અંશ હંમેશા છેદ કરતા _______ હોય છે. (મોટો, નાનો, સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નાનો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>યાદ રાખો: શુદ્ધ = પ્રોપર. પ્રોપર વસ્તુમાં નીચેનો પાયો (છેદ) મોટો હોવો જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "$0.8 \\div 4 =$ _______ (0.2, 2, 0.02)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0.2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>8 ને 4 વડે ભાગો એટલે 2 આવે. એક આંકડા પહેલા પોઈન્ટ છે એટલે જવાબમાં પણ એક આંકડા પહેલા પોઈન્ટ મૂકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "$\\frac{1}{3} \\div \\frac{1}{3} =$ _______ ($\\frac{1}{9}$, 1, 3)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>કોઈપણ સંખ્યાને તે જ સંખ્યા વડે ભાગતા જવાબ હંમેશા 1 આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "$0.05 \\times 7 =$ _______ (3.5, 0.35, 0.035)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0.35</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>5 × 7 = 35. સવાલમાં પોઈન્ટ પછી 2 આંકડા છે, તો જવાબમાં પણ 2 આંકડા પછી પોઈન્ટ મૂકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "1 નો વ્યસ્ત _______ છે. (0, 1, અસ્તિત્વ નથી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>1 ના છેદમાં 1 હોય, તેને ઉલટાવો તો પણ 1/1 એટલે કે 1 જ રહે. 1 પોતે જ પોતાનો વ્યસ્ત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "$\\frac{2}{7} \\times 0 =$ _______ ($\\frac{2}{7}$, 0, 1)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>કોઈપણ મોટી સંખ્યા હોય કે અપૂર્ણાંક, 0 સાથે ગુણાકાર થાય એટલે બધું જ 0 થઈ જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "$1.21 \\div 1.1 =$ _______ (1.1, 11, 0.11)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1.1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>121 ÷ 11 = 11 થાય. ભાજ્યમાં 2 પોઈન્ટ અને ભાજકમાં 1 પોઈન્ટ. (2 - 1 = 1 પોઈન્ટ) જવાબમાં મૂકો.</p></div>"
+    }
+  ]
+}
