@@ -1596,3 +1596,211 @@ var Std7_Maths_FillBlanks = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "રાશિઓની તુલના",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "3 કિમીનો 300 મીટર સાથેનો ગુણોત્તર ________ થાય. (1:10, 10:1, 1:100)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 10:1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>ગુણોત્તર શોધતા પહેલા એકમો સમાન કરો. 3 કિમી = 3000 મીટર. હવે, 3000/300 = 10/1 એટલે કે 10:1. હંમેશા મોટા એકમને નાનામાં ફેરવવો સહેલો પડે!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "1/4 ને ટકામાં ફેરવતા ________ મળે. (20%, 25%, 40%)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 25%</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>કોઈપણ અપૂર્ણાંકને ટકામાં ફેરવવા માટે તેને 100 વડે ગુણી નાખો. 1/4 × 100 = 25%. યાદ રાખો, ચોથો ભાગ એટલે હંમેશા 25%.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "0.75 ને ટકામાં ________ લખાય. (7.5%, 75%, 0.75%)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 75%</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>દશાંશ સંખ્યાને ટકામાં ફેરવવા પોઈન્ટને જમણી બાજુ બે ડગલાં ખસેડો. 0.75 → 75%. કામ પૂરું!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જો વેચાણ કિંમત > ખરીદ કિંમત હોય, તો ________ થાય. (નફો, ખોટ, સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નફો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>જ્યારે ખિસ્સામાં આવે (વેચાણ કિંમત) તે ખિસ્સામાંથી જાય (ખરીદ કિંમત) તેના કરતા વધારે હોય, ત્યારે હંમેશા મોજ એટલે કે 'નફો' જ થાય!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "રૂ. 2000 નું 5% લેખે 1 વર્ષનું સાદું વ્યાજ ________ થાય. (રૂ. 100, રૂ. 200, રૂ. 50)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રૂ. 100</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>I = PRT / 100. અહીં 2000 ના 5% શોધવા હોય તો બે મીંડા ઉડાડી 20 × 5 કરો. જવાબ 100 તૈયાર!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "2 : 3 ને ટકામાં ફેરવતા ________ ટકા મળે. (40%, 66.66%, 20%)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 66.66%</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>2:3 એટલે 2/3. હવે 1/3 એટલે 33.33% થાય, તો તેના ડબલ 2/3 એટલે 66.66% થાય. આ ફ્રેક્શન વેલ્યુ યાદ રાખી લો.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "80% ને અપૂર્ણાંકમાં ફેરવતા ________ મળે. (4/5, 2/5, 8/100)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4/5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>% કાઢવા હોય તો છેદમાં 100 મૂકો. 80/100 = 8/10 = 4/5. 20 ના પાડાનો ઉપયોગ કરો (20 × 4 / 20 × 5).</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "એક વસ્તુ રૂ. 50 માં ખરીદી રૂ. 40 માં વેચતા ________ % ખોટ જાય. (10%, 20%, 25%)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 20%</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>ખોટ = 10 રૂ. ટકાવારી હંમેશા મૂળ કિંમત (50) પર ગણાય. 10/50 × 100 = 20%. યાદ રાખો: ખોટ કે નફો હંમેશા 'ખરીદ કિંમત' પર જ નાચે!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "250 ગ્રામ એ 1 કિલોગ્રામના ________ ટકા છે. (25%, 50%, 10%)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 25%</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>1 કિલો = 1000 ગ્રામ. 250 એ 1000 નો ચોથો ભાગ છે. ચોથો ભાગ એટલે મોઢે યાદ હોવું જોઈએ - 25%!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વ્યાજમુદ્દલ (A) શોધવાનું સૂત્ર ________ છે. (P+I, P-I, I-P)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> P+I</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>મુદ્દલ (P) અને વ્યાજ (I) નો સરવાળો એટલે વ્યાજમુદ્દલ. વ્યાજમુદ્દલ હંમેશા મુદ્દલ કરતા મોટું જ હોય!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "રૂ. 500 ના 150% ________ થાય. (750, 650, 150)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 750</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>100% એટલે સંખ્યા પોતે (500) અને 50% એટલે તેના અડધા (250). 500 + 250 = 750. મોઢે ગણતરી કરવાની આ બેસ્ટ રીત છે!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "જો ગુણોત્તર 1:4 હોય, તો કુલ ભાગ ________ થાય. (3, 4, 5)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>કુલ ભાગ એટલે ગુણોત્તરના પદોનો સરવાળો. 1 + 4 = 5. જ્યારે ભાગ પાડવાના હોય ત્યારે આ કુલ ભાગ છેદમાં આવશે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "3/5 ને ટકામાં ફેરવતા ________ ટકા મળે. (30%, 50%, 60%)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 60%</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>1/5 એટલે 20% થાય. તો 3/5 એટલે 20 × 3 = 60%. પાયાના અપૂર્ણાંકના ટકા યાદ રાખો, ગણિત રમકડા જેવું લાગશે!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "જ્યારે ખરીદ કિંમત > વેચાણ કિંમત હોય, ત્યારે ________ થાય. (નફો, ખોટ, વ્યાજ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>વધારેમાં ખરીદ્યું અને ઓછામાં વેચ્યું, એટલે ગજવામાંથી પૈસા ગયા. માટે ખોટ જ ગઈ કહેવાય!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સાદા વ્યાજમાં 'R' એટલે ________. (સમય, વ્યાજનો દર, મુદ્દલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વ્યાજનો દર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>R એટલે Rate of Interest. તે હંમેશા ટકામાં (%) દર્શાવવામાં આવે છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "12% નું દશાંશ સ્વરૂપ ________ થાય. (1.2, 0.12, 0.012)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0.12</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>ટકાનું નિશાન દૂર કરો એટલે પોઈન્ટ ડાબી બાજુ બે ડગલાં પાછળ ખસે. 12.0 → 0.12.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "0.02 ને ટકામાં ફેરવતા ________ % મળે. (2%, 20%, 0.2%)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2%</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>0.02 × 100. પોઈન્ટ બે સ્થાન જમણી બાજુ જાય એટલે જવાબ આવે સીધો 2%.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "જો 25% = 50 હોય, તો તે સંખ્યા ________ હશે. (100, 200, 150)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 200</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>25% એટલે ચોથો ભાગ. જો ચોથો ભાગ 50 હોય, તો આખી સંખ્યા 50 × 4 = 200 થાય. લોજિક વાપરો, પેન ઓછી ચલાવો!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "એક વર્ગમાં 25 છોકરાઓ અને 25 છોકરીઓ છે, તો છોકરીઓની ટકાવારી ________ છે. (25%, 50%, 100%)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 50%</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>જ્યારે બંને સંખ્યા સમાન હોય, ત્યારે બંને 50-50% જ હોય. કુલ વિદ્યાર્થીઓ 50, તેમાંથી 25 એટલે અડધા (50%).</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "રૂ. 1000 નું 10% લેખે 2 વર્ષનું સાદું વ્યાજ ________ થાય. (રૂ. 100, રૂ. 200, રૂ. 1200)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રૂ. 200</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>1000 ના 10% એટલે 100 રૂપિયા (એક વર્ષનું). 2 વર્ષનું હોય તો 100 × 2 = 200 રૂપિયા. સાદું વ્યાજ દર વર્ષે સરખું જ હોય!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "નફાની ટકાવારી શોધવાનું સૂત્ર = (નફો / ________) × 100. (વે.કિં., ખ.કિં., વ્યાજ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખ.કિં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>નફો હોય કે ખોટ, હંમેશા 'ખરીદ કિંમત' (CP) પર જ ગણાય. છેદમાં હંમેશા CP જ આવશે!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "40 પૈસા અને 2 રૂપિયાનો ગુણોત્તર ________ થાય. (20:1, 1:5, 40:2)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1:5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>2 રૂપિયા = 200 પૈસા. 40/200 = 4/20 = 1/5. એટલે કે 1:5. એકમો સરખા કરવાનું ભૂલતા નહીં!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "1/8 ને ટકામાં ફેરવતા ________ % મળે. (12.5%, 15%, 8%)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 12.5%</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>1/4 એટલે 25%. તો 1/8 એટલે 25 ના અડધા, એટલે કે 12.5%. આ અડધા કરવાની ટેકનિક બહુ કામ લાગે છે!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "જો નફો 20% અને ખરીદ કિંમત રૂ. 500 હોય, તો નફો રૂ. ________ થાય. (100, 50, 120)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 100</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>500 ના 10% એટલે 50. તો 20% એટલે 50 × 2 = 100. ટકાવારીના દાખલા 10% ના બેઝ પરથી ગણો તો ફટાફટ થશે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "કુલ 15 ફૂલોમાંથી 3 લાલ છે, તો લાલ ફૂલોની ટકાવારી ________ છે. (15%, 20%, 30%)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 20%</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>3/15 × 100. છેદ ઉડાડો: 3/15 એટલે 1/5. અને 1/5 એટલે હંમેશા 20% જ થાય!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "75% માંથી ________ % બાદ કરતા 25% બાકી રહે. (50%, 25%, 100%)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 50%</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>સામાન્ય બાદબાકીની જેમ જ ટકાવારી કામ કરે છે. 75 - 50 = 25. ટકાનું નિશાન તો સાથે જ રહેશે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "સાદા વ્યાજમાં 'T' એટલે ________. (કિંમત, ટકા, સમય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>T એટલે Time (સમય), જે સામાન્ય રીતે વર્ષમાં ગણવામાં આવે છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "2 : 1 ના ગુણોત્તરના દરેક પદની ટકાવારી ________ અને ________ છે. (50%-50%, 66.6%-33.3%, 75%-25%)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 66.6%-33.3%</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>કુલ ભાગ 2+1=3. પહેલો ભાગ 2/3 = 66.6%, બીજો ભાગ 1/3 = 33.3%. ગુણોત્તરનો સરવાળો છેદમાં રાખવો.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "રૂ. 800 માંથી રૂ. 200 એટલે ________ ટકા. (20%, 25%, 40%)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 25%</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>200/800 એટલે 1/4 ભાગ. 1/4 ભાગ એટલે આંખ બંધ કરીને 25% લખી શકાય!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "5/2 ને ટકામાં ફેરવતા ________ % મળે. (50%, 250%, 200%)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 250%</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>5/2 × 100. 100 ને 2 વડે ભાગો તો 50 આવે. 50 × 5 = 250. જો અંશ છેદ કરતા મોટો હોય, તો ટકા હંમેશા 100 થી વધારે જ આવશે!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "એક શહેરની વસ્તી 25000 થી વધીને 26500 થઈ, તો વધારાની ટકાવારી ________ છે. (5%, 6%, 10%)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 6%</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>વધારો = 1500. મૂળ વસ્તી = 25000. ટકાવારી = (1500/25000) × 100. મીંડા ઉડાડો, 150/25 = 6%. વધારો કે ઘટાડો હંમેશા 'શરૂઆતની' કિંમત પર ગણાય.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "રૂ. 250 માં ખરીદેલી વસ્તુ રૂ. 250 માં વેચતા ________ થાય. (નફો, ખોટ, કંઈ નહીં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કંઈ નહીં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>ખ.કિં = વે.કિં હોય ત્યારે નો પ્રોફિટ, નો લોસ! આ સ્થિતિને બ્રેક-ઇવન પોઈન્ટ પણ કહેવાય.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "15 કલાક એ 24 કલાકના ________ ટકા છે. (62.5%, 50%, 75%)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 62.5%</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>15/24 = 5/8 (3 વડે ભાગતા). આપણે જાણીએ છીએ કે 1/8 = 12.5%. તો 5/8 = 12.5 × 5 = 62.5%. અપૂર્ણાંકની વેલ્યુઝ મેજીક જેવી છે!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "જો સાદું વ્યાજ રૂ. 45 અને વ્યાજનો દર 9% હોય, તો 1 વર્ષનું મુદ્દલ ________ હશે. (રૂ. 500, રૂ. 1000, રૂ. 450)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રૂ. 500</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>9% = 45 રૂ. તો 1% = 5 રૂ. આથી 100% (મુદ્દલ) = 5 × 100 = 500 રૂ. આ યુનિટરી મેથડ સૂત્ર કરતા ફાસ્ટ છે!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "0.1 ને ટકામાં ________ % કહેવાય. (1%, 10%, 100%)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 10%</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>0.1 એટલે 0.10 સમજવું. હવે પોઈન્ટ બે સ્થાન ખસેડો એટલે સીધો જવાબ 10% મળશે. ભૂલથી 1% ન લખતા!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "એક મીટરના 1% એટલે ________ સેમી. (10, 1, 100)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>1 મીટર = 100 સેમી. 100 સેમી ના 1% એટલે 100/100 = 1 સેમી. સરળ છે ને?</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "કઈ રકમનું 5% લેખે 1 વર્ષનું વ્યાજ રૂ. 25 થાય? (રૂ. 500, રૂ. 125, રૂ. 250)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રૂ. 500</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>5% = 25, તો 1% = 5. આથી 100% = 500. દર વર્ષે આવા પ્રશ્નો પરીક્ષામાં પૂછાય જ છે!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "ગુણોત્તરમાં પદોનો ક્રમ બદલાતા ગુણોત્તરની કિંમત ________ છે. (બદલાય, સમાન રહે, શૂન્ય થાય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બદલાય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>2:3 અને 3:2 બંને અલગ વસ્તુ છે. ગુણોત્તરમાં 'કોની સરખામણી કોની સાથે' છે તે બહુ મહત્વનું છે. ક્રમ બદલાયો તો બધું બદલાયું!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "12.5% ને અપૂર્ણાંકમાં ________ લખાય. (1/4, 1/8, 1/12)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1/8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>આ તો ફેવરિટ વેલ્યુ છે! 25% = 1/4, તો 12.5% એ 25 ના અડધા છે, એટલે 1/8. આવા સ્ટાન્ડર્ડ ફોર્મ્સ યાદ રાખશો તો ગણતરી કરવાની જરૂર નહીં પડે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "જો મુદત 2 વર્ષ હોય અને વ્યાજમુદ્દલ રૂ. 2200 તથા મુદ્દલ રૂ. 2000 હોય, તો વ્યાજ રૂ. ________ થાય. (રૂ. 100, રૂ. 200, રૂ. 400)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રૂ. 200</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>વ્યાજ (I) = વ્યાજમુદ્દલ (A) - મુદ્દલ (P). 2200 - 2000 = 200. વર્ષ ગમે તેટલા હોય, તફાવત જ વ્યાજ છે!</div>"
+    }
+  ]
+}
