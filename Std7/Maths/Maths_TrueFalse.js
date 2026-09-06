@@ -1787,3 +1787,311 @@ var Std7_Maths_TrueFalse = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "પરિમિતિ અને ક્ષેત્રફળ",
+  "questionType": "ખરાં ખોટાં જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ચોરસની પરિમિતિ = 4 × બાજુની લંબાઈ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ચોરસને 4 બાજુઓ હોય છે, બધી સમાન હોય, એટલે 4 વડે ગુણો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "લંબચોરસનું ક્ષેત્રફળ = લંબાઈ + પહોળાઈ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: લંબચોરસનું ક્ષેત્રફળ = લંબાઈ × પહોળાઈ થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ક્ષેત્રફળ એટલે 'ગુણાકાર' (L × B), સરવાળો નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સમાંતરબાજુ ચતુષ્કોણનું ક્ષેત્રફળ = આધાર × ઊંચાઈ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમાંતરબાજુ ચતુષ્કોણ માટે હંમેશા પાયો (b) અને તેને અનુરૂપ વેધ (h) નો ગુણાકાર કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ત્રિકોણનું ક્ષેત્રફળ = 1/2 × આધાર × ઊંચાઈ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ત્રિકોણ એ સમાંતરબાજુ ચતુષ્કોણથી અડધો હોય છે, એટલે 1/2 આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વર્તુળનો પરિઘ C = 2πr.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): યાદ રાખો 2 'પાઈ' (π) 'આર' (r).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વર્તુળનું ક્ષેત્રફળ = πr².",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ક્ષેત્રફળમાં હંમેશા ત્રિજ્યાનો વર્ગ (r²) આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "1 સેમી² = 10 મિમી².",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: 1 સેમી² = 100 મિમી² થાય (10 × 10).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ક્ષેત્રફળના એકમો ફેરવતી વખતે માપનો વર્ગ કરવો (10² = 100).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "1 મીટર² = 10,000 સેમી².",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1 મી = 100 સેમી, તેથી ક્ષેત્રફળ માટે 100 × 100 = 10,000.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "1 હેક્ટર = 1,000 મીટર².",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: 1 હેક્ટર = 10,000 મીટર² થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'હેક્ટર' શબ્દમાં 10,000 યાદ રાખવા માટે 100 મીટર બાજુવાળા ચોરસને યાદ કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વર્તુળના વ્યાસ અને પરિઘનો ગુણોત્તર અચળ હોય છે, જેને π કહેવાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું (પરિઘ / વ્યાસ = π)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): C/d = π હંમેશા યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "π ની આશરે કિંમત 22/7 લેવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): π = 22/7 અથવા 3.14 એ ગણતરી માટેની સ્ટાન્ડર્ડ કિંમત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "જો બે વર્તુળની ત્રિજ્યા સમાન હોય, તો તેમના ક્ષેત્રફળ અલગ હોઈ શકે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: જો ત્રિજ્યા (r) સમાન હોય, તો πr² મુજબ ક્ષેત્રફળ હંમેશા સમાન જ થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ત્રિજ્યા સરખી એટલે વર્તુળ આબેહૂબ સરખાં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વર્તુળની સૌથી મોટી જીવા એટલે તેનો વ્યાસ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વ્યાસ = 2 × ત્રિજ્યા, જે વર્તુળના કેન્દ્રમાંથી પસાર થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "લંબચોરસની પરિમિતિ = 2(લંબાઈ + પહોળાઈ).",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બે લંબાઈ + બે પહોળાઈ = 2(l + b).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ત્રિકોણની ઊંચાઈ હંમેશા ત્રિકોણની અંદર જ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: ગુરુકોણ ત્રિકોણમાં વેધ (ઊંચાઈ) ત્રિકોણની બહાર પણ હોઈ શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઊંચાઈ એટલે શિરોબિંદુથી પાયા પરનો લંબ, જે બહાર પણ હોઈ શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ચોરસનું ક્ષેત્રફળ = (બાજુ)².",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ક્ષેત્રફળ એટલે લંબાઈ × લંબાઈ = L².</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વર્તુળનો વ્યાસ ત્રિજ્યા કરતા અડધો હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: વ્યાસ એ ત્રિજ્યા કરતા બમણો હોય છે (d = 2r).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ત્રિજ્યા અડધી હોય, વ્યાસ તો પૂરેપૂરો (બમણો) હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "જો ત્રિકોણનો પાયો 10 સેમી અને ઊંચાઈ 5 સેમી હોય, તો તેનું ક્ષેત્રફળ 50 સેમી² થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: ત્રિકોણનું ક્ષેત્રફળ = 1/2 × 10 × 5 = 25 સેમી² થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ત્રિકોણમાં '1/2' કરવાનું ક્યારેય ભૂલશો નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "સમાંતરબાજુ ચતુષ્કોણમાં દરેક પાયાને અનુરૂપ ઊંચાઈ સમાન હોય તે જરૂરી નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો પાયો બદલાય તો ઊંચાઈ પણ બદલાય (ક્ષેત્રફળ અચળ રહે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "એકમની લંબાઈ વધારવાથી ક્ષેત્રફળ પણ વધે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): માપ વધે એટલે રોકાયેલી જગ્યા (ક્ષેત્રફળ) પણ વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વર્તુળનો પરિઘ એ વર્તુળની પરિમિતિ જ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વક્રાકાર પદાર્થ માટે 'પરિધ' શબ્દ વપરાય છે, જે કિનારીની લંબાઈ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "પરિમિતિનો એકમ સેમી² કે મી² હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: પરિમિતિનો એકમ સેમી કે મીટર (લંબાઈનો એકમ) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ક્ષેત્રફળમાં 'વર્ગ' લાગે, પરિમિતિમાં નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "અર્ધવર્તુળની પરિમિતિ એટલે તેના પરિઘનું અડધું માપ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: અર્ધવર્તુળની પરિમિતિ = અડધો પરિઘ + વ્યાસ (πr + d).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અર્ધવર્તુળમાં નીચેની સીધી લીટી (વ્યાસ) પણ ગણવી પડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ત્રિકોણનું ક્ષેત્રફળ તેના પાયા અને તેને અનુરૂપ ઊંચાઈના ગુણાકાર જેટલું હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: ત્રિકોણનું ક્ષેત્રફળ તે ગુણાકારનું અડધું હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'અડધું' (1/2) શબ્દ હોવો જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "જો ચોરસની બાજુ બમણી કરવામાં આવે, તો તેનું ક્ષેત્રફળ 4 ગણું થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું (કારણ કે 2² = 4)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બાજુ n ગણી થાય, તો ક્ષેત્રફળ n² ગણું થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વર્તુળના ક્ષેત્રફળ માટે વ્યાસનો ઉપયોગ કરીએ તો સૂત્ર πd²/4 બને.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): r = d/2 મૂકતા π(d/2)² = πd²/4 થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "કાટકોણ ત્રિકોણમાં કાટખૂણો બનાવતી બે બાજુઓ જ આધાર અને ઊંચાઈ બની શકે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કાટકોણ ત્રિકોણમાં વેધ અલગથી દોરવાની જરૂર નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "સમાંતરબાજુ ચતુષ્કોણના વિકર્ણો તેને બે સમાન ક્ષેત્રફળવાળા ત્રિકોણમાં વહેંચે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આ જ કારણથી ત્રિકોણનું ક્ષેત્રફળ સમાંતરબાજુ ચતુષ્કોણથી અડધું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "પરિમિતિ એટલે આકૃતિએ સપાટી પર રોકેલી જગ્યા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: રોકેલી જગ્યાને ક્ષેત્રફળ કહેવાય, પરિમિતિ એટલે કિનારીનું માપ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કિનારી = પરિમિતિ, અંદરની જગ્યા = ક્ષેત્રફળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "જો ત્રિજ્યા r = 7 સેમી હોય, તો પરિઘ 44 સેમી થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું (2 × 22/7 × 7 = 44)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): r=7 હોય ત્યારે પરિઘ હંમેશા 44 અને ક્ષેત્રફળ 154 જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "વર્તુળનો વ્યાસ વધારતા પરિઘ અને વ્યાસનો ગુણોત્તર (π) બદલાઈ જાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: π એક અચળાંક છે, જે ગમે તેવડા વર્તુળ માટે સમાન જ રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): π એ 'યુનિવર્સલ કોન્સ્ટન્ટ' છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "બે ભિન્ન આકારોની પરિમિતિ સમાન હોય, તો તેમના ક્ષેત્રફળ પણ હંમેશા સમાન જ હોય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: પરિમિતિ સમાન હોવા છતાં ક્ષેત્રફળ અલગ હોઈ શકે (દા.ત. સમાન પરિમિતિવાળા ચોરસ અને લંબચોરસ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): તારની લંબાઈ (પરિમિતિ) સરખી રાખીને અલગ અલગ આકારો બનાવી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "જો સમાંતરબાજુ ચતુષ્કોણના આધાર અને ઊંચાઈ બંને બમણા કરવામાં આવે, તો ક્ષેત્રફળ 4 ગણું થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું (2 × 2 = 4)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગુણાકારમાં જેટલી વસ્તુઓ બમણી થાય તેનો ગુણાકાર કરવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "100 સેમી લંબાઈની પરિમિતિવાળા ચોરસની બાજુ 25 સેમી હોય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું (100 / 4 = 25)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પરિમિતિથી બાજુ શોધવા 4 વડે ભાગાકાર કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વર્તુળનું ક્ષેત્રફળ શોધવા માટે ત્રિજ્યા r = વ્યાસ / 2 સૂત્ર વપરાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હંમેશા વ્યાસને અડધો કરીને જ ક્ષેત્રફળના સૂત્રમાં મૂકવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "ચોરસ એ એક પ્રકારનો લંબચોરસ જ છે, જેની બધી બાજુ સમાન છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો લંબાઈ અને પહોળાઈ સરખી થઈ જાય (L=B), તો લંબચોરસ ચોરસ બની જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "કોઈપણ બંધ આકૃતિની પરિમિતિ એટલે તેની બધી બાજુઓનો સરવાળો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પેરિમીટર = 'પેરી' (આસપાસ) + 'મીટર' (માપ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "જો ત્રિજ્યા r = 10 સેમી હોય, તો વર્તુળનું ક્ષેત્રફળ 314 સેમી² થાય (π = 3.14 લો).",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું (3.14 × 10 × 10 = 314)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 100 વડે ગુણતા દશાંશ ચિહ્ન બે સ્થળ જમણી બાજુ ખસે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "ત્રિકોણનો પાયો તેના ક્ષેત્રફળ અને ઊંચાઈના ગુણાકાર જેટલો હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: પાયો b = (2 × ક્ષેત્રફળ) / ઊંચાઈ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ક્ષેત્રફળને 2 વડે ગુણીને ઊંચાઈ વડે ભાગો ત્યારે પાયો મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "લંબચોરસની અંદરના રસ્તાનું ક્ષેત્રફળ શોધવા માટે મોટા લંબચોરસમાંથી નાના લંબચોરસનું ક્ષેત્રફળ બાદ કરવું પડે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રસ્તો શોધવા માટે 'મોટું બાદ નાનું' ની રીત વાપરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "1 સેમી² માં 100 ચોરસ મિલીમીટર હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 10 મિમી × 10 મિમી = 100 મિમી².</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "તારના ટુકડાને ચોરસમાંથી લંબચોરસમાં ફેરવતા તેની પરિમિતિ બદલાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: જો તાર એનો એ જ હોય, તો પરિમિતિ અચળ રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આકાર બદલાય પણ તારની લંબાઈ (પરિમિતિ) ન બદલાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "સમાંતરબાજુ ચતુષ્કોણનો એક વેધ 5 સેમી અને પાયો 8 સેમી હોય, તો ક્ષેત્રફળ 40 સેમી² થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું (8 × 5 = 40)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ચતુષ્કોણમાં ડાયરેક્ટ ગુણાકાર, ત્રિકોણ હોત તો અડધું કરવું પડત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "પરિમિતિ હંમેશા ક્ષેત્રફળ કરતા મોટી જ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: પરિમિતિ અને ક્ષેત્રફળની તુલના ન થઈ શકે કારણ કે બંનેના એકમો અલગ છે અને કિંમત કોઈ પણ મોટી હોઈ શકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સફરજન અને કેરીની તુલના ન થાય, તેમ પરિમિતિ અને ક્ષેત્રફળની પણ ન થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "બે અર્ધવર્તુળ ભેગા મળીને એક પૂર્ણ વર્તુળ બનાવે તો તેમનું ક્ષેત્રફળ πr² થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અડધું + અડધું = આખું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "જો ત્રિકોણનું ક્ષેત્રફળ 20 સેમી² અને પાયો 5 સેમી હોય, તો ઊંચાઈ 4 સેમી હોય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: ઊંચાઈ = (2 × 20) / 5 = 8 સેમી થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઊંચાઈ શોધવા પહેલા ક્ષેત્રફળને ડબલ કરો, પછી પાયાથી ભાગો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "π (પાઈ) ની શોધ મહાન ભારતીય ગણિતશાસ્ત્રી આર્યભટ્ટે કરી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું (આર્યભટ્ટે π ની ચોકસાઈપૂર્વકની કિંમત આપી હતી).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગણિતમાં ભારતનો ફાળો હંમેશા યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "વર્તુળના વ્યાસને d વડે દર્શાવાય તો C = πd.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 2r એટલે જ d, માટે 2πr લખો કે πd લખો, વાત એક જ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "જો એક વર્તુળની ત્રિજ્યા 14 સેમી હોય, તો તેનો વ્યાસ 7 સેમી થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: વ્યાસ ત્રિજ્યાથી બમણો એટલે કે 28 સેમી થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વ્યાસ (D) હંમેશા મોટો હોય, ત્રિજ્યા (r) નાની હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "ક્ષેત્રફળ હંમેશા ધન સંખ્યામાં જ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કોઈ પણ જગ્યા ઋણ (minus) માં હોઈ શકે નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "વર્તુળના ક્ષેત્રફળનું એકમ સેમી³ હોઈ શકે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: ક્ષેત્રફળ હંમેશા સેમી² માં હોય, સેમી³ એ ઘનફળનો એકમ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 2D આકૃતિ માટે 'વર્ગ' અને 3D માટે 'ઘન' લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "ચોરસની બધી બાજુઓ સમાન હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ચોરસની વ્યાખ્યા જ આ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "સમાંતરબાજુ ચતુષ્કોણનું ક્ષેત્રફળ શોધવા લંબાઈ અને પહોળાઈનો ગુણાકાર કરવો પડે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: તેમાં આધાર (base) અને લંબ ઊંચાઈ (height) નો ગુણાકાર થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ત્રાસી બાજુને ઊંચાઈ ગણવી નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "જે ત્રિકોણની ઊંચાઈ પાયા પર લંબ ન હોય, તો તે સૂત્ર 1/2 × b × h માં ન વાપરી શકાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઊંચાઈ એટલે 90 ડિગ્રી પરનો લંબ (વેધ) જ હોવો જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "વર્તુળના કેન્દ્રથી પરિઘ સુધીના અંતરને ત્રિજ્યા કહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કેન્દ્રથી કિનારી એટલે ત્રિજ્યા (Radius).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "જો લંબચોરસની લંબાઈ 10 સેમી અને પહોળાઈ 0 હોય, તો તેનું ક્ષેત્રફળ 10 સેમી² થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: જો પહોળાઈ 0 હોય, તો 10 × 0 = 0 ક્ષેત્રફળ થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કોઈ પણ એક માપ 0 થાય એટલે ક્ષેત્રફળ પણ ગાયબ (0)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "વર્તુળમાં અસંખ્ય વ્યાસ દોરી શકાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કેન્દ્રમાંથી પસાર થતી ગમે તેટલી લીટીઓ દોરો, બધી વ્યાસ જ કહેવાશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "એકમની ફેરબદલીમાં 1 મી² = 100 સેમી².",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: 1 મી² = 10,000 સેમી² થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 100 નો વર્ગ 10,000 થાય, યાદ રાખવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "પરિમિતિ એ એક પરિમાણીય (1D) માપ છે જ્યારે ક્ષેત્રફળ એ દ્વિ-પરિમાણીય (2D) માપ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લંબાઈ એટલે 1D, સપાટી એટલે 2D.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "ત્રિકોણનું ક્ષેત્રફળ તેના પાયા પર આધારિત નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: ત્રિકોણનું ક્ષેત્રફળ તેના પાયા અને ઊંચાઈ બંને પર સીધો આધાર રાખે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સૂત્ર જ 1/2 × b × h છે, એટલે પાયા વગર મેળ ન પડે!</p></div>"
+    }
+  ]
+}
