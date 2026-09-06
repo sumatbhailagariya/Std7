@@ -2403,3 +2403,261 @@ var Std7_Maths_TrueFalse = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "ઘાત અને ઘાતાંક",
+  "questionType": "ખરાં ખોટાં જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ઘાતાંકીય સ્વરૂપ $2^5$ માં 2 એ ઘાતાંક છે અને 5 એ પાયો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>કારણ: $2^5$ માં 2 એ 'પાયો' છે અને 5 એ 'ઘાતાંક' છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે નીચે બેઠું હોય તે 'પાયો' (Base) અને જે માથા પર હોય તે 'ઘાત' (Power).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "$a^m \times a^n = a^{m+n}$ (જ્યાં $a$ શૂન્ય સિવાયની પૂર્ણાંક સંખ્યા છે).",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાયો સરખો અને વચ્ચે ગુણાકાર તો ઘાતનો 'ભેગાકાર' એટલે કે સરવાળો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "$a^m \div a^n = a^{m-n}$ (જ્યાં $m > n$).",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાયો સરખો અને વચ્ચે ભાગાકાર તો ઘાતની બાદબાકી જ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "કોઈપણ શૂન્યતર સંખ્યાની 0 ઘાતની કિંમત 0 થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>કારણ: કોઈપણ શૂન્યતર સંખ્યાની 0 ઘાતની કિંમત હંમેશા 1 થાય છે ($a^0 = 1$).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): માથા પર મીંડું (0) હોય તો જવાબ હંમેશા 'એકડો' (1) જ મૂકવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "$10^3 = 1000$ થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. <br>કારણ: $10 \times 10 \times 10 = 1000$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 10 ની જેટલી ઘાત હોય, 1 ની પાછળ તેટલા મીંડાં મૂકી દેવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "$(-1)^{10} = -1$ થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>કારણ: $(-1)$ ની બેકી ઘાત હંમેશા ધન 1 થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એકડાની ઘાત જો 'બેકી' (Even) હોય તો જવાબ +, જો 'એકી' (Odd) હોય તો જવાબ -.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "$2^3 > 3^2$ વિધાન સાચું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>કારણ: $2^3 = 8$ અને $3^2 = 9$. તેથી $8 < 9$ થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કિંમત શોધીને જ સરખામણી કરવી, ઉતાવળમાં મોટી ઘાત જોઈને નિર્ણય ન લેવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "$(a^m)^n = a^{m+n}$ થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>કારણ: ઘાતની ઘાતનો હંમેશા ગુણાકાર થાય, એટલે કે $a^{m \times n}$ થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઘાત ઉપર ઘાત, તો બંનેનો ગુણાકાર સાક્ષાત!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "$a^m \times b^m = (ab)^m$ સાચું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. <br>કારણ: જ્યારે ઘાત સરખી હોય ત્યારે પાયાનો ગુણાકાર કરી શકાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાયા જુદા પણ ઘાત સરખી, તો પાયાને ભેગા કરી ઘાત એક જ વાર લખવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "$(-1)^{15} = -1$ થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. <br>કારણ: 15 એ એકી સંખ્યા હોવાથી જવાબ ઋણ આવશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એકી ઘાત = એકલો માઇનસ (Negative).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "$10 \times 10^{11} = 100^{11}$ થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>કારણ: $10^1 \times 10^{11} = 10^{1+11} = 10^{12}$ થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાયાનો ગુણાકાર ન થાય જો ઘાતાંક નિયમ વાપરવો હોય, ઘાતનો સરવાળો જ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "$3^0 \times 4^0 \times 5^0 = 0$ થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>કારણ: $1 \times 1 \times 1 = 1$ થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શૂન્ય ઘાત એટલે 1, અને 1 નો ગમે તેટલી વાર ગુણાકાર કરો તો 1 જ રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "$2^3 \times 3^2 = 6^5$ થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>કારણ: પાયા અને ઘાત બંને અલગ હોવાથી ઘાતાંકના નિયમો સીધા લાગુ ન પડે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો પાયા પણ અલગ અને ઘાત પણ અલગ હોય તો કોઈ નિયમ 'સેટ' ન થાય, સાદું સાદુરૂપ આપવું પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "સંખ્યા 1,20,000 ને પ્રમાણિત સ્વરૂપમાં $1.2 \times 10^5$ લખાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. <br>કારણ: પોઈન્ટ 5 દશાંશ સ્થળ ડાબી બાજુ ખસે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્રમાણિત સ્વરૂપ એટલે પહેલા આંકડા પછી પોઈન્ટ મૂકવો અને બાકીના અંકો ગણીને 10 ની ઘાત મૂકવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "($2^2)^3$ અને $2^5$ ની કિંમત સમાન છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>કારણ: $(2^2)^3 = 2^6$ થાય, જ્યારે બીજી સંખ્યા $2^5$ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઘાતની ઘાત ગુણાય ($2 \times 3 = 6$), સરવાળો ન થાય ($2+3=5$ ખોટું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "$a^m \div b^m = (a/b)^m$ સાચું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સરખી ઘાત હોય તો ભાગાકાર આખા કૌંસને આપી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "1 મિલિયન = $10^6$ થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. <br>કારણ: 1 મિલિયન એટલે 10 લાખ, જેમાં 6 મીંડાં હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 10 લાખ = 1,000,000 = 6 શૂન્ય = $10^6$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "$(-2)^4$ ની કિંમત -16 થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>કારણ: ઋણ સંખ્યાની બેકી ઘાત હંમેશા ધન (+) થાય. $(-2)^4 = 16$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બેકી ઘાત હોય તો માઇનસની નિશાની ગાયબ થઈ જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "$5^4$ માં 5 એ ઘાતાંક છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>કારણ: 5 એ પાયો છે અને 4 એ ઘાતાંક છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નામમાં જ કામ છે, 'પાયો' હંમેશા નીચે જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "કોઈપણ સંખ્યાની 1 ઘાત એટલે તે સંખ્યા પોતે જ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. <br>કારણ: $a^1 = a$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1 ઘાત એ અદ્રશ્ય શક્તિ જેવી છે, જે સંખ્યાને બદલતી નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "$2^0 + 3^0 + 4^0 = 3$ થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. <br>કારણ: $1 + 1 + 1 = 3$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અહીં ગુણાકાર નથી પણ સરવાળો છે, એટલે $1 \times 1 \times 1$ નહિ પણ $1+1+1$ કરવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "0.00007 નું પ્રમાણિત સ્વરૂપ $7 \times 10^{-5}$ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. <br>કારણ: પોઈન્ટ જમણી બાજુ 5 સ્થાન ખસે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દશાંશ ચિહ્ન જમણી બાજુ જાય તો ઘાત ઋણ (-) આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "$a^m + a^n = a^{m+n}$ નિયમ ગણિતમાં સાચો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>કારણ: ઘાતનો સરવાળો ત્યારે જ થાય જ્યારે વચ્ચે ગુણાકાર હોય, સરવાળા માટે આવો કોઈ નિયમ નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): '+' હોય તો કશું ભેગું ન થાય, '$\times$' હોય તો જ ઘાત ભેગી થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "$1^{100} = 100$ થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>કારણ: 1 ને ગમે તેટલી વાર ગુણો, જવાબ 1 જ આવે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એકડો (1) બહુ જિદ્દી છે, તેની માથે ગમે તેટલો બોજ (ઘાત) મૂકો, એ 1 જ રહેશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "$8 = 2^3$ લખી શકાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. <br>કારણ: $2 \times 2 \times 2 = 8$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અવિભાજ્ય અવયવ પાડીને ચેક કરી લેવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "$(-3)^3 = -27$ થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. <br>કારણ: ઋણ સંખ્યાની એકી ઘાત ઋણ જ આવે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એકી ઘાત (1,3,5...) હોય ત્યારે માઇનસ જીવતું રહે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "$10^2 \times 10^5 = 10^{10}$ થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>કારણ: ઘાતનો સરવાળો થાય, $10^{2+5} = 10^7$ થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઉપરની સંખ્યાઓનો ક્યારેય ગુણાકાર ન કરવો (જો પાયો સરખો હોય તો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "$4^3 = 3^4$ થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>કારણ: $4^3 = 64$ અને $3^4 = 81$. બંને અલગ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અદલા-બદલી કરવાથી કિંમત બદલાઈ જાય છે, ઉતાવળ ન કરવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "કોઈપણ સંખ્યાનું વ્યાપક સ્વરૂપ 10 ની ઘાતનો ઉપયોગ કરીને લખી શકાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. <br>કારણ: આપણે સ્થાન કિંમતને 10 ની ઘાત તરીકે દર્શાવી શકીએ છીએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એકમ, દશક, સો ને અનુક્રમે $10^0, 10^1, 10^2$ વડે ગુણવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "$a^m / a^n = a^{n-m}$ જો $n > m$ હોય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. <br>કારણ: ભાગાકારમાં મોટી ઘાતમાંથી નાની ઘાત બાદ થાય, જો છેદની ઘાત મોટી હોય તો છેદમાં બાદબાકી થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે મોટું હોય તેની પાસે નાનું ભાઈ (ઘાત) જાય અને બાદ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "30,00,000 ને $3 \times 10^6$ લખાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. <br>કારણ: 3 ની પાછળ 6 શૂન્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શૂન્ય ગણો અને પાવર (ઘાત) ચઢાવો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "$(2 \times 3)^4 = 2^4 \times 3^4$ થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. <br>કારણ: ગુણાકારમાં ઘાત દરેક પદને મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કૌંસની બહાર બેઠેલી ઘાત અંદરના બધા મહેમાનો (પાયા) ને વહેંચાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "$0^2 = 0$ વિધાન ખોટું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>કારણ: $0 \times 0 = 0$ થાય, એટલે કે વિધાન સાચું હોવું જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શૂન્યની ગમે તેટલી ધન ઘાત કરો, શૂન્ય જ રહે (શૂન્ય સિવાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "$5^2 \times 5^3 = 5^6$ થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>કારણ: $5^{2+3} = 5^5$ થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગુણાકાર દેખાય તો સરવાળો કરો, ગુણાકાર નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "સંખ્યા 100 ને ઘાત સ્વરૂપે $10^2$ લખાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. <br>કારણ: $10 \times 10 = 100$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બે મીંડાં એટલે 2 ઘાત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "$2^3 \div 2^3 = 1$ થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. <br>કારણ: $2^{3-3} = 2^0 = 1$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સરખી સંખ્યાનો ભાગાકાર હંમેશા 1 જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "$a^m \times b^n = (ab)^{m+n}$ નિયમ સાચો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>કારણ: પાયા અને ઘાત બંને અલગ હોય ત્યારે આવો કોઈ નિયમ નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કાં તો પાયો સરખો હોવો જોઈએ, કાં તો ઘાત. જો બંને અલગ હોય તો નિયમ ન લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "$(-4)^2 = -16$ થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>કારણ: $(-4) \times (-4) = +16$ થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઘાત જો 2, 4, 6 જેવી હોય તો જવાબમાં ક્યારેય '-' ન આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "343 એ 7 ની 3 ઘાત છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. <br>કારણ: $7 \times 7 \times 7 = 343$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1 થી 10 ના ઘન (cube) મોઢે રાખવા પરીક્ષામાં બહુ કામ આવશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "પ્રમાણિત સ્વરૂપમાં સંખ્યા $k \times 10^n$ માં $k$ ની કિંમત 1 અને 10 ની વચ્ચે હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પોઈન્ટની ડાબી બાજુ માત્ર એક જ અંક (1 થી 9 માંથી) હોવો જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "$10^0$ ની કિંમત 10 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>કારણ: કોઈપણ સંખ્યાની શૂન્ય ઘાત 1 થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શૂન્ય પાવર = 1 આન્સર (Fix it!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "$(x/y)^m = x^m / y^m$ થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. <br>કારણ: આ ભાગાકાર માટે ઘાતાંકનો નિયમ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઘાત ન્યાયી છે, તે અંશ અને છેદ બંનેને સરખો ભાગ આપે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "$2^4 = 4^2$ સાચું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. <br>કારણ: $2^4 = 16$ અને $4^2 = 16$. આ એક વિશિષ્ટ કિસ્સો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આ અપવાદ જેવું યાદ રાખવું, $2^4$ અને $4^2$ બંને 16 થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "$3^2 + 3^3 = 3^5$ થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>કારણ: $9 + 27 = 36$ થાય, જ્યારે $3^5 = 243$ થાય. સરવાળામાં ઘાતનો નિયમ લાગતો નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વતા (+) દેખાય એટલે બ્રેક મારવી, નિયમો માત્ર ગુણાકાર-ભાગાકાર માટે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "ઋણ સંખ્યાની એકી ઘાત ધન હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>કારણ: ઋણ સંખ્યાની એકી ઘાત હંમેશા ઋણ જ હોય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એકી એટલે 'એકલું' માઇનસ રહી જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "$10^5$ ને $10 \times 10 \times 10 \times 10 \times 10$ લખી શકાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. <br>કારણ: ઘાત એટલે પાયાનો તેટલી વખત ગુણાકાર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઘાત એટલે કેટલી વાર 'રીપીટ' કરવું તે સંખ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "$(5^2)^0 = 1$ થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. <br>કારણ: $5^{2 \times 0} = 5^0 = 1$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કૌંસની ઉપર 0 જોવો એટલે અંદર ગમે તે હોય, જવાબ 1 લખી દેવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "$2 \times 3^4 = (2 \times 3)^4$ થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>કારણ: ડાબી બાજુ માત્ર 3 ની જ 4 ઘાત છે, જ્યારે જમણી બાજુ 2 અને 3 બંનેની 4 ઘાત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કૌંસ વગર ઘાત માત્ર તેની નીચેની સંખ્યાને જ લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "72 ના અવિભાજ્ય અવયવ ઘાત સ્વરૂપે $2^3 \times 3^2$ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. <br>કારણ: $8 \times 9 = 72$, એટલે કે $2^3 \times 3^2 = 72$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મોટી સંખ્યાને નાની સંખ્યાની ઘાતમાં ફેરવવા અવયવ વૃક્ષ (Factor Tree) વાપરવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "$10^{10} \div 10^{10} = 0$ થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>કારણ: ભાગાકારમાં સરખી સંખ્યા ઉડી જાય તો 1 વધે, અથવા $10^{10-10} = 10^0 = 1$ થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બાદબાકીમાં 0 વધે, પણ ભાગાકારમાં 1 વધે!</p></div>"
+    }
+  ]
+}
