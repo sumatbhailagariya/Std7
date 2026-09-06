@@ -2661,3 +2661,211 @@ var Std7_Maths_TrueFalse = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "સમમિતિ",
+  "questionType": "ખરાં ખોટાં જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "નિયમિત બહુકોણમાં જેટલી બાજુઓ હોય એટલી જ સંમિત રેખાઓ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નિયમિત' શબ્દ આવે એટલે બાજુ = સંમિત રેખા. દા.ત. ચોરસની 4 બાજુ તો 4 સંમિત રેખા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ચોરસને 2 સંમિત રેખાઓ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (ચોરસને 4 સંમિત રેખાઓ હોય છે: બે વિકર્ણ અને બે બાજુઓના મધ્યબિંદુમાંથી પસાર થતી રેખાઓ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોરસ એ નિયમિત ચતુષ્કોણ છે, તેથી તેની 4 બાજુ = 4 સંમિત રેખા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સમબાજુ ત્રિકોણને 3 સંમિત રેખાઓ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમબાજુ ત્રિકોણમાં ત્રણેય વેધ (અથવા મધ્યગા) એ જ સંમિત રેખાઓ છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સમદ્વિબાજુ ત્રિકોણને 2 સંમિત રેખાઓ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (સમદ્વિબાજુ ત્રિકોણને માત્ર 1 જ સંમિત રેખા હોય છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'દ્વિ' એટલે બે બાજુ સમાન, પણ સંમિત રેખા તો માત્ર વચ્ચેથી એક જ મળે! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિષમબાજુ ત્રિકોણને એક પણ સંમિત રેખા હોતી નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિષમબાજુ એટલે બધું જ અલગ-અલગ, માટે સંમિતિ શૂન્ય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "લંબચોરસને 4 સંમિત રેખાઓ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (લંબચોરસને માત્ર 2 જ સંમિત રેખાઓ હોય છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબચોરસના વિકર્ણો સંમિત રેખાઓ નથી, માત્ર લંબદુભાજકો જ છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "નિયમિત પંચકોણને 5 સંમિત રેખાઓ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંચકોણ = 5 બાજુ, નિયમિત છે એટલે 5 રેખા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "નિયમિત ષટ્કોણને 6 સંમિત રેખાઓ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ષટ્કોણ એટલે 6, નિયમિત એટલે સંમિત રેખા પણ 6. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વર્તુળને માત્ર 4 સંમિત રેખાઓ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (વર્તુળને અસંખ્ય સંમિત રેખાઓ હોય છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્તુળના કેન્દ્રમાંથી પસાર થતો દરેક વ્યાસ એક સંમિત રેખા છે. વ્યાસ અસંખ્ય હોય! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સમાંતરબાજુ ચતુષ્કોણને એક પણ સંમિત રેખા હોતી નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાંતરબાજુ ચતુષ્કોણને વાળતા તેના ભાગ એકબીજા પર બંધબેસતા આવતા નથી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "અરીસામાં મળતું પ્રતિબિંબ સંમિતિ ધરાવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અરીસો એ સંમિત રેખા (Line of Symmetry) નું કામ કરે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "અંગ્રેજી મૂળાક્ષર 'H' ને બે સંમિત રેખાઓ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'H' ને આડી અને ઉભી એમ બંને રીતે કાપી શકાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "અંગ્રેજી મૂળાક્ષર 'O' ને માત્ર એક જ સંમિત રેખા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. ('O' ને અસંખ્ય સંમિત રેખાઓ છે જો તે પૂર્ણ વર્તુળ હોય).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'O' વર્તુળ જેવો છે, તેને ગમે ત્યાંથી અડધો કરી શકાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "અંગ્રેજી મૂળાક્ષર 'Z' ને રેખિત સંમિતિ નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Z' ને વાળતા તેના છેડા મેચ થતા નથી, પણ ફેરવતા તે સરખો લાગે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "જ્યારે વસ્તુ નિશ્ચિત બિંદુની આસપાસ ફરે ત્યારે તેને પરિભ્રમણ કહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંખાના પાંખિયાનું ફરવું એ પરિભ્રમણનું ઉત્તમ ઉદાહરણ છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "પરિભ્રમણ દરમિયાન જે સ્થિર બિંદુની આસપાસ વસ્તુ ફરે છે તેને પરિભ્રમણ કેન્દ્ર કહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે ખસતું નથી પણ બધું તેની આસપાસ ફરે છે તે 'કેન્દ્ર'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ઘડિયાળના કાંટાનું પરિભ્રમણ 'વિષમઘડી' (Anticlockwise) દિશામાં હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (ઘડિયાળના કાંટાનું પરિભ્રમણ 'સમઘડી' - Clockwise દિશામાં હોય છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામ જ છે 'Clockwise' એટલે ઘડિયાળની દિશામાં! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "પરિભ્રમણના ખૂણાને પરિભ્રમણ કોણ કહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેટલું ફર્યું? એ માપ એટલે પરિભ્રમણ કોણ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "આખું પરિભ્રમણ 180° નું હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (આખું પરિભ્રમણ 360° નું હોય છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂરેપૂરું ગોળ ફરીએ ત્યારે 360° બને, અડધું ફરીએ તો 180°. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ચોરસ માટે પરિભ્રમણીય સમમિતિનો ક્રમ 4 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોરસને 90°, 180°, 270° અને 360° એ ફેરવતા તે મૂળ જેવો જ લાગે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "લંબચોરસ માટે પરિભ્રમણીય સમમિતિનો ક્રમ 4 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (લંબચોરસ માટે પરિભ્રમણીય સમમિતિનો ક્રમ 2 છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લંબચોરસને 180° અને 360° એ ફેરવતા જ તે મૂળ જેવો દેખાય છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સમબાજુ ત્રિકોણ માટે પરિભ્રમણ કોણ 120° છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 360° / સમમિતિનો ક્રમ (3) = 120°. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "અંગ્રેજી મૂળાક્ષર 'S' ને પરિભ્રમણીય સમમિતિ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (તેનો ક્રમ 2 છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'S' ને ઊંધો (180°) કરો તો પણ તે 'S' જેવો જ લાગશે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "દરેક આકૃતિને ઓછામાં ઓછી 1 ક્રમની પરિભ્રમણીય સમમિતિ હોય જ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈપણ વસ્તુને 360° ફેરવો એટલે તે મૂળ જેવી જ દેખાવાની! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ચોરસમાં પરિભ્રમણનું કેન્દ્ર તેના વિકર્ણોનું છેદબિંદુ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટાભાગની બંધ આકૃતિઓમાં તેનું મધ્યબિંદુ જ પરિભ્રમણ કેન્દ્ર હોય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "અર્ધવર્તુળને પરિભ્રમણીય સમમિતિ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (અર્ધવર્તુળને 360° પહેલાં કોઈ સ્થાને મૂળ જેવો આકાર મળતો નથી, એટલે કે ક્રમ 1 છે જે ગણાતો નથી).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અર્ધવર્તુળને ફેરવતા તે 180° એ ઊંધું થઈ જાય છે, સીધું નહીં! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "સમબાજુ ચતુષ્કોણ (Rhombus) ને પરિભ્રમણીય સમમિતિનો ક્રમ 2 છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમબાજુ ચતુષ્કોણ લંબચોરસ જેવો જ ગુણધર્મ ધરાવે છે - ક્રમ 2. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "નિયમિત પંચકોણનો પરિભ્રમણ કોણ 72° હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 360° ÷ 5 = 72°. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વર્તુળને પરિભ્રમણીય સમમિતિનો ક્રમ માત્ર 1 જ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (વર્તુળને અસંખ્ય ક્રમની પરિભ્રમણીય સમમિતિ હોય છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્તુળને ગમે તેટલા અંશે ફેરવો, તે બદલાતું નથી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "પતંગાકાર ચતુષ્કોણને રેખિત સમમિતિ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (1 સંમિત રેખા હોય છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પતંગને વચ્ચેથી ઊભો કાપો તો બે સમાન ભાગ મળે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "અંગ્રેજી મૂળાક્ષર 'N' ને રેખિત સમમિતિ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. ('N' ને રેખિત સમમિતિ નથી પણ પરિભ્રમણીય સમમિતિ છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'N' ને વાળતા ભાગો મેચ નથી થતા, પણ 180° ફેરવતા તે પાછો 'N' જ દેખાય છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "સમબાજુ ચતુષ્કોણને 4 સંમિત રેખાઓ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (તેને માત્ર 2 જ સંમિત રેખાઓ હોય છે - તેના વિકર્ણો).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમબાજુ ચતુષ્કોણમાં બાજુના લંબદુભાજકો સંમિત રેખા નથી હોતા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "જો આકૃતિને 45° ના ખૂણે ફેરવતા તે મૂળ જેવી દેખાય, તો તેને 90° ના ખૂણે ફેરવતા પણ તે મૂળ જેવી જ દેખાશે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો કોઈ x ખૂણે સમમિતિ હોય, તો તેના દરેક ગુણક (2x, 3x...) પર પણ હોય જ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "નિયમિત ષટ્કોણનો પરિભ્રમણ કોણ 60° હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 360° ÷ 6 = 60°. ગણિત એકદમ સરળ છે! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "રેખિત સમમિતિ અને પરિભ્રમણીય સમમિતિ બંને હોય તેવી આકૃતિ હોઈ શકે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (દા.ત. ચોરસ, વર્તુળ, સમબાજુ ત્રિકોણ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોસ્ટ ઓફ નિયમિત આકૃતિઓમાં બંને સમમિતિ હાજર હોય છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "ચોરસને માત્ર પરિભ્રમણીય સમમિતિ છે, રેખિત નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (ચોરસને રેખિત અને પરિભ્રમણીય બંને સમમિતિ છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોરસ 'ઓલ-રાઉન્ડર' છે, બધી બાજુથી પરફેક્ટ! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "અંગ્રેજી મૂળાક્ષર 'E' ને આડી રેખિત સમમિતિ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'E' ને વચ્ચેથી આડો કાપો, ઉપર-નીચે સરખા ભાગ દેખાશે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "વસ્તુને 360° ફેરવતા તે તેની મૂળ સ્થિતિમાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખું ચક્ર ફરો એટલે ત્યાં જ પાછા આવો જ્યાંથી શરૂ કર્યું હતું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "સમલંબ ચતુષ્કોણ (Trapezium) ને હંમેશા સંમિત રેખા હોય જ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (માત્ર સમદ્વિબાજુ સમલંબ ચતુષ્કોણને જ સંમિત રેખા હોય છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો અસમાન બાજુઓ અલગ હોય, તો સંમિતિ મળતી નથી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "વર્તુળનું પરિભ્રમણ કેન્દ્ર તેનું કેન્દ્ર જ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેન્દ્ર વગર વર્તુળ ફરે જ નહીં! (NJ Classes)</p></div>"
+    }
+  ]
+}
