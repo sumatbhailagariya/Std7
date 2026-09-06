@@ -1080,3 +1080,211 @@ var Std7_Maths_TrueFalse = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "રેખાઓ અને ખૂણાઓ",
+  "questionType": "ખરાં ખોટાં જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "બે કાટખૂણા એકબીજાના પૂરકકોણ હોઈ શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પૂરકકોણ એટલે સરવાળો 180°. અહીં 90° + 90° = 180° થાય, માટે વિધાન સાચું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "બે લઘુકોણ એકબીજાના કોટિકોણ હોઈ શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કોટિકોણનો સરવાળો 90° થાય. બે લઘુકોણ (જેમ કે 45° + 45°) મળીને 90° બનાવી શકે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "રેખાખંડને બે અંત્યબિંદુઓ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રેખાખંડ એ રેખાનો 'ટુકડો' છે, જેને શરૂઆત અને અંત બંને હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જો બે ખૂણા પૂરકકોણ હોય, તો તેમના માપનો સરવાળો 90° થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. પૂરકકોણના માપનો સરવાળો 180° થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કોટિકોણ = 90° (કો-૯) અને પૂરકકોણ = 180° (પૂ-૧૮). ભૂલ ન કરતા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "બે ગુરુકોણ એકબીજાના પૂરકકોણ હોઈ શકે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. બે ગુરુકોણનો સરવાળો હંમેશા 180° થી વધી જાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગુરુકોણ > 90° હોય, તેથી બે ગુરુકોણનો સરવાળો (ધારો કે 91+91) 182° થઈ જાય, જે 180° થી વધુ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "રૈખિક જોડના ખૂણાઓ પૂરક હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રૈખિક જોડ હંમેશા સીધી રેખા પર બને છે, અને સીધી રેખા એટલે 180°.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "જો બે રેખાઓ એકબીજાને છેદે, તો અભિકોણના માપ સમાન હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અભિકોણ એટલે અંગ્રેજીનો 'X' આકાર. સામ-સામેના ખૂણા હંમેશા સરખા જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "30° ના ખૂણાના કોટિકોણનું માપ 150° થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. 30° ના કોટિકોણનું માપ 60° થાય (90 - 30 = 60).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કોટિકોણ શોધવા 90 માંથી બાદ કરો, પૂરકકોણ શોધવા 180 માંથી બાદ કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "બે સમાંતર રેખાઓને એક છેદિકા છેદે, તો અનુકોણની પ્રત્યેક જોડના ખૂણા સમાન હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અનુકોણ એટલે 'F' આકાર. જો રેખાઓ સમાંતર હોય, તો F ના ખૂણા સમાન થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "એક લઘુકોણ અને એક ગુરુકોણ પૂરકકોણ હોઈ શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હા, જેમ કે 60° (લઘુકોણ) + 120° (ગુરૂકોણ) = 180°.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "રેખાને માત્ર એક જ અંત્યબિંદુ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. રેખાને એક પણ અંત્યબિંદુ હોતું નથી, તે બંને બાજુ અનંત સુધી વિસ્તરેલી હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કિરણને 1 અંત્યબિંદુ, રેખાખંડને 2 અને રેખાને 0 અંત્યબિંદુ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "બે આસન્નકોણ હંમેશા પૂરકકોણ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. આસન્નકોણનો સરવાળો 180° હોય એ જરૂરી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આસન્નકોણ એટલે પાડોશી ખૂણા. પાડોશી હોવું અને સરવાળો 180° થવો એ અલગ બાબત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "અંતઃયુગ્મકોણની જોડના ખૂણા અંગ્રેજી અક્ષર 'Z' જેવો આકાર બનાવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): યુગ્મકોણ માટે 'Z' અને અનુકોણ માટે 'F' યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "જો બે ખૂણાના માપનો સરવાળો 90° થાય, તો તે રૈખિક જોડના ખૂણા કહેવાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. રૈખિક જોડના ખૂણાનો સરવાળો 180° થવો જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 90° એટલે કોટિકોણ, રૈખિક જોડ તો હંમેશા 180° જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "છેદિકાની એક જ બાજુના અંતઃકોણોનો સરવાળો 180° હોય તો રેખાઓ સમાંતર હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): છેદિકાની અંદરના ખૂણા (C આકાર) જો પૂરક હોય, તો રેખાઓ સમાંતર જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "80° ના ખૂણાના પૂરકકોણનું માપ 10° થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. 80° ના પૂરકકોણનું માપ 100° થાય (180 - 80 = 100).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઉતાવળમાં કોટિકોણ અને પૂરકકોણ મિક્સ ન કરવા. પૂરક એટલે 180!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "બે રેખાઓ પરસ્પર છેદે તો રૈખિક જોડની બે જોડી બને છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. બે રેખાઓ છેદે ત્યારે રૈખિક જોડની ચાર જોડી બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'X' આકારમાં ચાર પાડોશી જોડ (Linear Pairs) બને છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "લઘુકોણનો કોટિકોણ હંમેશા લઘુકોણ જ હોય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 90 માંથી નાની સંખ્યા બાદ કરો તો જવાબ 90 થી નાનો જ આવશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "કિરણને અનંત લંબાઈ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કિરણ એક બાજુથી ઉદભવે છે પણ બીજી બાજુ અનંત સુધી જાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "જો બે રેખાઓ સમાંતર ન હોય, તો યુગ્મકોણો સમાન હોતા નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): યુગ્મકોણ બને ખરા, પણ તે 'સમાન' ત્યારે જ હોય જ્યારે રેખાઓ 'સમાંતર' હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "0° અને 90° એકબીજાના કોટિકોણ કહેવાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 0 + 90 = 90 થાય. વ્યાખ્યા મુજબ સરવાળો 90 થવો જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "જે ખૂણાનું માપ તેના પૂરકકોણ જેટલું હોય તે ખૂણો 90° નો હોય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): x + x = 180 => 2x = 180 => x = 90. અડધા-અડધા એટલે 90-90.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "શિરોબિંદુ અને એક ભુજ સામાન્ય હોય તેવા ખૂણાને આસન્નકોણ કહેવાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આસન્નકોણ એટલે 'કોમન વોલ' (સામાન્ય દીવાલ) ધરાવતા પાડોશી ખૂણા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "બે વિરુદ્ધ કિરણો મળીને રેખા બનાવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એક જ બિંદુથી સામ-સામે જતાં બે કિરણો સીધી લીટી (રેખા) જ બનાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "કાટખૂણાના કોટિકોણનું માપ 90° હોય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કાટખૂણાના કોટિકોણનું માપ 0° હોય (90 - 90 = 0).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કાટખૂણો પોતે જ 90 છે, તો એમાં શું ઉમેરો તો 90 થાય? જવાબ 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "બે રેખાઓ સમાંતર હોય તો તેમની વચ્ચેનું અંતર બધે સમાન રહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રેલવેના પાટા યાદ કરો, તે હંમેશા સમાંતર હોય અને અંતર સરખું જ રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "જો બે ખૂણા આસન્નકોણ હોય, તો તે હંમેશા રૈખિક જોડ બનાવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. રૈખિક જોડ માટે આસન્નકોણ હોવાની સાથે તેમનો સરવાળો 180° થવો અનિવાર્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બધા જ રૈખિક જોડ આસન્નકોણ છે, પણ બધા આસન્નકોણ રૈખિક જોડ નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "એક રેખા પર અસંખ્ય બિંદુઓ આવેલા હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બિંદુઓનો સમૂહ મળીને જ રેખા બને છે, જેની કોઈ ગણતરી નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "જે બે ખૂણાઓના માપનો સરવાળો 180° થાય તે હંમેશા રૈખિક જોડ જ હોય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. તે પૂરકકોણ હોઈ શકે છે, પરંતુ જો તે પાસે-પાસે ન હોય તો રૈખિક જોડ ન કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રૈખિક જોડ માટે 'પાસે-પાસે' (આસન્ન) હોવું જરૂરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "બે રેખાઓ પરસ્પર છેદે ત્યારે બનતા સામસામેના ખૂણા અભિકોણ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અભિકોણ એટલે જ 'વર્ટિકલી ઓપોઝિટ' (સામસામેના).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "અંતઃયુગ્મકોણો છેદિકાની એક જ બાજુએ આવેલા હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. યુગ્મકોણો છેદિકાની વિરુદ્ધ બાજુએ આવેલા હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Z' આકાર જુઓ, એક ખૂણો ડાબે હોય તો બીજો જમણે હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "જો છેદિકા બે સમાંતર રેખાઓને છેદે, તો અનુકોણની પ્રત્યેક જોડ પૂરક હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. અનુકોણની જોડ 'સમાન' હોય છે, પૂરક નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અનુકોણ (F) = સરખા. અંતઃકોણ (C) = પૂરક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "બે રેખાઓ એકબીજાને છેદે તો છેદબિંદુ માત્ર એક જ હોય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બે સીધી લીટીઓ ક્યારેય એકથી વધુ વાર એકબીજાને છેદી ન શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "90° થી વધુ માપવાળા બે ખૂણા કોટિકોણ હોઈ શકે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કોટિકોણનો સરવાળો જ 90° હોય, તો ખૂણા 90° થી મોટા ન હોઈ શકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કોટિકોણ હંમેશા લઘુકોણ જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "રેખાની લંબાઈ માપી શકાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. રેખા અનંત હોય છે, માટે તેની લંબાઈ માપી શકાતી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): માત્ર 'રેખાખંડ' ની લંબાઈ જ માપી શકાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "65° ના પૂરકકોણનું માપ 115° છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 180 - 65 = 115. બાદબાકી ચેક કરી લેવી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "બે સમાંતર રેખાઓને એક છેદિકા છેદે તો કુલ 8 ખૂણા બને છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એક છેદબિંદુ પાસે 4 ખૂણા, તો બે છેદબિંદુ પાસે 4 + 4 = 8 ખૂણા બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "બાહ્યયુગ્મકોણની જોડના માપ હંમેશા સમાન હોય છે (જો રેખાઓ સમાંતર હોય).",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અંતઃયુગ્મકોણ હોય કે બાહ્યયુગ્મકોણ, જો સમાંતર રેખા હોય તો તે સમાન જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "પૂરકકોણની એક જોડમાં બંને ખૂણા કાટખૂણા હોઈ શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 90 + 90 = 180. આ એકમાત્ર એવી સ્થિતિ છે જ્યાં બંને સરખા હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "જો એક ખૂણો 40° નો હોય, તો તેનો અભિકોણ 140° નો થાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. અભિકોણ હંમેશા સમાન હોય, એટલે કે 40° જ થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અભિકોણ એટલે અરીસો (Mirror Image). અરીસામાં 40 હોય તો સામે પણ 40 જ દેખાય!</p></div>"
+    }
+  ]
+}
