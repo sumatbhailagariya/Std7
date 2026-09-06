@@ -1288,3 +1288,136 @@ var Std7_Maths_TrueFalse = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "ત્રિકોણ અને તેના ગુણધર્મો",
+  "questionType": "ખરાં ખોટાં જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ત્રિકોણને કુલ 6 અંગો હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (ત્રિકોણની 3 બાજુઓ અને 3 ખૂણાઓ મળીને કુલ 6 અંગો થાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ૩ બાજુ + ૩ ખૂણા = ૬ અંગો. શિરોબિંદુઓને અંગોમાં ગણવામાં આવતા નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ત્રિકોણની મધ્યગા હંમેશા શિરોબિંદુને તેની સામેની બાજુના મધ્યબિંદુ સાથે જોડે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'મધ્યગા' એટલે 'મધ્ય' બિંદુને જોડતી રેખા. મધ્યગા = સામેની બાજુનું અડધું કરનાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કોઈપણ ત્રિકોણને વધુમાં વધુ બે મધ્યગાઓ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કોઈપણ ત્રિકોણને કુલ 3 મધ્યગાઓ હોય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જેટલા શિરોબિંદુ એટલી મધ્યગા. ૩ શિરોબિંદુ = ૩ મધ્યગા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ત્રિકોણનો વેધ હંમેશા સામેની બાજુ સાથે 90° નો ખૂણો બનાવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'વેધ' એટલે 'લંબ'. લંબ હંમેશા કાટખૂણો (90°) જ બનાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ગુરુકોણ ત્રિકોણમાં વેધ હંમેશા ત્રિકોણની અંદરના ભાગમાં જ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (ગુરુકોણ ત્રિકોણમાં વેધ ત્રિકોણની બહારના ભાગમાં પણ હોઈ શકે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગુરુકોણ ત્રિકોણ 'નમેલો' હોય છે, તેથી તેનો શિરોબિંદુ પરથી દોરેલો વેધ બહાર પડે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ત્રિકોણનો બહિષ્કોણ તેના બે અંતઃસંમુખકોણના સરવાળા જેટલો હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બહારનો ખૂણો = સામેના બે અંદરના ખૂણાઓનો સરવાળો (બ = અ + અ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ત્રિકોણના ત્રણેય ખૂણાઓનો સરવાળો 360° થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (ત્રિકોણના ત્રણેય ખૂણાઓનો સરવાળો હંમેશા 180° થાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ત્રિકોણ = અડધો ચોરસ (180°). ચતુષ્કોણ હોય તો જ 360° થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સમબાજુ ત્રિકોણનો દરેક ખૂણો 60° નો હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બધી બાજુ સરખી તો બધા ખૂણા સરખા. 180 ÷ 3 = 60°.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "કાટકોણ ત્રિકોણમાં સૌથી મોટી બાજુને 'કર્ણ' કહેવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 90° ના ખૂણાની સામેની બાજુ એટલે કર્ણ, જે હંમેશા સૌથી લાંબી હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ત્રિકોણની કોઈપણ બે બાજુઓની લંબાઈનો સરવાળો ત્રીજી બાજુ કરતાં ઓછો હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (બે બાજુનો સરવાળો હંમેશા ત્રીજી બાજુ કરતાં 'વધારે' જ હોવો જોઈએ.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બે નાનાનો સરવાળો > મોટો. જો આવું ન હોય તો ત્રિકોણ બની જ ન શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સમદ્વિબાજુ ત્રિકોણમાં ત્રણેય બાજુઓ સમાન હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (સમદ્વિબાજુ ત્રિકોણમાં માત્ર બે બાજુઓ જ સમાન હોય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'દ્વિ' એટલે 'બે'. જેની 2 બાજુ સરખી તે સમદ્વિબાજુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "પાયથાગોરસનો ગુણધર્મ માત્ર કાટકોણ ત્રિકોણ માટે જ સાચો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાયથાગોરસ = 90° નો VIP પાસ. બીજા કોઈ ત્રિકોણમાં તે ચાલે નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "કોઈપણ ત્રિકોણમાં બે ખૂણા કાટખૂણા હોઈ શકે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (જો બે ખૂણા 90° ના હોય તો તેમનો સરવાળો જ 180° થઈ જાય, ત્રીજો ખૂણો બને જ નહીં.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એક મ્યાનમાં બે તલવાર ન રહે, તેમ એક ત્રિકોણમાં બે કાટખૂણા ન રહે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ત્રિકોણની બે બાજુઓની લંબાઈનો તફાવત ત્રીજી બાજુ કરતાં ઓછો હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સરવાળો ત્રીજી બાજુથી વધુ, તફાવત ત્રીજી બાજુથી ઓછો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "જે ત્રિકોણની ત્રણેય બાજુઓ અસમાન હોય તેને વિષમબાજુ ત્રિકોણ કહેવાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વિષમ = જુદું જુદું. બધું જ અલગ હોય તે વિષમબાજુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "પાયથાગોરસના સિદ્ધાંત મુજબ: (કર્ણ)² = (બાજુ₁)² + (બાજુ₂)².",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લાંબી બાજુનો વર્ગ = બે નાની બાજુઓના વર્ગોનો સરવાળો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "લઘુકોણ ત્રિકોણમાં ત્રણેય વેધ ત્રિકોણની અંદરના ભાગમાં હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લઘુકોણ ત્રિકોણ સીધો અને સરળ હોય છે, તેના બધા વેધ અંદર જ સમાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "એક ત્રિકોણની બાજુઓ 3 સેમી, 4 સેમી અને 5 સેમી હોય તો તે કાટકોણ ત્રિકોણ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (કારણ કે 3² + 4² = 9 + 16 = 25, અને 5² = 25. આમ પાયથાગોરસ પળાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 3, 4, 5 એ પાયથાગોરિયન ત્રિપુટી છે. આ હંમેશા યાદ રાખવી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ત્રિકોણનો બહિષ્કોણ અને તેની સાથેનો રૈખિક જોડનો ખૂણો પૂરક હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (બહિષ્કોણ અને તેની અંદરનો પાસેનો ખૂણો રૈખિક જોડ રચે છે, જેમનો સરવાળો 180° થાય.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સીધી રેખા પર બનતા બે પાડોશી ખૂણા હંમેશા 180° (પૂરક) જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "કાટકોણ ત્રિકોણમાં વેધ એ જ તેની બાજુ હોઈ શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (કાટકોણ ત્રિકોણમાં કાટખૂણો બનાવતી બે બાજુઓ એકબીજાના વેધ તરીકે કામ કરે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): L આકારના ત્રિકોણમાં ઊભી લીટી એ વેધ જ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ત્રિકોણના બહિષ્કોણનું માપ તેના દરેક અંતઃસંમુખકોણના માપ કરતાં ઓછું હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (બહિષ્કોણનું માપ દરેક અંતઃસંમુખકોણના માપ કરતાં હંમેશા 'વધારે' હોય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સરવાળો હંમેશા છૂટાછવાયા ભાગો કરતાં મોટો જ હોય. બહિષ્કોણ = મોટો ભાઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "બહિષ્કોણના શિરોબિંદુ આગળ છ બહિષ્કોણો બનાવી શકાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (દરેક શિરોબિંદુ આગળ 2, એમ કુલ 3 શિરોબિંદુ આગળ 6 બહિષ્કોણ મળે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 3 ખૂણા × 2 દિશા = 6 બહિષ્કોણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "જો ત્રિકોણની બાજુઓ 2 સેમી, 3 સેમી અને 5 સેમી હોય, તો ત્રિકોણ રચી શકાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ કે 2 + 3 = 5, જે ત્રીજી બાજુ જેટલું જ છે. સરવાળો 'વધુ' હોવો જોઈએ.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 2 + 3 > 5 હોવું જોઈએ. અહીં 5 = 5 છે, એટલે ત્રિકોણ ન બને, સીધી લીટી બને!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "સમબાજુ ત્રિકોણમાં વેધ અને મધ્યગા એક જ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમબાજુ ત્રિકોણ પરફેક્ટ હોય છે, તેમાં બધું જ સેન્ટરમાં હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ત્રિકોણને ચાર શિરોબિંદુઓ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (ત્રિકોણને માત્ર 3 જ શિરોબિંદુઓ હોય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નામમાં જ 'ત્રિ' એટલે ત્રણ છે. ત્રણ ખૂણા, ત્રણ બાજુ, ત્રણ શિરોબિંદુ.</p></div>"
+    }
+  ]
+}
