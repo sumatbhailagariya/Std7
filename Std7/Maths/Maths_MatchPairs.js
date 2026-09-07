@@ -497,3 +497,61 @@ var Std7_Maths_MatchPairs = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "સાદા સમીકરણો",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો: \nવિભાગ A: (1) x + 3 = 10, (2) x - 5 = 2 \nવિભાગ B: (a) x = 7, (b) x = 13",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) → (a), (2) → (a)</p><p>સમજૂતી: (1) x = 10 - 3 = 7, (2) x = 2 + 5 = 7.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘બાજુ બદલાય, નિશાની ઉલટાય’ – પ્લસ હોય તો સામે જાય તો માઈનસ થાય અને માઈનસ હોય તો પ્લસ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો: \nવિભાગ A: (1) 3x = 15, (2) x/2 = 10 \nવિભાગ B: (a) x = 5, (b) x = 20",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) → (a), (2) → (b)</p><p>સમજૂતી: (1) x = 15/3 = 5, (2) x = 10 × 2 = 20.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગુણાકારમાં હોય તે સામે ભાગાકારમાં જાય, અને ભાગાકારમાં હોય તે સામે ગુણાકારમાં જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિધાનને સમીકરણ સ્વરૂપે જોડો: \nવિભાગ A: (1) x ના 4 ગણામાં 5 ઉમેરતા 21 મળે, (2) x ના ચોથા ભાગમાંથી 2 બાદ કરતા 6 મળે \nવિભાગ B: (a) x/4 - 2 = 6, (b) 4x + 5 = 21",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) → (b), (2) → (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ગણા' એટલે ગુણાકાર અને 'ભાગ' એટલે છેદમાં સંખ્યા મૂકવી. 'ઉમેરતા' એટલે (+) અને 'બાદ કરતા' એટલે (-).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સમીકરણનો ઉકેલ શોધો: \nવિભાગ A: (1) 2m + 7 = 13, (2) 5y - 3 = 12 \nવિભાગ B: (a) m = 3, (b) y = 3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) → (a), (2) → (b)</p><p>સમજૂતી: (1) 2m = 13-7=6 => m=3. (2) 5y = 12+3=15 => y=3.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પહેલા સરવાળા-બાદબાકી વાળા પદને સામે લઈ જવા, પછી ગુણાકાર-ભાગાકાર વાળા પદનો વહીવટ કરવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ચલની કિંમત ચકાસો: \nવિભાગ A: (1) 10p = 100, (2) p/10 = 10 \nવિભાગ B: (a) p = 10, (b) p = 100",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) → (a), (2) → (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો શૂન્યવાળી સંખ્યા હોય તો ગુણાકારમાં શૂન્ય વધે અને ભાગાકારમાં શૂન્ય ઉડી જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વ્યવહારુ કોયડાના સમીકરણો: \nવિભાગ A: (1) ઇરફાન પાસે પરમિતની લખોટીના 5 ગણા કરતા 7 વધુ લખોટી છે (કુલ 37), (2) લક્ષ્મીના પિતા 49 વર્ષના છે, તે લક્ષ્મીની ઉંમરના 3 ગણાથી 4 વર્ષ મોટા છે. \nવિભાગ B: (a) 3y + 4 = 49, (b) 5m + 7 = 37",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) → (b), (2) → (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'કરતા વધુ' એટલે (+) અને 'કરતા ઓછા' એટલે (-). જેની સાથે સરખામણી હોય તેને ધારી લેવો (જેમ કે પરમિત = m).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સમીકરણની સાચી કિંમત: \nવિભાગ A: (1) 4(m + 3) = 20, (2) 3(n - 5) = -21 \nવિભાગ B: (a) m = 2, (b) n = -2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) → (a), (2) → (b)</p><p>સમજૂતી: (1) m+3 = 20/4=5 => m=2. (2) n-5 = -21/3 = -7 => n = -7+5 = -2.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કૌંસની બહારની સંખ્યાને પહેલા સામેના છેદમાં મોકલી દો, ગણતરી ટૂંકી થઈ જશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સંખ્યાઓનું અનુમાન: \nવિભાગ A: (1) એક સંખ્યાના 6 ગણામાંથી 5 બાદ કરતા 7 મળે, (2) ચોથા ભાગની સંખ્યામાં 3 ઉમેરતા 5 મળે \nવિભાગ B: (a) x/4 + 3 = 5, (b) 6x - 5 = 7",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) → (b), (2) → (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'મળે છે' અથવા 'પરિણામ' શબ્દ હંમેશા '=' ની જમણી બાજુ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ચલની કિંમત શોધો: \nવિભાગ A: (1) 0 = 16 + 4(m - 6), (2) 4 = 5(p - 2) \nવિભાગ B: (a) m = 2, (b) p = 14/5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) → (a), (2) → (b)</p><p>સમજૂતી: (1) -16 = 4(m-6) => -4 = m-6 => m=2.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે શૂન્ય સામે હોય ત્યારે પદોની અદલાબદલી કરવામાં નિશાનીનું ખાસ ધ્યાન રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સમીકરણ બનાવવું: \nવિભાગ A: (1) x = 2 થી શરૂ થતા ત્રણ સમીકરણ પૈકી એક, (2) x = -2 થી શરૂ થતા ત્રણ સમીકરણ પૈકી એક \nવિભાગ B: (a) 10x + 2 = 22, (b) 3x + 10 = 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) → (a), (2) → (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમીકરણ સાચું છે કે નહીં તે જાણવા માટે x ની કિંમત સમીકરણમાં મૂકી જુઓ, જો ડાબા = જબા થાય તો જવાબ સાચો!</p></div>"
+    }
+  ]
+}
