@@ -929,3 +929,111 @@ var Std7_Maths_MatchPairs = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "સંમેય સંખ્યાઓ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> 1. $\\frac{3}{4}$ <br> 2. $-\\frac{5}{7}$ <br><br> વિભાગ 'બ': <br> (A) ઋણ સંમેય સંખ્યા <br> (B) ધન સંમેય સંખ્યા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) ધન સંમેય સંખ્યા <br>2 - (A) ઋણ સંમેય સંખ્યા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો અંશ અને છેદ બંનેના ચિહ્નો સમાન હોય તો તે 'ધન' (+) અને જો અલગ હોય તો તે 'ઋણ' (-) સંમેય સંખ્યા કહેવાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો (પ્રમાણિત સ્વરૂપ): <br> 1. $\\frac{15}{25}$ <br> 2. $\\frac{-18}{27}$ <br><br> વિભાગ 'બ': <br> (A) $\\frac{-2}{3}$ <br> (B) $\\frac{3}{5}$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) [15/25 = 3/5] <br>2 - (A) [-18/27 = -2/3]</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંશ અને છેદને તેમના ગુ.સા.અ. વડે ભાગો એટલે સીધું પ્રમાણિત (નાનું) સ્વરૂપ મળી જાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો (વિરોધી સંખ્યા): <br> 1. $\\frac{2}{3}$ ની વિરોધી <br> 2. $-\\frac{4}{9}$ ની વિરોધી <br><br> વિભાગ 'બ': <br> (A) $\\frac{4}{9}$ <br> (B) $-\\frac{2}{3}$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) $-\\frac{2}{3}$ <br>2 - (A) $\\frac{4}{9}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિરોધી સંખ્યા એટલે 'ચિહ્ન બદલો' (+) હોય તો (-) કરો, અને (-) હોય તો (+) કરો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો (વ્યસ્ત સંખ્યા): <br> 1. $\\frac{5}{8}$ નો વ્યસ્ત <br> 2. $-3$ નો વ્યસ્ત <br><br> વિભાગ 'બ': <br> (A) $-\\frac{1}{3}$ <br> (B) $\\frac{8}{5}$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) $\\frac{8}{5}$ <br>2 - (A) $-\\frac{1}{3}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યસ્ત એટલે 'ઉલટ-સુલટ'. અંશને છેદમાં અને છેદને અંશમાં લઈ જાઓ. ચિહ્ન બદલશો નહીં! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો (કિંમત): <br> 1. $\\frac{0}{5}$ <br> 2. $\\frac{5}{5}$ <br><br> વિભાગ 'બ': <br> (A) 1 <br> (B) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) 0 <br>2 - (A) 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંશમાં 0 હોય તો જવાબ હંમેશા 0 આવે. અંશ અને છેદ સરખા હોય તો જવાબ હંમેશા 1 આવે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો (સંખ્યા રેખા પર સ્થાન): <br> 1. ધન સંમેય સંખ્યા <br> 2. ઋણ સંમેય સંખ્યા <br><br> વિભાગ 'બ': <br> (A) શૂન્યની ડાબી બાજુએ <br> (B) શૂન્યની જમણી બાજુએ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) શૂન્યની જમણી બાજુએ <br>2 - (A) શૂન્યની ડાબી બાજુએ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જમણી બાજુ = જલસા (ધન +) અને ડાબી બાજુ = ડર (ઋણ -). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો (સમાન સંમેય સંખ્યા): <br> 1. $\\frac{-1}{2}$ <br> 2. $\\frac{2}{3}$ <br><br> વિભાગ 'બ': <br> (A) $\\frac{10}{15}$ <br> (B) $\\frac{-4}{8}$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) $\\frac{-4}{8}$ <br>2 - (A) $\\frac{10}{15}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંશ અને છેદને સમાન સંખ્યા વડે ગુણવાથી સમાન સંમેય સંખ્યા મળે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો (સરવાળો): <br> 1. $\\frac{1}{4} + \\frac{3}{4}$ <br> 2. $\\frac{5}{2} + (-\\frac{5}{2})$ <br><br> વિભાગ 'બ': <br> (A) 0 <br> (B) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) 1 <br>2 - (A) 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદ સમાન હોય તો અંશનો સીધો સરવાળો કરો. કોઈપણ સંખ્યામાં તેની વિરોધી સંખ્યા ઉમેરો તો જવાબ શૂન્ય જ આવે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો (ગુણાકાર): <br> 1. $\\frac{2}{3} \\times \\frac{3}{2}$ <br> 2. $\\frac{-4}{5} \\times 0$ <br><br> વિભાગ 'બ': <br> (A) 0 <br> (B) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) 1 <br>2 - (A) 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યસ્ત સંખ્યાઓનો ગુણાકાર હંમેશા 1 થાય અને શૂન્ય સાથેનો ગુણાકાર હંમેશા 0 થાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો (દશાંશ સ્વરૂપ): <br> 1. $\\frac{1}{2}$ <br> 2. $\\frac{1}{4}$ <br><br> વિભાગ 'બ': <br> (A) 0.25 <br> (B) 0.5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) 0.5 <br>2 - (A) 0.25</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અડધું એટલે 0.50 અને પા એટલે 0.25. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો (સંમેય સંખ્યાની ઓળખ): <br> 1. 5 <br> 2. 0.3 <br><br> વિભાગ 'બ': <br> (A) $\\frac{3}{10}$ <br> (B) $\\frac{5}{1}$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) $\\frac{5}{1}$ <br>2 - (A) $\\frac{3}{10}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરેક પૂર્ણાંક સંખ્યાના છેદમાં 1 હોય જ છે. દશાંશ હોય તો પોઈન્ટ પછી જેટલા આંકડા હોય એટલા મીંડા છેદમાં આવે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો (ચિહ્ન): <br> 1. $\\frac{-3}{-4}$ <br> 2. $\\frac{3}{-4}$ <br><br> વિભાગ 'બ': <br> (A) ઋણ સંમેય સંખ્યા <br> (B) ધન સંમેય સંખ્યા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) ધન સંમેય સંખ્યા <br>2 - (A) ઋણ સંમેય સંખ્યા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો અંશ અને છેદમાં બંને જગ્યાએ (-) હોય, તો તે (+) થઈ જાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> 1. $\\frac{2}{7} \\div \\frac{2}{7}$ <br> 2. $\\frac{2}{7} - \\frac{2}{7}$ <br><br> વિભાગ 'બ': <br> (A) 0 <br> (B) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) 1 <br>2 - (A) 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાન સંખ્યાનો ભાગાકાર 1 અને સમાન સંખ્યાની બાદબાકી 0 થાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો (વ્યસ્ત અસ્તિત્વ): <br> 1. 0 નો વ્યસ્ત <br> 2. 1 નો વ્યસ્ત <br><br> વિભાગ 'બ': <br> (A) 1 <br> (B) અસ્તિત્વ નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) અસ્તિત્વ નથી <br>2 - (A) 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શૂન્ય એકમાત્ર એવી સંખ્યા છે જેનો વ્યસ્ત ન મળે કારણકે છેદમાં 0 વ્યાખ્યાયિત નથી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો (પ્રમાણિત સ્વરૂપમાં છેદ): <br> 1. $\\frac{5}{-8}$ નું સાચું રૂપ <br> 2. $\\frac{-10}{-20}$ નું સાચું રૂપ <br><br> વિભાગ 'બ': <br> (A) $\\frac{1}{2}$ <br> (B) $-\\frac{5}{8}$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) $-\\frac{5}{8}$ <br>2 - (A) $\\frac{1}{2}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રમાણિત સ્વરૂપમાં છેદ હંમેશા 'ધન' (+) રાખવામાં આવે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો (નાની-મોટી સંખ્યા): <br> 1. $-\\frac{1}{2}$ અને $\\frac{1}{2}$ <br> 2. $-5$ અને $-2$ <br><br> વિભાગ 'બ': <br> (A) $-2$ મોટું છે <br> (B) $\\frac{1}{2}$ મોટું છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) $\\frac{1}{2}$ મોટું છે <br>2 - (A) $-2$ મોટું છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઋણ સંખ્યામાં જે નાની દેખાય તે વાસ્તવમાં મોટી હોય. અને ધન હંમેશા ઋણ કરતા મોટી હોય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો (ક્રિયા): <br> 1. $\\frac{a}{b} + \\frac{-a}{b}$ <br> 2. $\\frac{a}{b} \\times \\frac{b}{a}$ <br><br> વિભાગ 'બ': <br> (A) તટસ્થ ગુણાકાર (1) <br> (B) તટસ્થ સરવાળો (0)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) 0 <br>2 - (A) 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ સરવાળા અને ગુણાકારના તટસ્થ ઘટકો મેળવવાની રીત છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો (સંમેય સંખ્યાના પ્રકાર): <br> 1. $\\frac{22}{7}$ <br> 2. $0$ <br><br> વિભાગ 'બ': <br> (A) ન ધન, ન ઋણ <br> (B) ધન સંમેય સંખ્યા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) ધન સંમેય સંખ્યા <br>2 - (A) ન ધન, ન ઋણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '0' એ તટસ્થ છે, તેને કોઈ ચિહ્ન હોતું નથી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો (વ્યસ્ત): <br> 1. $-1$ નો વ્યસ્ત <br> 2. $1$ નો વ્યસ્ત <br><br> વિભાગ 'બ': <br> (A) 1 <br> (B) -1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) -1 <br>2 - (A) 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 અને -1 એ એવી સંખ્યાઓ છે જેનો વ્યસ્ત તે પોતે જ છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો (ગુણાકાર): <br> 1. $\\frac{3}{5} \\times \\frac{-5}{3}$ <br> 2. $\\frac{-3}{5} \\times \\frac{-5}{3}$ <br><br> વિભાગ 'બ': <br> (A) 1 <br> (B) -1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) -1 <br>2 - (A) 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બે ઋણ સંખ્યાનો ગુણાકાર 'ધન' (+) થાય. જો એક જ ઋણ હોય તો જવાબ 'ઋણ' (-) આવે. (NJ Classes)</p></div>"
+    }
+  ]
+}
