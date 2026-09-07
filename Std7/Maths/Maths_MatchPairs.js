@@ -555,3 +555,111 @@ var Std7_Maths_MatchPairs = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "રેખાઓ અને ખૂણાઓ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) કોટિકોણના માપનો સરવાળો <br> (2) પૂરકકોણના માપનો સરવાળો <br><br> વિભાગ B: <br> (A) 180° <br> (B) 90°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> 'કો' એટલે કોટિકોણ (નાનો શબ્દ) = 90°, 'પૂ' એટલે પૂરકકોણ (મોટો શબ્દ) = 180°.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) 30° ના ખૂણાનો કોટિકોણ <br> (2) 30° ના ખૂણાનો પૂરકકોણ <br><br> વિભાગ B: <br> (A) 150° <br> (B) 60°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> કોટિકોણ માટે 90 માંથી બાદ કરો (90-30=60) અને પૂરકકોણ માટે 180 માંથી બાદ કરો (180-30=150).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) રૈખિક જોડના ખૂણા <br> (2) અભિકોણો <br><br> વિભાગ B: <br> (A) હંમેશા સમાન હોય <br> (B) સરવાળો 180° થાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> 'X' આકાર એટલે અભિકોણ (સરખા), સીધી રેખા એટલે રૈખિક જોડ (180°).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો (સમાંતર રેખાઓ માટે): <br> (1) અનુકોણની જોડ <br> (2) અંત:યુગ્મકોણની જોડ <br><br> વિભાગ B: <br> (A) 'Z' આકાર બનાવે <br> (B) 'F' આકાર બનાવે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> F = અનુકોણ, Z = યુગ્મકોણ (અંત: કે બાહ્ય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) 90° ના ખૂણાનો કોટિકોણ <br> (2) 90° ના ખૂણાનો પૂરકકોણ <br><br> વિભાગ B: <br> (A) 90° <br> (B) 0°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> કાટખૂણાનો કોટિકોણ શૂન્ય અને પૂરકકોણ પોતે કાટખૂણો જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) છેદિકાની એક જ બાજુના અંત:કોણ <br> (2) અભિકોણની જોડ <br><br> વિભાગ B: <br> (A) પરસ્પર સમાન <br> (B) પરસ્પર પૂરક (180°)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> 'C' આકાર એટલે છેદિકાની એક જ બાજુના અંત:કોણ, જેનો સરવાળો હંમેશા 180° (પૂરક) થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) 45° ના ખૂણાનો કોટિકોણ <br> (2) 135° ના ખૂણાનો પૂરકકોણ <br><br> વિભાગ B: <br> (A) 45° <br> (B) 45°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> 45 અને 45 નો સરવાળો 90 થાય, 135 અને 45 નો સરવાળો 180 થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) લઘુકોણનો પૂરકકોણ <br> (2) ગુરુકોણનો પૂરકકોણ <br><br> વિભાગ B: <br> (A) લઘુકોણ <br> (B) ગુરુકોણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> સરવાળો 180 કરવો હોય તો નાનો (લઘુ) હોય તો બીજો મોટો (ગુરુ) જ જોઈએ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) બે કાટખૂણા <br> (2) બે લઘુકોણ <br><br> વિભાગ B: <br> (A) ક્યારેય પૂરક ન હોઈ શકે <br> (B) હંમેશા પૂરક હોય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> 90+90=180 (પૂરક), પણ બે લઘુકોણ (દા.ત. 89+89) ક્યારેય 180 ન થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) રૈખિક જોડ રચતા ખૂણા <br> (2) આસન્નકોણ <br><br> વિભાગ B: <br> (A) સામાન્ય ભુજ અને સામાન્ય શિરોબિંદુ હોય <br> (B) આસન્નકોણ પણ હોય અને પૂરક પણ હોય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> દરેક રૈખિક જોડ આસન્નકોણ છે, પણ દરેક આસન્નકોણ રૈખિક જોડ નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) 80° નો કોટિકોણ <br> (2) 100° નો પૂરકકોણ <br><br> વિભાગ B: <br> (A) 10° <br> (B) 80°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> કોટિકોણ = 90 - ખૂણો, પૂરકકોણ = 180 - ખૂણો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) બાહ્ય યુગ્મકોણ <br> (2) અંત:કોણ <br><br> વિભાગ B: <br> (A) છેદિકાની અંદરના ભાગમાં <br> (B) છેદિકાની બહારના ભાગમાં અને વિરુદ્ધ બાજુએ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> 'બાહ્ય' એટલે બહારનો ભાગ, 'અંત:' એટલે અંદરનો ભાગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) 65° નો પૂરકકોણ <br> (2) 115° નો પૂરકકોણ <br><br> વિભાગ B: <br> (A) 115° <br> (B) 65°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> જો બે ખૂણાનો સરવાળો 180 થાય, તો તેઓ એકબીજાના પૂરકકોણ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) છેદતી રેખાઓથી બનતા અભિકોણ <br> (2) રેખા પરના રૈખિક જોડના ખૂણા <br><br> વિભાગ B: <br> (A) સપ્લિમેન્ટરી (પૂરક) <br> (B) સમાન (ઇક્વલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> કાતર (X) જેવો આકાર અભિકોણ બનાવે જે હંમેશા સરખા જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) જે ખૂણો તેના કોટિકોણ જેટલો જ હોય <br> (2) જે ખૂણો તેના પૂરકકોણ જેટલો જ હોય <br><br> વિભાગ B: <br> (A) 90° <br> (B) 45°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> 90 ના અડધા 45, 180 ના અડધા 90. અડધા કરવાથી સમાન ખૂણા મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) 0° નો પૂરકકોણ <br> (2) 180° નો પૂરકકોણ <br><br> વિભાગ B: <br> (A) 0° <br> (B) 180°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> સરવાળો 180 કરવા માટે 0 માં 180 ઉમેરવા પડે અને 180 માં 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) બે સમાંતર રેખાઓને છેદતી રેખા <br> (2) બે રેખાઓ એક બિંદુમાં મળે ત્યારે <br><br> વિભાગ B: <br> (A) છેદતી રેખાઓ <br> (B) છેદિકા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> જે રેખા બે કે તેથી વધુ રેખાઓને છેદે તેને 'છેદિકા' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) 20° નો કોટિકોણ <br> (2) 70° નો પૂરકકોણ <br><br> વિભાગ B: <br> (A) 110° <br> (B) 70°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> 20 + 70 = 90 (કોટિ), 70 + 110 = 180 (પૂરક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) અનુકોણની કેટલી જોડ હોય? <br> (2) અંત:યુગ્મકોણની કેટલી જોડ હોય? <br><br> વિભાગ B: <br> (A) 2 <br> (B) 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> અનુકોણ 4 (F આકારો), યુગ્મકોણ 2 અંદરના અને 2 બહારના (Z આકારો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> (1) રૈખિક જોડનો એક ખૂણો કાટખૂણો હોય તો <br> (2) રૈખિક જોડનો એક ખૂણો લઘુકોણ હોય તો <br><br> વિભાગ B: <br> (A) બીજો ખૂણો ગુરુકોણ હોય <br> (B) બીજો ખૂણો પણ કાટખૂણો હોય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> સરવાળો 180 ફિક્સ છે, એટલે એક ઘટે તો બીજાએ વધવું જ પડે (લઘુ-ગુરુ) અને કાટખૂણો હોય તો સામે કાટખૂણો જ જોઈએ.</p></div>"
+    }
+  ]
+}
