@@ -1037,3 +1037,86 @@ var Std7_Maths_MatchPairs = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "પરિમિતિ અને ક્ષેત્રફળ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>1. ચોરસનું ક્ષેત્રફળ <br>2. લંબચોરસનું ક્ષેત્રફળ <br>3. સમાંતરબાજુ ચતુષ્કોણનું ક્ષેત્રફળ <br>4. ત્રિકોણનું ક્ષેત્રફળ <br><br>વિભાગ 'બ':<br>(A) લંબાઈ × પહોળાઈ <br>(B) ½ × પાયો × વેધ <br>(C) બાજુ × બાજુ <br>(D) પાયો × ઊંચાઈ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - (C), 2 - (A), 3 - (D), 4 - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ક્ષેત્રફળ એટલે 'અંદરની જગ્યા'. યાદ રાખો: ચતુષ્કોણના ક્ષેત્રફળમાં પાયો × ઊંચાઈ આવે, જ્યારે ત્રિકોણ એ ચતુષ્કોણથી અડધો હોવાથી તેમાં 'અડધો (1/2)' ગુણાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો (માપના એકમો):<br>1. 1 સેમી² <br>2. 1 મીટર² <br>3. 1 હેક્ટર <br>4. 1 કિમી² <br><br>વિભાગ 'બ':<br>(A) 10,000 મીટર² <br>(B) 100 મીમી² <br>(C) 1,000,000 મીટર² <br>(D) 10,000 સેમી²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - (B), 2 - (D), 3 - (A), 4 - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>જ્યારે એકમનો વર્ગ (Square) કરવાનો હોય, ત્યારે શૂન્યની સંખ્યા બમણી થઈ જાય. જેમ કે 1 મીટર = 100 સેમી, તો 1 મીટર² = 100 × 100 = 10,000 સેમી².</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વર્તુળ સંબંધિત સૂત્રો જોડો:<br>1. વર્તુળનો પરિધ <br>2. વર્તુળનું ક્ષેત્રફળ <br>3. અર્ધવર્તુળની ચાપની લંબાઈ <br>4. વ્યાસ (d) <br><br>વિભાગ 'બ':<br>(A) πr² <br>(B) 2r <br>(C) 2πr <br>(D) πr",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - (C), 2 - (A), 3 - (D), 4 - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>પરિધ (Circumference) માં '2' આગળ આવે (2πr), અને ક્ષેત્રફળ (Area) માં '2' ઘાતમાં ઉપર આવે (πr²). આ કન્ફ્યુઝન દૂર કરવાની બેસ્ટ રીત છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પરિમિતિના સૂત્રો જોડો:<br>1. ચોરસની પરિમિતિ <br>2. લંબચોરસની પરિમિતિ <br>3. સમબાજુ ત્રિકોણની પરિમિતિ <br>4. નિયમિત પંચકોણની પરિમિતિ <br><br>વિભાગ 'બ':<br>(A) 3 × બાજુ <br>(B) 4 × બાજુ <br>(C) 5 × બાજુ <br>(D) 2 × (લંબાઈ + પહોળાઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - (B), 2 - (D), 3 - (A), 4 - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>પરિમિતિ એટલે 'બધી બાજુઓનો સરવાળો'. નિયમિત આકાર હોય ત્યારે (બાજુઓની સંખ્યા × એક બાજુનું માપ) કરી નાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "જો બાજુનું માપ 5 સેમી હોય તો:<br>1. ચોરસની પરિમિતિ <br>2. ચોરસનું ક્ષેત્રફળ <br>3. સમબાજુ ત્રિકોણની પરિમિતિ <br>4. લંબચોરસનું ક્ષેત્રફળ (પહોળાઈ 2 સેમી હોય તો) <br><br>વિભાગ 'બ':<br>(A) 15 સેમી <br>(B) 25 સેમી² <br>(C) 20 સેમી <br>(D) 10 સેમી²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - (C), 2 - (B), 3 - (A), 4 - (D)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>એકમ પર ખાસ ધ્યાન આપો: પરિમિતિનો એકમ 'સેમી' હોય અને ક્ષેત્રફળનો એકમ હંમેશા 'સેમી²' (ચોરસ સેમી) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વર્તુળ માટે (ત્રિજ્યા r = 7 સેમી લો, π = 22/7):<br>1. વ્યાસ <br>2. પરિધ <br>3. ક્ષેત્રફળ <br>4. અર્ધવર્તુળનો પરિધ (માત્ર ચાપ) <br><br>વિભાગ 'બ':<br>(A) 44 સેમી <br>(B) 22 સેમી <br>(C) 14 સેમી <br>(D) 154 સેમી²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - (C), 2 - (A), 3 - (D), 4 - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>જ્યારે ત્રિજ્યા 7 ના ગુણકમાં હોય, ત્યારે પરિધ હંમેશા 44 ના ગુણકમાં અને ક્ષેત્રફળ 154 ના ગુણકમાં આવશે. આ જાદુઈ આંકડા યાદ રાખી લો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સમાંતરબાજુ ચતુષ્કોણ અને ત્રિકોણના માપ:<br>1. પાયો = 10, ઊંચાઈ = 5 (સમાંતરબાજુ ચતુષ્કોણ ક્ષેત્રફળ) <br>2. પાયો = 10, ઊંચાઈ = 5 (ત્રિકોણનું ક્ષેત્રફળ) <br>3. પાયો = 8, ક્ષેત્રફળ = 40 (સમાંતરબાજુ ચતુષ્કોણ ઊંચાઈ) <br>4. પાયો = 8, ક્ષેત્રફળ = 20 (ત્રિકોણની ઊંચાઈ) <br><br>વિભાગ 'બ':<br>(A) 25 <br>(B) 5 <br>(C) 50 <br>(D) 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - (C), 2 - (A), 3 - (D), 4 - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>યાદ રાખો, સમાન પાયા અને સમાન ઊંચાઈવાળા ત્રિકોણનું ક્ષેત્રફળ સમાંતરબાજુ ચતુષ્કોણ કરતા હંમેશા અડધું જ થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "કિંમતો અને સંજ્ઞાઓ:<br>1. π (પાઈ) ની આશરે કિંમત <br>2. વર્તુળના કેન્દ્રથી વર્તુળ પરના બિંદુનું અંતર <br>3. ત્રિજ્યાનું બમણું માપ <br>4. π ની બીજી કિંમત <br><br>વિભાગ 'બ':<br>(A) ત્રિજ્યા (r) <br>(B) 22/7 <br>(C) 3.14 <br>(D) વ્યાસ (d)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - (B), 2 - (A), 3 - (D), 4 - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>π એ પરિધ અને વ્યાસનો ગુણોત્તર છે. દાખલામાં જો 7 ના ગુણકમાં ત્રિજ્યા હોય તો 22/7 લેવી, નહીંતર 3.14 લેવી ગણતરી સહેલી પડશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "લંબચોરસની ગણતરી (લંબાઈ l, પહોળાઈ b):<br>1. l=10, b=5 (પરિમિતિ) <br>2. l=10, b=5 (ક્ષેત્રફળ) <br>3. l=20, b=10 (પરિમિતિ) <br>4. l=20, b=10 (ક્ષેત્રફળ) <br><br>વિભાગ 'બ':<br>(A) 50 એકમ² <br>(B) 30 એકમ <br>(C) 200 એકમ² <br>(D) 60 એકમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - (B), 2 - (A), 3 - (D), 4 - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>પરિમિતિ માટે લંબાઈ-પહોળાઈનો સરવાળો કરી ડબલ કરો. ક્ષેત્રફળ માટે બંનેનો સીધો ગુણાકાર કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિવિધ આકારોના ક્ષેત્રફળના પાયાના સંબંધો:<br>1. બે સમાન ત્રિકોણ ભેગા મળીને <br>2. સમાંતરબાજુ ચતુષ્કોણનો વિકર્ણ <br>3. ચોરસના ચાર સરખા ભાગ <br>4. લંબચોરસનો વિકર્ણ <br><br>વિભાગ 'બ':<br>(A) બે સમાન ક્ષેત્રફળવાળા ત્રિકોણ બનાવે <br>(B) સમાંતરબાજુ ચતુષ્કોણ બનાવે <br>(C) બે સમાન કાટકોણ ત્રિકોણ બનાવે <br>(D) ચાર સમાન ક્ષેત્રફળવાળા ત્રિકોણ બનાવે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - (B), 2 - (A), 3 - (D), 4 - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>કોઈપણ સમાંતરબાજુ ચતુષ્કોણને વિકર્ણ દ્વારા કાપતા બે 'એકરૂપ' (Congruent) ત્રિકોણ મળે, જેનું ક્ષેત્રફળ હંમેશા સમાન હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "જગ્યા અને રોકાયેલું માપ:<br>1. આકૃતિ દ્વારા ઘેરાયેલી સપાટીનું માપ <br>2. આકૃતિની હદ દર્શાવતી રેખાખંડોની લંબાઈનો સરવાળો <br>3. 100 મીટર બાજુવાળા ચોરસનું ક્ષેત્રફળ <br>4. વર્તુળની ફરતેનું અંતર <br><br>વિભાગ 'બ':<br>(A) પરિમિતિ <br>(B) પરિધ <br>(C) ક્ષેત્રફળ <br>(D) 1 હેક્ટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - (C), 2 - (A), 3 - (D), 4 - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>હદ (Boundary) = પરિમિતિ, અને અંદરનો ભાગ (Region) = ક્ષેત્રફળ. વર્તુળ માટે પરિમિતિને જ 'પરિધ' કહેવાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "એકમ પરિવર્તન (ઉલટું):<br>1. 10,000 સેમી² <br>2. 1,000,000 મીટર² <br>3. 100 મીમી² <br>4. 10,000 મીટર² <br><br>વિભાગ 'બ':<br>(A) 1 સેમી² <br>(B) 1 હેક્ટર <br>(C) 1 મીટર² <br>(D) 1 કિમી²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - (C), 2 - (D), 3 - (A), 4 - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>મીટર² માંથી હેક્ટરમાં જવા માટે 10,000 વડે ભાગો. ખેતરનું માપ સામાન્ય રીતે હેક્ટરમાં મપાય છે, આ વ્યવહારુ યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ત્રિકોણના પાયા અને વેધ (Area = 30 cm²):<br>1. પાયો = 10 સેમી <br>2. પાયો = 6 સેમી <br>3. પાયો = 12 સેમી <br>4. પાયો = 15 સેમી <br><br>વિભાગ 'બ':<br>(A) ઊંચાઈ = 5 સેમી <br>(B) ઊંચાઈ = 10 સેમી <br>(C) ઊંચાઈ = 6 સેમી <br>(D) ઊંચાઈ = 4 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - (C), 2 - (B), 3 - (A), 4 - (D)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ત્રિકોણમાં ક્ષેત્રફળને 2 વડે ગુણીને પાયા વડે ભાગતા ઊંચાઈ મળે. (30 × 2 = 60; હવે 60 ને પાયા વડે ભાગો!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વર્તુળની ત્રિજ્યા અને વ્યાસનો સંબંધ:<br>1. r = 3.5 સેમી <br>2. d = 21 સેમી <br>3. r = 10 સેમી <br>4. d = 5 સેમી <br><br>વિભાગ 'બ':<br>(A) r = 10.5 સેમી <br>(B) d = 7 સેમી <br>(C) r = 2.5 સેમી <br>(D) d = 20 સેમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - (B), 2 - (A), 3 - (D), 4 - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>વ્યાસ એ ત્રિજ્યાનો મોટો ભાઈ છે (બમણો), અને ત્રિજ્યા એ વ્યાસની અડધી બહેન છે. d = 2r સૂત્ર ક્યારેય ન ભૂલતા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "પાયાના ખ્યાલો:<br>1. π <br>2. ક્ષેત્રફળનો એકમ <br>3. પરિમિતિનો એકમ <br>4. લંબચોરસની ચારે બાજુનો સરવાળો <br><br>વિભાગ 'બ':<br>(A) સેમી <br>(B) અચળાંક <br>(C) પરિમિતિ <br>(D) ચોરસ એકમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - (B), 2 - (D), 3 - (A), 4 - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>એકમમાં જો ઘાત 2 હોય તો તે ક્ષેત્રફળ જ હોય. ગણિતમાં એકમ જ તમને અડધો જવાબ કહી દે છે!</p></div>"
+    }
+  ]
+}
