@@ -1120,3 +1120,86 @@ var Std7_Maths_MatchPairs = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "બીજગણિતીય પદાવલિ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br><b>વિભાગ A:</b><br>(1) $5x^2$<br>(2) $x + y$<br>(3) $a + b + c$<br>(4) $100$<br><br><b>વિભાગ B:</b><br>(A) દ્વિપદી<br>(B) અચલ પદાવલિ<br>(C) એકપદી<br>(D) ત્રિપદી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - A, (3) - D, (4) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>પદોની સંખ્યા ગણો: 1 પદ = એકપદી, 2 પદ = દ્વિપદી, 3 પદ = ત્રિપદી. જો માત્ર સંખ્યા હોય તો તે અચલ પદ છે!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "પદાવલિમાં પદોના સહગુણકો સાથે જોડો:<br><b>વિભાગ A (પદ):</b><br>(1) $4x$<br>(2) $-7y$<br>(3) $\\frac{x}{2}$<br>(4) $-z$<br><br><b>વિભાગ B (સહગુણક):</b><br>(A) $-7$<br>(B) $4$<br>(C) $-1$<br>(D) $\\frac{1}{2}$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A, (3) - D, (4) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>ચલની આગળ જે સંખ્યા (નિશાની સાથે) દેખાય તે સહગુણક. જો કશું ન હોય તો 1, અને ખાલી '$-$' હોય તો $-1$ સમજવો!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સજાતીય પદોની જોડીઓ જોડો:<br><b>વિભાગ A:</b><br>(1) $7x$<br>(2) $4xy$<br>(3) $a^2b$<br>(4) $100y$<br><br><b>વિભાગ B:</b><br>(A) $-5yx$<br>(B) $12x$<br>(C) $3y$<br>(D) $2ba^2$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A, (3) - D, (4) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>સજાતીય પદોમાં ફક્ત ચલ અને તેની ઘાત સરખી હોવી જોઈએ. ચલનો ક્રમ બદલાય (જેમ કે $xy$ અને $yx$) તો પણ તે સજાતીય જ કહેવાય!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જો $x = 2$ હોય, તો પદાવલિની કિંમત સાથે જોડો:<br><b>વિભાગ A:</b><br>(1) $x + 3$<br>(2) $2x - 1$<br>(3) $x^2$<br>(4) $10 - x$<br><br><b>વિભાગ B:</b><br>(A) $3$<br>(B) $5$<br>(C) $8$<br>(D) $4$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A, (3) - D, (4) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>જ્યાં $x$ દેખાય ત્યાં કૌંસમાં $(2)$ મૂકીને સાદું ગણિત કરો. $x^2$ એટલે $2 \\times 2 = 4$ થાય!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પદાવલિઓના સરવાળા મેળવો:<br><b>વિભાગ A:</b><br>(1) $x+y$ અને $x-y$<br>(2) $2a$ અને $3a$<br>(3) $xy$ અને $xy$<br>(4) $5x$ અને $-2x$<br><br><b>વિભાગ B:</b><br>(A) $2xy$<br>(B) $3x$<br>(C) $2x$<br>(D) $5a$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - D, (3) - A, (4) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>સરવાળામાં સજાતીય પદોના સહગુણકોનો જ સરવાળો-બાદબાકી કરો. વિરોધી પદો (જેમ કે $+y$ અને $-y$) ઉડીને શૂન્ય થઈ જશે!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "આપેલી પદાવલિમાં અચલ પદ ઓળખો:<br><b>વિભાગ A:</b><br>(1) $5x + 7$<br>(2) $x^2 - 4$<br>(3) $y - 10 + x$<br>(4) $3abc + 1$<br><br><b>વિભાગ B:</b><br>(A) $-4$<br>(B) $1$<br>(C) $7$<br>(D) $-10$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - A, (3) - D, (4) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>જે પદ સાથે કોઈ અંગ્રેજી અક્ષર (ચલ) ન હોય, તે પદ 'અચલ' કહેવાય. નિશાનીને ભૂલતા નહીં!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "જો $a=1, b=2$ હોય તો કિંમત શોધો:<br><b>વિભાગ A:</b><br>(1) $a+b$<br>(2) $ab$<br>(3) $2a+b$<br>(4) $b-a$<br><br><b>વિભાગ B:</b><br>(A) $2$<br>(B) $4$<br>(C) $1$<br>(D) $3$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - D, (2) - A, (3) - B, (4) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>કિંમત મુકતી વખતે $ab$ એટલે $1 \\times 2$ થાય, સરવાળો નહીં! ગુણાકાર અને સરવાળા વચ્ચેનો તફાવત યાદ રાખવો.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "પદાવલિના અવયવો સાથે જોડો:<br><b>વિભાગ A:</b><br>(1) $4x^2$<br>(2) $6xy$<br>(3) $5a^2b$<br>(4) $x^2y^2$<br><br><b>વિભાગ B:</b><br>(A) $x, x, y, y$<br>(B) $2, 2, x, x$<br>(C) $2, 3, x, y$<br>(D) $5, a, a, b$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - C, (3) - D, (4) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>અવયવ એટલે છૂટા પાડવું. ઘાત જેટલી હોય એટલી વાર અક્ષર લખો અને સંખ્યાના અવિભાજ્ય અવયવ પાડો.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "શાબ્દિક રજૂઆતને પદાવલિ સાથે જોડો:<br><b>વિભાગ A:</b><br>(1) $x$ ના 3 ગણામાં 5 ઉમેરતા<br>(2) $x$ માંથી 5 બાદ કરતા<br>(3) $x$ અને $y$ નો ગુણાકાર<br>(4) $x$ ના અડધા<br><br><b>વિભાગ B:</b><br>(A) $x - 5$<br>(B) $3x + 5$<br>(C) $x / 2$<br>(D) $xy$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A, (3) - D, (4) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>'ગણા' = ગુણાકાર, 'ઉમેરતા' = $+$, 'બાદ કરતા' = $-$, 'અડધા' = $/2$. રકમને ટુકડે-ટુકડે સમજો.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "બાદબાકીના પરિણામો સાથે જોડો:<br><b>વિભાગ A:</b><br>(1) $5x$ માંથી $3x$<br>(2) $10y$ માંથી $-2y$<br>(3) $x^2$ માંથી $x^2$<br>(4) $ab$ માંથી $0$<br><br><b>વિભાગ B:</b><br>(A) $12y$<br>(B) $0$<br>(C) $2x$<br>(D) $ab$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - A, (3) - B, (4) - D</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>યાદ રાખો: બાદબાકી કરતી વખતે જો બીજી સંખ્યા ઋણ હોય તો $-(-)$ પ્લસ થઈ જાય. જેમ કે $10 - (-2) = 10 + 2 = 12$!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિજતીય પદોની જોડી ઓળખો:<br><b>વિભાગ A:</b><br>(1) $3x$ અને...<br>(2) $5xy$ અને...<br>(3) $a^2$ અને...<br>(4) $10$ અને...<br><br><b>વિભાગ B:</b><br>(A) $5x^2$<br>(B) $3y$<br>(C) $x$<br>(D) $a$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A, (3) - D, (4) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>જો ચલ બદલાય અથવા ચલની ઘાત બદલાય, તો તે 'વિજતીય' પદો કહેવાય. વિજતીય પદોના સરવાળા-બાદબાકી થઈ શકે નહીં!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "પદાવલિમાં $x$ નો સહગુણક જણાવો:<br><b>વિભાગ A:</b><br>(1) $4x + 3y$<br>(2) $x - 7$<br>(3) $5 - 2x$<br>(4) $xy + 2$<br><br><b>વિભાગ B:</b><br>(A) $1$<br>(B) $y$<br>(C) $4$<br>(D) $-2$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - A, (3) - D, (4) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>જેનો સહગુણક પૂછ્યો હોય તેને સંતાડી દો, તેની સાથે જે ગુણાયેલું હોય (નિશાની સાથે) તે તમારો જવાબ! $xy$ માં $x$ કાઢી નાખો તો $y$ વધે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "જો $m = -1$ હોય તો કિંમત શોધો:<br><b>વિભાગ A:</b><br>(1) $m + 1$<br>(2) $m - 1$<br>(3) $2m$<br>(4) $m^2$<br><br><b>વિભાગ B:</b><br>(A) $-2$<br>(B) $1$<br>(C) $0$<br>(D) $-2$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - A, (3) - D, (4) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>ઋણ સંખ્યાની બેકી ઘાત ($m^2$) હંમેશા ધન $(+)$ થાય અને એકી ઘાત ઋણ $(-)$ જ રહે. $(-1)^2 = 1$ થાય!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "પદાવલિની રચના ઓળખો:<br><b>વિભાગ A:</b><br>(1) $x + x$<br>(2) $x \\cdot x$<br>(3) $x + y$<br>(4) $x - x$<br><br><b>વિભાગ B:</b><br>(A) $x^2$<br>(B) $0$<br>(C) $2x$<br>(D) દ્વિપદી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - A, (3) - D, (4) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>સરવાળો કરો ત્યારે સહગુણક વધે ($1x+1x=2x$), પણ ગુણાકાર કરો ત્યારે ઘાત વધે ($x \\cdot x = x^2$). આ તફાવત ખાસ યાદ રાખવો!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વ્યવહારુ કોયડાની પદાવલિ:<br><b>વિભાગ A:</b><br>(1) પેન(x) અને પેન્સિલ(y)ની કુલ કિંમત<br>(2) 100 માંથી x બાદ કરતા<br>(3) ચોરસની પરિમિતિ (બાજુ x)<br>(4) લંબચોરસનું ક્ષેત્રફળ (લંબાઈ x, પહૉળાઈ y)<br><br><b>વિભાગ B:</b><br>(A) $4x$<br>(B) $xy$<br>(C) $x + y$<br>(D) $100 - x$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - D, (3) - A, (4) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>ભૂમિતિના સૂત્રો પણ બીજગણિતીય પદાવલિ જ છે! પરિમિતિ એટલે સરવાળો અને ક્ષેત્રફળ એટલે ગુણાકાર.</div>"
+    }
+  ]
+}
