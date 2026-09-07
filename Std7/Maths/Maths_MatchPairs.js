@@ -1286,3 +1286,61 @@ var Std7_Maths_MatchPairs = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "સંમિતિ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' (આકૃતિ) ને વિભાગ 'બ' (સંમિતિની રેખાની સંખ્યા) સાથે જોડો: \n(1) સમબાજુ ત્રિકોણ  (A) 4 \n(2) ચોરસ  (B) 3 \n(3) નિયમિત પંચકોણ  (C) 6 \n(4) નિયમિત ષટ્કોણ  (D) 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A, (3) - D, (4) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>નિયમિત બહુકોણમાં જેટલી બાજુઓ હોય, તેટલી જ સંમિતિની રેખાઓ હોય છે. જેમ કે, ષટ્કોણ = 6 બાજુ = 6 રેખા.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'અ' (આકૃતિ) ને વિભાગ 'બ' (પરિભ્રમણીય સંમિતિનો ક્રમ) સાથે જોડો: \n(1) લંબચોરસ  (A) 1 \n(2) ચોરસ  (B) 2 \n(3) સમબાજુ ત્રિકોણ  (C) 4 \n(4) વિષમબાજુ ત્રિકોણ  (D) 3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - C, (3) - D, (4) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>આકૃતિને 360° ફેરવતા તે જેટલી વાર મૂળ આકૃતિ જેવી જ દેખાય, તેને તેનો ક્રમ કહેવાય. વિષમબાજુ આકૃતિમાં હંમેશા ક્રમ 1 હોય.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ 'અ' (આકૃતિ) ને વિભાગ 'બ' (પરિભ્રમણ કોણ) સાથે જોડો: \n(1) ચોરસ  (A) 120° \n(2) સમબાજુ ત્રિકોણ  (B) 90° \n(3) નિયમિત ષટ્કોણ  (C) 72° \n(4) નિયમિત પંચકોણ  (D) 60°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A, (3) - D, (4) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>પરિભ્રમણ કોણ શોધવા માટે 360° ને સંમિતિના ક્રમ વડે ભાગો. દા.ત. ચોરસ માટે 360 / 4 = 90°.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "અંગ્રેજી મૂળાક્ષરો અને સંમિતિની રેખાઓ જોડો: \n(1) A  (A) બે રેખાઓ \n(2) H  (B) એક પણ રેખા નહીં \n(3) O  (C) એક ઉભી રેખા \n(4) P  (D) અસંખ્ય રેખાઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - A, (3) - D, (4) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>અક્ષરની વચ્ચે અરીસો કલ્પના કરો. જો અડધો ભાગ બાકીના અડધા જેવો દેખાય, તો તે સંમિતિની રેખા છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ 'અ' (ચતુષ્કોણ) ને વિભાગ 'બ' (સંમિતિની રેખાઓ) સાથે જોડો: \n(1) લંબચોરસ  (A) 4 \n(2) ચોરસ  (B) 2 \n(3) સમાંતરબાજુ ચતુષ્કોણ  (C) 0 \n(4) સમબાજુ ચતુષ્કોણ  (D) 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A, (3) - C, (4) - D</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>સમાંતરબાજુ ચતુષ્કોણમાં રૈખિક સંમિતિ હોતી નથી (0), પણ પરિભ્રમણીય સંમિતિ હોય છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો: \n(1) વર્તુળ  (A) ક્રમ 2 \n(2) અર્ધવર્તુળ  (B) અસંખ્ય સંમિતિ રેખાઓ \n(3) અંગ્રેજી અક્ષર 'Z'  (C) એક જ સંમિતિ રેખા \n(4) અંગ્રેજી અક્ષર 'S'  (D) ક્રમ 2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - C, (3) - A, (4) - D</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>'Z' અને 'S' માં કોઈ રૈખિક સંમિતિ નથી, પણ તેમને 180° ફેરવતા તે મૂળ જેવા જ દેખાય છે, તેથી તેનો ક્રમ 2 થાય.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ 'અ' (પરિભ્રમણ કોણ) ને વિભાગ 'બ' (ક્રમ) સાથે જોડો: \n(1) 180°  (A) ક્રમ 3 \n(2) 120°  (B) ક્રમ 2 \n(3) 90°   (C) ક્રમ 6 \n(4) 60°   (D) ક્રમ 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A, (3) - D, (4) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>ક્રમ = 360 / ખૂણો. જો ખૂણો 180 હોય, તો 360/180 = 2. આ રીતે સરળતાથી ગણી શકાય.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ત્રિકોણના પ્રકાર અને સંમિતિ જોડો: \n(1) સમબાજુ ત્રિકોણ  (A) 0 સંમિતિ રેખા \n(2) સમદ્વિબાજુ ત્રિકોણ  (B) 1 સંમિતિ રેખા \n(3) વિષમબાજુ ત્રિકોણ  (C) 3 સંમિતિ રેખા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - B, (3) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>બાજુઓની સમાનતા = સંમિતિની રેખા. બધી બાજુ સમાન (સમબાજુ) = 3 રેખા, બે બાજુ સમાન = 1 રેખા.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ 'અ' (વર્ણન) ને વિભાગ 'બ' (ક્રમ/રેખા) સાથે જોડો: \n(1) રેખા અને પરિભ્રમણ બંને સંમિતિ ધરાવતો અક્ષર  (A) H \n(2) માત્ર પરિભ્રમણ સંમિતિ ધરાવતો અક્ષર (ક્રમ > 1) (B) E \n(3) માત્ર રૈખિક સંમિતિ ધરાવતો અક્ષર  (C) S \n(4) સંમિતિનું કેન્દ્ર ન ધરાવતો અક્ષર  (D) M",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - C, (3) - B, (4) - D</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>'H' ને ઉભો/આડો કાપી શકાય અને 180° ફેરવી શકાય. જ્યારે 'S' ને કાપી શકાતો નથી પણ 180° ફેરવી શકાય છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ 'અ' (આકૃતિ) ને વિભાગ 'બ' (ગુણધર્મ) સાથે જોડો: \n(1) પતંગાકાર ચતુષ્કોણ  (A) પરિભ્રમણીય સંમિતિ ક્રમ 4 \n(2) ચોરસ  (B) એક જ રૈખિક સંમિતિ \n(3) વર્તુળ  (C) પરિભ્રમણીય સંમિતિ ક્રમ 2 \n(4) લંબચોરસ  (D) દરેક બિંદુએ સંમિતિનું કેન્દ્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A, (3) - D, (4) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>વર્તુળ એ દુનિયાની સૌથી વધુ સંમિત આકૃતિ છે, તેને ગમે તેટલા ખૂણે ફેરવો તે સરખું જ દેખાશે.</div>"
+    }
+  ]
+}
