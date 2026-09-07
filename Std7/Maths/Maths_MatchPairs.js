@@ -663,3 +663,111 @@ var Std7_Maths_MatchPairs = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "ત્રિકોણ અને તેના ગુણધર્મો",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો: <br> <b>વિભાગ A:</b> <br> (1) ત્રિકોણના ત્રણેય ખૂણાનો સરવાળો <br> (2) સમબાજુ ત્રિકોણનો દરેક ખૂણો <br> <b>વિભાગ B:</b> <br> (A) 60° <br> (B) 180°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>યાદ રાખો: 'ત્રિકોણના ત્રણેય ભાઈઓ (ખૂણા) ભેગા થાય તો 180 રન બનાવે!' અને સમબાજુમાં બધું સરખું એટલે 180/3 = 60°.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો: <br> <b>વિભાગ A:</b> <br> (1) મધ્યગા <br> (2) વેધ <br> <b>વિભાગ B:</b> <br> (A) સામેની બાજુ પર લંબ <br> (B) સામેની બાજુનું મધ્યબિંદુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>'મ' થી 'મધ્યગા' અને 'મ' થી 'મધ્યબિંદુ'. વેધ હંમેશા કાટખૂણો (90°) એટલે કે 'લંબ' બનાવે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "જો ત્રિકોણના બે ખૂણા 40° અને 60° હોય, તો: <br> <b>વિભાગ A:</b> <br> (1) ત્રીજો ખૂણો <br> (2) બહિષ્કોણ (અંતઃસંમુખકોણ 40°, 60° હોય ત્યારે) <br> <b>વિભાગ B:</b> <br> (A) 100° <br> (B) 80°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>બહિષ્કોણ એટલે અંદરના બે ખૂણાનો સરવાળો (40+60=100). ત્રીજો ખૂણો શોધવા 180 માંથી આ સરવાળો બાદ કરો (180-100=80).</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પાયથાગોરસની ત્રિપુટીઓ જોડો: <br> <b>વિભાગ A:</b> <br> (1) 3, 4, ... <br> (2) 5, 12, ... <br> <b>વિભાગ B:</b> <br> (A) 13 <br> (B) 5",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>પાયથાગોરસ દાદાની ફેમસ જોડીઓ: (3,4,5) અને (5,12,13). આ મોઢે કરી જ લેવી, પરીક્ષામાં બહુ કામ આવશે!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ત્રિકોણના પ્રકાર અને બાજુઓ: <br> <b>વિભાગ A:</b> <br> (1) સમદ્વિબાજુ ત્રિકોણ <br> (2) વિષમબાજુ ત્રિકોણ <br> <b>વિભાગ B:</b> <br> (A) ત્રણેય બાજુ અલગ-અલગ <br> (B) બે બાજુ સમાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>'દ્વિ' એટલે 'બે'. એટલે જેમાં બે બાજુ સરખી તે સમદ્વિબાજુ. 'વિષમ' એટલે બધું અલગ-અલગ.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કાટકોણ ત્રિકોણમાં બાજુઓના નામ: <br> <b>વિભાગ A:</b> <br> (1) 90° ના ખૂણાની સામેની બાજુ <br> (2) કાટખૂણો બનાવતી બાજુઓ <br> <b>વિભાગ B:</b> <br> (A) પાયો અને વેધ (બાજુઓ) <br> (B) કર્ણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>કાટકોણ ત્રિકોણમાં સૌથી મોટી બાજુ 'કર્ણ' હોય, જે હંમેશા 90° ની બરાબર સામે જ બેઠો હોય!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "બાજુઓના માપ પરથી ત્રિકોણની શક્યતા: <br> <b>વિભાગ A:</b> <br> (1) 2 સેમી, 3 સેમી, 5 સેમી <br> (2) 3 સેમી, 4 સેમી, 5 સેમી <br> <b>વિભાગ B:</b> <br> (A) ત્રિકોણ શક્ય છે <br> (B) ત્રિકોણ શક્ય નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>નિયમ: 'નાની બે બાજુનો સરવાળો ત્રીજી કરતા મોટો જ હોવો જોઈએ'. (2+3=5, જે 5 થી મોટો નથી એટલે શક્ય નથી).</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "બહિષ્કોણના માપ શોધો: <br> <b>વિભાગ A:</b> <br> (1) અંતઃસંમુખકોણ 30°, 40° <br> (2) અંતઃસંમુખકોણ 60°, 60° <br> <b>વિભાગ B:</b> <br> (A) 120° <br> (B) 70°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>બહિષ્કોણ = અંદરના બે સામેના ખૂણાઓનો પ્લસ (+). 30+40=70 અને 60+60=120. બસ, આટલું જ!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ત્રિકોણના ગુણધર્મો: <br> <b>વિભાગ A:</b> <br> (1) કોઈપણ બે બાજુનો સરવાળો <br> (2) કોઈપણ બે બાજુનો તફાવત <br> <b>વિભાગ B:</b> <br> (A) ત્રીજી બાજુ કરતા ઓછો <br> (B) ત્રીજી બાજુ કરતા વધારે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>યાદ રાખો: સરવાળો હંમેશા 'મોટો' (>) અને બાદબાકી હંમેશા 'નાની' (<) હોય.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પાયથાગોરસ પ્રમેયના સૂત્ર મુજબ (કર્ણ c, બાજુઓ a અને b): <br> <b>વિભાગ A:</b> <br> (1) a² + b² <br> (2) c² - a² <br> <b>વિભાગ B:</b> <br> (A) b² <br> (B) c²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>કર્ણના વર્ગમાંથી એક બાજુનો વર્ગ બાદ કરો તો બીજી બાજુનો વર્ગ મળે. કર્ણ હંમેશા 'પ્લસ' માં મોટો હોય.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ખૂણાઓના માપ પરથી પ્રકાર: <br> <b>વિભાગ A:</b> <br> (1) 90°, 45°, 45° <br> (2) 60°, 60°, 60° <br> <b>વિભાગ B:</b> <br> (A) સમબાજુ ત્રિકોણ <br> (B) કાટકોણ ત્રિકોણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>જો એક ખૂણો 90° દેખાય તો તે કાટકોણ જ હોય, અને બધા 60° હોય તો તે સમબાજુ (બધું સરખું) જ હોય.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "મધ્યગા અને વેધની સંખ્યા: <br> <b>વિભાગ A:</b> <br> (1) ત્રિકોણને કેટલી મધ્યગા હોય? <br> (2) ત્રિકોણને કેટલા વેધ હોય? <br> <b>વિભાગ B:</b> <br> (A) 3 <br> (B) 3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>ત્રિકોણને 3 શિરોબિંદુ હોય, એટલે મધ્યગા પણ 3 અને વેધ પણ 3 જ હોય! કન્ફ્યુઝ થતા નહીં.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "કાટકોણ ત્રિકોણમાં કર્ણ શોધો: <br> <b>વિભાગ A:</b> <br> (1) બાજુઓ 6, 8 હોય તો કર્ણ... <br> (2) બાજુઓ 9, 12 હોય તો કર્ણ... <br> <b>વિભાગ B:</b> <br> (A) 15 <br> (B) 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>3, 4, 5 ની ત્રિપુટીને 2 વડે ગુણતા 6, 8, 10 મળે. 3 વડે ગુણતા 9, 12, 15 મળે. ટેબલ યાદ રાખો!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિશેષ ત્રિકોણના ગુણધર્મો: <br> <b>વિભાગ A:</b> <br> (1) સમબાજુ ત્રિકોણમાં મધ્યગા અને વેધ <br> (2) વિષમબાજુ ત્રિકોણમાં મધ્યગા અને વેધ <br> <b>વિભાગ B:</b> <br> (A) અલગ-અલગ હોય છે <br> (B) એક જ હોય છે (સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>સમબાજુ એટલે 'બધું જ સરખું'. ત્યાં મધ્યગા એ જ વેધ બની જાય છે!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ખૂણા શોધવા: <br> <b>વિભાગ A:</b> <br> (1) કાટકોણ સમદ્વિબાજુ ત્રિકોણના લઘુકોણો <br> (2) સમબાજુ ત્રિકોણના ખૂણા <br> <b>વિભાગ B:</b> <br> (A) 60°, 60°, 60° <br> (B) 45°, 45°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>કાટકોણ (90°) હોય અને બાકીના બે સરખા હોય તો 180 - 90 = 90, અને 90 ના અડધા 45° થાય!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "બાજુઓના માપ અને ત્રિકોણનો પ્રકાર: <br> <b>વિભાગ A:</b> <br> (1) 5 સેમી, 5 સેમી, 8 સેમી <br> (2) 6 સેમી, 6 સેમી, 6 સેમી <br> <b>વિભાગ B:</b> <br> (A) સમબાજુ <br> (B) સમદ્વિબાજુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>બે આંકડા સરખા તો 'સમદ્વિબાજુ', ત્રણેય આંકડા સરખા તો 'સમબાજુ'. સિમ્પલ!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "બાજુઓના વર્ગ અને ત્રિકોણ: <br> <b>વિભાગ A:</b> <br> (1) a² + b² = c² <br> (2) a² + b² > c² <br> <b>વિભાગ B:</b> <br> (A) લઘુકોણ ત્રિકોણ <br> (B) કાટકોણ ત્રિકોણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>જો બરાબર (=) નિશાની હોય તો જ તે પાયથાગોરસ એટલે કે કાટકોણ ત્રિકોણ કહેવાય.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "બહારનો ખૂણો અને અંદરના ખૂણા: <br> <b>વિભાગ A:</b> <br> (1) બહિષ્કોણ 110°, એક અંતઃસંમુખકોણ 50° <br> (2) બહિષ્કોણ 120°, એક અંતઃસંમુખકોણ 60° <br> <b>વિભાગ B:</b> <br> (A) બીજો ખૂણો 60° <br> (B) બીજો ખૂણો 60°",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>બીજો ખૂણો શોધવા માટે: બહિષ્કોણ - એક ખૂણો. (110-50=60) અને (120-60=60).</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ત્રિકોણના રેખાખંડો: <br> <b>વિભાગ A:</b> <br> (1) જે ખૂણાના બે સરખા ભાગ કરે <br> (2) જે સામેની બાજુના બે સરખા ભાગ કરે <br> <b>વિભાગ B:</b> <br> (A) મધ્યગા <br> (B) કોણદ્વિભાજક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>ખૂણાના ભાગ કરે તે 'કોણ'દ્વિભાજક અને બાજુના ભાગ (મધ્યબિંદુ) કરે તે 'મધ્ય'ગા.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "પાયથાગોરસ ત્રિપુટી ચકાસો: <br> <b>વિભાગ A:</b> <br> (1) 8, 15, 17 <br> (2) 7, 24, 25 <br> <b>વિભાગ B:</b> <br> (A) પાયથાગોરસ ત્રિપુટી છે <br> (B) પાયથાગોરસ ત્રિપુટી છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>આ બંને ખૂબ જાણીતી ત્રિપુટીઓ છે. 8²+15²=64+225=289 (17²) અને 7²+24²=49+576=625 (25²).</div>"
+    }
+  ]
+}
