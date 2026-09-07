@@ -771,3 +771,161 @@ var Std7_Maths_MatchPairs = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "રાશિઓની તુલના",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો:<br>1. 1/4 ને ટકામાં<br>2. 1/2 ને ટકામાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (25%), 2 - (50%)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અપૂર્ણાંકને ટકામાં ફેરવવા માટે હંમેશા 100 વડે ગુણાકાર કરવો (દા.ત. 1/4 × 100 = 25%).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો:<br>1. 0.75 ને ટકામાં<br>2. 0.02 ને ટકામાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (75%), 2 - (2%)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દશાંશ ચિહ્નને જમણી બાજુ બે અંક ખસેડો એટલે સીધા ટકા મળી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો:<br>1. નફો (Profit)<br>2. ખોટ (Loss)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (વેચાણ કિંમત - મૂળ કિંમત), 2 - (મૂળ કિંમત - વેચાણ કિંમત)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો વેચતા વધુ પૈસા મળે તો નફો, અને જો ખિસ્સામાંથી વધુ ગયા હોય તો ખોટ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો:<br>1. સાદું વ્યાજ (I)<br>2. વ્યાજમુદલ (A)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (PRT/100), 2 - (P + I)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સૂત્ર યાદ રાખો: I = PRT / 100 (પી.આર.ટી. ના છેદમાં સો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો:<br>1. 3 કિમી : 300 મીટર<br>2. 1 કલાક : 30 મિનિટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (10 : 1), 2 - (2 : 1)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગુણોત્તર શોધતા પહેલા બંને એકમો સમાન કરવા (1 કિમી = 1000 મીટર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો:<br>1. 25% નું અપૂર્ણાંક સ્વરૂપ<br>2. 20% નું અપૂર્ણાંક સ્વરૂપ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (1/4), 2 - (1/5)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): % દૂર કરવા માટે છેદમાં 100 મૂકીને છેદ ઉડાડવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો:<br>1. ₹2500 ના 20%<br>2. ₹1000 ના 10%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (₹500), 2 - (₹100)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 10% શોધવા માટે પાછળથી એક મીંડું કાઢી નાખવું અને 20% માટે તેને બમણા કરવા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો:<br>1. 3 : 4 ને ટકામાં<br>2. 2 : 5 ને ટકામાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (75%), 2 - (40%)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગુણોત્તરને અપૂર્ણાંકમાં ફેરવો (3/4) અને પછી 100 સાથે ગુણો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો:<br>1. મુદલ (P)<br>2. વ્યાજનો દર (R)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (ઉછીની લીધેલી રકમ), 2 - (ટકામાં દર્શાવેલ વ્યાજ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): P એટલે Principal (મુખ્ય રકમ) અને R એટલે Rate (ટકાવારી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો:<br>1. નફો % (Profit %)<br>2. ખોટ % (Loss %)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (નફો/મૂ.કિં. × 100), 2 - (ખોટ/મૂ.કિં. × 100)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નફો હોય કે ખોટ, ગણતરી હંમેશા 'મૂળ કિંમત' પર જ થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો:<br>1. 1/8 ને ટકામાં<br>2. 1/10 ને ટકામાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (12.5%), 2 - (10%)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1/8 એટલે 25% ના અડધા અડધા (12.5%).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો:<br>1. 150% ને અપૂર્ણાંકમાં<br>2. 200% ને સંખ્યામાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (3/2), 2 - (2)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 100% એટલે 1, તેથી 200% એટલે 2 અને 150% એટલે 1.5 (3/2).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો:<br>1. 50 પૈસા : ₹5<br>2. 15 kg : 210 g",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (1 : 10), 2 - (500 : 7)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ₹5 ને પૈસામાં ફેરવો (500 પૈસા), પછી ગુણોત્તર લો: 50/500 = 1/10.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો:<br>1. મૂળ કિંમત < વેચાણ કિંમત<br>2. મૂળ કિંમત > વેચાણ કિંમત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (નફો), 2 - (ખોટ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): '>' અને '<' ની નિશાની વેચાણ કિંમત તરફ જુઓ, જો તે મોટી તો ફાયદો જ ફાયદો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો:<br>1. 0.05 ને ટકામાં<br>2. 0.5 ને ટકામાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (5%), 2 - (50%)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પોઈન્ટ પછી કેટલા શૂન્ય છે તેનું ધ્યાન રાખવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો:<br>1. 40 ના 30%<br>2. 30 ના 40%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (12), 2 - (12)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): x% of y = y% of x. જવાબ હંમેશા સરખો જ આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો:<br>1. 1/3 ને ટકામાં<br>2. 2/3 ને ટકામાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (33.33%), 2 - (66.66%)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1/3 એટલે 33 પૂર્ણાંક 1/3 ટકા. આ કિંમતો ઘણીવાર પૂછાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો:<br>1. ₹1000 પર 5% લેખે 1 વર્ષનું વ્યાજ<br>2. ₹1000 પર 10% લેખે 1 વર્ષનું વ્યાજ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (₹50), 2 - (₹100)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો વર્ષ 1 હોય, તો સીધા ટકા જ વ્યાજ બની જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો:<br>1. વધારો %<br>2. ઘટાડો %",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (વધારો/મૂળ કિંમત × 100), 2 - (ઘટાડો/મૂળ કિંમત × 100)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): છેદમાં હંમેશા 'મૂળ કિંમત' જ આવશે, પછી ભલે વધારો હોય કે ઘટાડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો:<br>1. 1 : 1 ગુણોત્તર ટકાવારમાં<br>2. 1 : 4 ગુણોત્તર ટકાવારમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (50% : 50%), 2 - (20% : 80%)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગુણોત્તરના પદોનો સરવાળો કરી કુલ ભાગ બનાવો, પછી દરેકનો ટકા શોધો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો:<br>1. 2/5 ને ટકામાં<br>2. 4/5 ને ટકામાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (40%), 2 - (80%)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1/5 એટલે 20%. તો 2/5 એટલે 20×2=40% અને 4/5 એટલે 20×4=80%.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો:<br>1. 250 ગ્રામ : 5 કિલોગ્રામ<br>2. 200 મિલી : 2 લિટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (1 : 20), 2 - (1 : 10)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 5 કિલો = 5000 ગ્રામ, તો 250/5000 = 1/20.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો:<br>1. 10% વ્યાજ દર એટલે ₹100 પર...<br>2. 1% વ્યાજ દર એટલે ₹100 પર...",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (₹10 વ્યાજ), 2 - (₹1 વ્યાજ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વ્યાજનો દર હંમેશા ₹100 પર એક વર્ષ માટે ગણાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો:<br>1. ₹50 ની વસ્તુ ₹60 માં વેચતા<br>2. ₹60 ની વસ્તુ ₹50 માં વેચતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (₹10 નફો), 2 - (₹10 ખોટ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વેચાણ કિંમત વધુ તો નફો, ઓછી તો ખોટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો:<br>1. 0.001 ને ટકામાં<br>2. 1.0 ને ટકામાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (0.1%), 2 - (100%)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પોઈન્ટ પછી બે ડગલાં જમણી બાજુ કૂદકો મારો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો:<br>1. 12.5% ને અપૂર્ણાંકમાં<br>2. 37.5% ને અપૂર્ણાંકમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (1/8), 2 - (3/8)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1/8 એટલે 12.5%, તેને 3 વડે ગુણતા 37.5% મળે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો:<br>1. 20% ના ₹500<br>2. 50% ના ₹200",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (₹100), 2 - (₹100)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 50% એટલે અડધા અને 20% એટલે પાંચમો ભાગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો:<br>1. મૂળ કિંમત શોધવાનું સૂત્ર (નફો હોય ત્યારે)<br>2. વેચાણ કિંમત શોધવાનું સૂત્ર (નફો હોય ત્યારે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (વે.કિં - નફો), 2 - (મૂ.કિં + નફો)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નફો એ હંમેશા વેચાણ કિંમતને વધારે છે અને મૂળ કિંમતને ઓછી બતાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો:<br>1. 80% ને દશાંશમાં<br>2. 8% ને દશાંશમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (0.8), 2 - (0.08)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દશાંશ ચિહ્ન ડાબી બાજુ બે અંક ખસેડો (8/100 = 0.08).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો:<br>1. 1 : 2 : 5 ગુણોત્તરનો કુલ ભાગ<br>2. 2 : 3 : 5 ગુણોત્તરનો કુલ ભાગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (8), 2 - (10)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગુણોત્તરના તમામ અંકોનો સરવાળો એ જ કુલ ભાગ!</p></div>"
+    }
+  ]
+}
