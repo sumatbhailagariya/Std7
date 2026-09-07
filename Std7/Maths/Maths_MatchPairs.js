@@ -1203,3 +1203,86 @@ var Std7_Maths_MatchPairs = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "ઘાત અને ઘાતાંક",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A ને વિભાગ B સાથે સાચી રીતે જોડો:<br><b>વિભાગ A:</b><br>(1) $a^m \\times a^n$<br>(2) $a^m \\div a^n$<br><b>વિભાગ B:</b><br>(A) $a^{m-n}$<br>(B) $a^{m+n}$<br>(C) $a^{mn}$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ગુણાકાર હોય તો ઘાતનો ‘પ્લસ’ (+) અને ભાગાકાર હોય તો ઘાતનો ‘માઇનસ’ (-) થાય. (શરત: આધાર સરખો હોવો જોઈએ!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો:<br><b>વિભાગ A:</b><br>(1) $(a^m)^n$<br>(2) $a^0$<br><b>વિભાગ B:</b><br>(A) 0<br>(B) $a^{mn}$<br>(C) 1",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ઘાતની ઉપર ઘાત હોય તો તેનો ‘ગુણાકાર’ થાય. અને દુનિયાની કોઈપણ સંખ્યાની 0 ઘાત એટલે જવાબ હંમેશા '1' જ આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કિંમત શોધો:<br><b>વિભાગ A:</b><br>(1) $2^3$<br>(2) $3^2$<br><b>વિભાગ B:</b><br>(A) 6<br>(B) 8<br>(C) 9",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>$2^3 = 2 \\times 2 \\times 2 = 8$ અને $3^2 = 3 \\times 3 = 9$. ઉતાવળમાં આધાર અને ઘાતનો ગુણાકાર (દા.ત. $2 \\times 3 = 6$) ક્યારેય ન કરવો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિસ્તૃત સ્વરૂપને ઘાત સ્વરૂપે જોડો:<br><b>વિભાગ A:</b><br>(1) $5 \\times 5 \\times 5 \\times 5$<br>(2) $a \\times a \\times b \\times b \\times b$<br><b>વિભાગ B:</b><br>(A) $5^4$<br>(B) $a^2 b^3$<br>(C) $5 \\times 4$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>જેટલી વાર સંખ્યા ગુણાયેલી હોય, તેટલો આંકડો તેની ખોપરી પર (ઘાતાંકમાં) મૂકી દેવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પ્રમાણિત સ્વરૂપ (Standard Form):<br><b>વિભાગ A:</b><br>(1) 5985.3<br>(2) 59.853<br><b>વિભાગ B:</b><br>(A) $5.9853 \\times 10^3$<br>(B) $5.9853 \\times 10^1$<br>(C) $5.9853 \\times 10^2$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>દશાંશ ચિહ્ન ડાબી બાજુ જેટલા ડગલાં ખસે, તેટલી 10 ની ધન ઘાત ચઢાવવી. પ્રમાણિત સ્વરૂપમાં હંમેશા એક જ અંક પછી પોઈન્ટ રાખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કિંમતો સરખાવો:<br><b>વિભાગ A:</b><br>(1) $10^2$<br>(2) $2^{10}$<br><b>વિભાગ B:</b><br>(A) 100<br>(B) 20<br>(C) 1024",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>$10^2 = 100$ અને $2$ ની ૧૦ ઘાત એટલે $1024$. યાદ રાખો, ઘાત વધે તેમ કિંમત ખૂબ ઝડપથી વધે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ઋણ આધારની ઘાત:<br><b>વિભાગ A:</b><br>(1) $(-1)^{\\text{બેકી સંખ્યા}}$<br>(2) $(-1)^{\\text{એકી સંખ્યા}}$<br><b>વિભાગ B:</b><br>(A) -1<br>(B) 1<br>(C) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>બેકી ઘાત હોય તો ઋણનું 'ધન' થઈ જાય, અને એકી ઘાત હોય તો જવાબ 'ઋણ' જ રહે. (બેકી = રાજી, એકી = ઉદાસ!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "નિયમોનું અન્ય સ્વરૂપ:<br><b>વિભાગ A:</b><br>(1) $a^m \\times b^m$<br>(2) $a^m \\div b^m$<br><b>વિભાગ B:</b><br>(A) $(a/b)^m$<br>(B) $(ab)^m$<br>(C) $a^{m+m}$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>જો ઘાત સરખી હોય, તો આધારનો ગુણાકાર કે ભાગાકાર કરીને આખી કૌંસ પર કોમન ઘાત મૂકી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સંખ્યા ઓળખો:<br><b>વિભાગ A:</b><br>(1) 81 નું 3 ના આધારમાં સ્વરૂપ<br>(2) 64 નું 2 ના આધારમાં સ્વરૂપ<br><b>વિભાગ B:</b><br>(A) $3^4$<br>(B) $2^6$<br>(C) $2^5$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>અવિભાજ્ય અવયવ પાડો! $3 \\times 3 \\times 3 \\times 3 = 81$ (4 વાર) અને $2 \\times 2 \\times 2 \\times 2 \\times 2 \\times 2 = 64$ (6 વાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "મોટી સંખ્યાઓનું પ્રમાણિત સ્વરૂપ:<br><b>વિભાગ A:</b><br>(1) 3,00,00,000<br>(2) 70,00,000<br><b>વિભાગ B:</b><br>(A) $3 \\times 10^7$<br>(B) $7 \\times 10^6$<br>(C) $7 \\times 10^5$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>આંકડા પછી જેટલા શૂન્ય હોય, તેટલી 10 ની ઘાત મૂકવી. 3 કરોડમાં 7 મીંડા હોય એટલે $10^7$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ઘાતાંકીય કિંમતો:<br><b>વિભાગ A:</b><br>(1) $5^3$<br>(2) $4^3$<br><b>વિભાગ B:</b><br>(A) 125<br>(B) 64<br>(C) 15",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ઘન (Cube) યાદ રાખો! 5 નો ઘન 125 અને 4 નો ઘન 64 થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "શૂન્ય અને એક ની ઘાત:<br><b>વિભાગ A:</b><br>(1) $1^{100}$<br>(2) $0^{5}$<br><b>વિભાગ B:</b><br>(A) 100<br>(B) 1<br>(C) 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>1 ની ગમે તેટલી ઘાત કરો, જવાબ '1' જ રહે. 0 ની ગમે તેટલી ઘાત કરો (0 સિવાય), જવાબ '0' જ રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સાદું રૂપ આપો:<br><b>વિભાગ A:</b><br>(1) $2^2 \\times 3^2$<br>(2) $10^2 \\times 10^3$<br><b>વિભાગ B:</b><br>(A) 36<br>(B) $10^5$<br>(C) $10^6$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>$2^2 \\times 3^2 = (2 \\times 3)^2 = 6^2 = 36$. અને $10^{2+3} = 10^5$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "આધાર અને ઘાતાંક ઓળખો ($7^5$ માં):<br><b>વિભાગ A:</b><br>(1) આધાર<br>(2) ઘાતાંક<br><b>વિભાગ B:</b><br>(A) 5<br>(B) 7<br>(C) 35",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>જે નીચે બેઠો હોય તે 'આધાર' (Base) અને જે માથા પર બેઠો હોય તે 'ઘાતાંક' (Exponent).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિસ્તરણ શોધો:<br><b>વિભાગ A:</b><br>(1) $10^4$<br>(2) $10^1$<br><b>વિભાગ B:</b><br>(A) 10000<br>(B) 10<br>(C) 100",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>10 ની જેટલી ઘાત હોય, 1 ની પાછળ એટલા જ શૂન્ય લગાડી દેવા.</p></div>"
+    }
+  ]
+}
