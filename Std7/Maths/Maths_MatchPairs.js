@@ -1344,3 +1344,111 @@ var Std7_Maths_MatchPairs = {
     }
   ]
 }
+,
+"13": {
+  "chapterName": "પ્રકરણ 13",
+  "chapterTitle": "ઘન આકારોનું પ્રત્યક્ષીકરણ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) સમઘન, (2) લંબઘન<br>વિભાગ 'બ': (A) ઈંટ, (B) પાસો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) જેની લંબાઈ, પહોળાઈ અને ઊંચાઈ સરખી તે સમઘન (પાસો) અને જેની અલગ હોય તે લંબઘન (ઈંટ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) શંકુ, (2) નળાકાર<br>વિભાગ 'બ': (A) આઈસ્ક્રીમ કોન, (B) પાવડરનો ડબ્બો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ઉપરથી અણીદાર હોય તે શંકુ અને ગોળ પાઈપ જેવો હોય તે નળાકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ 'અ' (આકાર) અને વિભાગ 'બ' (પરિમાણ) જોડો:<br>વિભાગ 'અ': (1) વર્તુળ, (2) ગોલક<br>વિભાગ 'બ': (A) 2-D આકાર, (B) 3-D આકાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) જેને કાગળ પર દોરી શકાય તે 2-D (સપાટ) અને જે જગ્યા રોકે તે 3-D (ઘન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ 'અ' (ઘન આકાર) અને વિભાગ 'બ' (શિરોબિંદુની સંખ્યા) જોડો:<br>વિભાગ 'અ': (1) સમઘન, (2) ત્રિકોણીય પિરામિડ<br>વિભાગ 'બ': (A) 8 શિરોબિંદુ, (B) 4 શિરોબિંદુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) સમઘનમાં 4 ઉપર અને 4 નીચે એમ 8 ખૂણા (શિરોબિંદુ) હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ 'અ' (ઘન આકાર) અને વિભાગ 'બ' (ધારની સંખ્યા) જોડો:<br>વિભાગ 'અ': (1) લંબઘન, (2) ત્રિકોણીય પ્રિઝમ<br>વિભાગ 'બ': (A) 12 ધાર, (B) 9 ધાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ધાર એટલે લીટીઓ. લંબઘનમાં 4 ઉભી, 4 આડી અને 4 ઊંચાઈની એમ 12 ધાર હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ 'અ' (ઘન આકાર) અને વિભાગ 'બ' (ફળકની સંખ્યા) જોડો:<br>વિભાગ 'અ': (1) સમઘન, (2) ચોરસ આધાર વાળો પિરામિડ<br>વિભાગ 'બ': (A) 6 ફળક, (B) 5 ફળક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ફળક એટલે સપાટી. પાસાની 6 બાજુ એટલે 6 ફળક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ 'અ' (આકાર) અને વિભાગ 'બ' (જાળ/Net) જોડો:<br>વિભાગ 'અ': (1) નળાકારની જાળ, (2) શંકુની જાળ<br>વિભાગ 'બ': (A) લંબચોરસ અને બે વર્તુળ, (B) વર્તુળનો ભાગ (વૃત્તાંશ) અને વર્તુળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) નળાકારને ખોલો તો લંબચોરસ બને, જ્યારે શંકુને ખોલો તો સેક્ટર (વૃત્તાંશ) બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ 'અ' (વસ્તુ) અને વિભાગ 'બ' (પરછાયાનો આકાર) જોડો:<br>વિભાગ 'અ': (1) દડો (બલ્બની નીચે), (2) પુસ્તક (બલ્બની નીચે)<br>વિભાગ 'બ': (A) વર્તુળ, (B) લંબચોરસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) પરછાયો હંમેશા વસ્તુના મુખ્ય આડછેદ જેવો દેખાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) ગોલક, (2) નળાકાર<br>વિભાગ 'બ': (A) શિરોબિંદુ નથી, (B) બે વર્તુળાકાર ધાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) દડાને (ગોલક) એક પણ ખૂણો નથી હોતો, જ્યારે પાઈપને (નળાકાર) બે ગોળ છેડા હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ 'અ' (કાપવાનો પ્રકાર) અને વિભાગ 'બ' (નળાકારનો આડછેદ) જોડો:<br>વિભાગ 'અ': (1) ઊભો કાપ (Vertical cut), (2) આડો કાપ (Horizontal cut)<br>વિભાગ 'બ': (A) લંબચોરસ, (B) વર્તુળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) નળાકારને આડો કાપો તો બંગડી જેવું વર્તુળ મળે અને ઊભો કાપો તો લંબચોરસ મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ 'અ' (3-D આકાર) અને વિભાગ 'બ' (બાજુનો દેખાવ - Side View) જોડો:<br>વિભાગ 'અ': (1) નળાકાર, (2) સમઘન<br>વિભાગ 'બ': (A) લંબચોરસ, (B) ચોરસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) નળાકારને બાજુમાંથી જોતા તે પ્લેન લંબચોરસ જેવો જ ભાસે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ 'અ' (આકાર) અને વિભાગ 'બ' (ખૂણા/શિરોબિંદુ) જોડો:<br>વિભાગ 'અ': (1) શંકુ, (2) નળાકાર<br>વિભાગ 'બ': (A) 1 શિરોબિંદુ, (B) 0 શિરોબિંદુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) શંકુ એટલે જોકરની ટોપી, જેની ટોચ પર 1 શિરોબિંદુ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ 'અ' (આકાર) અને વિભાગ 'બ' (જાયમેટ્રિકલ નામ) જોડો:<br>વિભાગ 'અ': (1) ટેનિસ બોલ, (2) ટ્યુબલાઈટ<br>વિભાગ 'બ': (A) ગોલક, (B) નળાકાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ગોળ દડો એટલે ગોલક અને લાંબી પાઈપ એટલે નળાકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ 'અ' (સપાટીનો પ્રકાર) અને વિભાગ 'બ' (આકાર) જોડો:<br>વિભાગ 'અ': (1) માત્ર વક્ર સપાટી, (2) વક્ર અને સમતલ બંને સપાટી<br>વિભાગ 'બ': (A) ગોલક, (B) નળાકાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ગોલકમાં બધું જ વક્ર હોય, નળાકારમાં આજુબાજુ વક્ર પણ ઉપર-નીચે સપાટ વર્તુળ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ 'અ' (પિરામિડનો આધાર) અને વિભાગ 'બ' (કુલ ફળક) જોડો:<br>વિભાગ 'અ': (1) ત્રિકોણીય પિરામિડ, (2) પંચકોણીય પિરામિડ<br>વિભાગ 'બ': (A) 4 ફળક, (B) 6 ફળક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) પિરામિડમાં ફળકની સંખ્યા = આધારની બાજુઓ + 1.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ 'અ' (પ્રિઝમનો આધાર) અને વિભાગ 'બ' (કુલ શિરોબિંદુ) જોડો:<br>વિભાગ 'અ': (1) ત્રિકોણીય પ્રિઝમ, (2) ચતુષ્કોણીય પ્રિઝમ (લંબઘન)<br>વિભાગ 'બ': (A) 6 શિરોબિંદુ, (B) 8 શિરોબિંદુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) પ્રિઝમમાં શિરોબિંદુની સંખ્યા = આધારના ખૂણા × 2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ 'અ' (ચિત્રનો પ્રકાર) અને વિભાગ 'બ' (નામ) જોડો:<br>વિભાગ 'અ': (1) ટપકાંવાળા કાગળ પર દોરેલ ચિત્ર, (2) ચોરસ ખાનાવાળા કાગળ પર દોરેલ ચિત્ર<br>વિભાગ 'બ': (A) આઈસોમેટ્રિક સ્કેચ, (B) તિર્યક (Oblique) રેખાકૃતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) 'ટ' થી ટપકાં અને 'આ' થી આઈસોમેટ્રિક યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ 'અ' (વસ્તુ) અને વિભાગ 'બ' (ઉપરનો દેખાવ - Top View) જોડો:<br>વિભાગ 'અ': (1) પ્યાલો (ગ્લાસ), (2) ઈંટ<br>વિભાગ 'બ': (A) વર્તુળ, (B) લંબચોરસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ઉપરથી જોતા જે સપાટી દેખાય તે તેનો ટોપ વ્યુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ 'અ' (ધારની સંખ્યા) અને વિભાગ 'બ' (આકાર) જોડો:<br>વિભાગ 'અ': (1) 12 ધાર, (2) 1 ધાર<br>વિભાગ 'બ': (A) સમઘન, (B) શંકુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) શંકુમાં નીચે એક જ વર્તુળાકાર ધાર હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ 'અ' (સંજ્ઞા) અને વિભાગ 'બ' (યુલરના સૂત્રના અંગો) જોડો:<br>વિભાગ 'અ': (1) F, (2) V, (3) E<br>વિભાગ 'બ': (A) ફળક, (B) શિરોબિંદુ, (C) ધાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B), (3) - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) F = Faces, V = Vertices, E = Edges. સૂત્ર: F + V - E = 2.</p></div>"
+    }
+  ]
+}
