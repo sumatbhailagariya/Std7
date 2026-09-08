@@ -564,3 +564,211 @@ var Std7_Maths_1_Mark = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "માહિતીનું નિયમન",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "માહિતીના સૌથી મોટા અને સૌથી નાના અવલોકનના તફાવતને શું કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માહિતીના સૌથી મોટા અને સૌથી નાના અવલોકનના તફાવતને 'વિસ્તાર' (Range) કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વિસ્તાર = મહત્તમ કિંમત - ન્યૂનતમ કિંમત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સરાસરી (મધ્યક) શોધવાનું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સરાસરી = બધા અવલોકનોનો સરવાળો / અવલોકનોની કુલ સંખ્યા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સરાસરી એટલે બધાનો ભાગ પાડીને સરખે હિસ્સે વહેંચણી કરવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "બહુલક એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આપેલા અવલોકનોના સમૂહમાં જે અવલોકન સૌથી વધુ વખત આવતું હોય તેને 'બહુલક' (Mode) કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બહુલક = બહુ વખત (વધારે વાર) દેખાતો અંક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "મધ્યસ્થ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આપેલી માહિતીને ચડતા કે ઉતરતા ક્રમમાં ગોઠવતા, તેની મધ્યમાં (વચ્ચે) આવતા અવલોકનને 'મધ્યસ્થ' (Median) કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મધ્યસ્થ શોધતા પહેલા 'ક્રમ' માં ગોઠવવાનું ભૂલશો નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પ્રથમ પાંચ પ્રાકૃતિક સંખ્યાઓની સરાસરી કેટલી થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1+2+3+4+5)/5 = 15/5 = 3.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો સંખ્યાઓ લાઈનમાં હોય, તો બરાબર વચ્ચેની સંખ્યા જ સરાસરી હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "શું માહિતીમાં એકથી વધુ બહુલક હોઈ શકે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હા, જો બે કે તેથી વધુ અવલોકનો સમાન સંખ્યામાં અને સૌથી વધુ વખત આવતા હોય તો માહિતીમાં એકથી વધુ બહુલક હોઈ શકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો કોઈ પણ અંક રિપીટ ન થતો હોય, તો તેને બહુલક નથી તેમ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ચોક્કસ બનતી ઘટનાની સંભાવના કેટલી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચોક્કસ (નિશ્ચિત) બનતી ઘટનાની સંભાવના 1 હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સૂર્ય પૂર્વમાં ઊગે તે ચોક્કસ ઘટના છે, માટે સંભાવના 1.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "અશક્ય ઘટનાની સંભાવના કેટલી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અશક્ય ઘટનાની સંભાવના 0 હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે કદી ન બને તેની સંભાવના 'ઝીરો' (0).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સિક્કાને ઉછાળતા 'છાપ' મળવાની સંભાવના કેટલી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સિક્કાને ઉછાળતા છાપ મળવાની સંભાવના 1/2 (અથવા 0.5) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કુલ પરિણામ 2 (H, T), છાપ 1 વાર, એટલે 1/2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પાસાને ફેંકતા તેના પર અંક '7' આવવાની સંભાવના કેટલી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાસા પર 1 થી 6 અંકો હોય છે, 7 હોતા નથી, તેથી તેની સંભાવના 0 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અશક્ય ઘટના = 0 સંભાવના.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "દ્વિ-લંબાલેખનો ઉપયોગ ક્યારે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે બે પ્રકારની માહિતીની એકસાથે સરખામણી કરવાની હોય ત્યારે દ્વિ-લંબાલેખનો ઉપયોગ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બે માહિતી વચ્ચેનો તફાવત જાણવા 'ડબલ બાર ગ્રાફ' બેસ્ટ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "પ્રથમ પાંચ પૂર્ણ સંખ્યાઓની સરાસરી કેટલી થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રથમ પાંચ પૂર્ણ સંખ્યાઓ (0, 1, 2, 3, 4) નો સરવાળો 10 છે, માટે સરાસરી 10/5 = 2 થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પૂર્ણ સંખ્યા 0 થી શરૂ થાય તે યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "માહિતીના પ્રતિનિધિ મૂલ્યોના નામ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મધ્યક (સરાસરી), બહુલક અને મધ્યસ્થ એ માહિતીના પ્રતિનિધિ મૂલ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આ ત્રણેયને મધ્યવર્તી સ્થિતિના માપ પણ કહેવાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "માહિતી : 2, 4, 6, 8, 10 નો વિસ્તાર શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહત્તમ કિંમત 10 અને ન્યૂનતમ 2 હોવાથી, વિસ્તાર = 10 - 2 = 8.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સૌથી મોટામાંથી સૌથી નાનું બાદ કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "કયું પ્રતિનિધિ મૂલ્ય હંમેશા માહિતીમાંનું જ એક અવલોકન હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બહુલક હંમેશા માહિતીમાંનું જ એક અવલોકન હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સરાસરી ક્યારેક માહિતી બહારની પણ હોઈ શકે, પણ બહુલક તો અંદરથી જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "પાસાને ફેંકતા કુલ કેટલા પરિણામો મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાસાને ફેંકતા કુલ 6 પરિણામો (1, 2, 3, 4, 5, 6) મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કુલ પરિણામ છેદમાં આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સંભાવનાનું લઘુત્તમ અને મહત્તમ મૂલ્ય કેટલું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંભાવનાનું લઘુત્તમ મૂલ્ય 0 અને મહત્તમ મૂલ્ય 1 હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સંભાવના ક્યારેય 0 થી નાની (ઋણ) કે 1 થી મોટી ન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "માહિતી : 5, 7, 5, 3, 5, 9 નો બહુલક શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંક 5 સૌથી વધુ (3 વખત) આવતો હોવાથી બહુલક 5 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે આંકડો 'બહુ' વાર દેખાય તે બહુલક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "માહિતી : 10, 20, 30 નો મધ્યસ્થ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માહિતી ક્રમમાં જ છે, તેથી વચ્ચેનું અવલોકન 20 એ મધ્યસ્થ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મધ્યસ્થ એટલે સેન્ટર પોઈન્ટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "લંબાલેખમાં દરેક સ્તંભની પહોળાઈ કેવી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લંબાલેખમાં દરેક સ્તંભની પહોળાઈ સમાન રાખવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): માત્ર સ્તંભની ઊંચાઈ જ બદલાય, પહોળાઈ નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "સ્તંભની ઊંચાઈ શું દર્શાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્તંભની ઊંચાઈ તે અવલોકનની આવૃત્તિ અથવા કિંમત દર્શાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વધુ ઊંચાઈ = વધુ મૂલ્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "શક્યતા અને સંભાવના વચ્ચેનો મુખ્ય તફાવત શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શક્યતા એ ઘટના બનવાની તક છે, જ્યારે સંભાવના એ તકનું ગાણિતિક મૂલ્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સંભાવના હંમેશા આંકડામાં હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "માહિતી : 12, 15, 12, 15, 12 નો બહુલક શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અહીં 12 ત્રણ વખત અને 15 બે વખત આવે છે, માટે બહુલક 12 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જેની ફ્રિક્વન્સી હાઈ તે જ બહુલક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "પ્રથમ ત્રણ બેકી સંખ્યાનો મધ્યક કેટલો થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રથમ ત્રણ બેકી સંખ્યા (2, 4, 6) નો મધ્યક (2+4+6)/3 = 12/3 = 4 થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ક્રમિક સંખ્યામાં વચ્ચેનો અંક મધ્યક હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "માહિતીના એકત્રીકરણમાં મુખ્યત્વે શું ધ્યાનમાં લેવાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માહિતીના એકત્રીકરણમાં જે હેતુ માટે માહિતી જોઈએ છે તે હેતુ ધ્યાનમાં લેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હેતુ વગરની માહિતી નકામી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "પાસો ફેંકતા 'એકી સંખ્યા' મળવાની સંભાવના કેટલી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાસા પર એકી સંખ્યાઓ 1, 3, 5 (કુલ 3) છે, માટે સંભાવના 3/6 = 1/2 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અડધી સંખ્યા એકી અને અડધી બેકી હોવાથી હંમેશા 1/2 જવાબ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "માહિતીના સૌથી મોટા અને સૌથી નાના અવલોકનો વચ્ચેના તફાવતને 0 ક્યારે કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે માહિતીના બધા જ અવલોકનો સમાન હોય ત્યારે વિસ્તાર 0 કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 5, 5, 5 હોય તો 5 - 5 = 0 વિસ્તાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "જો 5 અવલોકનોનો સરવાળો 50 હોય, તો મધ્યક કેટલો થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મધ્યક = 50 / 5 = 10.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સરવાળો ÷ સંખ્યા = મધ્યક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ગઈકાલ કરતા આજે તાપમાન વધુ હોવાની શક્યતા કેવી ઘટના છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તે બની શકે પણ ચોક્કસ નહીં તેવી ઘટના છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કુદરતી ફેરફાર 'થઈ શકે' માં આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "માહિતીને ચડતા ક્રમમાં ગોઠવવી કયા પ્રતિનિધિ મૂલ્ય માટે અનિવાર્ય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મધ્યસ્થ શોધવા માટે માહિતીને ચડતા કે ઉતરતા ક્રમમાં ગોઠવવી અનિવાર્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મધ્યસ્થ એટલે લાઈનમાં ઉભેલા બાળકોમાં બરાબર વચ્ચેનું બાળક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "શું સરાસરી હંમેશા માહિતીમાંનું જ એક અવલોકન હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, સરાસરી માહિતીમાં ન હોય તેવો અંક પણ હોઈ શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 2 અને 3 ની સરાસરી 2.5 થાય જે માહિતીમાં નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "સંભાવના શોધવાનું સામાન્ય સૂત્ર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંભાવના = ઘટના માટેના સાનુકૂળ પરિણામો / કુલ શક્ય પરિણામો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સંભાવના = જે જોઈએ તે / કુલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "માહિતી : 1, 2, 3, 4, 5 નો મધ્યસ્થ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વચ્ચેનું અવલોકન 3 હોવાથી મધ્યસ્થ 3 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એકી સંખ્યામાં અવલોકન હોય તો (n+1)/2 મું પદ મધ્યસ્થ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "આલેખપત્ર પર 'x-અક્ષ' અને 'y-અક્ષ' પરસ્પર કેવા હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આલેખપત્ર પર x-અક્ષ અને y-અક્ષ પરસ્પર લંબ (90 ડિગ્રી) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બંને અક્ષો ભેગા મળીને 'L' આકાર બનાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "પ્રથમ ચાર એકી સંખ્યાનો વિસ્તાર શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રથમ ચાર એકી સંખ્યા 1, 3, 5, 7 છે. વિસ્તાર = 7 - 1 = 6.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મોટી - નાની = વિસ્તાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "પાસો ફેંકતા '8' મળવાની સંભાવના કેટલી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાસા પર 8 અંક હોતો નથી, તેથી સંભાવના 0 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે વસ્તુ પાસામાં જ નથી તેની સંભાવના અશક્ય એટલે કે 0.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "જો મધ્યક 15 હોય અને અવલોકનો 3 હોય, તો સરવાળો કેટલો થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સરવાળો = મધ્યક × અવલોકનોની સંખ્યા = 15 × 3 = 45.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ક્રોસ ગુણાકાર કરવાથી સરવાળો મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "લંબાલેખમાં પ્રમાણમાપ (Scale) નું શું મહત્વ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રમાણમાપ દ્વારા મોટી સંખ્યાઓને આલેખમાં યોગ્ય ઊંચાઈ આપી શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1 એકમ = 10 કે 100 એકમ લઈ શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "માહિતી : 2, 2, 3, 3, 3, 4, 4 માં કયો અંક બહુલક છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3 સૌથી વધુ વખત હોવાથી બહુલક 3 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે અંક સૌથી લાંબી લાઈન બનાવે તે બહુલક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "બહારથી એકઠાં કરેલા આંકડાઓને શું કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બહારથી કે સીધી તપાસ દ્વારા એકઠાં કરેલા આંકડાઓને 'માહિતી' (Data) કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): માહિતી એટલે ઉપયોગી આંકડાકીય વિગતો.</p></div>"
+    }
+  ]
+}
