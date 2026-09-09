@@ -2628,3 +2628,261 @@ var Std7_Maths_1_Mark = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "ઘાતાંક અને ઘાત",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ઘાતાંકીય સ્વરૂપ $2^5$ માં 'આધાર' શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘાતાંકીય સ્વરૂપ $2^5$ માં આધાર 2 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes ટ્રીક: જે નીચે હોય તે 'આધાર' (Base) અને જે માથા પર હોય તે 'ઘાત' (Power).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "$a^m \\times a^n$ નું સાદું રૂપ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $a^m \\times a^n = a^{m+n}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો આધાર સરખો અને વચ્ચે ગુણાકાર હોય, તો ઘાતનો સરવાળો (G = S: ગુણાકાર = સરવાળો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "$a^m \\div a^n$ નું સાદું રૂપ શું થાય? (જ્યાં m > n)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $a^m \\div a^n = a^{m-n}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો આધાર સરખો અને વચ્ચે ભાગાકાર હોય, તો ઘાતની બાદબાકી (B = B: ભાગાકાર = બાદબાકી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "કોઈપણ શૂન્ય સિવાયની સંખ્યાની 0 ઘાત એટલે કેટલી કિંમત?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોઈપણ શૂન્ય સિવાયની સંખ્યાની 0 ઘાત એટલે 1 (એક).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes Rule: કોઈની પણ 0 ઘાત એટલે જવાબ હંમેશા 'એકડો' (1).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "$(a^m)^n$ નું ઘાતાંકીય સ્વરૂપ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $(a^m)^n = a^{m \\times n}$ અથવા $a^{mn}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાતની માથે ઘાત હોય તો ઘાતાંકોનો ગુણાકાર કરવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "10,000 ને 10 ના ઘાત સ્વરૂપે કેવી રીતે લખાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $10,000 = 10^4$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલા શૂન્ય હોય એટલી ઘાત મૂકવી. 4 મીંડા = 4 ઘાત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "$(-1)$ ની એકી સંખ્યામાં ઘાત હોય તો જવાબ શું આવે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $(-1)$ ની એકી ઘાતનો જવાબ હંમેશા $-1$ આવે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકી ઘાત = માઈનસ (-), બેકી ઘાત = પ્લસ (+).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "$(-1)$ ની બેકી સંખ્યામાં ઘાત હોય તો જવાબ શું આવે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $(-1)$ ની બેકી ઘાતનો જવાબ હંમેશા $1$ આવે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બેકી સંખ્યામાં માઈનસની જોડી બની જાય એટલે તે પ્લસ થઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "$3^2$ અને $2^3$ માંથી કઈ સંખ્યા મોટી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $3^2 = 9$ અને $2^3 = 8$, તેથી $3^2$ મોટી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કિંમત શોધીને સરખામણી કરવી. ઉતાવળમાં 2x3 = 6 ન કરવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "$7^2$ નો અર્થ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $7^2$ એટલે 7 નો 2 વખત ગુણાકાર ($7 \\times 7$).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાત એટલે કેટલી વખત તે સંખ્યા પોતે ગુણાય છે તે સંખ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "$5^4 \\times 2^4$ ને સંયુક્ત ઘાત સ્વરૂપે કેવી રીતે લખાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $(5 \\times 2)^4 = 10^4$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો ઘાત સરખી હોય, તો આધારનો ગુણાકાર કરીને ઘાત સામાન્ય લેવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સંખ્યાને પ્રમાણિત સ્વરૂપમાં લખતી વખતે દશાંશ ચિહ્ન કયા અંક પછી મૂકવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રમાણિત સ્વરૂપમાં દશાંશ ચિહ્ન હંમેશા ડાબી બાજુથી પહેલા શૂન્યતર અંક પછી મૂકવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રમાણિત સ્વરૂપ એટલે: (1 થી 9 વચ્ચેની સંખ્યા) × 10 ની ઘાત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "125 ને 5 ના ઘાત સ્વરૂપે લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $125 = 5 \\times 5 \\times 5 = 5^3$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવયવ પાડીને ચેક કરો: $5 \\times 5 = 25$ અને $25 \\times 5 = 125$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "$a^m / b^m$ નું સાદું રૂપ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $(a/b)^m$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાત સમાન હોય તો ભાગાકારમાં આખા કૌંસની ઘાત લખી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સંખ્યા 5,00,000 ને પ્રમાણિત સ્વરૂપમાં લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $5 \\times 10^5$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5 પછી 5 શૂન્ય છે, એટલે $10^5$ ગુણાકારમાં આવશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "$x \\times x \\times y \\times y \\times y$ ને ઘાત સ્વરૂપે લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $x^2 y^3$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે પદ જેટલી વાર હોય તેની તેટલી ઘાત લગાડવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "$2^0 + 3^0 + 4^0$ ની કિંમત કેટલી થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $1 + 1 + 1 = 3$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો, $x^0 = 1$. અહીં ત્રણ પદ છે, એટલે $1+1+1=3$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "$10^2$ નો અર્થ 100 થાય, તો $10^3$ નો અર્થ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $10^3 = 1000$ (એક હજાર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10 ની જેટલી ઘાત હોય, 1 ની પાછળ એટલા મીંડા મૂકવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "$(-2)^3$ ની કિંમત જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $(-2) \\times (-2) \\times (-2) = -8$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3 એ એકી સંખ્યા છે, માટે જવાબ ઋણ આવશે. $2^3 = 8$ અને ચિહ્ન (-).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "$4^3 \\div 4^3$ ની કિંમત કેટલી થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $4^{3-3} = 4^0 = 1$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાન સંખ્યાનો ભાગાકાર હંમેશા 1 જ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "81 ને 3 ના ઘાતાંક તરીકે દર્શાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $81 = 3 \\times 3 \\times 3 \\times 3 = 3^4$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $3 \\times 3 = 9$, $9 \\times 9 = 81$. એટલે કે 3 ચાર વાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "$a^m \\times b^m$ માં જો ઘાતાંક સમાન હોય તો શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $(a \\times b)^m$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાત કોમન (સામાન્ય) કાઢી લેવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "3908.78 ને પ્રમાણિત સ્વરૂપમાં લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $3.90878 \\times 10^3$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દશાંશ ચિહ્ન જેટલા અંક ડાબી બાજુ ખસે, એટલી 10 ની ધન ઘાત મૂકવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "$(-10)^2$ ની કિંમત કેટલી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $(-10) \\times (-10) = 100$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બેકી ઘાત હંમેશા ઋણ સંખ્યાને ધન બનાવી દે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "જો $2^x = 8$ હોય, તો $x$ ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $2^x = 2^3$, તેથી $x = 3$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આધાર સરખો કરો, એટલે ઘાતની સરખામણી થઈ જશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "$1^{100}$ ની કિંમત કેટલી થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 ની ગમે તેટલી ઘાત હોય, જવાબ 1 જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "સંખ્યા 172.5 ને પ્રમાણિત સ્વરૂપમાં ફેરવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $1.725 \\times 10^2$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોઈન્ટને 2 સ્થાન ડાબી બાજુ ખસેડ્યો, એટલે $10^2$ આવ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "$0^5$ ની કિંમત શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શૂન્યનો ગમે તેટલી વાર ગુણાકાર કરો, જવાબ ઝીરો જ રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "$10 \\times 10^{11}$ નું સાદું રૂપ ઘાત સ્વરૂપે આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $10^{12}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 10 એટલે $10^1$ ગણાય. $1 + 11 = 12$ ઘાત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વિસ્તૃત સ્વરૂપ લખો: $10^5$ ને સંખ્યામાં.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $1,00,000$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાત 5 છે, એટલે 1 ની પાછળ 5 મીંડા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "27 ને 3 ના ઘાતાંક સ્વરૂપે લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $3^3$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $3 \\times 3 \\times 3 = 27$. (ત્રણનો ઘન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "$(-3)^4$ ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 81</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાત 4 (બેકી) છે, તેથી જવાબ ધન આવશે. $3 \\times 3 \\times 3 \\times 3 = 81$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "$a^0 \\times b^0$ ની કિંમત કેટલી થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $1 \\times 1 = 1$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $1 \\times 1 = 1$. કોઈપણની 0 ઘાત હંમેશા 1 જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "સંખ્યા 0.0001 ને 10 ના ઘાત સ્વરૂપે (ઋણ ઘાત વગર) છેદમાં કેવી રીતે લખાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $1/10^4$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોઈન્ટ પછી 4 આંકડા છે, એટલે છેદમાં 10 ની 4 ઘાત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "$(2^2)^3$ ની કિંમત કેટલી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $2^6 = 64$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાતનો ગુણાકાર કરો ($2 \\times 3 = 6$) અને પછી $2^6$ શોધો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "$10^5 \\div 10^3$ નું સાદું રૂપ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $10^{5-3} = 10^2$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાગાકારમાં ઘાતની બાદબાકી: 5 માંથી 3 જાય તો 2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "$x^a \\times x^b \\times x^c$ નું સાદું રૂપ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $x^{a+b+c}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આધાર સમાન હોય તો ગમે તેટલા પદ હોય, બધી ઘાતનો સરવાળો થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "32 ને 2 ના ઘાતાંક તરીકે લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $2^5$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $2 \\times 2=4, 4 \\times 2=8, 8 \\times 2=16, 16 \\times 2=32$. (પાંચ વાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "$5^3$ અને $3^5$ માંથી કઈ સંખ્યા નાની છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $5^3 = 125$ અને $3^5 = 243$, તેથી $5^3$ નાની છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હમેશા કિંમત ગણીને જ નક્કી કરવું, જેનો આધાર મોટો હોય તે હંમેશા મોટી ન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "સંખ્યા 1,20,00,000 ને પ્રમાણિત સ્વરૂપમાં લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $1.2 \\times 10^7$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 પછી પોઈન્ટ મૂકો અને પોઈન્ટ પાછળ કેટલા અંકો આવ્યા તે ગણીને ઘાત મૂકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "કોઈપણ સંખ્યાની 1 ઘાત એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોઈપણ સંખ્યાની 1 ઘાત એટલે તે સંખ્યા પોતે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $a^1 = a$. 1 ઘાત લખવાની જરૂર પડતી નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "$(-1)^{50}$ ની કિંમત કેટલી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 50 એ બેકી સંખ્યા છે, તેથી માઈનસ ચિહ્ન નીકળી જશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "શૂન્ય સિવાયની સંખ્યા $a$ માટે $a^m \\div a^m$ બરાબર શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $a^0 = 1$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંશ અને છેદ સરખા હોય તો જવાબ 1 જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "1000 ને 10 ના ઘાત સ્વરૂપે દર્શાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $10^3$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 3 મીંડા = 3 ઘાત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "$(3^0 + 2^0) \\times 5^0$ ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $(1+1) \\times 1 = 2 \\times 1 = 2$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલા કૌંસનો ઉકેલ લાવો અને પછી ગુણાકાર કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "$a^4 \\times b^4$ ને કઈ રીતે લખી શકાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $(ab)^4$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘાત કોમન હોવાથી આખા કૌંસ પર લખી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "$2^3 \\times 2^2$ ની કિંમત કેટલી થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $2^5 = 32$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આધાર સરખો, ગુણાકાર છે એટલે ઘાતનો સરવાળો ($3+2=5$).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "1 મિલિયન ને 10 ના ઘાત સ્વરૂપે કેવી રીતે લખાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $10^6$ (1 મિલિયન = 10 લાખ = 10,00,000)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 મિલિયનમાં 6 મીંડા આવે, તેથી $10^6$.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "જો $(-3)^x = -243$ હોય, તો $x$ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> $x = 5$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: $3^5 = 243$ થાય અને 5 એ એકી છે એટલે જવાબ ઋણ આવશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "$10^0$ અને $100^0$ માંથી કઈ સંખ્યા મોટી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બંને સરખી છે (બંનેની કિંમત 1 છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈપણ સંખ્યા હોય, જો ઘાત 0 હોય તો જવાબ હંમેશા 1 જ રહે.</p></div>"
+    }
+  ]
+}
