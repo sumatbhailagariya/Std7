@@ -56,3 +56,61 @@ var Std7_Maths_2_Marks = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "અપૂર્ણાંક અને દશાંશ સંખ્યાઓ",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "શોધો: (a) 7 ના 1/2  (b) 3/4 ના 1/2",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong><br>(a) 7 ના 1/2 = 7 × 1/2 = 7/2 = 3.5 અથવા 3 પૂર્ણાંક 1/2<br>(b) 3/4 ના 1/2 = 3/4 × 1/2 = (3×1) / (4×2) = 3/8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ગણિતમાં જ્યારે 'ના' અથવા 'Of' શબ્દ આવે ત્યારે હંમેશા 'ગુણાકાર' (*) ની નિશાની મૂકવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ગુણાકાર કરો અને અતિસંક્ષિપ્ત સ્વરૂપમાં ફેરવો: 2/3 × 2 પૂર્ણાંક 2/3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong><br>પગલું 1: મિશ્ર અપૂર્ણાંકને અશુદ્ધમાં ફેરવો: 2 પૂર્ણાંક 2/3 = (3×2+2)/3 = 8/3<br>પગલું 2: ગુણાકાર કરો: 2/3 × 8/3 = (2×8) / (3×3) = 16/9<br>પગલું 3: મિશ્ર સંખ્યામાં ફેરવતા: 1 પૂર્ણાંક 7/9</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>અપૂર્ણાંકના ગુણાકારમાં અંશનો ગુણાકાર અંશ સાથે અને છેદનો ગુણાકાર છેદ સાથે જ કરવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "એક લંબચોરસની લંબાઈ 5.7 સેમી અને પહોળાઈ 3 સેમી છે, તો તેનું ક્ષેત્રફળ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong><br>લંબચોરસનું ક્ષેત્રફળ = લંબાઈ × પહોળાઈ<br>= 5.7 સેમી × 3 સેમી<br>= (57/10) × 3 = 171/10<br>= 17.1 ચોરસ સેમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>દશાંશ સંખ્યાનો ગુણાકાર કરતી વખતે પોઈન્ટ ભૂલીને સાદો ગુણાકાર કરો, પછી જમણી બાજુથી જેટલા અંકો પછી પોઈન્ટ હોય તેટલા અંકો કાપી લો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "કિંમત શોધો: (1) 1.3 × 10  (2) 153.7 × 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong><br>(1) 1.3 × 10 = 13/10 × 10 = 13<br>(2) 153.7 × 10 = 1537/10 × 10 = 1537</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>જ્યારે 10, 100 કે 1000 સાથે ગુણાકાર થાય ત્યારે દશાંશ ચિહ્ન (પોઈન્ટ) જેટલા શૂન્ય હોય તેટલા કદમ 'જમણી' બાજુ ખસેડવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "શોધો: (1) 12 ÷ 3/4  (2) 5 ÷ 3/4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong><br>(1) 12 ÷ 3/4 = 12 × 4/3 = (12/3) × 4 = 4 × 4 = 16<br>(2) 5 ÷ 3/4 = 5 × 4/3 = 20/3 = 6 પૂર્ણાંક 2/3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ભાગાકાર કરવા માટે 'ભાગાકાર' નું 'ગુણાકાર' કરો અને તેની પાછળની સંખ્યાનો 'વ્યસ્ત' (ઉલટ-સુલટ) કરી નાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કિંમત શોધો: (1) 0.35 ÷ 5  (2) 651.2 ÷ 4",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong><br>(1) 0.35 ÷ 5 = 35/100 ÷ 5 = 35/100 × 1/5 = 7/100 = 0.07<br>(2) 651.2 ÷ 4 = 6512/10 × 1/4 = 1628/10 = 162.8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>દશાંશ સંખ્યાનો ભાગાકાર કરતી વખતે દશાંશ ચિહ્નને સામાન્ય સંખ્યાની જેમ જ ગણી ભાગાકાર કરો, પછી તેટલા જ સ્થાને પોઈન્ટ મૂકી દો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "કિંમત શોધો: (1) 4.8 ÷ 10  (2) 272.23 ÷ 100",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong><br>(1) 4.8 ÷ 10 = 0.48 (દશાંશ ચિહ્ન એક ડાબી બાજુ ખસ્યું)<br>(2) 272.23 ÷ 100 = 2.7223 (દશાંશ ચિહ્ન બે ડાબી બાજુ ખસ્યું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ભાગાકારમાં 10, 100, 1000 હોય ત્યારે દશાંશ ચિહ્ન જેટલા શૂન્ય હોય તેટલા અંક 'ડાબી' બાજુ ખસેડવું. (ભાગાકાર = ડાબી બાજુ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "7.75 ÷ 0.25 ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong><br>7.75 ÷ 0.25 = 775/100 ÷ 25/100<br>= 775/100 × 100/25<br>= 775 / 25<br>= 31</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>જો અંશ અને છેદ બંનેમાં પોઈન્ટ પછી સરખા અંકો હોય, તો પોઈન્ટ કાઢીને સીધો ભાગાકાર કરી શકાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "એક ગાડી 2.4 લિટર પેટ્રોલમાં 43.2 કિમીનું અંતર કાપે છે, તો 1 લિટર પેટ્રોલમાં ગાડી દ્વારા કેટલું અંતર કપાયું હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong><br>2.4 લિટર પેટ્રોલમાં કપાતું અંતર = 43.2 કિમી<br>માટે, 1 લિટર પેટ્રોલમાં કપાતું અંતર = 43.2 / 2.4<br>= 432 / 24<br>= 18 કિમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>જ્યારે 'વધારે' પરથી 'એક' ની કિંમત શોધવાની હોય ત્યારે હંમેશા ભાગાકાર કરવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ગુણાકાર શોધો: 0.2 × 316.8",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong><br>પ્રથમ પોઈન્ટ વગર ગુણાકાર કરીએ: 2 × 3168 = 6336<br>અહીં 0.2 માં 1 દશાંશ સ્થળ અને 316.8 માં 1 દશાંશ સ્થળ છે. (કુલ 2)<br>માટે, જવાબ = 63.36</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>દશાંશના ગુણાકારમાં પોઈન્ટની સંખ્યાનો સરવાળો થાય છે. (1 અંક + 1 અંક = જવાબમાં 2 અંક પછી પોઈન્ટ).</p></div>"
+    }
+  ]
+}
