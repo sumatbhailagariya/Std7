@@ -172,3 +172,61 @@ var Std7_Maths_2_Marks = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "સાદા સમીકરણો",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "નીચેના વિધાનને સમીકરણ સ્વરૂપે લખો: 'x ના 3 ગણા અને 11 નો સરવાળો 32 છે.'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>વિધાન મુજબ:<br>x ના 3 ગણા = 3x<br>તેમાં 11 ઉમેરતા (સરવાળો કરતા) = 3x + 11<br>પરિણામ 32 મળે છે, તેથી સમીકરણ: <b>3x + 11 = 32</b></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગણા' શબ્દ દેખાય તો ગુણાકાર કરવો અને 'સરવાળો' હોય તો '+' ની નિશાની મૂકવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સમીકરણ ઉકેલો: 3n - 2 = 46",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>3n - 2 = 46<br>3n = 46 + 2 (-2 ને જમણી બાજુ લઈ જતા +2 થશે)<br>3n = 48<br>n = 48 / 3 (3 ને છેદમાં લઈ જતા)<br><b>n = 16</b></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Side Change, Sign Change' - જો સંખ્યા ડાબી બાજુ માઈનસ હોય, તો જમણી બાજુ પ્લસ થઈ જશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ચકાસો કે x = 3 એ સમીકરણ 4x - 3 = 13 નો ઉકેલ છે કે નહીં?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>સમીકરણની ડાબી બાજુ (LHS) = 4x - 3<br>x = 3 મુકતા: 4(3) - 3 = 12 - 3 = 9<br>જમણી બાજુ (RHS) = 13 છે.<br>અહીં LHS ≠ RHS હોવાથી, <b>x = 3 એ સમીકરણનો ઉકેલ નથી.</b></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો ડાબી અને જમણી બાજુના જવાબ સરખા આવે તો જ તે 'ઉકેલ' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "નીચેના સમીકરણને વિધાન સ્વરૂપે લખો: m / 5 = 3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>અહીં ચલ m ને 5 વડે ભાગવામાં આવ્યો છે અને પરિણામ 3 મળે છે.<br><b>વિધાન: m નો પાંચમો ભાગ 3 છે.</b></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદમાં કોઈ સંખ્યા હોય તો તેને તે સંખ્યાનો 'ભાગ' (જેમ કે પાંચમો ભાગ) કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સમીકરણ ઉકેલો: 5/2 x = 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>5/2 x = 10<br>x = 10 × (2/5) [અપૂર્ણાંક સામે જતાં ઉલટાઈ જાય]<br>x = (10 × 2) / 5<br>x = 20 / 5<br><b>x = 4</b></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદની સંખ્યા સામે અંશમાં જાય અને અંશની સંખ્યા છેદમાં જાય. (Palat-War!)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "જો એક સંખ્યાના 6 ગણામાંથી 5 બાદ કરતા 7 મળે, તો તે સંખ્યા શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>ધારો કે તે સંખ્યા x છે.<br>સમીકરણ: 6x - 5 = 7<br>6x = 7 + 5<br>6x = 12<br>x = 12 / 6<br><b>x = 2</b>. આમ, તે સંખ્યા 2 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોયડા ઉકેલતી વખતે હંમેશા અજ્ઞાત સંખ્યા માટે 'x' ધારી લેવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સમીકરણ ઉકેલો: 2(x + 4) = 12",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>રીત 1: કૌંસ છોડતા: 2x + 8 = 12<br>2x = 12 - 8<br>2x = 4<br>x = 4 / 2 = 2<br><b>x = 2</b></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૌંસની બહાર રહેલી સંખ્યા પેલા છેદમાં જવા દો, તો ગણતરી વધુ સરળ બનશે! (12/2 = 6, 6-4=2)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "નીચેના વિધાન માટે સમીકરણ બનાવો: 'લક્ષ્મીના પિતા 49 વર્ષના છે. તે લક્ષ્મીની ઉંમરના ત્રણ ગણાથી 4 વર્ષ મોટા છે.'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>ધારો કે લક્ષ્મીની ઉંમર y વર્ષ છે.<br>તેના ત્રણ ગણા = 3y<br>ત્રણ ગણાથી 4 વર્ષ મોટા એટલે કે: 3y + 4<br>પિતાની ઉંમર 49 છે, તેથી સમીકરણ: <b>3y + 4 = 49</b></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મોટા' એટલે સરવાળો (+) અને 'નાના' એટલે બાદબાકી (-) કરવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સમીકરણ ઉકેલો: 4 + 5(p - 1) = 34",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>5(p - 1) = 34 - 4 (4 ને જમણી બાજુ લાવતા)<br>5(p - 1) = 30<br>p - 1 = 30 / 5 (5 છેદમાં જશે)<br>p - 1 = 6<br>p = 6 + 1<br><b>p = 7</b></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહારની સંખ્યાઓને એક પછી એક દૂર કરો, છેલ્લે કૌંસ ખોલો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સમીકરણ ઉકેલો: 3s + 12 = 0",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>3s = 0 - 12<br>3s = -12<br>s = -12 / 3<br><b>s = -4</b></p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો, શૂન્યમાંથી કોઈ પણ સંખ્યા બાદ કરો તો જવાબ ઋણ (-) માં આવે.</p></div>"
+    }
+  ]
+}
