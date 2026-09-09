@@ -346,3 +346,61 @@ var Std7_Maths_2_Marks = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "રાશિઓની તુલના",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ગુણોત્તર 3 : 1 ને ટકામાં ફેરવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>પદ ૧: ગુણોત્તરના પદોનો સરવાળો = 3 + 1 = 4 <br>પદ ૨: પ્રથમ ભાગની ટકાવારી = (3/4) × 100% = 3 × 25% = 75% <br>પદ ૩: બીજા ભાગની ટકાવારી = (1/4) × 100% = 1 × 25% = 25% <br>આમ, 3 : 1 ના ટકા 75% અને 25% થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે પણ ગુણોત્તરને ટકામાં ફેરવવો હોય ત્યારે (તે ભાગ / કુલ સરવાળો) × 100 કરી દેવું. યાદ રાખો કે બધા ટકાનો સરવાળો હંમેશા 100% જ થશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "250 ના 15% કેટલા થાય? ગણતરી કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>250 ના 15% = 250 × (15/100) <br>= (250 × 15) / 100 <br>= 3750 / 100 <br>= 37.5 <br>આમ, 250 ના 15% એ 37.5 થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ના' એટલે ગુણાકાર અને '%' એટલે છેદમાં 100. મીંડું-મીંડું ઉડાડીને છેલ્લે દશાંશ ચિહ્ન મૂકી દેવું એટલે જવાબ પાકો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "અપૂર્ણાંક 5/4 ને ટકામાં ફેરવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>કોઈપણ અપૂર્ણાંકને ટકામાં ફેરવવા માટે તેને 100 વડે ગુણવા પડે. <br>= (5/4) × 100% <br>= 5 × (100 ÷ 4) % <br>= 5 × 25% <br>= 125%</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો છેદમાં 4 હોય તો તેને 25 વડે ગુણવાથી 100 મળે. માટે અંશને સીધો 25 વડે ગુણી નાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "દશાંશ સંખ્યા 0.65 ને ટકામાં ફેરવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>0.65 = 65/100 <br>હવે તેને ટકામાં ફેરવવા 100 વડે ગુણતા: <br>= (65/100) × 100% <br>= 65%</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દશાંશ સંખ્યાને ટકામાં ફેરવવા માટે દશાંશ ચિહ્નને જમણી બાજુ બે અંક ખસેડી પાછળ % નું નિશાન લગાવી દો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "એક શહેરની વસ્તી 25,000 માંથી ઘટીને 24,500 થઈ, તો ઘટાડાની ટકાવારી શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>વસ્તીમાં ઘટાડો = 25,000 - 24,500 = 500 <br>ઘટાડાની ટકાવારી = (ઘટાડો / મૂળ વસ્તી) × 100 <br>= (500 / 25,000) × 100 <br>= 50,000 / 25,000 = 2% <br>આમ, વસ્તીમાં 2% નો ઘટાડો થયો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટકાવારી હંમેશા 'મૂળ કિંમત' (શરૂઆતની સંખ્યા) પર જ ગણાય, તે ક્યારેય ભૂલતા નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "અરુણે એક કાર ₹ 3,50,000 માં ખરીદી અને પછીના વર્ષે તેની કિંમત વધીને ₹ 3,70,000 થઈ, તો કિંમતમાં થયેલ વધારાની ટકાવારી શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>કિંમતમાં વધારો = 3,70,000 - 3,50,000 = 20,000 <br>વધારાની ટકાવારી = (વધારો / મૂળ કિંમત) × 100 <br>= (20,000 / 3,50,000) × 100 <br>= 200 / 35 = 40 / 7 = 5.7% (લગભગ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધારો હોય કે ઘટાડો, ઉપર તફાવત લખો અને નીચે હંમેશા જૂની (મૂળ) કિંમત મૂકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "એક વસ્તુ ₹ 250 માં ખરીદી અને ₹ 325 માં વેચી, તો નફો કે ખોટ કેટલા ટકા થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>ખરીદ કિંમત (CP) = ₹ 250, વેચાણ કિંમત (SP) = ₹ 325 <br>અહીં SP > CP હોવાથી નફો થશે. <br>નફો = SP - CP = 325 - 250 = ₹ 75 <br>નફાની ટકાવારી = (નફો / CP) × 100 <br>= (75 / 250) × 100 = 30%</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નફો કે ખોટ હંમેશા ખરીદ કિંમત (CP) પર જ શોધાય. 250 ના 10% એટલે 25 થાય, તો 75 એટલે 3 ગણા (30%) થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "₹ 5000 નું 10% લેખે 2 વર્ષનું સાદું વ્યાજ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>P = 5000, R = 10%, T = 2 વર્ષ <br>સાદું વ્યાજ (I) = (P × R × T) / 100 <br>= (5000 × 10 × 2) / 100 <br>= 50 × 10 × 2 = ₹ 1000 <br>આમ, સાદું વ્યાજ ₹ 1000 થશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂત્ર 'PRT છેદમાં 100' યાદ રાખો. મોઢે ગણવા માટે: 5000 ના 10% એટલે 500 (એક વર્ષનું), તો બે વર્ષનું 1000!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "મીતા તેના પગારમાંથી ₹ 4000 બચાવે છે. જો તે તેના પગારના 10% હોય, તો તેનો પગાર કેટલો હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>ધારો કે કુલ પગાર x છે. <br>પગારના 10% = 4000 <br>x × (10/100) = 4000 <br>x = (4000 × 100) / 10 <br>x = 40,000 <br>આમ, મીતાનો કુલ પગાર ₹ 40,000 હશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો 10% = 4000 હોય, તો 100% કરવા માટે બંને બાજુ એક મીંડું વધારી દો. સીધો જવાબ 40,000!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ચોકમાં કેલ્શિયમ, કાર્બન અને ઓક્સિજનનો ગુણોત્તર 10:3:12 છે, તો ચોકમાં કાર્બનની ટકાવારી શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>ગુણોત્તર પદોનો સરવાળો = 10 + 3 + 12 = 25 <br>કાર્બનનો ભાગ = 3 <br>કાર્બનની ટકાવારી = (3 / 25) × 100% <br>= 3 × 4% = 12% <br>આમ, ચોકમાં કાર્બન 12% છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદમાં 25 હોય તો 100 લાવવા 4 વડે ગુણવા પડે, માટે ઉપરના અંકને પણ 4 વડે ગુણી નાખતા સીધા ટકા મળે!</p></div>"
+    }
+  ]
+}
