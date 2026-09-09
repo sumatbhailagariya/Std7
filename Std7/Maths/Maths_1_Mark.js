@@ -2320,3 +2320,311 @@ var Std7_Maths_1_Mark = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "બીજગણિતીય પદાવલિ",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ચલ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જેની કિંમત ચોક્કસ ન હોય પણ બદલાતી રહેતી હોય તેને 'ચલ' કહેવામાં આવે છે (જેમ કે x, y, z, a, b વગેરે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘ચલ’ એટલે જે ‘ચાલતું’ (બદલાતું) રહે તે, તેને અંગ્રેજી મૂળાક્ષરો વડે દર્શાવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "અચલ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જેની કિંમત હંમેશા નિશ્ચિત (ચોક્કસ) રહેતી હોય તેને 'અચલ' કહેવામાં આવે છે (જેમ કે 5, -10, 1/2 વગેરે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘અચલ’ એટલે જે ‘ચલે’ નહીં તે (સ્થિર), એટલે કે માત્ર અંકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "બીજગણિતીય પદાવલિ શાના બનેલા હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બીજગણિતીય પદાવલિ ચલ અને અચલના સરવાળા, બાદબાકી, ગુણાકાર કે ભાગાકારના જોડાણથી બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ચલ + અચલ + ગાણિતિક ક્રિયા = પદાવલિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પદાવલિ 4x - 3 માં પદો કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ પદાવલિમાં બે પદો છે: 4x અને -3.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સરવાળા કે બાદબાકીના ચિહ્નથી છૂટા પડતા ભાગને પદ કહેવાય. ચિહ્ન સાથે લેવાનું ભૂલશો નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સંખ્યાત્મક સહગુણક એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પદના ગુણાકારમાં રહેલા અંકને તે પદનો સંખ્યાત્મક સહગુણક કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘સહગુણક’ એટલે ચલની આગળ બેઠેલો પાડોશી અંક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પદ -7xy માં સહગુણક કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પદ -7xy માં સંખ્યાત્મક સહગુણક -7 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ચિહ્ન જો માઈનસ (-) હોય, તો સહગુણકમાં પણ માઈનસ લખવું જ પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પદ x નો સહગુણક શું ગણાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે પદની આગળ કોઈ અંક ન હોય, ત્યારે તેનો સહગુણક 1 ગણાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જેનું કોઈ નથી તેનો 'એક' (1) તો છે જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સજાતીય પદો એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પદોના ચલ અને ચલની ઘાત સમાન હોય તેને સજાતીય પદો કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સજાતીય એટલે ‘સરખાં બાળકો’ (ચલ સમાન હોવા જોઈએ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિજાતીય પદો એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પદોમાં ચલ અસમાન હોય અથવા ચલ સમાન હોય પણ તેની ઘાત જુદી જુદી હોય તેને વિજાતીય પદો કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વિજાતીય એટલે ‘જુદા જુદા દેખાતા પદો’.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "એકપદી કોને કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પદાવલિમાં માત્ર એક જ પદ હોય તેને એકપદી કહેવાય છે (દા.ત. 5x, 3ab).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એકપદી એટલે ‘એકલવીર’ (ફક્ત 1 જ પદ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "દ્વિપદી કોને કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પદાવલિમાં બે વિજાતીય પદો હોય તેને દ્વિપદી કહેવાય છે (દા.ત. x + y, 2a - 3b).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દ્વિ એટલે 2, જે પદાવલિમાં 2 પદ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ત્રિપદી એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પદાવલિમાં ત્રણ વિજાતીય પદો હોય તેને ત્રિપદી કહેવામાં આવે છે (દા.ત. a + b + c).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ત્રિ એટલે 3, ત્રણ પદવાળી પદાવલિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "બહુપદી કોને કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક કે તેથી વધુ પદો ધરાવતી પદાવલિને બહુપદી કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): તમામ એકપદી, દ્વિપદી અને ત્રિપદી બહુપદીના જ પ્રકારો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "શું 3x અને 3y સજાતીય પદો છે? શા માટે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, કારણ કે બંનેના ચલ (x અને y) જુદા જુદા છે, તેથી તે વિજાતીય પદો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સહગુણક સમાન હોવાથી સજાતીય ન બને, ચલ સમાન હોવા જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "7x²y અને -5yx² સજાતીય પદો છે કે વિજાતીય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ સજાતીય પદો છે, કારણ કે બંનેમાં ચલ (x²y) અને તેની ઘાત સમાન છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ચલનો ક્રમ બદલાય તો પણ તે સજાતીય જ રહે (દા.ત. xy = yx).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "પદાવલિ 5x - 7 ની x = 2 માટે કિંમત શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5(2) - 7 = 10 - 7 = 3.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ચલની જગ્યાએ કૌંસમાં આપેલી કિંમત મૂકી સાદું રૂપ આપો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "બે સજાતીય પદો 3x અને 4x નો સરવાળો કેટલો થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (3 + 4)x = 7x.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): માત્ર સહગુણકોનો સરવાળો કરી પાછળ ચલ લગાડી દો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "8a માંથી 3a બાદ કરતાં શું મળે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 8a - 3a = 5a.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બાદબાકીમાં પણ ફક્ત સહગુણકોની જ બાદબાકી થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "શું 4x + 3y નું સાદું રૂપ આપી શકાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, કારણ કે તે વિજાતીય પદો છે. વિજાતીય પદોના સરવાળા કે બાદબાકી થઈ શકતા નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વિજાતીય પદો એટલે તેલ અને પાણી, ક્યારેય ભેગા ન થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "પદાવલિ 100 - 10x² માં x² નો સહગુણક કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> x² નો સહગુણક -10 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હંમેશા ચલની આગળનું ચિહ્ન સહગુણક સાથે રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "અચલ પદ કોને કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પદાવલિમાં જે પદમાં ચલ હોતો નથી, તેને 'અચલ પદ' કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે પદમાં x, y કે z ન હોય તે અચલ પદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "x + x + x ને ટૂંકમાં કઈ રીતે લખાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3x.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પુનરાવર્તિત સરવાળો એટલે ગુણાકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "x * x * x ને ઘાત સ્વરૂપે કઈ રીતે લખાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> x³ (x ની 3 ઘાત).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જેટલી વાર ગુણાકાર તેટલી માથા પર ઘાત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "પદાવલિ 4x²y - 3xy² માં કેટલા પદો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બે પદો (4x²y અને -3xy²).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આ દ્વિપદી પદાવલિ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "જો m = 2 હોય, તો 9 - 5m ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 9 - 5(2) = 9 - 10 = -1.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નિશાનીના નિયમો યાદ રાખો: 9 માંથી 10 જાય તો -1 વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "પદ 1.2ab માં ab નો સહગુણક જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1.2.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સહગુણક દશાંશ સંખ્યા (પોઈન્ટવાળી) પણ હોઈ શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "જો p = -2 હોય, તો 4p + 7 ની કિંમત શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4(-2) + 7 = -8 + 7 = -1.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઋણ કિંમત હંમેશા કૌંસમાં મૂકવી જેથી ભૂલ ન પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "સંખ્યા x ના ત્રણ ગણા અને 11 નો સરવાળો - આને પદાવલિમાં કઈ રીતે લખાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3x + 11.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ગણા' એટલે ગુણાકાર અને 'સરવાળો' એટલે +.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "y માંથી z બાદ કરી પરિણામને 5 વડે ગુણતા - આને પદાવલિમાં કઈ રીતે લખાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5(y - z).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે કોઈ પરિણામને ગુણવાનું હોય ત્યારે કૌંસનો ઉપયોગ કરવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "પદાવલિ 3x - y + 7 માં અચલ પદ કયું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 7.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે પદની સાથે x કે y વળગેલા નથી, તે અચલ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "પદાવલિ 1 + x + x² ના પ્રકારનું નામ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ત્રિપદી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1, x અને x² એમ કુલ 3 પદ છે, માટે ત્રિપદી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "પદ -x માં સહગુણક શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> -1.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ખાલી માઈનસ ચિહ્ન એટલે -1 સમજવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "x/2 માં x નો સહગુણક કેટલો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1/2.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): છેદમાં રહેલી સંખ્યા સહગુણકના છેદમાં જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "પદાવલિ xy + 2x²y² માટે ટ્રી ડાયાગ્રામ (Tree Diagram) માં કેટલા પદ દેખાશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બે પદ દેખાશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ટ્રી ડાયાગ્રામની પહેલી શાખાઓ પદની સંખ્યા દર્શાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "પદાવલિ 7 + mn માં mn નો સહગુણક શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): mn એટલે 1 * mn, માટે સહગુણક 1 થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "બે પદાવલિઓ (x - y) અને (y - x) નો સરવાળો કેટલો થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (x - y) + (y - x) = x - x - y + y = 0.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પરસ્પર વિરોધી પદોનો સરવાળો હંમેશા શૂન્ય થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "3x²y અને 3xy² સજાતીય પદો છે? કેમ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, કારણ કે પહેલા પદમાં x ની ઘાત 2 છે જ્યારે બીજામાં x ની ઘાત 1 છે. ઘાત સમાન નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સજાતીય હોવા માટે ચલ અને તેની ઘાત બંને સેમ ટુ સેમ જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "પદાવલિ 5x² - 4x + 3 માં x વાળા પદનો સહગુણક શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> x વાળા પદનો સહગુણક -4 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): x² અને x બંને જુદા પદ છે, ઉતાવળમાં 5 ન લખાઈ જાય તે જોવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "જો a = 0 અને b = 1 હોય તો a + b ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 0 + 1 = 1.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શૂન્યનો કોઈપણ સંખ્યા સાથે સરવાળો તે સંખ્યા પોતે જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "x² - y² માંથી y² - x² બાદ કરતા શું મળે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (x² - y²) - (y² - x²) = x² - y² - y² + x² = 2x² - 2y².</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બાદબાકી કરતી વખતે બીજા કૌંસના બધા ચિહ્નો બદલાઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "સંખ્યા n ને તે જ સંખ્યા સાથે ગુણતા મળતું પદ કયું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> n².</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સંખ્યાનો પોતાની સાથે ગુણાકાર એટલે તેનો વર્ગ (Square).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "-ab માંથી ab બાદ કરતા શું મળે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> -ab - ab = -2ab.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): માઈનસ માઈનસ પ્લસ (ચિહ્ન મોટાનું એટલે કે માઈનસનું જ રહે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "પદાવલિ 2y - 5 માં ચલ કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> y.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે અંગ્રેજી અક્ષર દેખાય તે જ ચલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "ચોરસની પરિમિતિનું સૂત્ર બીજગણિતીય પદાવલિ તરીકે લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4l (જ્યાં l એ ચોરસની બાજુની લંબાઈ છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લંબાઈનો 4 વાર સરવાળો એટલે 4 * લંબાઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "લંબચોરસની પરિમિતિનું સૂત્ર પદાવલિ તરીકે શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2(l + b) અથવા 2l + 2b.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): l = લંબાઈ, b = પહોળાઈ. બે લંબાઈ + બે પહોળાઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "શું 100 એ પદાવલિ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હા, તે એક અચલ પદાવલિ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એકલી સંખ્યા પણ એકપદી પદાવલિ ગણાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "પદ 4x²y ના અવયવો કયા કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 4, x, x અને y.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પદના ટુકડા કરો એ જ એના અવયવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "પદાવલિ (a + b) માંથી (a - b) બાદ કરતા શું મળે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (a + b) - (a - b) = a + b - a + b = 2b.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બાદબાકીમાં પાછળના કૌંસના પદો ઊલટાવી દેવા (+ નું - અને - નું +).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "પદ -5x²y માં સંખ્યાત્મક અવયવ કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> -5.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સંખ્યાત્મક અવયવ એટલે જ સહગુણક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "5x² + 7x પદાવલિમાં x² નો સહગુણક કેટલો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે ચલનો સહગુણક પૂછ્યો હોય તેની બરાબર આગળનો અંક જોવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "જો x = 1 હોય તો x² + x + 1 ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1² + 1 + 1 = 1 + 1 + 1 = 3.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1 ની ગમે તેટલી ઘાત હંમેશા 1 જ રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "3x - 5 માં x = -1 મૂકતા કિંમત શું મળે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3(-1) - 5 = -3 - 5 = -8.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): માઈનસ માઈનસ પ્લસ થાય પણ નિશાની માઈનસની જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "દ્વિપદી પદાવલિનું એક ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2x + 3y (અથવા અન્ય કોઈ પણ બે પદવાળી પદાવલિ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગમે તે બે વિજાતીય પદ વચ્ચે + કે - મૂકી દો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "શું -7x અને 7x સજાતીય પદો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હા, કારણ કે બંનેના ચલ (x) સમાન છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સહગુણકના ચિહ્ન અલગ હોય તો પણ ચલ સમાન હોય તો તે સજાતીય કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "પદાવલિ (4x - 3y) + (2x + 5y) નું સાદું રૂપ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (4x + 2x) + (-3y + 5y) = 6x + 2y.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સજાતીય પદોને જોડે લાવીને સરવાળો-બાદબાકી કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "પદ 5xy² માં y² નો સહગુણક શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5x.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જેનો સહગુણક પૂછ્યો હોય તેને ઢાંકી દો, જે વધે તે સહગુણક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "શૂન્ય એ કેવી પદાવલિ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૂન્ય એ અચલ પદાવલિ છે, જેને શૂન્ય બહુપદી પણ કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દરેક સંખ્યા એકપદી પદાવલિ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "પદાવલિ 3x² + 4x - 5 માં કુલ કેટલા અવયવો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પદાવલિમાં 3 પદો છે, દરેક પદના અલગ અલગ અવયવો હોય છે (દા.ત. 3x² ના 3, x, x).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અવયવો હંમેશા પદના ગુણાકાર સ્વરૂપે હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "જો x = 2 અને y = 3 હોય, તો xy ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2 * 3 = 6.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બે ચલ વચ્ચે કોઈ ચિહ્ન ન હોય તો ગુણાકાર સમજવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "પદાવલિ 50 - 4x² માં જ્યારે x = 5 હોય ત્યારે કિંમત શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 50 - 4(5)² = 50 - 4(25) = 50 - 100 = -50.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પહેલા વર્ગ કરવો, પછી ગુણાકાર અને છેલ્લે બાદબાકી (ભાગુસબા નિયમ).</p></div>"
+    }
+  ]
+}
