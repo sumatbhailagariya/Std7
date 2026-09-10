@@ -578,3 +578,61 @@ var Std7_Maths_2_Marks = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "ઘાત અને ઘાતાંક",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "સાદું રૂપ આપી ઘાત સ્વરૂપે લખો: 3² × 3⁴ × 3⁸",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અહીં આધાર સમાન (3) છે અને ગુણાકારની ક્રિયા છે, તેથી ઘાતાંકોનો સરવાળો થશે.<br>3² × 3⁴ × 3⁸ = 3^(2 + 4 + 8) = 3¹⁴<br>જવાબ: 3¹⁴</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો આધાર સરખો તો ગુણાકારમાં ઘાતનો સરવાળો (G.S. - ગુણાકાર-સરવાળો) યાદ રાખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "કિંમત શોધો: (2³)²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘાતના ઘાતનો નિયમ મુજબ ઘાતાંકોનો ગુણાકાર થાય.<br>(2³)² = 2^(3 × 2) = 2⁶<br>હવે, 2⁶ = 2 × 2 × 2 × 2 × 2 × 2 = 64<br>જવાબ: 64</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કૌંસની અંદર અને બહાર ઘાત હોય તો તેમનો સીધો ગુણાકાર કરી નાખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "8¹⁵ ÷ 8¹⁰ ને ઘાત સ્વરૂપે દર્શાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે આધાર સમાન હોય અને ભાગાકારની ક્રિયા હોય, ત્યારે ઘાતાંકોની બાદબાકી થાય.<br>8¹⁵ ÷ 8¹⁰ = 8^(15 - 10) = 8⁵<br>જવાબ: 8⁵</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભાગાકારમાં બાદબાકી (Bh.B. - ભાગાકાર-બાદબાકી) ટ્રીક યાદ રાખવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "729 ને 3 ના ઘાત સ્વરૂપે દર્શાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 729 ના અવિભાજ્ય અવયવો પાડતા:<br>729 = 3 × 3 × 3 × 3 × 3 × 3<br>અહીં 3 નો 6 વખત ગુણાકાર થાય છે.<br>જવાબ: 3⁶</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મોટી સંખ્યાને આપેલી સંખ્યા વડે ભાગતા જાવ, જેટલી વાર ભાગાકાર થાય તેટલી તેની ઘાત ગણાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "કિંમત શોધો: (3⁰ + 4⁰ + 5⁰)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોઈપણ શૂન્યતર સંખ્યાની 0 ઘાત એટલે 1 થાય.<br>3⁰ = 1, 4⁰ = 1, 5⁰ = 1<br>તેથી, 1 + 1 + 1 = 3<br>જવાબ: 3</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સંખ્યા ગમે તેટલી મોટી હોય, જો માથે 0 (ઝીરો) બેઠો હોય તો જવાબ હંમેશા '1' જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "(-1)¹⁰⁰ × (-1)¹⁰¹ ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (-1) ની બેકી ઘાત હોય તો જવાબ +1 આવે અને એકી ઘાત હોય તો -1 આવે.<br>(-1)¹⁰⁰ = 1 (બેકી ઘાત)<br>(-1)¹⁰¹ = -1 (એકી ઘાત)<br>હવે, 1 × (-1) = -1<br>જવાબ: -1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): -1 ની ઘાત 'બેકી તો પ્લસ (+)' અને 'એકી તો માઈનસ (-)' બસ આટલું જ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સંખ્યા 5,985.3 ને પ્રમાણિત સ્વરૂપમાં ફેરવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રમાણિત સ્વરૂપમાં પ્રથમ અંક પછી દશાંશ ચિન્હ હોવું જોઈએ.<br>અહીં ચિન્હને 3 સ્થાન ડાબી બાજુ ખસેડતા:<br>5,985.3 = 5.9853 × 10³<br>જવાબ: 5.9853 × 10³</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દશાંશ ચિન્હ જેટલા ડગલાં ડાબી બાજુ ખસે, તેટલી 10 ની ધન (+) ઘાત મૂકવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સાદું રૂપ આપો: (2⁵ / 2⁸)⁵ × 2⁻⁵",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રથમ કૌંસ ઉકેલતા: 2^(5-8) = 2⁻³<br>હવે, (2⁻³)⁵ = 2⁻¹⁵<br>હવે, 2⁻¹⁵ × 2⁻⁵ = 2^(-15-5) = 2⁻²⁰<br>જવાબ: 2⁻²⁰ અથવા 1 / 2²⁰</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સ્ટેપ બાય સ્ટેપ નિયમો લાગુ પાડો: પહેલા ભાગાકાર, પછી ઘાતનો ઘાત અને છેલ્લે ગુણાકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "2³ અને 3² માંથી કઈ સંખ્યા મોટી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બંનેની કિંમત શોધતા:<br>2³ = 2 × 2 × 2 = 8<br>3² = 3 × 3 = 9<br>અહીં 9 > 8 હોવાથી, 3² મોટી સંખ્યા છે.<br>જવાબ: 3²</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઘાત અને આધાર અલગ હોય ત્યારે હંમેશા તેની સાદી કિંમત શોધીને જ સરખામણી કરવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "જો 2ˣ = 32 હોય, તો x ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રથમ 32 ને 2 ના ઘાત સ્વરૂપે ફેરવો.<br>32 = 2 × 2 × 2 × 2 × 2 = 2⁵<br>હવે, 2ˣ = 2⁵<br>આધાર સમાન હોવાથી ઘાતાંકોને સરખાવતા: x = 5<br>જવાબ: x = 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બરાબરની બંને બાજુ આધાર સરખો કરો, એટલે ઘાત સીધી જ મળી જશે.</p></div>"
+    }
+  ]
+}
