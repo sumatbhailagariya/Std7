@@ -520,3 +520,61 @@ var Std7_Maths_2_Marks = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "બીજગણિતીય પદાવલિ",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પદાવલિ 5xy² + 7x માં પદ અને તેના અવયવોને ટ્રી-ચાર્ટ (Tree Chart) વડે દર્શાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પદાવલિ: 5xy² + 7x<br>1. પદ: 5xy², અવયવો: 5, x, y, y<br>2. પદ: 7x, અવયવો: 7, x</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) જ્યારે ચલની ઉપર ઘાત હોય (જેમ કે y²), ત્યારે અવયવમાં તે ચલને તેટલી વખત છૂટો પાડવો (y, y).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "નીચેની પદાવલિમાં અચલ સિવાયના પદોના સંખ્યાત્મક સહગુણક લખો: (i) 5 - 3t² (ii) 1.2a + 0.8b",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>(i) પદ: -3t², સહગુણક: -3<br>(ii) પદ: 1.2a અને 0.8b, સહગુણકો: 1.2 અને 0.8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) સહગુણક લખતી વખતે પદની આગળ રહેલી નિશાની (+ કે -) ક્યારેય ભૂલવી નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "નીચેનાનું એકપદી, દ્વિપદી અને ત્રિપદીમાં વર્ગીકરણ કરો: (1) y² (2) 5 - 3t (3) 4p²q - 4pq² (4) 7mn",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1. y² : એકપદી<br>2. 5 - 3t : દ્વિપદી<br>3. 4p²q - 4pq² : દ્વિપદી (અહીં બે પદો છે)<br>4. 7mn : એકપદી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) પદોને ગણવા માટે માત્ર '+' અથવા '-' ની નિશાની જુઓ. ગુણાકાર (mn) થી પદ અલગ પડતું નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સરવાળો કરો: 3mn, -5mn, 8mn, -4mn",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3mn + (-5mn) + 8mn + (-4mn)<br>= (3 - 5 + 8 - 4) mn<br>= (11 - 9) mn<br>= 2mn</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) પહેલા ધન સંખ્યાનો સરવાળો (3+8=11) કરો, પછી ઋણ સંખ્યાનો (-5-4=-9) કરો, અંતે બાદબાકી કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "(a + b) માંથી (a - b) બાદ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (a + b) - (a - b)<br>= a + b - a + b (કૌંસ છોડતા નિશાની બદલાશે)<br>= a - a + b + b<br>= 2b</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) બાદબાકી કરતી વખતે બીજા કૌંસમાં રહેલા દરેક પદની નિશાની ઉલટાવી દેવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "જો x = -2 હોય, તો 2x - 7 ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2x - 7 માં x = -2 મુકતા,<br>= 2(-2) - 7<br>= -4 - 7<br>= -11</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ઋણ કિંમત મુકતી વખતે હંમેશા કૌંસનો ઉપયોગ કરવો જેથી નિશાનીની ભૂલ ન થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પદાવલિ 3x - 5 - x + 9 નું સાદું રૂપ આપી x = 3 માટે તેની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાદું રૂપ: 3x - x - 5 + 9 = 2x + 4<br>હવે x = 3 મુકતા:<br>= 2(3) + 4<br>= 6 + 4 = 10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) પહેલા 'સજાતીય પદો' ભેગા કરીને સાદું રૂપ આપવું, પછી જ કિંમત મુકવી જેથી ગણતરી ટૂંકી થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જો a = 2 અને b = -2 હોય, તો a² + ab + b² ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કિંમત મુકતા:<br>= (2)² + (2)(-2) + (-2)²<br>= 4 - 4 + 4<br>= 4</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) યાદ રાખો કે કોઈપણ ઋણ સંખ્યાનો વર્ગ (+) ધન જ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સજાતીય પદો સાથે લાવી સાદું રૂપ આપો: (3y² + 5y - 4) - (8y - y² - 4)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 3y² + 5y - 4 - 8y + y² + 4<br>= (3y² + y²) + (5y - 8y) + (-4 + 4)<br>= 4y² - 3y + 0<br>= 4y² - 3y</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) સજાતીય પદો એટલે કે જેમના ચલ અને ઘાત સમાન હોય તેને જ જોડીમાં લખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "જો z = 10 હોય, તો z³ - 3(z - 10) ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> z = 10 મુકતા:<br>= (10)³ - 3(10 - 10)<br>= 1000 - 3(0)<br>= 1000 - 0 = 1000</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) જો કૌંસની અંદરની બાદબાકી શૂન્ય થતી હોય, તો તેની સાથે ગુણાયેલું આખું પદ શૂન્ય થઈ જાય.</p></div>"
+    }
+  ]
+}
