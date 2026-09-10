@@ -404,3 +404,61 @@ var Std7_Maths_2_Marks = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "સંમેય સંખ્યાઓ",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "સંમેય સંખ્યા -18/45 ને તેના અતિસંક્ષિપ્ત (પ્રમાણિત) સ્વરૂપમાં ફેરવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અહીં, -18 અને 45 નો ગુ.સા.અ. 9 છે.<br>તેથી, અંશ અને છેદને 9 વડે ભાગતા:<br>(-18 ÷ 9) / (45 ÷ 9) = -2 / 5<br>આમ, અતિસંક્ષિપ્ત સ્વરૂપ -2/5 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ઘડિયા યાદ હોય તો સીધો છેદ ઉડાડો! 9 ના ઘડિયામાં 18 અને 45 બંને આવે છે (9 × 2 = 18 અને 9 × 5 = 45), એટલે સીધો જવાબ -2/5 મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "-3/4 અને -2/3 માંથી કઈ સંમેય સંખ્યા મોટી છે તે નક્કી કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> છેદ સમાન કરવા માટે 4 અને 3 નો લ.સા.અ. 12 લેવો પડશે.<br>-3/4 = (-3 × 3) / (4 × 3) = -9/12<br>-2/3 = (-2 × 4) / (3 × 4) = -8/12<br>અહીં, -8 > -9 હોવાથી, -8/12 > -9/12 થાય.<br>તેથી, -2/3 એ મોટી સંખ્યા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ચોકડી ગુણાકાર કરો: (-3 × 3) = -9 અને (4 × -2) = -8. -8 એ -9 કરતા મોટા છે, તેથી બીજી સંખ્યા (-2/3) મોટી ગણાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "-1 અને 0 વચ્ચેની કોઈપણ ત્રણ સંમેય સંખ્યાઓ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> -1 ને -10/10 અને 0 ને 0/10 તરીકે લખી શકાય.<br>હવે, -10/10 અને 0/10 વચ્ચેની સંખ્યાઓ: -9/10, -8/10, -7/10, -6/10, ...<br>આમાંથી કોઈપણ ત્રણ સંખ્યાઓ: -1/2, -2/5, -3/10 લખી શકાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>જ્યારે બે પૂર્ણાંક વચ્ચે સંમેય સંખ્યા શોધવી હોય, ત્યારે છેદમાં 10 કે 100 મૂકીને અંશને તે મુજબ ગુણી નાખો, એટલે વચ્ચેની ઘણી સંખ્યાઓ મળી જશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "-2/7 ની ચાર સમાન (સમ) સંમેય સંખ્યાઓ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંશ અને છેદને સમાન સંખ્યા વડે ગુણતા:<br>1. (-2 × 2) / (7 × 2) = -4/14<br>2. (-2 × 3) / (7 × 3) = -6/21<br>3. (-2 × 4) / (7 × 4) = -8/28<br>4. (-2 × 5) / (7 × 5) = -10/35</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>સમસંમેય સંખ્યા એટલે બીજું કંઈ નહીં પણ અંશનો ઘડિયો અને છેદનો ઘડિયો બોલતા જાવ અને લખતા જાવ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સરવાળો કરો: 5/4 + (-11/4)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અહીં છેદ સમાન (4) છે.<br>= [5 + (-11)] / 4<br>= (5 - 11) / 4<br>= -6 / 4<br>અતિસંક્ષિપ્ત સ્વરૂપમાં ફેરવતા: -3/2</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>જો છેદ સમાન હોય, તો લ.સા.અ. લેવાની માથાકૂટમાં પડ્યા વગર સીધો અંશનો સરવાળો કે બાદબાકી કરી નાખવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "બાદબાકી શોધો: 7/24 - 17/36",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 24 અને 36 નો લ.સા.અ. 72 થાય.<br>7/24 = (7 × 3) / (24 × 3) = 21/72<br>17/36 = (17 × 2) / (36 × 2) = 34/72<br>બાદબાકી: 21/72 - 34/72 = (21 - 34) / 72 = -13/72</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>મોટી સંખ્યામાંથી નાની બાદ કરીને નિશાની મોટી સંખ્યાની મૂકવી. 34 - 21 = 13, પણ 34 મોટા છે અને માઈનસ છે, એટલે -13.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ગુણાકાર કરો: (9/2) × (-7/4)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંમેય સંખ્યાઓના ગુણાકારમાં અંશનો ગુણાકાર અંશમાં અને છેદનો છેદમાં થાય.<br>= [9 × (-7)] / (2 × 4)<br>= -63 / 8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ગુણાકારમાં લ.સા.અ.ની જરૂર નથી! સીધો જ સામસામે ગુણાકાર કરો. જો એક સંખ્યા ઋણ હોય તો જવાબ હંમેશા ઋણ આવશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "કિંમત શોધો: (-4) ÷ 2/3",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભાગાકારને ગુણાકારમાં ફેરવવા માટે બીજી સંખ્યાનો વ્યસ્ત લેવો પડે.<br>= (-4) × 3/2<br>= (-4 × 3) / 2<br>= -12 / 2<br>= -6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>'ભાગાકાર' નું કરો 'ગુણાકાર' અને પછીની સંખ્યાને કરી નાખો 'ઉલટી' (વ્યસ્ત)! આ નિયમ ક્યારેય ભૂલશો નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "શું 5/(-3) અને -5/3 સમાન છે? શા માટે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હા, બંને સમાન છે. <br>કારણ કે કોઈપણ સંમેય સંખ્યામાં ઋણ (-) ની નિશાની અંશમાં હોય, છેદમાં હોય કે સંખ્યાની આગળ હોય, તેનું મૂલ્ય ઋણ જ રહે છે. 5/(-3) ને પ્રમાણિત સ્વરૂપમાં ફેરવતા -5/3 જ મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>યાદ રાખો: એક વાર માઈનસ એટલે આખી સંખ્યા માઈનસ! નિશાની ઉપર હોય કે નીચે, તેનાથી કોઈ ફરક પડતો નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સંખ્યા રેખા પર -3/4 દર્શાવવા માટે 0 અને -1 વચ્ચે કેટલા સમાન ભાગ કરવા પડશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંમેય સંખ્યા -3/4 માં છેદ 4 છે. <br>તેથી, સંખ્યા રેખા પર 0 અને -1 વચ્ચે 4 સમાન ભાગ કરવા પડશે. શૂન્યની ડાબી બાજુએ ત્રીજો ભાગ એ -3/4 દર્શાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>છેદ જેટલો હોય એટલા ટુકડા (ભાગ) કરવા અને અંશ જેટલો હોય એટલામાં કદમે (કાપાએ) ટપકું કરવું!</p></div>"
+    }
+  ]
+}
