@@ -694,3 +694,61 @@ var Std7_Maths_2_Marks = {
     }
   ]
 }
+,
+"13": {
+  "chapterName": "પ્રકરણ 13",
+  "chapterTitle": "ઘન આકારોનું પ્રત્યક્ષીકરણ",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "દ્વિ-પરિમાણીય (2-D) અને ત્રિ-પરિમાણીય (3-D) આકારો વચ્ચેનો મુખ્ય તફાવત ઉદાહરણ આપી સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે આકારોને માત્ર લંબાઈ અને પહોળાઈ હોય તેને 2-D આકારો કહેવાય (દા.ત. ચોરસ, વર્તુળ). જ્યારે જે આકારો લંબાઈ, પહોળાઈ અને ઊંચાઈ (અથવા ઊંડાઈ) ધરાવે તેને 3-D આકારો કહેવાય (દા.ત. સમઘન, નળાકાર). 3-D આકારો જગ્યા રોકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કાગળ પર દોરેલો આકાર 2-D અને હાથમાં પકડી શકાય તેવી વસ્તુ 3-D!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "એક સમઘન (Cube) માટે તેના ફલક (Faces), ધાર (Edges) અને શિરોબિંદુ (Vertices) ની સંખ્યા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમઘન માટે:<br>1. ફલક (F) = 6<br>2. ધાર (E) = 12<br>3. શિરોબિંદુ (V) = 8</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): તમારા રૂમને જ સમઘન માનો! 4 દીવાલ + છત + ભોંયતળિયું = 6 ફલક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "આઈસોમેટ્રિક સ્કેચ (Isometric Sketch) એટલે શું? તેનો ઉપયોગ ક્યાં થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આઈસોમેટ્રિક સ્કેચ એ ટપકાંવાળા કાગળ (Isometric dot paper) પર દોરવામાં આવતું એવું રેખાચિત્ર છે જેમાં વસ્તુના માપ પ્રમાણસર જળવાઈ રહે છે. તેનો ઉપયોગ 3-D આકારોની સાચી લંબાઈ, પહોળાઈ અને ઊંચાઈ દર્શાવવા માટે થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આઈસોમેટ્રિક એટલે 'સરખું માપ'. તેમાં ત્રાંસી રેખાઓ પણ વાસ્તવિક માપ મુજબ દોરાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "નેટ (Net) એટલે શું? નળાકારની નેટ કેવા આકારોની બનેલી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નેટ એ 3-D આકારનું 2-D માળખું છે, જેને વાળવાથી તે ઘન આકાર બને છે. નળાકારની નેટમાં એક લંબચોરસ અને બે સમાન વર્તુળો હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાવડરના ડબ્બાનું લેબલ ખોલો તો લંબચોરસ મળે અને ઉપર-નીચેના ઢાંકણા વર્તુળ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ઓબ્લીક સ્કેચ (Oblique Sketch) ની મર્યાદા શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓબ્લીક સ્કેચમાં વસ્તુના બધા જ માપ (જેમ કે ધારની લંબાઈ) વાસ્તવિક હોતા નથી. તે માત્ર જોવામાં ઘન આકાર જેવો દેખાય છે, પરંતુ તેને માપી શકાતો નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઓબ્લીક સ્કેચ એટલે 'દેખાવમાં સાચો પણ માપમાં કાચો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "એક ઇંટને જ્યારે (i) ઉભી અને (ii) આડી કાપવામાં આવે, ત્યારે મળતા આડછેદ (Cross-section) નો આકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇંટ લંબઘન આકારની હોય છે.<br>(i) ઉભો આડછેદ (Vertical Cut): લંબચોરસ મળે.<br>(ii) આડો આડછેદ (Horizontal Cut): લંબચોરસ મળે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લંબઘનને ગમે ત્યાંથી સમાંતર કાપો, આડછેદ હંમેશા લંબચોરસ જ મળશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પાસા (Dice) ની વિરુદ્ધ બાજુઓ પરના ટપકાંનો સરવાળો કેટલો થાય? જો ઉપરના ભાગમાં 3 ટપકાં હોય, તો તળિયે કેટલા હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રમાણિત પાસામાં વિરુદ્ધ ફલક પરના ટપકાંનો સરવાળો હંમેશા 7 થાય છે. જો ઉપરના ભાગમાં 3 ટપકાં હોય, તો તળિયે 7 - 3 = 4 ટપકાં હશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાસામાં સાતનો સાથ! (સરવાળો = 7).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "નીચેના આકારોનો પડછાયો કેવો દેખાશે તે જણાવો: (1) દડો (2) આઈસ્ક્રીમ કોન.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. દડો (ગોલક): તેનો પડછાયો વર્તુળ જેવો દેખાશે.<br>2. આઈસ્ક્રીમ કોન (શંકુ): પ્રકાશના સ્ત્રોત મુજબ તેનો પડછાયો ત્રિકોણ જેવો દેખાશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 3-D આકારનો પડછાયો હંમેશા 2-D આકારમાં જ જોવા મળે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "યુલરનું સૂત્ર (Euler’s Formula) લખો અને તેના પદો ઓળખાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> યુલરનું સૂત્ર: F + V - E = 2<br>જ્યાં, F = ફલકની સંખ્યા (Faces)<br>V = શિરોબિંદુની સંખ્યા (Vertices)<br>E = ધારની સંખ્યા (Edges)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'F + V = E + 2' રીતે પણ યાદ રાખી શકાય. (ફલક અને શિરોબિંદુનો સરવાળો ધાર કરતા 2 વધુ હોય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ચોરસ પિરામિડ (Square Pyramid) માટે ફલક અને શિરોબિંદુની સંખ્યા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચોરસ પિરામિડમાં પાયો ચોરસ હોય છે અને 4 ત્રિકોણાકાર બાજુઓ હોય છે.<br>1. ફલક (F) = 5 (1 ચોરસ + 4 ત્રિકોણ)<br>2. શિરોબિંદુ (V) = 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પિરામિડમાં પાયાની જેટલી બાજુ હોય, તેમાં 1 ઉમેરો એટલે ફલક અને શિરોબિંદુ મળી જાય! (4+1=5).</p></div>"
+    }
+  ]
+}
