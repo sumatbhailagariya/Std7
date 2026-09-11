@@ -520,3 +520,61 @@ var Std7_Maths_3_Marks = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "બીજગણિતીય પદાવલિ",
+  "questionType": "ત્રણ ગુણના મુદ્દાસર પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "નીચેની પદાવલિઓનો સરવાળો કરો: \n(i) 3x - y + 11 \n(ii) - y - 11 \n(iii) 3x - y - 11",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><p>ત્રણેય પદાવલિઓને સરવાળા સ્વરૂપે લખતા:</p><p>(3x - y + 11) + (- y - 11) + (3x - y - 11)</p><p>સજાતીય પદોને સાથે ગોઠવતા:</p><p>= 3x + 3x - y - y - y + 11 - 11 - 11</p><p>= (3+3)x + (-1-1-1)y + (11-11-11)</p><p>= 6x - 3y - 11</p><p>આમ, આપેલ પદાવલિઓનો સરવાળો 6x - 3y - 11 થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સરવાળો કરતી વખતે હંમેશા 'સજાતીય પદો' (જેમના ચલ અને ઘાત સમાન હોય) ને જ એકબીજામાં ઉમેરો. જેવી રીતે કેરીમાં કેરી ઉમેરાય, પણ કેરીમાં સફરજન ન ઉમેરાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "24ab - 10b - 18a માંથી 30ab + 12b + 14a બાદ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><p>(24ab - 10b - 18a) - (30ab + 12b + 14a)</p><p>કૌંસ છોડતા બીજા પદની તમામ નિશાનીઓ બદલાશે:</p><p>= 24ab - 10b - 18a - 30ab - 12b - 14a</p><p>સજાતીય પદો ગોઠવતા:</p><p>= (24ab - 30ab) + (-10b - 12b) + (-18a - 14a)</p><p>= -6ab - 22b - 32a</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'બાદબાકી' એટલે બીજા પદના ચિહ્નોને ઉલટાવી (પ્લસ હોય તો માઈનસ, માઈનસ હોય તો પ્લસ) પછી સરવાળો કરી દેવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "જો a = 2 અને b = -2 હોય, તો પદાવલિ a² + ab + b² ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><p>આપેલ પદાવલિ: a² + ab + b²</p><p>અહીં a = 2 અને b = -2 કિંમતો મુકતા:</p><p>= (2)² + (2)(-2) + (-2)²</p><p>= 4 + (-4) + 4</p><p>= 4 - 4 + 4</p><p>= 0 + 4</p><p>= 4</p><p>આમ, પદાવલિની કિંમત 4 મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે કોઈ ઋણ સંખ્યાનો વર્ગ (Square) કરવામાં આવે, ત્યારે તે હંમેશા ધન જ બને. જેમ કે, (-2)² = 4. આ નિયમ ક્યારેય ભૂલવો નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "x² + xy + y² માં શું ઉમેરવાથી 2x² + 3xy મેળવી શકાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><p>ધારો કે ઉમેરવાની પદાવલિ P છે. </p><p>તેથી, (x² + xy + y²) + P = 2x² + 3xy</p><p>P શોધવા માટે: P = (2x² + 3xy) - (x² + xy + y²)</p><p>= 2x² + 3xy - x² - xy - y²</p><p>= (2x² - x²) + (3xy - xy) - y²</p><p>= x² + 2xy - y²</p><p>આમ, x² + 2xy - y² ઉમેરવા જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'શું ઉમેરવું' પૂછાય ત્યારે પરિણામમાંથી આપેલી પદાવલિ બાદ કરી દેવી. (પરિણામ - આપેલી પદાવલિ = જવાબ)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "2a + 8b + 10 માંથી શું બાદ કરવાથી -3a + 7b + 16 મેળવી શકાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><p>ધારો કે બાદ કરવાની પદાવલિ Q છે.</p><p>(2a + 8b + 10) - Q = -3a + 7b + 16</p><p>તેથી, Q = (2a + 8b + 10) - (-3a + 7b + 16)</p><p>= 2a + 8b + 10 + 3a - 7b - 16</p><p>= (2a + 3a) + (8b - 7b) + (10 - 16)</p><p>= 5a + b - 6</p><p>આમ, 5a + b - 6 બાદ કરવા જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'શું બાદ કરવું' પૂછાય ત્યારે આપેલી મુખ્ય પદાવલિમાંથી પરિણામી પદાવલિ બાદ કરવી. (મુખ્ય પદાવલિ - પરિણામ = જવાબ)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પદાવલિને સાદું રૂપ આપી x = 2 માટે કિંમત શોધો: 3(x + 2) + 5x - 7",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><p>પદાવલિ: 3(x + 2) + 5x - 7</p><p>પહેલા કૌંસ છોડી સાદું રૂપ આપતા:</p><p>= 3x + 6 + 5x - 7</p><p>= (3x + 5x) + (6 - 7)</p><p>= 8x - 1</p><p>હવે x = 2 મુકતા:</p><p>= 8(2) - 1</p><p>= 16 - 1 = 15</p><p>આમ, પદાવલિની કિંમત 15 થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કિંમત મુકતા પહેલા હંમેશા સાદું રૂપ (Simplify) આપો, જેનાથી ગણતરી ટૂંકી અને સરળ થઈ જશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "જો x = 0 માટે 2x² + x - a ની કિંમત 5 હોય, તો a ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><p>આપેલ છે કે 2x² + x - a = 5 (જ્યારે x = 0 હોય)</p><p>x = 0 ની કિંમત પદાવલિમાં મુકતા:</p><p>2(0)² + (0) - a = 5</p><p>0 + 0 - a = 5</p><p>-a = 5</p><p>તેથી, a = -5</p><p>આમ, a ની કિંમત -5 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શૂન્ય (0) સાથે કોઈ પણ પદ ગુણાય ત્યારે તે પદ 0 થઈ જાય છે. બાકી વધતા પદને જ બરાબરની સામે સરખાવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "3x² - y² માંથી x² - 4y² બાદ કરો અને તે તફાવતને 2x² + 2y² માં ઉમેરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><p>પહેલો સ્ટેપ (બાદબાકી): (3x² - y²) - (x² - 4y²)</p><p>= 3x² - y² - x² + 4y² = 2x² + 3y²</p><p>બીજો સ્ટેપ (સરવાળો): (2x² + 3y²) + (2x² + 2y²)</p><p>= (2x² + 2x²) + (3y² + 2y²)</p><p>= 4x² + 5y²</p><p>આમ, અંતિમ જવાબ 4x² + 5y² છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'તફાવત' એટલે બાદબાકી. આવા બેવડા દાખલામાં પહેલા એક ક્રિયા પતાવીને જ બીજી ક્રિયા શરૂ કરવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "એક ત્રિકોણની ત્રણેય બાજુઓના માપ 2x + 1, 3x - 2 અને 4x + 5 છે. આ ત્રિકોણની પરિમિતિ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><p>ત્રિકોણની પરિમિતિ = ત્રણેય બાજુઓનો સરવાળો</p><p>= (2x + 1) + (3x - 2) + (4x + 5)</p><p>= (2x + 3x + 4x) + (1 - 2 + 5)</p><p>= 9x + (6 - 2)</p><p>= 9x + 4</p><p>આમ, ત્રિકોણની પરિમિતિ 9x + 4 એકમ થશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પરિમિતિ એટલે સરવાળો! બધા 'x' વાળા પદો અને બધી અચળ સંખ્યાઓને અલગ-અલગ ભેગી કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પદાવલિ 5x² - [4x + (2x² - x)] ને સાદું રૂપ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong></p><p>5x² - [4x + 2x² - x]</p><p>પહેલા મોટા કૌંસની અંદરના સજાતીય પદો ઉકેલતા:</p><p>= 5x² - [ (4x - x) + 2x² ]</p><p>= 5x² - [ 3x + 2x² ]</p><p>હવે કૌંસ ખોલતા (બહાર માઇનસ હોવાથી અંદરની નિશાની બદલાશે):</p><p>= 5x² - 3x - 2x²</p><p>= (5x² - 2x²) - 3x</p><p>= 3x² - 3x</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'BODMAS' નિયમ મુજબ હંમેશા સૌથી અંદરનો કૌંસ પહેલા ખોલવો. કૌંસની બહાર '-' હોય તો અંદરના બધા સભ્યો 'ગભરાઈ' ને પોતાની નિશાની બદલી નાખે છે!</p></div>"
+    }
+  ]
+}
