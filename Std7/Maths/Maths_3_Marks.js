@@ -404,3 +404,61 @@ var Std7_Maths_3_Marks = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "સંમેય સંખ્યાઓ",
+  "questionType": "ત્રણ ગુણના મુદ્દાસર પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "સંમેય સંખ્યા $\\frac{-44}{72}$ ને તેના પ્રમાણિત સ્વરૂપમાં ફેરવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>1. સૌ પ્રથમ અંશ અને છેદનો ગુ.સા.અ. શોધવો પડે. અહીં અંશ 44 અને છેદ 72 છે.<br>2. 44 ના અવયવો: 1, 2, 4, 11, 22, 44<br>3. 72 ના અવયવો: 1, 2, 3, 4, 6, 8, 9, 12, 18, 24, 36, 72<br>4. સામાન્ય અવયવોમાં સૌથી મોટો અવયવ (ગુ.સા.અ.) 4 છે.<br>5. હવે અંશ અને છેદ બંનેને 4 વડે ભાગતા:<br>$\\frac{-44 \\div 4}{72 \\div 4} = \\frac{-11}{18}$<br>આમ, પ્રમાણિત સ્વરૂપ $\\frac{-11}{18}$ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો મોટી સંખ્યાના છેદ ઉડાડવામાં તકલીફ પડે, તો સંખ્યાને વારંવાર 2 વડે ભાગતા જાવ જ્યાં સુધી અવિભાજ્ય સંખ્યા ન આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "-1 અને 0 ની વચ્ચે આવતી ત્રણ સંમેય સંખ્યાઓ શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>1. આપણે 3 સંખ્યાઓ શોધવી છે, તેથી આપણે અંશ અને છેદને (3+1) = 4 વડે ગુણીશું.<br>2. -1 ને સંમેય સંખ્યા તરીકે લખતા: $\\frac{-1}{1} = \\frac{-1 \\times 4}{1 \\times 4} = \\frac{-4}{4}$<br>3. 0 ને સંમેય સંખ્યા તરીકે લખતા: $\\frac{0}{1} = \\frac{0 \\times 4}{1 \\times 4} = \\frac{0}{4}$<br>4. હવે $\\frac{-4}{4}$ અને $\\frac{0}{4}$ ની વચ્ચેની સંખ્યાઓ: $\\frac{-3}{4}, \\frac{-2}{4}, \\frac{-1}{4}$<br>5. આમ, ત્રણ સંમેય સંખ્યાઓ: $\\frac{-3}{4}, \\frac{-1}{2}, \\frac{-1}{4}$ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેટલી સંખ્યા શોધવાની હોય તેના કરતાં 1 મોટી સંખ્યા પસંદ કરી અંશ-છેદમાં ગુણી નાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કિંમત શોધો: $\\frac{7}{3} + (\\frac{-5}{4})$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>1. અહીં છેદ 3 અને 4 અલગ-અલગ છે, તેથી તેમનો લ.સા.અ. લેવો પડે.<br>2. 3 અને 4 નો લ.સા.અ. = 12<br>3. હવે છેદ સમાન કરવા માટે:<br>$\\frac{7 \\times 4}{3 \\times 4} + \\frac{-5 \\times 3}{4 \\times 3}$<br>$= \\frac{28}{12} + (\\frac{-15}{12})$<br>$= \\frac{28 - 15}{12} = \\frac{13}{12}$<br>4. મિશ્ર સંખ્યામાં: $1 \\frac{1}{12}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે છેદમાં ક્રમિક સંખ્યાઓ (જેમ કે 3 અને 4) હોય, ત્યારે સીધો ચોકડી ગુણાકાર કરી શકાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સાદું રૂપ આપો: $\\frac{5}{63} - (\\frac{-6}{21})$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>1. પ્રથમ ચિહ્નો બદલો: $\\frac{5}{63} + \\frac{6}{21}$ (કારણ કે - - = +)<br>2. 63 અને 21 નો લ.સા.અ. શોધતા, 63 એ 21 ના ઘડિયામાં આવે છે (21 × 3 = 63), તેથી લ.સા.અ. 63 થશે.<br>3. છેદ સમાન કરતા:<br>$\\frac{5}{63} + \\frac{6 \\times 3}{21 \\times 3} = \\frac{5}{63} + \\frac{18}{63}$<br>4. હવે અંશનો સરવાળો: $\\frac{5+18}{63} = \\frac{23}{63}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઓછે ઓછે વત્તા' (Minus Minus Plus) નિયમ ક્યારેય ભૂલવો નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ગુણાકાર કરો: $\\frac{9}{2} \\times (\\frac{-7}{4})$ અને પરિણામ ચકાસો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>1. સંમેય સંખ્યાઓના ગુણાકારમાં અંશનો ગુણાકાર અંશ સાથે અને છેદનો છેદ સાથે થાય છે.<br>2. અંશનો ગુણાકાર = $9 \\times (-7) = -63$<br>3. છેદનો ગુણાકાર = $2 \\times 4 = 8$<br>4. જવાબ = $\\frac{-63}{8}$<br>5. તેને મિશ્ર સંખ્યામાં ફેરવતા: $-7 \\frac{7}{8}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુણાકારમાં લ.સા.અ. લેવાની જરૂર નથી, સીધો ઉપર-ઉપર અને નીચે-નીચેનો ગુણાકાર કરો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કિંમત શોધો: $(\\frac{-4}{5}) \\div (-3)$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>1. ભાગાકારને ગુણાકારમાં ફેરવવા માટે બીજી સંખ્યાનો વ્યસ્ત લેવો પડે.<br>2. -3 નો વ્યસ્ત $\\frac{1}{-3}$ અથવા $-\\frac{1}{3}$ થાય.<br>3. હવે ગુણાકાર કરતા: $\\frac{-4}{5} \\times \\frac{1}{-3}$<br>4. અંશનો ગુણાકાર: $-4 \\times 1 = -4$<br>5. છેદનો ગુણાકાર: $5 \\times (-3) = -15$<br>6. જવાબ: $\\frac{-4}{-15} = \\frac{4}{15}$ (અંશ અને છેદ બંનેમાં ઋણ હોવાથી ધન થશે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાગાકાર આવે એટલે 'બાજુવાળાને ઉલ્ટાવી (વ્યસ્ત કરી) ગુણાકાર કરી નાખવો'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સંખ્યારેખા પર $-\\frac{5}{8}$ નું નિરૂપણ કેવી રીતે કરશો તે સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>1. $-\\frac{5}{8}$ એ ઋણ સંખ્યા હોવાથી તે શૂન્યની ડાબી બાજુએ આવશે.<br>2. આ સંખ્યા 0 અને -1 ની વચ્ચે આવેલી છે.<br>3. છેદ 8 હોવાથી શૂન્ય અને -1 ની વચ્ચેના ભાગના 8 સરખા ભાગ કરવા પડશે.<br>4. શૂન્યથી શરૂ કરીને ડાબી બાજુએ પાંચમો ભાગ એ $-\\frac{5}{8}$ દર્શાવશે.<br>5. આ બિંદુને કોઈ નામ (જેમ કે P) આપી દર્શાવી શકાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેદમાં જે આંકડો હોય, તેટલા જ કાપા બે પૂર્ણાંક સંખ્યાની વચ્ચે પાડવા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "નીચેની જોડીમાંથી કઈ સંખ્યા મોટી છે? $\\frac{2}{3}$ કે $\\frac{5}{2}$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>1. સંખ્યાઓની સરખામણી કરવા માટે છેદ સમાન કરવા પડે.<br>2. 3 અને 2 નો લ.સા.અ. 6 છે.<br>3. પ્રથમ સંખ્યા: $\\frac{2 \\times 2}{3 \\times 2} = \\frac{4}{6}$<br>4. બીજી સંખ્યા: $\\frac{5 \\times 3}{2 \\times 3} = \\frac{15}{6}$<br>5. અહીં $\\frac{15}{6} > \\frac{4}{6}$ હોવાથી, $\\frac{5}{2} > \\frac{2}{3}$ છે.<br>6. તેથી મોટી સંખ્યા $\\frac{5}{2}$ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોકડી ગુણાકાર કરો (2x2=4 અને 3x5=15). 15 મોટા છે એટલે 5/2 મોટી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પેટર્ન મુજબ બીજી ચાર સંમેય સંખ્યાઓ લખો: $\\frac{-1}{3}, \\frac{-2}{6}, \\frac{-3}{9}, \\frac{-4}{12}, ...$",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>1. આપેલ પેટર્ન જોતા જણાય છે કે અંશમાં -1 નો ઘડિયો અને છેદમાં 3 નો ઘડિયો છે.<br>2. અથવા આ બધી સમાન સંમેય સંખ્યાઓ છે જે અંશ-છેદને 1, 2, 3, 4 વડે ગુણતા મળે છે.<br>3. હવે પછીની ચાર સંખ્યાઓ માટે 5, 6, 7 અને 8 વડે ગુણીશું:<br>- $\\frac{-1 \\times 5}{3 \\times 5} = \\frac{-5}{15}$<br>- $\\frac{-1 \\times 6}{3 \\times 6} = \\frac{-6}{18}$<br>- $\\frac{-1 \\times 7}{3 \\times 7} = \\frac{-7}{21}$<br>- $\\frac{-1 \\times 8}{3 \\times 8} = \\frac{-8}{24}$</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ માત્ર ઘડિયા (Tables) જ છે, અંશમાં એકનો અને છેદમાં ત્રણનો ઘડિયો આગળ વધારો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "જો $\\frac{-5}{7} = \\frac{x}{28}$ હોય, તો $x$ ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ:</strong></p><p>1. અહીં બે સંમેય સંખ્યાઓ સમાન આપેલી છે.<br>2. છેદમાં 7 માંથી 28 લાવવા માટે 4 વડે ગુણવા પડે ($7 \\times 4 = 28$).<br>3. જો છેદને 4 વડે ગુણ્યા હોય, તો અંશને પણ 4 વડે ગુણવા પડે.<br>4. તેથી, $x = -5 \\times 4$<br>5. $x = -20$<br>6. બીજી રીત (ચોકડી ગુણાકાર): $7 \\times x = -5 \\times 28 \\Rightarrow x = \\frac{-140}{7} = -20$.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જે નીચે થાય તે જ ઉપર થાય' - છેદ 4 ગણો થયો તો અંશ પણ 4 ગણો જ થાય!</p></div>"
+    }
+  ]
+}
