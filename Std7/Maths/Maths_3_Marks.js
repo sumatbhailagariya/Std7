@@ -578,3 +578,61 @@ var Std7_Maths_3_Marks = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "ઘાત અને ઘાતાંક",
+  "questionType": "ત્રણ ગુણના મુદ્દાસર પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ઘાતાંકના નિયમોનો ઉપયોગ કરી સાદું રૂપ આપો અને જવાબને ઘાત સ્વરૂપમાં લખો: (1) 3² × 3⁴ × 3⁸ (2) 6¹⁵ ÷ 6¹⁰ (3) (5²)³",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>(1) 3² × 3⁴ × 3⁸ = 3^(2+4+8) = 3¹⁴ (નિયમ: a^m × a^n = a^(m+n))<br>(2) 6¹⁵ ÷ 6¹⁰ = 6^(15-10) = 6⁵ (નિયમ: a^m ÷ a^n = a^(m-n))<br>(3) (5²)³ = 5^(2×3) = 5⁶ (નિયમ: (a^m)^n = a^(m×n))</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આધાર સરખો અને ગુણાકાર હોય તો ઘાતનો 'સરવાળો', ભાગાકાર હોય તો ઘાતની 'બાદબાકી' અને ઘાતની ઘાત હોય તો 'ગુણાકાર' કરવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "કિંમત શોધો: (1) 2⁶ (2) 9³ (3) 11²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>(1) 2⁶ = 2 × 2 × 2 × 2 × 2 × 2 = 64<br>(2) 9³ = 9 × 9 × 9 = 729<br>(3) 11² = 11 × 11 = 121</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઘાત એટલે જે-તે સંખ્યાનો એટલી વાર પોતાની સાથે જ ગુણાકાર. ઉતાવળમાં 2x6=12 ન કરી દેવું, પણ 2 ને 6 વાર ગુણવા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "અવિભાજ્ય અવયવ પાડીને નીચેની સંખ્યાને ઘાત સ્વરૂપે દર્શાવો: (1) 648 (2) 405",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>(1) 648 = 2 × 2 × 2 × 3 × 3 × 3 × 3 = 2³ × 3⁴<br>(2) 405 = 3 × 3 × 3 × 3 × 5 = 3⁴ × 5¹</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સંખ્યાને નાનામાં નાની અવિભાજ્ય સંખ્યા (2, 3, 5...) વડે ભાગતા જાઓ જ્યાં સુધી 1 ન આવે, પછી દરેક સંખ્યા કેટલી વાર આવી તે ગણી ઘાત ચડાવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સાદું રૂપ આપો: (2⁵)² × 7³ / (8³ × 7)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>અંશ: (2⁵)² × 7³ = 2¹⁰ × 7³<br>છેદ: 8³ × 7 = (2³)³ × 7 = 2⁹ × 7¹<br>હવે, (2¹⁰ × 7³) / (2⁹ × 7¹) = 2^(10-9) × 7^(3-1) = 2¹ × 7² = 2 × 49 = 98.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો આધાર અલગ હોય (જેમ કે 8), તો તેને નાનામાં નાના આધાર (2³) માં ફેરવો જેથી ભાગાકારના નિયમો લાગુ પાડી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "નીચેની સંખ્યાઓને તેમના વિસ્તૃત સ્વરૂપમાં લખો: (1) 279404 (2) 20068",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>(1) 279404 = 2×10⁵ + 7×10⁴ + 9×10³ + 4×10² + 0×10¹ + 4×10⁰<br>(2) 20068 = 2×10⁴ + 0×10³ + 0×10² + 6×10¹ + 8×10⁰</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જમણી બાજુથી શરૂ કરો, છેલ્લા અંકને 10⁰ વડે ગુણો, પછી ડાબી બાજુ ખસતા 10 ની ઘાત વધારતા જાઓ (0, 1, 2, 3...).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "નીચેની સંખ્યાઓને પ્રમાણિત સ્વરૂપમાં લખો: (1) 5,00,00,000 (2) 3,18,65,00,000 (3) 3908.78",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>(1) 5,00,00,000 = 5.0 × 10⁷<br>(2) 3,18,65,00,000 = 3.1865 × 10⁹<br>(3) 3908.78 = 3.90878 × 10³</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દશાંશ ચિહ્નને પહેલા અંક પછી લાવવા માટે જેટલા ડાબી બાજુ ખસો, તેટલી 10 ની ધન (+) ઘાત મૂકવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "કિંમત શોધો: (3⁰ + 4⁰ + 5⁰) અને (3⁰ × 4⁰ × 5⁰)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>આપણે જાણીએ છીએ કે કોઈપણ શૂન્યતર સંખ્યાની 0 ઘાત 1 થાય (a⁰ = 1).<br>(1) 3⁰ + 4⁰ + 5⁰ = 1 + 1 + 1 = 3<br>(2) 3⁰ × 4⁰ × 5⁰ = 1 × 1 × 1 = 1</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): યાદ રાખજો 'કોઈની પણ ઝીરો પાવર એટલે હિરો (1)'. સરવાળો હોય તો 1+1+1 અને ગુણાકાર હોય તો 1x1x1 ધ્યાનથી કરવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સરખામણી કરો: 2.7 × 10¹² અને 1.5 × 10⁸",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>અહીં 2.7 × 10¹² માં 10 ની ઘાત 12 છે.<br>1.5 × 10⁸ માં 10 ની ઘાત 8 છે.<br>જેમ કે 12 > 8, તેથી 10¹² વાળી સંખ્યા મોટી થશે.<br>જવાબ: 2.7 × 10¹² > 1.5 × 10⁸</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે ઘાતાંક ખૂબ અલગ હોય, ત્યારે માત્ર 10 ની ઘાત જોઈને જ ખબર પડી જાય કે કઈ સંખ્યા મોટી છે. વધુ ઘાત = મોટી સંખ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સાદું રૂપ આપી ઘાત સ્વરૂપે લખો: (2³ × 2)² અને (a⁵ / a³) × a⁸",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>(1) (2³ × 2¹)² = (2³⁺¹)² = (2⁴)² = 2^(4×2) = 2⁸<br>(2) (a⁵ / a³) × a⁸ = (a⁵⁻³) × a⁸ = a² × a⁸ = a²⁺⁸ = a¹⁰</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હંમેશા કૌંસની અંદરની ક્રિયા પહેલા પતાવો, પછી કૌંસની બહારની ઘાત કે સંખ્યા સાથે કામ લેવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "જો 2ⁿ = 128 હોય, તો n ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>અહીં ડાબી બાજુ આધાર 2 છે, તેથી 128 ને પણ 2 ના આધારમાં ફેરવીએ.<br>128 = 2 × 2 × 2 × 2 × 2 × 2 × 2 = 2⁷<br>હવે, 2ⁿ = 2⁷<br>બંને બાજુ આધાર સરખા હોવાથી ઘાતાંકને સરખાવતા,<br>n = 7</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'આધાર સરખા તો ઘાત પણ સરખી'. બરાબરની નિશાની હોય ત્યારે બંને બાજુનો બેઝ (આધાર) એક સમાન બનાવી દો એટલે ઘાતનો જવાબ સીધો મળી જશે.</p></div>"
+    }
+  ]
+}
