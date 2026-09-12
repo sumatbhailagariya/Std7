@@ -156,3 +156,211 @@ var Std7_Science_MCQs = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "પ્રાણીઓમાં પોષણ",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ખોરાકને ગ્રહણ કરવાની પ્રક્રિયાને શું કહેવાય છે?\n(A) પાચન\n(B) અંતઃગ્રહણ\n(C) શોષણ\n(D) સ્વાંગીકરણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) અંતઃગ્રહણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'અંદર લેવું' એટલે 'અંતઃગ્રહણ'. ખોરાક મોઢામાં મૂકવાની ક્રિયા એટલે અંતઃગ્રહણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સ્ટાર્ચનું સરળ શર્કરામાં રૂપાંતર કોણ કરે છે?\n(A) લાળરસ\n(B) જઠરરસ\n(C) પિત્તરસ\n(D) આંત્રરસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) લાળરસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લાળરસ (Saliva) એટલે મોઢાનું પાણી, જે બટાકા-ભાત જેવા સ્ટાર્ચને ગળ્યા બનાવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કાપવા અને બચકું ભરવા માટે કયા દાંતનો ઉપયોગ થાય છે?\n(A) રાક્ષી દાંત\n(B) અગ્રદાઢ\n(C) છેદક દાંત\n(D) દાઢ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) છેદક દાંત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'છેદક' એટલે 'છેદ' પાડનાર (કાપનાર). આગળના ચાર દાંત જે સફરજન કાપવા વપરાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ચીરવા અને ફાડવા માટે કયા દાંત વપરાય છે?\n(A) રાક્ષી દાંત\n(B) છેદક દાંત\n(C) અગ્રદાઢ\n(D) દાઢ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) રાક્ષી દાંત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રાક્ષસ જેવા અણીદાર દાંત એટલે 'રાક્ષી દાંત'. તે ખોરાકને ચીરવાનું કામ કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "દૂધિયા દાંતની સંખ્યા કેટલી હોય છે?\n(A) 32\n(B) 20\n(C) 16\n(D) 28",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 20</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નાના બાળકના 20 દાંત (દૂધિયા) અને મોટા માણસના 32 દાંત (કાયમી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "જઠરનો આકાર કેવો હોય છે?\n(A) ગોળ\n(B) પાતળા 'U' જેવો\n(C) ચોરસ\n(D) નળાકાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પાતળા 'U' જેવો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જઠર અંગ્રેજી અક્ષર 'J' અથવા પહોળા 'U' આકારની કોથળી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "જઠરની અંદરની દીવાલ કયો એસિડ ઉત્પન્ન કરે છે?\n(A) સલ્ફ્યુરિક એસિડ\n(B) નાઈટ્રિક એસિડ\n(C) હાઈડ્રોક્લોરિક એસિડ\n(D) એસિટિક એસિડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) હાઈડ્રોક્લોરિક એસિડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): HCl - હાઈડ્રોક્લોરિક એસિડ જે બેક્ટેરિયાને મારે અને પાચનમાં મદદ કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "નાના આંતરડાની લંબાઈ આશરે કેટલી હોય છે?\n(A) 1.5 મીટર\n(B) 7.5 મીટર\n(C) 5.5 મીટર\n(D) 10 મીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 7.5 મીટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નામ 'નાનું' પણ કામ અને લંબાઈ બહુ 'મોટી' (7.5 મીટર!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "શરીરની સૌથી મોટી ગ્રંથિ કઈ છે?\n(A) સ્વાદુપિંડ\n(B) લાળગ્રંથિ\n(C) યકૃત\n(D) જઠર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) યકૃત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'યકૃત' (Liver) એ આપણા શરીરનું સૌથી મોટું કેમિકલ ફેક્ટરી અને ગ્રંથિ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પિત્તરસનો સંગ્રહ ક્યાં થાય છે?\n(A) યકૃત\n(B) પિત્તાશય\n(C) સ્વાદુપિંડ\n(D) જઠર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પિત્તાશય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પિત્તરસ + આશય (રહેઠાણ) = પિત્તાશય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "પિત્તરસ કોના પાચનમાં મહત્વનો ભાગ ભજવે છે?\n(A) કાર્બોદિત\n(B) પ્રોટીન\n(C) ચરબી\n(D) વિટામિન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ચરબી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'પિત્ત' એટલે 'ચરબી'નો દુશ્મન! તે ચરબીના પાચન માટે જ બને છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "રસાંકુરો (Villi) ક્યાં આવેલા હોય છે?\n(A) જઠર\n(B) મોટું આંતરડું\n(C) નાનું આંતરડું\n(D) અન્નનળી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) નાનું આંતરડું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આંગળી જેવા પ્રવર્ધો જે ખોરાકનું 'શોષણ' કરે તે માત્ર નાના આંતરડામાં જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "મોટા આંતરડાની લંબાઈ કેટલી હોય છે?\n(A) 1.5 મીટર\n(B) 7.5 મીટર\n(C) 2.5 મીટર\n(D) 5.0 મીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 1.5 મીટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મોટું આંતરડું પહોળું છે પણ લંબાઈમાં નાનું (માત્ર 1.5 મીટર) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "પાણી અને ક્ષારોનું શોષણ મુખ્યત્વે ક્યાં થાય છે?\n(A) જઠર\n(B) નાનું આંતરડું\n(C) મોટું આંતરડું\n(D) મુખગુહા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) મોટું આંતરડું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કચરામાંથી પાણી નીચોવવાનું કામ 'મોટું આંતરડું' કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ઘાસ ખાનારા પ્રાણીઓ ઘાસ ગળીને જઠરના કયા ભાગમાં સંગ્રહ કરે છે?\n(A) આંત્રપુચ્છ\n(B) અમાશય (Rumen)\n(C) લાળગ્રંથિ\n(D) મળાશય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) અમાશય (Rumen)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Rumen' એ ગાય-ભેંસનું સ્ટોરરૂમ છે જ્યાં તેઓ પહેલા ખોરાક ભરી લે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "અમીબા ખોરાક પકડવા માટે શાનો ઉપયોગ કરે છે?\n(A) પક્ષ્મો\n(B) મુખ\n(C) ખોટા પગ (Pseudopodia)\n(D) પાચનધાની",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ખોટા પગ (Pseudopodia)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અમીબા પાસે સાચા પગ નથી, એટલે 'ખોટા પગ' ફેલાવીને શિકાર પકડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "પ્રોટીનનું પાચન થઈ તે કયા સરળ સ્વરૂપમાં ફેરવાય છે?\n(A) ફેટી એસિડ\n(B) એમિનો એસિડ\n(C) ગ્લુકોઝ\n(D) ગ્લિસરોલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) એમિનો એસિડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): P for Protein, A for Amino Acid. પ્રોટીન તૂટે એટલે એમિનો એસિડ બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "અમીબામાં ખોરાકનું પાચન ક્યાં થાય છે?\n(A) કોષકેન્દ્ર\n(B) ખોટા પગ\n(C) અન્નધાની (Food Vacuole)\n(D) કોષરસ સ્તર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) અન્નધાની (Food Vacuole)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અન્ન એટલે ખોરાક અને ધાની એટલે કોથળી. ખોરાકની કોથળીમાં પાચન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "કયા પ્રકારના કાર્બોદિતનું પાચન મનુષ્ય કરી શકતા નથી?\n(A) સ્ટાર્ચ\n(B) ગ્લુકોઝ\n(C) સેલ્યુલોઝ\n(D) સુક્રોઝ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સેલ્યુલોઝ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઘાસમાં 'સેલ્યુલોઝ' હોય જે ગાય પચાવી શકે, પણ માણસ નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "જીભના કયા ભાગમાં 'ગળ્યો' સ્વાદ પારખી શકાય છે?\n(A) આગળના ટેરવે\n(B) પાછળના ભાગમાં\n(C) બાજુના ભાગમાં\n(D) મધ્યમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) આગળના ટેરવે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ચોકલેટ મૂકો એટલે સૌથી પહેલા આગળનું ટેરવું 'ગળપણ' અનુભવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "સ્વાદુપિંડ કયા રંગની ગ્રંથિ છે?\n(A) લાલ\n(B) આછા ગુલાબી\n(C) આછા બદામી\n(D) ઘેરા લાલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) આછા બદામી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સ્વાદુપિંડ એ જઠરની નીચે આવેલી 'આછા બદામી' રંગની મોટી ગ્રંથિ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "કાયમી દાંતની સંખ્યા કેટલી હોય છે?\n(A) 20\n(B) 28\n(C) 32\n(D) 30",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 32</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'બત્રીસી' દેખાડવી એટલે કે 32 કાયમી દાંત!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "જઠરની કાર્યપદ્ધતિની શોધ કોણે કરી હતી?\n(A) ન્યુટન\n(B) વિલિયમ બ્યુમોન્ટ\n(C) એડવર્ડ જેનર\n(D) લૂઈ પાશ્ચર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વિલિયમ બ્યુમોન્ટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એલેક્સિસ સેન્ટ માર્ટિન નામના દર્દીના જઠરના કાણામાંથી બ્યુમોન્ટે પાચન જોયું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ORS નું પૂરું નામ શું છે?\n(A) Oral Recovery Salt\n(B) Oral Rehydration Solution\n(C) Only Rehydration Sugar\n(D) Open Rehydration Salt",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Oral Rehydration Solution</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Rehydration' એટલે શરીરમાં પાણી પાછું લાવવું. ઝાડા થાય ત્યારે આ પીવું પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "પાચનમાર્ગ અને સંકળાયેલી ગ્રંથિઓ મળીને શાની રચના કરે છે?\n(A) શ્વસનતંત્ર\n(B) પાચનતંત્ર\n(C) ઉત્સર્જનતંત્ર\n(D) રુધિરાભિસરણતંત્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પાચનતંત્ર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ખોરાક લેવાથી નિકાલ સુધીની બધી પાઈપો અને ગ્રંથિઓ એટલે 'પાચનતંત્ર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ચરબીનું સંપૂર્ણ પાચન ક્યાં થાય છે?\n(A) જઠર\n(B) મુખ\n(C) નાનું આંતરડું\n(D) મોટું આંતરડું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) નાનું આંતરડું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કોઈ પણ ખોરાકનું 'સંપૂર્ણ' પાચન હંમેશા નાના આંતરડામાં જ પૂરું થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વાગોળનાર પ્રાણીઓ કયા બેક્ટેરિયાની મદદથી સેલ્યુલોઝનું પાચન કરે છે?\n(A) વાયરસ\n(B) અમાશયમાં રહેલા વિશિષ્ટ બેક્ટેરિયા\n(C) ફૂગ\n(D) લીલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) અમાશયમાં રહેલા વિશિષ્ટ બેક્ટેરિયા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગાયના જઠરમાં (અમાશય) ખાસ મિત્ર જેવા બેક્ટેરિયા હોય જે ઘાસ પચાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "કાર્બોદિતોનું પાચન થઈ તે કયા સરળ પદાર્થમાં ફેરવાય છે?\n(A) ફેટી એસિડ\n(B) ગ્લુકોઝ\n(C) એમિનો એસિડ\n(D) ગ્લિસરોલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ગ્લુકોઝ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કાર્બોદિત = શક્તિ = ગ્લુકોઝ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "નીચેનામાંથી કયું પ્રાણી ખોરાકને ગળી જાય છે?\n(A) ગરોળી\n(B) અજગર\n(C) સાપ\n(D) આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સાપ અને અજગર જેવા સરીસૃપો ચાવતા નથી, સીધો શિકાર ગળી જાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "મનુષ્યમાં ખોરાકનું શોષણ મુખ્યત્વે કયા અંગમાં થાય છે?\n(A) અન્નનળી\n(B) જઠર\n(C) નાનું આંતરડું\n(D) મોટું આંતરડું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) નાનું આંતરડું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાચન અને શોષણ બંનેનો મુખ્ય હીરો 'નાનું આંતરડું' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "જીભનું કાર્ય શું છે?\n(A) લાળરસ ભેળવવો\n(B) સ્વાદ પારખવો\n(C) ખોરાક ગળવામાં મદદ કરવી\n(D) આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જીભ ઓલ-રાઉન્ડર છે! બોલવા, સ્વાદ માટે અને ખોરાક મિક્સ કરવા માટે કામ લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "દાંતનો સડો રોકવા માટે શું કરવું જોઈએ?\n(A) દિવસમાં બે વાર બ્રશ\n(B) મીઠાઈ ઓછી ખાવી\n(C) જમ્યા પછી કોગળા કરવા\n(D) આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દાંત ચોખ્ખા તો સડો જશે આઘા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "સ્વાદુપિંડ રસ કોના પર કાર્ય કરે છે?\n(A) માત્ર પ્રોટીન\n(B) માત્ર કાર્બોદિત\n(C) કાર્બોદિત, ચરબી અને પ્રોટીન\n(D) માત્ર ચરબી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) કાર્બોદિત, ચરબી અને પ્રોટીન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સ્વાદુપિંડ રસ 'થ્રી-ઇન-વન' છે, તે ત્રણેય મુખ્ય ઘટકોનું પાચન કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "તારામાછલી (Starfish) કયું કવચ ધરાવતા પ્રાણીઓને આરોગે છે?\n(A) સિલિકા\n(B) કેલ્શિયમ કાર્બોનેટ\n(C) સોડિયમ ક્લોરાઈડ\n(D) લોખંડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) કેલ્શિયમ કાર્બોનેટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): તારામાછલી પથ્થર જેવા કઠણ કવચ (CaCO3) વાળા પ્રાણીઓ ખાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "જઠરમાં ખોરાક સાથે ભળતો શ્લેષ્મ (Mucus) શું કાર્ય કરે છે?\n(A) પાચન કરે છે\n(B) જઠરની અંદરની દીવાલનું રક્ષણ કરે છે\n(C) સ્વાદ પારખે છે\n(D) બેક્ટેરિયા મારે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) જઠરની અંદરની દીવાલનું રક્ષણ કરે છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શ્લેષ્મ એ એસિડ સામેની 'સેફ્ટી દીવાલ' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "હમિંગ બર્ડ ખોરાક કેવી રીતે લે છે?\n(A) ચાવીને\n(B) ગળીને\n(C) ફૂલોનો રસ ચૂસીને\n(D) પકડીને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ફૂલોનો રસ ચૂસીને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હમિંગ બર્ડ (અને પતંગિયા) 'ચૂસવાની' રીતથી પોષણ મેળવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "શોષાયેલ ખોરાક રુધિરવાહિનીઓ દ્વારા શરીરના વિવિધ અંગો સુધી પહોંચે તેને શું કહેવાય?\n(A) શોષણ\n(B) સ્વાંગીકરણ\n(C) મળત્યાગ\n(D) અંતઃગ્રહણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સ્વાંગીકરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શોષાયેલા ખોરાકનો શરીરના કામમાં 'ઉપયોગ' કરવો એટલે સ્વાંગીકરણ (Assimilation).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "ભેંસ જ્યારે આરામ કરતી હોય ત્યારે મોઢું હલાવે છે, તેને શું કહેવાય?\n(A) હસવું\n(B) બગાસું ખાવું\n(C) વાગોળવું\n(D) શ્વાસ લેવો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) વાગોળવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વાગોળવું (Rumination) એટલે પેટમાંથી ખોરાક પાછો લાવી નિરાંતે ચાવવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "નાના આંતરડામાં પિત્તરસ અને સ્વાદુરસ કયા અંગમાંથી આવે છે?\n(A) જઠર\n(B) યકૃત અને સ્વાદુપિંડ\n(C) મોટું આંતરડું\n(D) અન્નનળી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) યકૃત અને સ્વાદુપિંડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): યકૃત (પિત્ત) અને સ્વાદુપિંડ (સ્વાદુરસ) એ પાડોશી અંગો છે જે નાના આંતરડાને હેલ્પ કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "ચૂસવું, ચાવવું, નળી જેવા મુખાંગો દ્વારા ખેંચવું - આ બધી શેની રીતો છે?\n(A) શ્વાસ લેવાની\n(B) ચાલવાની\n(C) ખોરાક ગ્રહણ કરવાની\n(D) સૂવાની",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ખોરાક ગ્રહણ કરવાની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દરેક પ્રાણીના મેનૂ અને ખાવાની સ્ટાઈલ અલગ અલગ હોય છે!</p></div>"
+    }
+  ]
+}
