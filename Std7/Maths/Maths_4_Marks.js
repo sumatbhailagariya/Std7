@@ -520,3 +520,61 @@ var Std7_Maths_4_Marks = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "બીજગણિતીય પદાવલિ",
+  "questionType": "ચાર ગુણના વિસ્તૃત પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "નીચેની ત્રણેય પદાવલિઓનો સરવાળો કરો અને દરેક સ્ટેપ સ્પષ્ટ રીતે સમજાવો: \n(1) 3x - y + 11 \n(2) -y - 11 \n(3) 3x - y - 11",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>ત્રણેય પદાવલિઓનો સરવાળો કરવા માટે સજાતીય પદોને સાથે ગોઠવીએ:<br>(3x - y + 11) + (-y - 11) + (3x - y - 11)<br>= 3x + 3x - y - y - y + 11 - 11 - 11 (સજાતીય પદોને સાથે લેતા)<br>= (3+3)x + (-1-1-1)y + (11-11-11)<br>= 6x - 3y - 11<br><br>આમ, આપેલ પદાવલિઓનો સરવાળો 6x - 3y - 11 થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>જ્યારે પણ સરવાળો કરવાનો હોય ત્યારે સજાતીય પદોને સ્તંભ (Column) માં ગોઠવો. પદની નીચે પદ મૂકવાથી નિશાનીની ભૂલ થવાની શક્યતા 0% થઈ જાય છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "2a + 8b + 10 માંથી શું બાદ કરવાથી -3a + 7b + 16 મળે? સ્ટેપ-બાય-સ્ટેપ ગણતરી કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>ધારો કે બાદ કરવાની પદાવલિ X છે.<br>તેથી, (2a + 8b + 10) - X = (-3a + 7b + 16)<br>માટે, X = (2a + 8b + 10) - (-3a + 7b + 16)<br>કૌંસ છોડતા નિશાનીઓ બદલાશે:<br>X = 2a + 8b + 10 + 3a - 7b - 16<br>સજાતીય પદોને સાથે ગોઠવતા:<br>X = (2a + 3a) + (8b - 7b) + (10 - 16)<br>X = 5a + b - 6<br><br>આમ, 5a + b - 6 બાદ કરવાથી માંગેલ પદાવલિ મળે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>'શું બાદ કરવું' તે શોધવા માટે હંમેશા: (પ્રથમ પદાવલિ) - (પરિણામી પદાવલિ) કરો. બાદબાકી કરતી વખતે બીજા કૌંસની બધી જ નિશાનીઓ ઉલટાવવાનું ભૂલશો નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "જો a = 2 અને b = -2 હોય, તો નીચેની પદાવલિઓની કિંમત શોધો:<br>(i) a² + ab + b²<br>(ii) a² - b²",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>(i) a² + ab + b² માં કિંમત મૂકતા:<br>= (2)² + (2)(-2) + (-2)²<br>= 4 - 4 + 4 = 4<br><br>(ii) a² - b² માં કિંમત મૂકતા:<br>= (2)² - (-2)²<br>= 4 - (4) = 0<br><br>આમ, પ્રથમ પદાવલિની કિંમત 4 અને બીજી પદાવલિની કિંમત 0 મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ઋણ સંખ્યાનો વર્ગ હંમેશા ધન જ થાય છે. (-2)² = +4. આ પાયાનો નિયમ યાદ રાખશો તો કિંમત શોધવાના દાખલામાં ક્યારેય માર્કસ નહીં કપાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પદાવલિનું સાદુરૂપ આપી તેની કિંમત શોધો: 2(a² + ab) + 3 - ab. જ્યારે a = 5 અને b = -3 હોય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>સૌ પ્રથમ સાદુરૂપ આપતા:<br>2(a² + ab) + 3 - ab<br>= 2a² + 2ab + 3 - ab<br>= 2a² + ab + 3<br><br>હવે a = 5 અને b = -3 મૂકતા:<br>= 2(5)² + (5)(-3) + 3<br>= 2(25) - 15 + 3<br>= 50 - 15 + 3<br>= 35 + 3 = 38<br><br>આમ, સાદુરૂપ આપ્યા પછી મળતી કિંમત 38 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ડાયરેક્ટ કિંમત મૂકવા કરતા પહેલા સાદુરૂપ (Simplify) આપવું હંમેશા સહેલું પડે છે. તેનાથી ગણતરી નાની થઈ જાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "x² + xy + y² માં શું ઉમેરવાથી 2x² + 3xy મેળવી શકાય? યોગ્ય પદ મુજબ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>ધારો કે ઉમેરવાની પદાવલિ P છે.<br>(x² + xy + y²) + P = 2x² + 3xy<br>માટે, P = (2x² + 3xy) - (x² + xy + y²)<br>કૌંસ ખોલતા:<br>P = 2x² + 3xy - x² - xy - y²<br>સજાતીય પદોની ગોઠવણી કરતા:<br>P = (2x² - x²) + (3xy - xy) - y²<br>P = x² + 2xy - y²<br><br>આમ, x² + 2xy - y² ઉમેરવા પડે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>'શું ઉમેરવું' પૂછાય ત્યારે હંમેશા: (પરિણામ) - (આપેલ પદાવલિ) કરો. આ સૂત્ર યાદ રાખો: ઉમેરો = લક્ષ્ય - વર્તમાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "3x² - 4y² + 5xy + 20 માંથી શું લઈ લેવાથી -x² - y² + 6xy + 20 બાકી રહે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>'શું લઈ લેવું' એટલે કે બાદબાકી કરવી.<br>માંગેલ પદાવલિ = (3x² - 4y² + 5xy + 20) - (-x² - y² + 6xy + 20)<br>= 3x² - 4y² + 5xy + 20 + x² + y² - 6xy - 20<br>સજાતીય પદો ભેગા કરતા:<br>= (3x² + x²) + (-4y² + y²) + (5xy - 6xy) + (20 - 20)<br>= 4x² - 3y² - xy<br><br>આમ, 4x² - 3y² - xy લઈ લેવા જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>'લઈ લેવું' એટલે બાદબાકી. જ્યારે તમે પદાવલિ બાદ કરો છો, ત્યારે અંદરના દરેક પદની નિશાની બદલીને પદોને ભેગા કરી દેવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "જો z = 10 હોય, તો z³ - 3(z - 10) ની કિંમત શોધો. સ્ટેપ-બાય-સ્ટેપ સમજૂતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>આપેલ પદાવલિ: z³ - 3(z - 10)<br>સ્ટેપ 1: z = 10 મૂકતા,<br>= (10)³ - 3(10 - 10)<br>સ્ટેપ 2: કૌંસની અંદરની બાદબાકી કરતા,<br>= 1000 - 3(0)<br>સ્ટેપ 3: ગુણાકાર કરતા,<br>= 1000 - 0<br>સ્ટેપ 4: અંતિમ જવાબ,<br>= 1000<br><br>આમ, z = 10 માટે પદાવલિની કિંમત 1000 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>જો કૌંસમાં આપેલી સંખ્યાની બાદબાકી શૂન્ય (0) થતી હોય, તો તેની સાથે ગુણાયેલું આખું પદ શૂન્ય જ થઈ જશે! આનાથી તમારી ગણતરી અડધી થઈ જશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સાદુરૂપ આપો: (5l² + 3lm + m²) - (2l² - 3lm + 4m²) અને l = 1, m = 2 માટે કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>સાદુરૂપ: 5l² + 3lm + m² - 2l² + 3lm - 4m²<br>= (5-2)l² + (3+3)lm + (1-4)m²<br>= 3l² + 6lm - 3m²<br><br>હવે l = 1, m = 2 મૂકતા:<br>= 3(1)² + 6(1)(2) - 3(2)²<br>= 3(1) + 12 - 3(4)<br>= 3 + 12 - 12 = 3<br><br>આમ, સાદુરૂપ 3l² + 6lm - 3m² છે અને તેની કિંમત 3 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>જ્યારે પદાવલિની બહાર '-' નિશાની હોય, ત્યારે કૌંસ ખોલતી વખતે અંદરના + ને - અને - ને + કરવાનું ક્યારેય ભૂલવું નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "જો p = -10 હોય, તો p² - 2p - 100 ની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>આપેલ પદાવલિ: p² - 2p - 100<br>p = -10 મૂકતા:<br>= (-10)² - 2(-10) - 100<br>= 100 + 20 - 100<br>= 120 - 100<br>= 20<br><br>આમ, પદાવલિની કિંમત 20 મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>બે ઋણ સંખ્યાઓનો ગુણાકાર હંમેશા ધન થાય છે. અહીં -2 × (-10) = +20 થાય. નિશાનીના આ નિયમો ગણિતનો પાયો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પદાવલિ 3x²y - 5xy² + 7x - 8 માટે દરેક પદના સહગુણક જણાવો અને જો x = 1, y = 1 હોય તો પદાવલિની કિંમત શોધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>સહગુણકો:<br>1) 3x²y નો સહગુણક: 3<br>2) -5xy² નો સહગુણક: -5<br>3) 7x નો સહગુણક: 7<br>4) અચળ પદ: -8<br><br>x = 1, y = 1 મૂકતા:<br>= 3(1)²(1) - 5(1)(1)² + 7(1) - 8<br>= 3 - 5 + 7 - 8<br>= (3 + 7) - (5 + 8)<br>= 10 - 13 = -3<br><br>આમ, પદાવલિની કિંમત -3 છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>સહગુણક હંમેશા તેની આગળની નિશાની (+ કે -) સાથે જ લખવો. જો નિશાની અવગણશો તો જવાબ ખોટો આવશે!</p></div>"
+    }
+  ]
+}
