@@ -364,3 +364,211 @@ var Std7_Science_MCQs = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "ઉષ્મા",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પદાર્થના ગરમીના પ્રમાણને શું કહેવામાં આવે છે?\n(A) ઉષ્મા ઊર્જા\n(B) તાપમાન\n(C) ઠંડક\n(D) ઘનતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) તાપમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): તાપમાન એટલે પદાર્થની ગરમીની 'માત્રા'. જેમ વજન માટે કિલોગ્રામ તેમ ગરમીની તીવ્રતા માટે તાપમાન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "તાપમાન માપવા માટે વપરાતા સાધનને શું કહે છે?\n(A) બેરોમીટર\n(B) સ્પીડોમીટર\n(C) થર્મોમીટર\n(D) એમીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) થર્મોમીટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'થર્મો' (Thermo) એટલે ગરમી અને 'મીટર' એટલે માપવું. ગરમી માપતું સાધન એટલે થર્મોમીટર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "માનવ શરીરનું સામાન્ય તાપમાન કેટલું હોય છે?\n(A) 35°C\n(B) 37°C\n(C) 42°C\n(D) 98°C",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 37°C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'સાડત્રીસ' (37) એ તંદુરસ્ત માનવીનો લકી નંબર છે તેમ યાદ રાખવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ક્લિનિકલ થર્મોમીટરનો ગાળો કેટલો હોય છે?\n(A) 0°C થી 100°C\n(B) 35°C થી 42°C\n(C) -10°C થી 110°C\n(D) 35°F થી 42°F",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 35°C થી 42°C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શરીરનું તાપમાન 35 થી નીચું અને 42 થી ઉપર જતું નથી, એટલે ક્લિનિકલ રેન્જ ટૂંકી હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પ્રયોગશાળામાં વપરાતા (Laboratory) થર્મોમીટરનો ગાળો સામાન્ય રીતે કેટલો હોય છે?\n(A) 35°C થી 42°C\n(B) 0°C થી 100°C\n(C) -10°C થી 110°C\n(D) 10°C થી 110°C",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) -10°C થી 110°C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્રયોગશાળામાં બરફ અને ઉકળતા પાણી બંનેની જરૂર પડે, એટલે રેન્જ મોટી (-10 થી 110) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "થર્મોમીટરમાં કયું પ્રવાહી વપરાય છે?\n(A) પાણી\n(B) આલ્કોહોલ\n(C) તેલ\n(D) મર્ક્યુરી (પારો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) મર્ક્યુરી (પારો)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પારો ચળકતો હોય અને કાચને ચોંટતો નથી, એટલે તે રીડિંગ માટે બેસ્ટ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ઉષ્માના પ્રસરણની કઈ રીતમાં માધ્યમની જરૂર નથી?\n(A) ઉષ્માવહન\n(B) ઉષ્માનયન\n(C) ઉષ્મીય વિકિરણ\n(D) આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ઉષ્મીય વિકિરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સૂર્યના કિરણો (વિકિરણ) શૂન્યાવકાશમાંથી આવે છે, એટલે તેને માધ્યમની જરૂર નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ઘન પદાર્થોમાં ઉષ્માનું પ્રસરણ કઈ રીતે થાય છે?\n(A) ઉષ્માવહન\n(B) ઉષ્માનયન\n(C) વિકિરણ\n(D) એકપણ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ઉષ્માવહન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઘન પદાર્થો 'વહન' (Conduction) કરે. લોખંડનો સળિયો યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પ્રવાહી અને વાયુ પદાર્થોમાં ઉષ્માનું પ્રસરણ કઈ રીતે થાય છે?\n(A) ઉષ્માવહન\n(B) ઉષ્માનયન\n(C) વિકિરણ\n(D) પ્રસરણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઉષ્માનયન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'નયન' એટલે નવું - ગરમ અણુઓ ઉપર જાય અને ઠંડા અણુઓ નીચે આવે (Cyclic process).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "કયા પ્રકારના કપડાં ઉષ્માનું શોષણ વધુ કરે છે?\n(A) સફેદ રંગના\n(B) આછા રંગના\n(C) ઘેરા (Dark) રંગના\n(D) રેશમી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ઘેરા (Dark) રંગના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કાળો રંગ ગરમીનો 'ચુંબક' છે, તે બધી ગરમી ખેંચી લે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "દરિયાઈ લહેરો (Sea Breeze) કયા સમયે વહે છે?\n(A) રાત્રિના સમયે\n(B) દિવસના સમયે\n(C) માત્ર ચોમાસામાં\n(D) બપોરે 12 વાગ્યે જ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) દિવસના સમયે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દિવસે જમીન ગરમ થાય એટલે દરિયાની ઠંડી હવા જમીન તરફ દોડે (દરિયાઈ લહેર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ભૂ-લહેરો (Land Breeze) કઈ દિશામાં વહે છે?\n(A) દરિયાથી જમીન તરફ\n(B) જમીનથી દરિયા તરફ\n(C) આકાશથી નીચે તરફ\n(D) પૂર્વથી પશ્ચિમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) જમીનથી દરિયા તરફ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ભૂ' એટલે જમીન. જે નામ હોય ત્યાંથી પવન શરૂ થાય. ભૂ-લહેર = જમીનથી દરિયા તરફ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "કયો પદાર્થ ઉષ્માનો મંદવાહક (અવાહક) છે?\n(A) તાંબુ\n(B) લોખંડ\n(C) લાકડું\n(D) એલ્યુમિનિયમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) લાકડું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્લાસ્ટિક, લાકડું અને હવા ઉષ્માના દુશ્મન છે, તે ગરમીને પસાર થવા દેતા નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ક્લિનિકલ થર્મોમીટરમાં રહેલી ખાંચ (Kink) નું કાર્ય શું છે?\n(A) તાપમાન વધારવાનું\n(B) પારાના સ્તરને આપમેળે નીચે ઉતરતું અટકાવવાનું\n(C) થર્મોમીટરને મજબૂતી આપવાનું\n(D) પારાને ગરમ રાખવાનું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પારાના સ્તરને આપમેળે નીચે ઉતરતું અટકાવવાનું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ખાંચ એટલે 'Speed breaker'. તે પારાને જલ્દી નીચે નથી પડવા દેતી જેથી આપણે શાંતિથી રીડિંગ જોઈ શકીએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ઉષ્મા હંમેશા કઈ દિશામાં વહે છે?\n(A) ઠંડા પદાર્થથી ગરમ પદાર્થ તરફ\n(B) ગરમ પદાર્થથી ઠંડા પદાર્થ તરફ\n(C) નીચેથી ઉપર તરફ જ\n(D) કોઈ પણ દિશામાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ગરમ પદાર્થથી ઠંડા પદાર્થ તરફ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અમીર (ગરમ) હંમેશા ગરીબ (ઠંડા) ને દાન (ઉષ્મા) આપે, તેમ યાદ રાખવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "શિયાળામાં આપણે ઉનના કપડાં કેમ પહેરીએ છીએ?\n(A) ઉન ઉષ્માનું સુવાહક છે\n(B) ઉન ઉષ્માનું મંદવાહક છે અને તે હવાને રોકી રાખે છે\n(C) ઉન ઠંડક આપે છે\n(D) ઉન વજનમાં હલકું હોય છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઉન ઉષ્માનું મંદવાહક છે અને તે હવાને રોકી રાખે છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઉનના રેસા વચ્ચેની 'હવા' એ બોડીગાર્ડ છે, જે શરીરની ગરમીને બહાર જવા દેતી નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "કિચનમાં વપરાતા ફ્રાઈંગ પેનનો હાથો કયા પદાર્થનો બનેલો હોય છે?\n(A) સ્ટીલ\n(B) તાંબુ\n(C) લાકડું અથવા પ્લાસ્ટિક\n(D) લોખંડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) લાકડું અથવા પ્લાસ્ટિક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હાથ બળે નહીં તે માટે 'મંદવાહક' (Insulator) જ વાપરવું પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "દિવસ દરમિયાન હવા જમીનથી દરિયા તરફ ક્યારે વહે છે?\n(A) ક્યારેય નહીં\n(B) બપોરે\n(C) સાંજે\n(D) સવારે 8 વાગ્યે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ક્યારેય નહીં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દિવસે હંમેશા 'દરિયાઈ લહેર' (દરિયાથી જમીન) હોય. જમીનથી દરિયા તરફ તો માત્ર રાત્રે જ વહે (ભૂ-લહેર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "કયું પ્રવાહી ઉષ્માવહન (Conduction) દ્વારા ગરમ થાય છે?\n(A) પાણી\n(B) દૂધ\n(C) મર્ક્યુરી (પારો)\n(D) કેરોસીન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) મર્ક્યુરી (પારો)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પારો ધાતુ છે! ભલે તે પ્રવાહી હોય, પણ ધાતુ હોવાથી તે ઉષ્માવહન કરે છે (અપવાદ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ગરમ દૂધના ગ્લાસમાં સ્ટીલની ચમચી મૂકતા તેનો બીજો છેડો કઈ રીતે ગરમ થાય છે?\n(A) ઉષ્માનયન\n(B) વિકિરણ\n(C) ઉષ્માવહન\n(D) ઘર્ષણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ઉષ્માવહન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ચમચી ઘન પદાર્થ છે. ઘન = વહન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "તાપમાન માપવા માટેનો પ્રમાણભૂત એકમ કયો છે?\n(A) ગ્રામ\n(B) લિટર\n(C) અંશ સેલ્સિયસ (°C)\n(D) મીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) અંશ સેલ્સિયસ (°C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભારતમાં આપણે તાપમાન માટે 'સેલ્સિયસ' સ્કેલ વાપરીએ છીએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ઉષ્માનયનમાં પ્રવાહીના કયા અણુઓ ઉપર તરફ ગતિ કરે છે?\n(A) ઠંડા અણુઓ\n(B) ગરમ અણુઓ\n(C) સ્થિર અણુઓ\n(D) ભારે અણુઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ગરમ અણુઓ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગરમ વસ્તુ હલકી હોય, એટલે તે હંમેશા 'ઉપર' જ જાય. (જેમ કે વરાળ કે ગરમ હવા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "સ્ટેનલેસ સ્ટીલની કડાઈના તળિયે તાંબાનું પડ કેમ લગાડવામાં આવે છે?\n(A) કડાઈ સુંદર દેખાય તે માટે\n(B) તાંબુ સ્ટીલ કરતાં ઉષ્માનું વધુ સારું સુવાહક છે\n(C) તાંબુ સાફ કરવું સરળ છે\n(D) તાંબુ સસ્તું છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) તાંબુ સ્ટીલ કરતાં ઉષ્માનું વધુ સારું સુવાહક છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): તાંબુ (Copper) ગરમીનો 'સુપરફાસ્ટ' વાહક છે, એટલે ખોરાક જલ્દી રંધાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "જ્યારે બે પદાર્થોના તાપમાન સમાન હોય, ત્યારે ઉષ્માનું વહન:\n(A) ગરમથી ઠંડા તરફ થાય\n(B) ઠંડાથી ગરમ તરફ થાય\n(C) થતું નથી\n(D) ખૂબ ઝડપથી થાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) થતું નથી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમાન તાપમાન એટલે 'ઉષ્મીય સંતુલન'. કોઈ લેતી-દેતી થાય નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "થર્મોમીટર વાંચતી વખતે દ્રષ્ટિ મર્યાદા ક્યાં હોવી જોઈએ?\n(A) પારાના સ્તરથી ઉપર\n(B) પારાના સ્તરથી નીચે\n(C) પારાના સ્તરની સીધી રેખામાં\n(D) ગમે ત્યાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) પારાના સ્તરની સીધી રેખામાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નજર એકદમ 'સીધી' (Eye Level) રાખવી જેથી રીડિંગમાં ભૂલ ન પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "હવા ઉષ્માની કેવી વાહક છે?\n(A) સુવાહક\n(B) અવાહક (મંદવાહક)\n(C) અર્ધવાહક\n(D) સુપર કંડક્ટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) અવાહક (મંદવાહક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો હવા સુવાહક હોત, તો આપણે શિયાળામાં ઉનના કપડાં પહેરીને પણ થીજી ગયા હોત!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "સૂર્યની ગરમી પૃથ્વી પર કઈ રીત દ્વારા પહોંચે છે?\n(A) ઉષ્માવહન\n(B) ઉષ્માનયન\n(C) ઉષ્મીય વિકિરણ\n(D) પરાવર્તન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ઉષ્મીય વિકિરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સૂર્ય અને પૃથ્વી વચ્ચે ખાલી જગ્યા છે. ખાલી જગ્યામાં માત્ર 'વિકિરણ' (Radiation) જ દોડી શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "શિયાળામાં એક જાડું ધાબળો ઓઢવાને બદલે બે પાતળા ધાબળા ઓઢવાથી વધુ ગરમી કેમ લાગે છે?\n(A) બે ધાબળા વધુ ભારે હોય છે\n(B) બે ધાબળા વચ્ચે હવાનું સ્તર રચાય છે\n(C) પાતળા ધાબળા વધુ ઉષ્મા આપે છે\n(D) એકપણ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) બે ધાબળા વચ્ચે હવાનું સ્તર રચાય છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હવા = ગરમીનો ચોકીદાર! જેટલા સ્તર વધે, તેટલી ગરમી અંદર કેદ રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ઉનાળામાં આપણને કેવા રંગના કપડાં વધુ આરામદાયક લાગે છે?\n(A) ઘેરા કાળા\n(B) લાલ\n(C) સફેદ કે આછા રંગના\n(D) ઉનના",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સફેદ કે આછા રંગના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સફેદ રંગ ગરમીને પરાવર્તિત (Reflect) કરે છે, એટલે શરીર ઠંડુ રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "હવામાનના અહેવાલમાં આપવામાં આવતું મહત્તમ અને લઘુત્તમ તાપમાન કયા થર્મોમીટરથી માપવામાં આવે છે?\n(A) ક્લિનિકલ થર્મોમીટર\n(B) લેબોરેટરી થર્મોમીટર\n(C) મહત્તમ-લઘુત્તમ થર્મોમીટર\n(D) ડિજિટલ થર્મોમીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) મહત્તમ-લઘુત્તમ થર્મોમીટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જેવું કામ તેવું નામ! મેક્સિમમ-મિનિમમ માપવા માટે મેક્સિમમ-મિનિમમ થર્મોમીટર જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "ઉષ્માવહનની ઘટના માત્ર કયા પદાર્થોમાં જોવા મળે છે?\n(A) પ્રવાહી\n(B) વાયુ\n(C) ઘન પદાર્થો\n(D) શૂન્યાવકાશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ઘન પદાર્થો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઘન પદાર્થમાં અણુઓ જોડાયેલા હોય, એટલે તે ગરમીને 'પાસ-ઓન' (વહન) કરી શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "મીણબત્તીની જ્યોતની ઉપર રાખેલો હાથ વધુ ગરમી કેમ અનુભવે છે?\n(A) ઉષ્માવહન દ્વારા\n(B) ઉષ્માનયન દ્વારા હવા ગરમ થઈ ઉપર આવે છે\n(C) માત્ર વિકિરણ દ્વારા\n(D) મીણબત્તી ગરમ હોય એટલે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઉષ્માનયન દ્વારા હવા ગરમ થઈ ઉપર આવે છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગરમ હવા હંમેશા લિફ્ટની જેમ 'ઉપર' જાય (ઉષ્માનયન), એટલે ઉપર હાથ રાખતા વધુ દઝાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "શૂન્યાવકાશમાં ઉષ્માનું પ્રસરણ કઈ રીતે શક્ય છે?\n(A) ઉષ્માવહન\n(B) ઉષ્માનયન\n(C) વિકિરણ\n(D) શક્ય નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) વિકિરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'વિકિરણ' એ ઉષ્માનો સુપરમેન છે, તેને કોઈ માધ્યમની જરૂર પડતી નથી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "કપડાં સુકવવા એ ઉષ્માના કયા પ્રકારનું ઉદાહરણ છે?\n(A) ઉષ્માનયન અને વિકિરણ\n(B) ઉષ્માવહન\n(C) ઘર્ષણ\n(D) રાસાયણિક પ્રક્રિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ઉષ્માનયન અને વિકિરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સૂર્યની ગરમી (વિકિરણ) અને પવન (ઉષ્માનયન) બંને પાણીને ઉડાડે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "નીચેનામાંથી ઉષ્માનું સુવાહક કયું છે?\n(A) પ્લાસ્ટિક\n(B) રબર\n(C) એલ્યુમિનિયમ\n(D) એબોનાઈટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) એલ્યુમિનિયમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બધી ધાતુઓ ઉષ્માની 'બેસ્ટ ફ્રેન્ડ' (સુવાહક) હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "થર્મોમીટરનો ઉપયોગ કરતા પહેલા તેને કયા દ્રાવણથી ધોવું જોઈએ?\n(A) તેલ\n(B) એન્ટિસેપ્ટિક (જંતુનાશક)\n(C) ગરમ પાણી\n(D) દૂધ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) એન્ટિસેપ્ટિક (જંતુનાશક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ડોક્ટર હંમેશા સફાઈ રાખે, એટલે જંતુનાશકથી જ સાફ કરવું જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "લેબોરેટરી થર્મોમીટરમાં અંકન ક્યાંથી ક્યાં સુધી હોય છે?\n(A) 0 થી 100\n(B) -10 થી 110\n(C) 35 થી 42\n(D) 94 થી 108",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) -10 થી 110</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લેબોરેટરી = લાંબી રેન્જ. બરફ (-10) થી ઉકળતું પાણી (110) સુધી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "કયા પ્રકારના થર્મોમીટરમાં પારો વપરાતો નથી?\n(A) ક્લિનિકલ\n(B) લેબોરેટરી\n(C) ડિજિટલ\n(D) મેક્સિમમ-મિનિમમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ડિજિટલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ડિજિટલ એટલે મોબાઈલ જેવું, તેમાં પારો નહીં પણ સેન્સર હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "થર્મોમીટરના બલ્બમાં કઈ ધાતુ ભરેલી હોય છે?\n(A) સોનું\n(B) પારો\n(C) તાંબુ\n(D) જસત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પારો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પારો એ એકમાત્ર ધાતુ છે જે સામાન્ય તાપમાને પ્રવાહી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "ગરમ પદાર્થોમાંથી ઠંડા પદાર્થો તરફ ઉષ્મા વહેવાની પ્રક્રિયાને શું કહે છે?\n(A) ઉષ્માનું શોષણ\n(B) ઉષ્માનું પ્રસરણ\n(C) તાપમાન વધારો\n(D) ઠંડક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-color:#16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઉષ્માનું પ્રસરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્રસરણ એટલે 'ફેલાવું'. ગરમી એક જગ્યાએથી બીજી જગ્યાએ ફેલાય એટલે તેને પ્રસરણ કહેવાય.</p></div>"
+    }
+  ]
+}
