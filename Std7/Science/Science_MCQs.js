@@ -2674,3 +2674,251 @@ var Std7_Science_MCQs = {
     }
   ]
 }
+,
+"13": {
+  "chapterName": "પ્રકરણ 13",
+  "chapterTitle": "ગંદા પાણીની વાર્તા (Wastewater Story)",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ગંદા પાણીમાં રહેલા દ્રાવ્ય અને નિલંબિત દ્રવ્યોને શું કહેવામાં આવે છે?",
+      "options": "A. શુદ્ધિકારકો, B. પ્રદૂષકો, C. પોષકતત્ત્વો, D. સુક્ષ્મજીવો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પ્રદૂષકો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે પાણીને ગંદુ (પ્રદૂષિત) કરે તેને 'પ્રદૂષકો' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "નીચેનામાંથી કઈ અશુદ્ધિ કાર્બનિક અશુદ્ધિ છે?",
+      "options": "A. નાઈટ્રેટ્સ, B. ફોસ્ફેટ્સ, C. માનવ મળ, D. ધાતુઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. માનવ મળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સજીવોમાંથી મળતી અશુદ્ધિઓ (મળ, પેશાબ, તેલ) હંમેશા 'કાર્બનિક' હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "WWTP નું પૂરું નામ શું છે?",
+      "options": "A. Waste Water Treatment Plant, B. Water Waste Treatment Plant, C. World Water Treatment Plant, D. Wild Water Treatment Plant",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. Waste Water Treatment Plant</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): WW = Waste Water (ગંદુ પાણી), TP = Treatment Plant (શુદ્ધિકરણ પ્લાન્ટ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પાણીને જંતુમુક્ત કરવા માટે કયા રસાયણનો ઉપયોગ થાય છે?",
+      "options": "A. નાઈટ્રોજન, B. ક્લોરીન, C. હાઈડ્રોજન, D. કાર્બન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ક્લોરીન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ક્લોરીન અને ઓઝોન - બંને જંતુઓનો 'ક્લીન' સફાયો કરે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સીવેજ એ કયા પ્રકારનો કચરો છે?",
+      "options": "A. ઘન કચરો, B. વાયુ કચરો, C. પ્રવાહી કચરો, D. કિરણોત્સર્ગી કચરો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. પ્રવાહી કચરો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગટરમાં જે વહેતું હોય તે 'પ્રવાહી' (સીવેજ) જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "WWTP માં કયા સાધન દ્વારા મોટી વસ્તુઓ જેવી કે ચિતરાં, લાકડીઓ વગેરે દૂર કરવામાં આવે છે?",
+      "options": "A. ગ્રીટ ટાંકી, B. બાર સ્ક્રીન, C. એરેશન ટાંકી, D. ક્લેરિફાયર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. બાર સ્ક્રીન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'બાર (Bar)' એટલે સળિયા - જે મોટી વસ્તુઓને રોકી રાખે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પાણીમાં રહેલા કાદવ (sludge) ને દૂર કરવા માટે કયા સાધનનો ઉપયોગ થાય છે?",
+      "options": "A. સ્ક્રેપર, B. ગળણી, C. પંપ, D. પાઇપ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. સ્ક્રેપર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): તળિયે બેઠેલા કાદવને 'સ્ક્રેપ' (ઘસીને) કરીને જ કાઢવો પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ગંદા પાણીમાં રહેલા તેલ અને ચરબીને દૂર કરવા કયા સાધનનો ઉપયોગ થાય છે?",
+      "options": "A. સ્ક્રેપર, B. સ્કીમર, C. ફિલ્ટર, D. પંખો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. સ્કીમર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાણી પર તરતા તેલને 'સ્કિમ (Skim)' કરી લેવું એટલે કે સ્કીમર વાપરવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિઘટન પામેલ કાદવ (sludge) માંથી કયો વાયુ ઉત્પન્ન થાય છે જે બળતણ તરીકે વપરાય છે?",
+      "options": "A. ઓક્સિજન, B. નાઈટ્રોજન, C. બાયોગેસ, D. આર્ગોન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. બાયોગેસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જૈવિક કચરાના વિઘટનથી હંમેશા 'બાયો' ગેસ જ બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ગંદા પાણીમાં હવા પસાર કરવાની પ્રક્રિયાને શું કહેવામાં આવે છે?",
+      "options": "A. નિસ્યંદન, B. એરેશન (વાતન), C. ક્લોરિનેશન, D. ફિલ્ટરેશન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. એરેશન (વાતન)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Air (હવા) ઉમેરવાની ક્રિયા એટલે Aeration (એરેશન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "નીચેનામાંથી કયો રોગ અશુદ્ધ પાણી પીવાથી થાય છે?",
+      "options": "A. ટીબી, B. કોલેરા, C. ડાયાબિટીસ, D. કેન્સર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. કોલેરા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પેટના રોગો (કોલેરા, ટાઈફોઈડ, ઝાડા) મોટાભાગે 'ગંદા પાણી' થી જ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વર્મી-પ્રોસેસિંગ શૌચાલયમાં માનવ મળ પર કયા જીવનો ઉપયોગ કરવામાં આવે છે?",
+      "options": "A. સાપ, B. અળસિયા, C. વંદા, D. મધમાખી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. અળસિયા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'વર્મી' (Vermi) એટલે જ અળસિયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ગટરમાં તેલ અને ચરબી નાખવાથી શું નુકસાન થાય છે?",
+      "options": "A. પાઈપ જામ થઈ જાય છે, B. પાણી ચોખ્ખું થાય છે, C. પાઈપ સાફ થાય છે, D. કશું થતું નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. પાઈપ જામ થઈ જાય છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): તેલ ઠંડુ પડતા જામી જાય અને ગટરનો રસ્તો રોકી દે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ગંદા પાણીના શુદ્ધિકરણમાં કયા પ્રકારના બેક્ટેરિયા કાદવનું વિઘટન કરે છે?",
+      "options": "A. જારક બેક્ટેરિયા, B. અજારક બેક્ટેરિયા, C. ઉપયોગી બેક્ટેરિયા, D. વાયરસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. અજારક બેક્ટેરિયા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કાદવની અંદર ઓક્સિજન ન હોય, એટલે ત્યાં 'અજારક' (ઓક્સિજન વગરના) બેક્ટેરિયા કામ કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિશ્વ જળ દિવસ ક્યારે ઉજવવામાં આવે છે?",
+      "options": "A. 22 માર્ચ, B. 5 જૂન, C. 15 ઓગસ્ટ, D. 26 જાન્યુઆરી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. 22 માર્ચ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 22 માર્ચ - બે બગડા (22), જળ બચાવવા માં (માર્ચ) ને વંદન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વધુ વૃક્ષો વાવવાથી ગંદા પાણીના નિકાલમાં કઈ રીતે મદદ મળે છે?",
+      "options": "A. વૃક્ષો પાણી શોષી લે છે, B. વૃક્ષો ગંધ દૂર કરે છે, C. વૃક્ષો યુકેલિપ્ટસની જેમ વધારાનું પાણી બાષ્પ સ્વરૂપે હવામાં મુક્ત કરે છે, D. આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. વૃક્ષો યુકેલિપ્ટસની જેમ વધારાનું પાણી બાષ્પ સ્વરૂપે હવામાં મુક્ત કરે છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): યુકેલિપ્ટસ (નીલગિરી) એ 'પાણીના પંપ' જેવું કામ કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સીવેજમાં રહેલી અકાર્બનિક અશુદ્ધિ કઈ છે?",
+      "options": "A. ફળો અને શાકભાજીનો કચરો, B. હર્બિસાઈડ્સ, C. નાઈટ્રેટ્સ અને ફોસ્ફેટ્સ, D. યુરિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. નાઈટ્રેટ્સ અને ફોસ્ફેટ્સ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે રસાયણો ખાતર તરીકે વપરાય છે (નાઈટ્રેટ, ફોસ્ફેટ) તે 'અકાર્બનિક' અશુદ્ધિ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "પાણીના શુદ્ધિકરણની પ્રક્રિયામાં કયા કિસ્સામાં હવા (ઓક્સિજન) જરૂરી છે?",
+      "options": "A. કાંપ દૂર કરવા, B. જારક બેક્ટેરિયાની વૃદ્ધિ માટે, C. કાદવ સૂકવવા, D. રેતી ગાળવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. જારક બેક્ટેરિયાની વૃદ્ધિ માટે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જારક = જે ઓક્સિજન (હવા) વાપરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "નીચેનામાંથી કઈ અશુદ્ધિ સૂક્ષ્મજીવો દ્વારા ફેલાય છે?",
+      "options": "A. કાચ, B. પ્લાસ્ટિક, C. બેક્ટેરિયા, D. લોખંડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. બેક્ટેરિયા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બેક્ટેરિયા એ પોતે જ એક 'સૂક્ષ્મજીવ' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "શુદ્ધિકરણ બાદ પાણી ક્યાં છોડવામાં આવે છે?",
+      "options": "A. ખેતરોમાં, B. સમુદ્ર અથવા નદીમાં, C. રસ્તા પર, D. શાળાઓમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. સમુદ્ર અથવા નદીમાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્રકૃતિ પાસે પોતાની સફાઈ શક્તિ હોય છે, એટલે તેને કુદરતી જળસ્ત્રોતમાં છોડાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ગંદા પાણીના ઉપચાર દરમિયાન કયું અવક્ષેપિત દ્રવ્ય નીચે બેસી જાય છે?",
+      "options": "A. તેલ, B. કાદવ (Sludge), C. લાકડીઓ, D. પ્લાસ્ટિકની થેલીઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. કાદવ (Sludge)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વજનદાર કચરો જ હંમેશા તળિયે બેસે, જેને કાદવ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "કેમિકલ્સ અને દવાઓ ગટરમાં નાખવી જોઈએ નહીં, કારણ કે...",
+      "options": "A. તે પાઈપને તોડી નાખે છે, B. તે શુદ્ધિકરણમાં મદદ કરતા સૂક્ષ્મજીવોને મારી નાખે છે, C. તે પાણીનો રંગ બદલી નાખે છે, D. તે કિંમતી હોય છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. તે શુદ્ધિકરણમાં મદદ કરતા સૂક્ષ્મજીવોને મારી નાખે છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દવાઓ બેક્ટેરિયાના દુશ્મન છે, અને આપણને શુદ્ધિકરણ માટે સારા બેક્ટેરિયા જોઈએ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "પાણીમાં ઓઝોન વાયુ ઉમેરવાથી શું થાય?",
+      "options": "A. પાણી ગંદુ થાય, B. પાણી જંતુમુક્ત થાય, C. પાણી કાળું થાય, D. પાણી મીઠું થાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પાણી જંતુમુક્ત થાય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઓઝોન (O3) એ કુદરતી જંતુનાશક છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "સીવેજ વ્યવસ્થા ન હોય ત્યાં કયા પ્રકારના શૌચાલયો સલાહભર્યા છે?",
+      "options": "A. સેપ્ટિક ટેન્ક, B. રાસાયણિક શૌચાલય, C. ખાતર બનાવવાના શૌચાલય, D. આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D. આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગટર લાઈન ન હોય ત્યારે સ્થાનિક (On-site) નિકાલ પદ્ધતિઓ જ શ્રેષ્ઠ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "કિચનનો તેલ અને ચરબીયુક્ત કચરો ક્યાં નાખવો જોઈએ?",
+      "options": "A. વોશ બેસિનમાં, B. કચરાપેટીમાં, C. બારીની બહાર, D. ગટરની પાઈપમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. કચરાપેટીમાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્રવાહી હોય કે ઘન, ગટર જામ ન કરવી હોય તો 'કચરાપેટી' બેસ્ટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ગંદા પાણીમાં રહેલા ફોસ્ફરસ અને નાઈટ્રોજન શાનું ઉદાહરણ છે?",
+      "options": "A. વિષકારી પદાર્થો, B. પોષકતત્ત્વો, C. ધાતુઓ, D. બેક્ટેરિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પોષકતત્ત્વો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): N-P-K (નાઈટ્રોજન, ફોસ્ફરસ, પોટેશિયમ) એ છોડ માટે 'પોષકતત્ત્વો' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "કાદવને સુકવીને જે ખાતર બને છે તેનો ઉપયોગ ક્યાં થાય છે?",
+      "options": "A. રસોડામાં, B. ખેતીમાં, C. પીવાના પાણીમાં, D. રમતગમતમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ખેતીમાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ખાતર હંમેશા જમીન (ખેતી) ને જ કામ લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "એરેશન ટાંકીમાં બેક્ટેરિયા શાનું સેવન કરે છે?",
+      "options": "A. રેતીનું, B. માનવ મળ અને ખોરાકના કચરાનું, C. પાણીનું, D. પાઈપનું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. માનવ મળ અને ખોરાકના કચરાનું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બેક્ટેરિયા ગંદકી ખાઈને પાણી સાફ કરે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ખુલ્લી ગટર વ્યવસ્થાથી કઈ સમસ્યા થાય છે?",
+      "options": "A. મચ્છરોનો ઉપદ્રવ વધે, B. ગંદી વાસ આવે, C. રોગો ફેલાય, D. આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D. આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગટર ખુલ્લી એટલે બીમારીની 'ખુલ્લી' ઓફર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "સીવેજ શુદ્ધિકરણમાં વપરાતા સક્રિયકૃત કાદવ (Activated Sludge) માં કેટલા ટકા પાણી હોય છે?",
+      "options": "A. 50%, B. 75%, C. 97%, D. 10%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. 97%</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સક્રિયકૃત કાદવ અત્યંત પાતળો હોય છે, એટલે 97% પાણી હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "ટાઈફોઈડ શેના દ્વારા ફેલાતો રોગ છે?",
+      "options": "A. પ્રદૂષિત હવા, B. પ્રદૂષિત પાણી, C. અવાજનું પ્રદૂષણ, D. પ્રકાશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પ્રદૂષિત પાણી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાણીજન્ય રોગો = કોલેરા, ટાઈફોઈડ, પોલિયો, મેનિન્જાઈટીસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "ગટરમાં કચરો નાખતી વખતે કઈ બાબતનું ધ્યાન રાખવું જોઈએ?",
+      "options": "A. પ્લાસ્ટિક નાખવું, B. ચાની પત્તી નાખવી, C. ચાની પત્તી અને ખાદ્ય પદાર્થો કચરાપેટીમાં નાખવા, D. ગમે તે નાખી શકાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ચાની પત્તી અને ખાદ્ય પદાર્થો કચરાપેટીમાં નાખવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઘન કચરો ગટરમાં નહીં, કચરાપેટીમાં જવો જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "પાણીના શુદ્ધિકરણમાં ભૌતિક પ્રક્રિયા કઈ છે?",
+      "options": "A. ક્લોરિનેશન, B. ગાળણ (ગ્રીટ અને રેતી દૂર કરવી), C. બેક્ટેરિયા ઉમેરવા, D. ઓઝોનાઈઝેશન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ગાળણ (ગ્રીટ અને રેતી દૂર કરવી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગાળવું એ ભૌતિક છે, કેમિકલ વાપરવું એ રાસાયણિક છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "સીવેજ ટ્રીટમેન્ટમાં વાયુની હાજરીમાં કયા બેક્ટેરિયા કાર્ય કરે છે?",
+      "options": "A. જારક, B. અજારક, C. બંને, D. એક પણ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. જારક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વાયુ (હવા) હોય ત્યાં જારક શ્વસન થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "નીચેનામાંથી કઈ અકાર્બનિક અશુદ્ધિ નથી?",
+      "options": "A. મેટલ્સ, B. ફોસ્ફેટ્સ, C. ફળોનો કચરો, D. નાઈટ્રેટ્સ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ફળોનો કચરો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ફળો સજીવ (છોડ) માંથી આવે, એટલે તે 'કાર્બનિક' હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "પાણીમાં રહેલા રોગકારક સૂક્ષ્મજીવોને શું કહે છે?",
+      "options": "A. શુદ્ધિકારક, B. પેથોજન્સ (રોગકારકો), C. મિત્રો, D. સફાઈ કામદાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પેથોજન્સ (રોગકારકો)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે રોગ (Pathology) પેદા કરે તે પેથોજન્સ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "માનવ મળના નિકાલ માટેની ઓછી ખર્ચાળ પદ્ધતિ કઈ છે?",
+      "options": "A. સેપ્ટિક ટેન્ક, B. ગટર લાઇન, C. WWTP પ્લાન્ટ, D. ડ્રેનેજ સિસ્ટમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. સેપ્ટિક ટેન્ક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વ્યક્તિગત ઘર માટે સેપ્ટિક ટેન્ક સૌથી સસ્તો વિકલ્પ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "ગંદા પાણીના ટ્રીટમેન્ટ પ્લાન્ટમાં પ્રથમ સોપાન કયું છે?",
+      "options": "A. ક્લોરિનેશન, B. બાર સ્ક્રીન, C. એરેશન, D. કાદવ નિકાલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. બાર સ્ક્રીન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સૌથી પહેલા મોટો કચરો રોકવો પડે (સળિયા દ્વારા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "કઈ અશુદ્ધિઓને કારણે નદીઓનું પાણી પ્રદૂષિત થાય છે?",
+      "options": "A. ઓક્સિજન, B. માછલીઓ, C. ઔદ્યોગિક કચરો અને સીવેજ, D. જળચર વનસ્પતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ઔદ્યોગિક કચરો અને સીવેજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ફેક્ટરી અને ગટરનું પાણી નદીનો સૌથી મોટો દુશ્મન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "ગંદા પાણીનું શુદ્ધિકરણ કયા પ્રકારનો ફેરફાર છે?",
+      "options": "A. માત્ર ભૌતિક, B. માત્ર રાસાયણિક, C. જૈવિક, D. ભૌતિક, રાસાયણિક અને જૈવિક નું મિશ્રણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D. ભૌતિક, રાસાયણિક અને જૈવિક નું મિશ્રણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગાળણ (ભૌતિક), ક્લોરીન (રાસાયણિક) અને બેક્ટેરિયા (જૈવિક) - ત્રણેય ભેગા મળીને પાણી સાફ કરે.</p></div>"
+    }
+  ]
+}
