@@ -256,3 +256,211 @@ var Std7_Science_FillBlanks = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "પ્રાણીઓમાં પોષણ",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ખોરાકના જટિલ ઘટકોનું સરળ સ્વરૂપમાં રૂપાંતર થવાની પ્રક્રિયાને ________ કહે છે. (શોષણ, પાચન, ઉત્સર્જન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાચન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જટિલ (Hard) માંથી સરળ (Easy) બનાવવું એટલે 'પાચન'. યાદ રાખો: પાચન = તોડવાની પ્રક્રિયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "મનુષ્યમાં પાચનમાર્ગની શરૂઆત ________ થી થાય છે. (જઠર, મુખગુહા, અન્નનળી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુખગુહા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'મુખ' એટલે મોઢું, જ્યાંથી ખોરાકની એન્ટ્રી થાય છે તે જ શરૂઆત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સ્ટાર્ચનું સરળ શર્કરામાં રૂપાંતર ________ કરે છે. (પિત્તરસ, લાળરસ, સ્વાદુરસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લાળરસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'લાળ' એ સ્ટાર્ચની 'ઢાળ' (દુશ્મન) છે. લાળ પડે એટલે સ્ટાર્ચ ઓગળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ખોરાકને ચાવવા માટે ________ દાંત ઉપયોગી છે. (રાક્ષી, છેદક, દાઢ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દાઢ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'દાઢ' એ દળવા (ભરડવા) માટેનું મશીન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ખોરાકને ચીરવા અને ફાડવા માટે ________ દાંતનો ઉપયોગ થાય છે. (છેદક, રાક્ષી, અગ્રદાઢ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાક્ષી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રાક્ષસ જેવા અણીદાર દાંત એટલે 'રાક્ષી' જે ફાડવાનું કામ કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "જઠરનો આકાર અંગ્રેજી મૂળાક્ષર ________ જેવો હોય છે. (U, J, V)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> J</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'J' for 'Jathar' (જઠર). આકાર યાદ રાખવો સાવ સરળ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "જઠરની અંદરની દીવાલ ________ એસિડનો સ્ત્રાવ કરે છે. (સલ્ફ્યુરિક, હાઈડ્રોક્લોરિક, નાઈટ્રિક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હાઈડ્રોક્લોરિક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પેટમાં 'H-Cl' એટલે 'હાઈ ક્લાસ' પાચન માટે જરૂરી એસિડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "યકૃત એ શરીરની સૌથી ________ ગ્રંથિ છે. (નાની, મોટી, મધ્યમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોટી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): યકૃત (Liver) એ આપણા શરીરનું સૌથી મોટું 'કેમિકલ કારખાનું' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પિત્તરસનો સંગ્રહ ________ જેવી કોથળીમાં થાય છે. (જઠર, પિત્તાશય, સ્વાદુપિંડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પિત્તાશય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પિત્તનો 'આશય' (રહેઠાણ) એટલે 'પિત્તાશય'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પિત્તરસ ________ ના પાચનમાં મહત્વનો ભાગ ભજવે છે. (કાર્બોદિત, પ્રોટીન, ચરબી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચરબી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'પિત્ત' એ 'ચરબી' ને 'ચિત્ત' (સાફ) કરી નાખે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "નાના આંતરડાની લંબાઈ આશરે ________ મીટર હોય છે. (1.5, 7.5, 10.5)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 7.5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નામ 'નાનું' પણ લંબાઈ 'મોટી' - સાડા સાત મીટર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "નાના આંતરડાની અંદરની દીવાલમાં હજારો આંગળીઓ જેવા પ્રવર્ધો જોવા મળે છે, જેને ________ કહે છે. (રસાંકુરો, પિત્તાશય, અન્ત:ગ્રહણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રસાંકુરો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રસનું શોષણ કરતા 'અંકુરો' એટલે 'રસાંકુરો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "મોટું આંતરડું આશરે ________ મીટર લાંબુ હોય છે. (1.5, 7.5, 2.5)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1.5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મોટું આંતરડું પહોળું છે પણ લંબાઈમાં નાનું (માત્ર 1.5 મીટર) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ઘાસ ખાનારા પ્રાણીઓ ઝડપથી ઘાસ ગળી જાય છે અને તેને ________ માં સંગ્રહે છે. (જઠર, આમાશય, પિત્તાશય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આમાશય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગાય-ભેંસનું પહેલું સ્ટેશન એટલે 'આમાશય' (Rumen).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "અમીબા ________ દ્વારા ખોરાક પકડે છે. (મુખ, ખોટા પગ, રસાંકુરો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટા પગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અમીબા પાસે સાચા પગ નથી, એટલે 'ખોટા પગ' (Pseudopodia) થી કામ ચલાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "કાર્બોદિતોનું પાચન થઈ તે ________ માં રૂપાંતરિત થાય છે. (એમિનો એસિડ, ગ્લુકોઝ, ફેટી એસિડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગ્લુકોઝ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કાર્બોદિત = શક્તિ, અને ઇન્સ્ટન્ટ શક્તિ એટલે ગ્લુકોઝ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "પ્રોટીનનું પાચન થઈ તે ________ માં રૂપાંતરિત થાય છે. (ગ્લુકોઝ, એમિનો એસિડ, ગ્લિસરોલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એમિનો એસિડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્રોટીન બનાવવા 'એમિનો' ના મણકા જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ચરબીનું પાચન થઈ તે ફેટી એસિડ અને ________ માં રૂપાંતરિત થાય છે. (ગ્લિસરોલ, ગ્લુકોઝ, સ્ટાર્ચ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગ્લિસરોલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ચરબી (Fat) ના બે સંતાન: ફેટી એસિડ અને ગ્લિસરોલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વાગોળનાર પ્રાણીઓમાં આમાશયમાં અર્ધપાચિત ખોરાકને ________ કહે છે. (વાગોળ, પિત્ત, લાળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાગોળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે ખોરાક ફરી મોઢામાં આવે તેને 'વાગોળ' (Cud) કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "અમીબામાં ખોરાકનું પાચન ________ માં થાય છે. (અન્નધાની, કોષકેન્દ્ર, ખોટા પગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અન્નધાની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અન્ન (ખોરાક) રાખવાની ધાની (કોથળી) એટલે અન્નધાની.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "જીભના આગળના ટેરવા પર ________ સ્વાદ પરખાય છે. (કડવો, ગળ્યો, ખાટો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગળ્યો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મીઠી વાતો હંમેશા આગળ (ટેરવા પર) જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "લાળગ્રંથિઓ ________ માં આવેલી હોય છે. (જઠર, મુખગુહા, આંતરડું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુખગુહા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મોઢામાં પાણી આવે એટલે સમજવું લાળગ્રંથિ મુખમાં જ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "મનુષ્યમાં ખોરાક લેવાની પ્રક્રિયાને ________ કહે છે. (પાચન, અંત:ગ્રહણ, શોષણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંત:ગ્રહણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અંત: એટલે અંદર + ગ્રહણ એટલે લેવું. ખોરાક અંદર લેવો એટલે અંત:ગ્રહણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "નાના આંતરડામાં ખોરાકના શોષાયેલા ઘટકો રુધિરવાહિનીઓ દ્વારા શરીરના અંગો તરફ જાય છે, તેને ________ કહે છે. (સ્વાંગીકરણ, અંત:ગ્રહણ, પાચન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્વાંગીકરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ખોરાકના પોષકતત્વોને શરીરના અંગો 'પોતાના' (સ્વ) કરી લે તે સ્વાંગીકરણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "પાચન ન થયેલો ખોરાક ________ માંથી બહાર નીકળે છે. (મોટું આંતરડું, જઠર, મળદ્વાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મળદ્વાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કચરો બહાર કાઢવાનું 'એક્ઝિટ દ્વાર' એટલે મળદ્વાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "યકૃત એ ________ રંગની ગ્રંથિ છે. (પીળા, લાલાશ પડતા બદામી, કાળા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લાલાશ પડતા બદામી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): યકૃત (Liver) નો રંગ ડાર્ક ચોકલેટ જેવો લાલાશ પડતો બદામી હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "સ્વાદુપિંડ એ ________ ની નીચે આવેલી મોટી ગ્રંથિ છે. (યકૃત, જઠર, આંતરડું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જઠર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જઠરના 'તળિયે' (નીચે) સ્વાદુપિંડ 'સ્વાદ' કરવા બેઠું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "મોટું આંતરડું ખોરાકમાંથી ________ નું શોષણ કરે છે. (પ્રોટીન, પાણી, ચરબી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાણી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મોટા આંતરડાનું એક જ કામ - છેલ્લે વધેલું પાણી ખેંચી લેવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "શેવાળ જેવી વનસ્પતિમાં જોવા મળતા સેલ્યુલોઝનું પાચન ________ દ્વારા થાય છે. (લાળરસ, બેક્ટેરિયા, પિત્તરસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બેક્ટેરિયા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઘાસના સેલ્યુલોઝને તોડવા માટે ખાસ 'બેક્ટેરિયાની સેના' જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "________ ના પાચન માટે વાગોળનાર પ્રાણીઓમાં આંધ્રંત આવેલું હોય છે. (ચરબી, સેલ્યુલોઝ, વિટામિન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સેલ્યુલોઝ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઘાસમાં 'સેલ્યુલોઝ' હોય, જે પચાવવા ગાય-ભેંસને વધારાની કોથળી (આંધ્રંત) જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "દૂધના દાંત પડી ગયા પછી તેની જગ્યાએ આવતા દાંતને ________ કહે છે. (કાયમી દાંત, કામચલાઉ દાંત, રાક્ષી દાંત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાયમી દાંત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે દાંત આજીવન (Permament) રહે તે 'કાયમી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "ખોરાકને આગળ ધકેલવા માટે અન્નનળીની દીવાલનું ________ થાય છે. (હલનચલન, શોષણ, પાચન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હલનચલન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અન્નનળીમાં લપસણી જેવું હલનચલન થાય જેથી ખોરાક નીચે સરકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "જઠરની અંદરની દીવાલ શ્લેષ્મ, હાઈડ્રોક્લોરિક એસિડ અને ________ નો સ્ત્રાવ કરે છે. (પાચક રસો, પિત્તરસ, લાળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાચક રસો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જઠરમાં 'એસિડ' અને 'રસો' નું મિશ્રણ પ્રોટીન પચાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "સ્ટાર્ચનું પાચન ________ માં શરૂ થાય છે. (જઠર, મુખ, નાનું આંતરડું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ખોરાક હજુ અંદર પહોંચે તે પહેલા મોઢામાં જ સ્ટાર્ચનું કામ પૂરું થઈ જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "પાચિત ખોરાકનું શોષણ મુખ્યત્વે ________ માં થાય છે. (મોટું આંતરડું, જઠર, નાનું આંતરડું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નાનું આંતરડું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાચન અને શોષણનું 'મુખ્ય મથક' એટલે નાનું આંતરડું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "મનુષ્યમાં ખોરાક પકડવા માટે ________ નો ઉપયોગ થાય છે. (પગ, હાથ, જીભ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હાથ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આપણે પ્લેટમાંથી ખોરાક ઉઠાવવા 'હાથ' જ વાપરીએ છીએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "જીભ એ મુખગુહાના ________ ભાગે જોડાયેલ માંસલ અંગ છે. (આગળના, પાછળના, ઉપરના)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાછળના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જીભ આગળથી છૂટી છે એટલે જ બોલી શકાય છે, પાછળથી ફિક્સ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "સ્વાદુપિંડ એ ________ રંગની ગ્રંથિ છે. (બદામી, આછા ગુલાબી, આછા પીળા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આછા પીળા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'સ્વાદુ' એ 'પીળું' (Cream colored) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "જીભના પાછળના ભાગે ________ સ્વાદ પરખાય છે. (ગળ્યો, કડવો, ખાટો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કડવો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કડવી દવા ગળતી વખતે છેલ્લે (પાછળ) જ ખબર પડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "પ્રોટીનનું પાચન ________ માં શરૂ થાય છે. (મુખ, જઠર, નાનું આંતરડું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જઠર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્રોટીન ને તોડવા 'જઠર' (Stomach) ના મજબૂત એસિડ જોઈએ.</p></div>"
+    }
+  ]
+}
