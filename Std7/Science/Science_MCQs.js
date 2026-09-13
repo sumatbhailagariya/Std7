@@ -2150,3 +2150,161 @@ var Std7_Science_MCQs = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "વિદ્યુતપ્રવાહ અને તેની અસરો",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિદ્યુતકોષની સંજ્ઞામાં લાંબી રેખા શું દર્શાવે છે?\n(A) ઋણ ધ્રુવ\n(B) ધન ધ્રુવ\n(C) તટસ્થ ધ્રુવ\n(D) બલ્બ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ધન ધ્રુવ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો, 'લાંબી' રેખા હંમેશા 'ધન' (+) હોય અને 'ટૂંકી-જાડી' રેખા 'ઋણ' (-) હોય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "બે કે તેથી વધુ વિદ્યુતકોષોના જોડાણને શું કહેવામાં આવે છે?\n(A) સ્વીચ\n(B) ફ્યૂઝ\n(C) બેટરી\n(D) પરિપથ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) બેટરી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 કોષ = વિદ્યુતકોષ, 1 થી વધુ કોષ ભેગા થાય = બેટરી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "જ્યારે સ્વીચ 'ઓન' (ON) સ્થિતિમાં હોય, ત્યારે વિદ્યુત પરિપથ કેવો કહેવાય?\n(A) ખુલ્લો પરિપથ\n(B) અપૂર્ણ પરિપથ\n(C) બંધ પરિપથ\n(D) ખામીયુક્ત પરિપથ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) બંધ પરિપથ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ON = બંધ (Closed) રસ્તો, જેથી કરંટ દોડી શકે. OFF = ખુલ્લો (Open) રસ્તો, કરંટ અટકી જાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "બેટરી બનાવવા માટે એક કોષના ધન ધ્રુવને બીજા કોષના કયા ધ્રુવ સાથે જોડવામાં આવે છે?\n(A) ધન ધ્રુવ\n(B) ઋણ ધ્રુવ\n(C) કોઈપણ ધ્રુવ\n(D) વચ્ચેથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઋણ ધ્રુવ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિરુદ્ધ ધ્રુવોનું આકર્ષણ! (+) ને હંમેશા (-) સાથે જ જોડવો પડે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિદ્યુતપ્રવાહની કઈ અસરને કારણે ઇલેક્ટ્રિક ઇસ્ત્રી ગરમ થાય છે?\n(A) ચુંબકીય અસર\n(B) રાસાયણિક અસર\n(C) ઉષ્મીય અસર\n(D) પ્રકાશિય અસર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ઉષ્મીય અસર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમી એટલે 'ઉષ્મા'. ગરમ થતી વસ્તુઓ (ઇસ્ત્રી, ગીઝર, હીટર) ઉષ્મીય અસર પર કામ કરે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિદ્યુત ઉપકરણોમાં વપરાતા સુરક્ષા સાધન (Safety Device) ને શું કહે છે?\n(A) સ્વીચ\n(B) ફ્યૂઝ\n(C) બેટરી\n(D) હોલ્ડર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ફ્યૂઝ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફ્યૂઝ એ વિદ્યુતનો 'બોડીગાર્ડ' છે, જે ઓવરલોડિંગ વખતે પોતે બળીને ઘરના ઉપકરણો બચાવે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિદ્યુતપ્રવાહની ચુંબકીય અસરની શોધ સૌ પ્રથમ કોણે કરી હતી?\n(A) ન્યૂટન\n(B) થોમસ આલ્વા એડિસન\n(C) હાન ક્રિશ્ચિયન ઓર્સ્ટેડ\n(D) ફેરાડે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) હાન ક્રિશ્ચિયન ઓર્સ્ટેડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઓર્સ્ટેડ' નામ સાંભળો એટલે 'ચુંબકીય અસર' યાદ આવવી જ જોઈએ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિદ્યુત ફ્યૂઝમાં કેવા પદાર્થનો તાર વપરાય છે?\n(A) જેનો ગલનબિંદુ ઊંચો હોય\n(B) જે ખૂબ જ મજબૂત હોય\n(C) જે નીચા ગલનબિંદુવાળો હોય અને તરત પીગળી જાય\n(D) અવાહક હોય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) જે નીચા ગલનબિંદુવાળો હોય અને તરત પીગળી જાય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફ્યૂઝનું કામ જ 'પીગળી' જઈને પરિપથ તોડવાનું છે, એટલે તે નરમ (નીચા ગલનબિંદુવાળો) હોવો જોઈએ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "લોખંડના ટુકડા પર વીંટાળેલા વિદ્યુતતારના ગુંચળાને શું કહેવામાં આવે છે?\n(A) વિદ્યુતકોષ\n(B) વિદ્યુતચુંબક\n(C) ફ્યૂઝ\n(D) વિદ્યુતબલ્બ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વિદ્યુતચુંબક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોખંડ + તારનું ગુંચળું + વીજળી = વિદ્યુતચુંબક (Electromagnet). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિદ્યુત ઘંટડી (Electric Bell) માં નીચેનામાંથી કઈ વસ્તુનો ઉપયોગ થાય છે?\n(A) કાયમી ચુંબક\n(B) વિદ્યુતચુંબક\n(C) ફ્યૂઝ\n(D) હીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વિદ્યુતચુંબક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘંટડી વગાડવા માટે હથોડીને ખેંચવી પડે, જે કામ વિદ્યુતચુંબક કરે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "હાલમાં ફ્યૂઝના સ્થાને કયા સાધનનો ઉપયોગ વધ્યો છે?\n(A) MCB\n(B) PCB\n(C) CFL\n(D) LED",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:6px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) MCB</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: MCB એટલે સ્વીચ જેવી રચના, જે શોર્ટ સર્કિટ થાય ત્યારે આપમેળે 'ટ્રીપ' (OFF) થઈ જાય છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિદ્યુતકોષની સંજ્ઞામાં ટૂંકી અને જાડી રેખા શું દર્શાવે છે?\n(A) ધન ધ્રુવ (+)\n(B) ઋણ ધ્રુવ (-)\n(C) સ્વીચ\n(D) બલ્બ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઋણ ધ્રુવ (-)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાની અને જાડી લીટી = માઈનસ (-). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "તારમાંથી વિદ્યુતપ્રવાહ પસાર થાય ત્યારે તે ચુંબક તરીકે વર્તે છે, તેને શું કહેવાય?\n(A) ઉષ્મીય અસર\n(B) રાસાયણિક અસર\n(C) ચુંબકીય અસર\n(D) પ્રકાશ અસર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ચુંબકીય અસર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તારમાં કરંટ = ચુંબક જેવું વર્તન, એટલે ચુંબકીય અસર. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિદ્યુત હીટરમાં કયા દ્રવ્યનો તાર ગૂંચળા તરીકે વપરાય છે?\n(A) કોપર\n(B) ટંગસ્ટન\n(C) નિક્રોમ\n(D) લોખંડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) નિક્રોમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હીટરનું 'એલિમેન્ટ' હંમેશા 'નિક્રોમ' (Nichrome) મિશ્ર ધાતુનું બનેલું હોય છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "MCB નું પૂરું નામ શું છે?\n(A) Main Circuit Board\n(B) Miniature Circuit Breaker\n(C) Multiple Circuit Battery\n(D) Minimum Current Breaker",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Miniature Circuit Breaker</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: M-Miniature, C-Circuit, B-Breaker. સર્કિટને તોડનાર નાનું સાધન. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "નીચેનામાંથી કયું વિદ્યુતપ્રવાહની ચુંબકીય અસર પર આધારિત છે?\n(A) વિદ્યુત ઇસ્ત્રી\n(B) વિદ્યુત ઘંટડી\n(C) વિદ્યુત હીટર\n(D) વિદ્યુત ઓવન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વિદ્યુત ઘંટડી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇસ્ત્રી, હીટર અને ઓવન 'ગરમ' થાય (ઉષ્મીય અસર), જ્યારે ઘંટડીમાં 'ચુંબક' વપરાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિદ્યુત બલ્બમાં કઈ ધાતુનો પાતળો તાર (ફિલામેન્ટ) હોય છે?\n(A) એલ્યુમિનિયમ\n(B) ચાંદી\n(C) ટંગસ્ટન\n(D) તાંબુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ટંગસ્ટન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટંગસ્ટનનો 'ગલનબિંદુ' ખૂબ ઊંચો હોય એટલે તે ગરમ થઈને પ્રકાશ આપે પણ ઓગળે નહીં. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "બેટરીના જોડાણમાં એક સેલનો '+' ધ્રુવ બીજા સેલના કયા ધ્રુવ સાથે જોડાયેલ હોય છે?\n(A) '+'\n(B) '-'\n(C) ઉપરની બાજુએ\n(D) બાજુમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) '-'</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શ્રેણી જોડાણમાં હમેશા (+) અને (-) ની જોડી બને. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "હોસ્પિટલમાં આંખમાં પડેલા લોખંડના રજકણોને દૂર કરવા ડોક્ટર શાનો ઉપયોગ કરે છે?\n(A) કાયમી ચુંબક\n(B) બિલોરી કાચ\n(C) વિદ્યુતચુંબક\n(D) ચીપિયો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) વિદ્યુતચુંબક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિદ્યુતચુંબકનો પાવર વધારી-ઘટાડી શકાય એટલે નાજુક કામમાં તે વધુ ઉપયોગી છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "તારમાં ઉત્પન્ન થતો ઉષ્માનો જથ્થો કઈ બાબત પર આધાર રાખતો નથી?\n(A) તારના દ્રવ્ય પર\n(B) તારની લંબાઈ પર\n(C) તારની જાડાઈ પર\n(D) તારના રંગ પર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) તારના રંગ પર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વીજળીને રંગ સાથે કોઈ લેવાદેવા નથી, ફક્ત પદાર્થ, લંબાઈ અને જાડાઈ મહત્વના છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિદ્યુત પરિપથમાં કઈ સ્થિતિમાં બલ્બ પ્રકાશિત થશે?\n(A) ખુલ્લી સ્થિતિ (OFF)\n(B) બંધ સ્થિતિ (ON)\n(C) જ્યારે વાયર તૂટેલો હોય\n(D) જ્યારે બેટરી ઉંધી જોડેલી હોય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) બંધ સ્થિતિ (ON)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બંધ પરિપથ' એટલે પૂરો રસ્તો. રસ્તો પૂરો હોય તો જ વીજળી ચાલે! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિદ્યુતચુંબક બનાવવા માટે નીચેનામાંથી કઈ વસ્તુ સર્વોત્તમ છે?\n(A) લાકડું\n(B) પ્લાસ્ટિક\n(C) નરમ લોખંડ\n(D) કાચ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) નરમ લોખંડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોખંડ ચુંબકીય પદાર્થ છે, એટલે વિદ્યુતચુંબકમાં લોખંડનો ગર્ભ (Core) વપરાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "હોકાયંત્રની સોયને વિદ્યુત પ્રવાહ ધારિત તારની નજીક રાખતા શું થાય છે?\n(A) તે ગરમ થાય છે\n(B) તે કોણીય વિચલન પામે છે (હલે છે)\n(C) તે તારને વળગી જાય છે\n(D) કઈ જ થતું નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) તે કોણીય વિચલન પામે છે (હલે છે)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તારમાં વીજળી = ચુંબક. ચુંબક નજીક બીજું ચુંબક (સોય) આવે તો તે હલે જ! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ઇલેક્ટ્રિકલ સાધનો પર કયું ચિન્હ હોવું જોઈએ જે તેની સુરક્ષાની ખાતરી આપે છે?\n(A) ISO\n(B) ISI\n(C) Hallmark\n(D) Agmark",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ISI</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇલેક્ટ્રિક વસ્તુ લેતી વખતે 'ISI' માર્ક ચેક કરવો, તે સુરક્ષાની ગેરંટી છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિદ્યુતચુંબકનું ચુંબકત્વ ક્યારે નષ્ટ થાય છે?\n(A) જ્યારે તાર લાંબો કરવામાં આવે\n(B) જ્યારે વિદ્યુતપ્રવાહ બંધ કરવામાં આવે\n(C) જ્યારે તેને ગરમ કરવામાં આવે\n(D) હંમેશા રહે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) જ્યારે વિદ્યુતપ્રવાહ બંધ કરવામાં આવે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિદ્યુતચુંબક એ 'કામચલાઉ' ચુંબક છે. સ્વીચ ON તો ચુંબક ON, સ્વીચ OFF તો ચુંબક OFF. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિદ્યુત પરિપથમાં વપરાતી સ્વીચનું કાર્ય શું છે?\n(A) વિદ્યુત ઉત્પન્ન કરવાનું\n(B) પરિપથને પૂર્ણ કે અપૂર્ણ કરવાનું\n(C) કરંટ વધારવાનું\n(D) પ્રકાશ આપવાનું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પરિપથને પૂર્ણ કે અપૂર્ણ કરવાનું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્વીચ એ 'દરવાજો' છે, ખોલો તો કરંટ જાય, બંધ કરો તો અટકી જાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ભારે વજન ઉંચકવા માટે ક્રેનમાં શાનો ઉપયોગ થાય છે?\n(A) કાયમી ચુંબક\n(B) વિદ્યુતચુંબક\n(C) દોરડા\n(D) ગુંદર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વિદ્યુતચુંબક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોખંડનો ભંગાર ઉંચકવા મોટા 'વિદ્યુતચુંબક' વપરાય છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "જ્યારે તારમાંથી વિદ્યુતપ્રવાહ પસાર થાય ત્યારે તે ગરમ થાય છે. આને શું કહેવાય?\n(A) ચુંબકીય અસર\n(B) ઉષ્મીય અસર\n(C) રાસાયણિક અસર\n(D) ભૌતિક ફેરફાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઉષ્મીય અસર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કરંટ + ગરમી = ઉષ્મીય અસર. (Heating Effect). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિદ્યુત ઘંટડીમાં હથોડી કોની સાથે અથડાઈને અવાજ ઉત્પન્ન કરે છે?\n(A) સ્વીચ સાથે\n(B) બેટરી સાથે\n(C) ધાતુની વાટકી (કટોરી/Gong) સાથે\n(D) વાયર સાથે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ધાતુની વાટકી (કટોરી/Gong) સાથે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હથોડી જ્યારે વાટકી પર અથડાય ત્યારે જ 'ટણણણ' અવાજ આવે! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વિદ્યુત પરિપથની આકૃતિ દોરવા માટે વપરાતા પ્રતીકોને શું કહે છે?\n(A) ચિત્રો\n(B) સંજ્ઞાઓ\n(C) લખાણ\n(D) બ્લુપ્રિન્ટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સંજ્ઞાઓ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખી આકૃતિ દોરવી અઘરી પડે, એટલે આપણે 'સંજ્ઞા' (Symbols) વાપરીએ છીએ. (NJ Classes)</p></div>"
+    }
+  ]
+}
