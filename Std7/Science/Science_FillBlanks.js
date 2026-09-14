@@ -2586,3 +2586,311 @@ var Std7_Science_FillBlanks = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "જંગલો: આપણી જીવાદોરી",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "જંગલો પૃથ્વી પરના 'લીલા _____' તરીકે ઓળખાય છે. (ફેફસાં, હૃદય, કિડની)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફેફસાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જેમ ફેફસાં શ્વાસ લેવામાં મદદ કરે, તેમ જંગલો પૃથ્વીને ઓક્સિજન આપી શુદ્ધ રાખે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વૃક્ષોના ઉપરના ભાગને, જે ડાળીઓ ધરાવે છે તેને વૃક્ષનો _____ કહેવાય છે. (થડ, મુગટ, મૂળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુગટ (Crown)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રાજાના માથા પર મુગટ હોય, તેમ વૃક્ષના ટોચના ડાળીઓવાળા ભાગને મુગટ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "જંગલમાં ઊંચા વૃક્ષોની ડાળીઓ નીચા વૃક્ષો પર છત જેવું કામ કરે છે, તેને _____ કહે છે. (અધોસમૂહ, છત્રછાયા, ભૂતલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> છત્રછાયા (Canopy)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): છત એટલે કેનોપી, જે ઊંચા ઝાડ દ્વારા બનેલી લીલી છત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જંગલમાં છત્રછાયાની નીચે જોવા મળતા જુદી જુદી ઊંચાઈના સ્તરોને _____ કહે છે. (અધોસમૂહ, આહારકડી, ક્ષુપ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અધોસમૂહ (Understorey)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'અધો' એટલે નીચે, છત્રછાયાની નીચેના સ્તરો એટલે અધોસમૂહ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સૂક્ષ્મજીવો જે મૃત વનસ્પતિ અને પ્રાણીઓને કાળા સેન્દ્રિય પદાર્થમાં ફેરવે છે તેને _____ કહે છે. (ઉત્પાદકો, ઉપભોગીઓ, વિઘટકો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિઘટકો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જટિલ પદાર્થનું વિઘટન કરી સરળ બનાવે તે વિઘટકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "જંગલો વાતાવરણમાં _____ અને ઓક્સિજનનું સંતુલન જાળવે છે. (નાઈટ્રોજન, કાર્બન ડાયોક્સાઈડ, હાઈડ્રોજન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાર્બન ડાયોક્સાઈડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વનસ્પતિ પ્રકાશસંશ્લેષણમાં CO2 લે અને O2 આપે, એટલે બેલેન્સ જળવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સૂક્ષ્મજીવો દ્વારા મૃત વનસ્પતિ પર પ્રક્રિયા થવાથી _____ બને છે. (રેતી, હ્યુમસ, ખડક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હ્યુમસ (સેન્દ્રિય પદાર્થ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હ્યુમસ = જંગલની ફળદ્રુપ કાળી માટીનો જાદુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ઘાસ → કીટક → દેડકો → સાપ → ગરુડ એ એક _____ નું ઉદાહરણ છે. (આહારજાળ, આહારશૃંખલા, ઉર્જાશૃંખલા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આહારશૃંખલા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એક સજીવ બીજાને ખાય એ સાંકળ એટલે આહારશૃંખલા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "જંગલોમાં જમીન પર સડેલા પાંદડા અને પ્રાણીઓના મળ હોવાથી તે _____ લાગે છે. (ગરમ અને ભેજવાળી, ઠંડી અને સૂકી, સૂકી અને ગરમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગરમ અને ભેજવાળી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વિઘટનની પ્રક્રિયામાં ઉષ્મા ઉત્પન્ન થાય, તેથી તે ભાગ ગરમ લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "જંગલો _____ અટકાવવામાં અને પૂર નિયંત્રણમાં મદદ કરે છે. (ભૂમિનું ધોવાણ, હવાનું પ્રદૂષણ, અવાજનું પ્રદૂષણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભૂમિનું ધોવાણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વૃક્ષના મૂળ માટીને જકડી રાખે, એટલે ધોવાણ અટકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "જો જંગલો નાશ પામે તો વાતાવરણમાં _____ નું પ્રમાણ વધી જાય. (ઓક્સિજન, કાર્બન ડાયોક્સાઈડ, નાઈટ્રોજન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાર્બન ડાયોક્સાઈડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વનસ્પતિ ન હોય તો CO2 કોણ વાપરે? એટલે તેનું પ્રમાણ વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "કીટકો, પતંગિયા અને મધમાખીઓ ફૂલોમાં _____ ની પ્રક્રિયામાં મદદ કરે છે. (પ્રકાશસંશ્લેષણ, પરાગનયન, ઉત્સ્વેદન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પરાગનયન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પતંગિયા એક ફૂલથી બીજા ફૂલ પર જાય એટલે પરાગરજ ફેલાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "જંગલો _____ નું કુદરતી શોષક છે. (ધ્વનિ, પાણી, પ્રકાશ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાણી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જંગલની જમીન વાદળી (Sponge) જેવું કામ કરે છે જે વરસાદી પાણી શોષે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "નીચેનામાંથી કઈ વનસ્પતિ જંગલમાંથી મળતી પેદાશ નથી? (ગુંદર, મધ, કેરોસીન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેરોસીન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કેરોસીન જમીનમાંથી (પેટ્રોલિયમ) મળે, ઝાડ પરથી નહિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "જંગલમાં ક્ષુપ અને છોડવાઓ દ્વારા કયું સ્તર બનાવવામાં આવે છે? (સૌથી ઉપરનું, અધોસમૂહનું, ભૂતલનું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અધોસમૂહનું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મોટા ઝાડની નીચે ક્ષુપ અને તેની નીચે છોડ - આ બધું જ 'અધોસમૂહ' માં આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વૃક્ષો બાષ્પોત્સર્જન દ્વારા વાતાવરણમાં _____ મુક્ત કરે છે. (ધુમાડો, જળબાષ્પ, ધૂળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જળબાષ્પ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વનસ્પતિને પરસેવો વળે (બાષ્પોત્સર્જન) એટલે પાણી હવામાં જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "જંગલ એ એક ગતિશીલ _____ એકમ છે. (નિર્જીવ, જૈવિક, ભૌતિક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જૈવિક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જંગલમાં બધું જીવંત (Living) છે, તેથી તે 'Dynamic Living Entity' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "મૃત પ્રાણીઓના દેહને ખાઈને જંગલને સાફ રાખનાર પ્રાણી કયું છે? (ગાય, હરણ, ગીધ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગીધ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગીધ એ કુદરતનો સફાઈ કામદાર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વનસ્પતિઓ ખોરાક બનાવવા માટે સૂર્યપ્રકાશનો ઉપયોગ કરે છે, તેને _____ કહેવાય છે. (શ્વસન, ઉત્સ્વેદન, પ્રકાશસંશ્લેષણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રકાશસંશ્લેષણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્રકાશની હાજરીમાં રસોઈ બનાવવી એટલે પ્રકાશસંશ્લેષણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "જંગલો વરસાદી પાણીને જમીનમાં ઉતારી _____ ના સ્તરમાં વધારો કરે છે. (ભૂગર્ભ જળ, દરિયાઈ જળ, નદીના જળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભૂગર્ભ જળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જંગલ પાણીને જમીનમાં રિચાર્જ કરવાનું કામ કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "જંગલમાં ઊગતી વનસ્પતિઓની વિવિધતા કોના માટે ખોરાક અને રહેઠાણ પૂરું પાડે છે? (માત્ર મનુષ્યો, માત્ર પક્ષીઓ, શાકાહારી પ્રાણીઓ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શાકાહારી પ્રાણીઓ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શાકાહારી પ્રાણીઓ વધશે તો જ માંસાહારીઓને ખોરાક મળશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "બિલાડીના ટોપ (Mushrooms) એ એક પ્રકારના _____ છે. (ઉત્પાદકો, વિઘટકો, માંસાહારી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિઘટકો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મશરૂમ્સ ગંદકી કે સડેલી વસ્તુઓ પર ઉગીને તેનું વિઘટન કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "જંગલના કારણે આસપાસના વિસ્તારનું તાપમાન _____ રહે છે. (વધારે, નીચું, ખૂબ ગરમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નીચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઝાડની છાયા અને બાષ્પોત્સર્જન ઠંડક આપે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વનસ્પતિઓ વાતાવરણને શુદ્ધ કરવા માટે _____ વાયુ ગ્રહણ કરે છે. (ઓક્સિજન, કાર્બન ડાયોક્સાઈડ, હાઈડ્રોજન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાર્બન ડાયોક્સાઈડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગંદો વાયુ (CO2) ખેંચીને ચોખ્ખો વાયુ (O2) બહાર કાઢે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "જંગલોમાં વનસ્પતિના બીજ ફેલાવવામાં _____ મહત્વનો ભાગ ભજવે છે. (પથ્થરો, પ્રાણીઓ, વાદળો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રાણીઓ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્રાણીઓ ફળ ખાય અને બીજ દૂર સુધી ફેંકે, એટલે નવા વૃક્ષ ઉગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "જંગલમાંથી મળતો 'સીસમ' (Sheesham) નો ઉપયોગ મુખ્યત્વે _____ માટે થાય છે. (દવા, ફર્નિચર, બળતણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફર્નિચર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સીસમનું લાકડું મજબૂત હોય, એટલે ટેબલ-ખુરશી બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "જંગલના તળિયા (Forest Floor) પર કેવા પ્રકારની વનસ્પતિ વધુ જોવા મળે છે? (મોટા વૃક્ષો, ઘાસ અને નાના છોડવા, માત્ર વેલા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘાસ અને નાના છોડવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જમીન પર હંમેશા નાનું નાનું ઘાસ અને જડીબુટ્ટીઓ ઉગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "જંગલોમાં સૂર્યપ્રકાશ ઓછો પહોંચે છે કારણ કે ઉપર _____ હોય છે. (વાદળાં, છત્રછાયા, ધુમ્મસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> છત્રછાયા (Canopy)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જેમ છત્રી આપણને તડકાથી બચાવે, તેમ છત્રછાયા જમીનને બચાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "કયા પ્રકારના સજીવો આહારશૃંખલાની શરૂઆત કરે છે? (શાકાહારી, માંસાહારી, લીલી વનસ્પતિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લીલી વનસ્પતિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વનસ્પતિ ઉત્પાદક છે, એટલે બધું ત્યાંથી જ શરૂ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "જંગલના અધિકારીઓ પ્રાણીઓની હાજરી શાના પરથી ઓળખી શકે છે? (તેમનો અવાજ અને મળ, તેમના રંગ, તેમની ઊંચાઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તેમનો અવાજ અને મળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ડગલાં (પગલાં) અને ડ્રોપિંગ્સ (મળ) એ પ્રાણીઓની ઓળખ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "જંગલ વિસ્તારમાં વરસાદ વધુ પડે છે કારણ કે ત્યાં વધુ પ્રમાણમાં _____ થાય છે. (ખેતી, બાષ્પોત્સર્જન, પવન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાષ્પોત્સર્જન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વધુ વૃક્ષો = વધુ જળબાષ્પ = વધુ વરસાદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "જંગલમાં મૃત પ્રાણીઓ અને વનસ્પતિનું વિઘટન થવાથી જમીન કેવી બને છે? (રેતાળ, ફળદ્રુપ, પથ્થરવાળી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફળદ્રુપ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વિઘટનથી પોષક તત્વો પાછા જમીનમાં જાય, એટલે ફળદ્રુપતા વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "જો જંગલો ઓછા થાય, તો પૃથ્વી પર સરેરાશ તાપમાનમાં _____ થાય. (ઘટાડો, વધારો, કોઈ ફેરફાર નહિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વધારો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): CO2 વધે એટલે ગરમી (Global Warming) પણ વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "ખેર (Khair) વૃક્ષમાંથી શું મેળવવામાં આવે છે? (મધ, કાથો, ગુંદર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાથો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાનમાં નાખવાનો કાથો ખેરના લાકડામાંથી બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "જંગલ એ સજીવો માટે શું પૂરું પાડે છે? (આહાર અને રહેઠાણ, માત્ર ઓક્સિજન, માત્ર કાર્બન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આહાર અને રહેઠાણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જંગલ એ કુદરતી ઘર (Home) અને રસોડું (Kitchen) બંને છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "જંગલોમાં કુદરતી રીતે બીજ અંકુરણ પામવા માટે _____ મદદરૂપ થાય છે. (રાસાયણિક ખાતર, પ્રાણીઓનો મળ, પ્લાસ્ટિક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રાણીઓનો મળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મળમાં પોષક તત્વો હોય છે જે ખાતરનું કામ કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "વૃક્ષોની ગેરહાજરીમાં વરસાદી પાણી સીધું જમીન પર પડે ત્યારે શું થાય? (જમીન ફળદ્રુપ બને, જમીનનું ધોવાણ થાય, પાણી ચોખ્ખું થાય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જમીનનું ધોવાણ થાય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વગર રક્ષણે પાણી માટીને વહાવી જાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "જંગલો અવાજના પ્રદૂષણને ઘટાડે છે કારણ કે તેઓ ધ્વનિનું _____ કરે છે. (ઉત્સર્જન, પરાવર્તન, શોષણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શોષણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગીચ ઝાડ અવાજને ગળી જાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "જંગલમાં વનસ્પતિ કયા વાયુને મુક્ત કરે છે જે આપણે શ્વાસમાં લઈએ છીએ? (નાઈટ્રોજન, ઓક્સિજન, હીલિયમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓક્સિજન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઓક્સિજન એ જિંદગી છે, અને તે ઝાડ આપે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "જંગલની જમીન પર સડેલા પદાર્થો કેવા રંગના હોય છે? (લાલ, કાળા, સફેદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાળા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હ્યુમસ હંમેશા કાળા કે ઘટ્ટ ભૂખરા રંગનું હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "નીચેનામાંથી કયું વન્ય પ્રાણી જંગલના ગીચ વિસ્તારમાં રહેવાનું પસંદ કરે છે? (ગાય, હાથી, બકરી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હાથી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મોટા વન્ય પ્રાણીઓને છુપાવવા અને ખાવા માટે ગીચ જંગલ જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "વનસ્પતિ અને પ્રાણીઓ એકબીજા પર શાના માટે આધાર રાખે છે? (રમત-ગમત, અસ્તિત્વ, મનોરંજન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અસ્તિત્વ (Survival)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો એક નહિ હોય, તો બીજું જીવી શકશે નહિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "જંગલો વરસાદી પાણીને રોકી રાખે છે અને તેને ધીમેથી જમીનમાં ઉતારે છે, જેને _____ કહેવાય છે. (ઝરણું, અનુસ્રવણ, બાષ્પીભવન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અનુસ્રવણ (Infiltration/Seepage)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાણીનું માટીમાં ઉતરવું એટલે અનુસ્રવણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "કયા પ્રકારની વનસ્પતિને જંગલમાં 'મુગટ' હોતો નથી? (વૃક્ષ, છોડ, ક્ષુપ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> છોડ (Herbs)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): છોડ ખૂબ નાના હોય છે, તેમાં ઉપર ઘેરાવા જેવો મુગટ હોતો નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "જંગલોમાં કીટકો દ્વારા બીજ ફેલાવાની પ્રક્રિયાને શું કહેવાય? (પરાગનયન, વિખેરણ, વૃદ્ધિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિખેરણ (Dispersal)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બીજને એક જગ્યાએથી બીજી જગ્યાએ ફેંકવું એટલે વિખેરણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "જંગલોમાં પોષક તત્વોનો પુરવઠો કોણ જાળવી રાખે છે? (વાદળો, વિઘટકો, પથ્થરો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિઘટકો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વિઘટકો કચરામાંથી ખાતર બનાવી પોષક તત્વો રિસાઈકલ કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "જંગલોમાં વસતી આદિજાતિઓ માટે જંગલ શું પૂરું પાડે છે? (આજીવિકા, માત્ર રમત, શહેરી સુવિધા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આજીવિકા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આદિવાસીઓ ખોરાક, પાણી અને દવા માટે જંગલ પર નિર્ભર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "કાર્બન ડાયોક્સાઈડ અને ઓક્સિજનનું સંતુલન બગડવાથી કઈ સમસ્યા સર્જાય છે? (ઠંડી વધે, ગ્લોબલ વોર્મિંગ, ભૂકંપ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગ્લોબલ વોર્મિંગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): CO2 વધે તો પૃથ્વી ગરમ થાય, જેને ગ્લોબલ વોર્મિંગ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "જંગલની હળીમળીને રહેવાની વ્યવસ્થામાં 'આહારશૃંખલા' જો કૂટે તો શું થાય? (જંગલનો વિકાસ થાય, અન્ય શૃંખલાઓને અસર થાય, કંઈ ફેર ન પડે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અન્ય શૃંખલાઓને અસર થાય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બધી જ આહારશૃંખલાઓ એકબીજા સાથે જોડાયેલી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "જંગલના વિસ્તારમાં જમીનનું ધોવાણ ન થવાનું મુખ્ય કારણ શું છે? (પથ્થરો, મૂળ દ્વારા માટીનું જકડાવું, ઓછો વરસાદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મૂળ દ્વારા માટીનું જકડાવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મૂળિયાં માટીના સૈનિકો છે જે તેને પકડી રાખે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "જંગલોમાં જોવા મળતા હ્યુમસ (Humus) ને કારણે જમીનનો ભેજ _____ રહે છે. (જળવાઈ, સુકાઈ, ઓછો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જળવાઈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હ્યુમસ પાણીને પકડી રાખવાનું કામ કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "કઈ ઋતુમાં જંગલનું તળિયું વધુ ગરમ અને ભેજવાળું હોય છે? (શિયાળો, ઉનાળો, ચોમાસું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચોમાસું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાણી અને વિઘટન ભેગા થાય એટલે ભેજ અને ગરમી વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "વનસ્પતિ દ્વારા પાણી બાષ્પ સ્વરૂપે હવામાં મુક્ત કરવાની ક્રિયાને _____ કહે છે. (પ્રકાશસંશ્લેષણ, બાષ્પોત્સર્જન, શ્વસન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાષ્પોત્સર્જન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બાષ્પ + ઉત્સર્જન = બાષ્પોત્સર્જન (પાણી બહાર કાઢવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 54",
+      "question": "જંગલોમાં સૌથી નીચલું સ્તર શેનું હોય છે? (ક્ષુપ, છોડ, ઘાસ અને વિઘટકો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘાસ અને વિઘટકો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જમીન પર સૌથી નીચે કચરો અને વિઘટકો જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "ઔષધીય વનસ્પતિઓ મેળવવા માટેનો મુખ્ય સ્ત્રોત કયો છે? (ફેક્ટરી, જંગલ, પ્રયોગશાળા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જંગલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આયુર્વેદની જડીબુટ્ટીઓ જંગલમાંથી જ મળે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "જંગલમાં આહારશૃંખલામાં 'કીટક' કોનો ખોરાક બને છે? (ઘાસ, દેડકો, વાઘ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દેડકો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): યાદ રાખો - ઘાસ → કીટક → દેડકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "જંગલો ઘટવાથી પૂરની સમસ્યા કેમ વધે છે? (વરસાદ વધે છે, જમીન પાણી શોષી શકતી નથી, ગરમી વધે છે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જમીન પાણી શોષી શકતી નથી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વૃક્ષો વગર પાણી વહી જાય છે, જમીનમાં ઉતરતું નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "નીચેનામાંથી કયું વૃક્ષ જંગલનું નથી? (સાગ, સીસમ, ગુલાબ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુલાબ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગુલાબ બગીચામાં હોય, જંગલના મોટા વૃક્ષોમાં તેની ગણતરી ન થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "જંગલોમાં કયા વાયુનું શોષણ થવાથી હવાનું પ્રદૂષણ ઘટે છે? (ઓક્સિજન, કાર્બન ડાયોક્સાઈડ, આર્ગોન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાર્બન ડાયોક્સાઈડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વનસ્પતિ CO2 પી જાય છે અને આપણને શુદ્ધ હવા આપે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "જંગલો આપણા માટે એક _____ સંપત્તિ છે. (ખાનગી, કુદરતી, કૃત્રિમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કુદરતી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જંગલો કુદરતની અનમોલ ભેટ (Gift) છે.</p></div>"
+    }
+  ]
+}
