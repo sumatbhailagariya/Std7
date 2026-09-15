@@ -2020,3 +2020,211 @@ var Std7_Science_TrueFalse = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "વિદ્યુત પ્રવાહ અને તેની અસરો",
+  "questionType": "ખરાં ખોટાં જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિદ્યુત કોષની સંજ્ઞામાં લાંબી રેખા ઋણ ધ્રુવ દર્શાવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (વિદ્યુત કોષની સંજ્ઞામાં લાંબી રેખા ધન (+) ધ્રુવ અને ટૂંકી, જાડી રેખા ઋણ (-) ધ્રુવ દર્શાવે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લાંબી રેખા = ધન (+) (યાદ રાખો: મોટું એટલે પ્લસ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "બે કે તેથી વધુ વિદ્યુત કોષોના જોડાણને બેટરી કહેવાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બેટરી = કોષોનું ગ્રુપ (Group of Cells).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "બેટરી બનાવવા માટે એક કોષનો ઋણ ધ્રુવ બીજા કોષના ઋણ ધ્રુવ સાથે જોડવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (બેટરીમાં હંમેશા એક કોષનો ધન ધ્રુવ બીજા કોષના ઋણ ધ્રુવ સાથે જોડવો જોઈએ.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વિરુદ્ધ આકર્ષાય - હંમેશા (+) ને (-) સાથે જોડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જ્યારે સ્વિચ 'ON' સ્થિતિમાં હોય ત્યારે વિદ્યુત પરિપથ પૂર્ણ (બંધ) ગણાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ON = રસ્તો ચાલુ (Closed Circuit), OFF = રસ્તો તૂટેલો (Open Circuit).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિદ્યુત બલ્બમાં રહેલા પાતળા તારને ફિલામેન્ટ કહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ફિલામેન્ટ = બલ્બની અંદરનો પ્રકાશ આપતો તાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "જ્યારે તારમાંથી વિદ્યુત પ્રવાહ પસાર થાય ત્યારે તે ગરમ થાય છે, તેને વિદ્યુત પ્રવાહની ચુંબકીય અસર કહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (તેને વિદ્યુત પ્રવાહની 'તાપીય અસર' (Heating Effect) કહેવાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગરમી = તાપ = તાપીય અસર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિદ્યુત હીટરમાં વપરાતા તારના ગૂંચળાને 'એલિમેન્ટ' કહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હીટરની તાકાત તેના એલિમેન્ટમાં હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિદ્યુત પ્રવાહની તાપીય અસરનો ઉપયોગ વિદ્યુત ઇસ્ત્રીમાં થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઇસ્ત્રી ગરમ થાય = તાપીય અસર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સી.એફ.એલ. (CFL) બલ્બ વિદ્યુત ઉર્જાનો વધુ વ્યય કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (CFL અને LED બલ્બ વિદ્યુત ઉર્જાનો બચાવ કરે છે અને વ્યય ઘટાડે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): CFL/LED = પાવર બચાવનારા મિત્રો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિદ્યુત ઉપકરણો પર 'ISI' માર્ક જોવો એ સલામતીની ખાતરી આપે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ISI = ક્વોલિટી અને સેફ્ટીની ગેરંટી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ફ્યુઝનો તાર ખૂબ જ ઊંચા ગલનબિંદુ ધરાવતી ધાતુમાંથી બનાવવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (ફ્યુઝનો તાર એવા પદાર્થનો બનેલો હોય છે જે પ્રવાહ વધતા તરત પીગળી જાય, એટલે કે નીચું ગલનબિંદુ ધરાવે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ફ્યુઝ = જલ્દી પીગળે તો જ ઘર બચે (નીચું ગલનબિંદુ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ફ્યુઝ એ વિદ્યુત પરિપથમાં સુરક્ષા માટેનું સાધન છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ફ્યુઝ = ઈલેક્ટ્રિક બોડીગાર્ડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "MCB નું પૂરું નામ 'Main Circuit Board' છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (MCB એટલે Miniature Circuit Breaker.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): M-C-B = Miniature Circuit Breaker.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "જ્યારે તારમાંથી વિદ્યુત પ્રવાહ પસાર થાય ત્યારે તે ચુંબક તરીકે વર્તે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કરંટ = ચુંબક (ચુંબકીય અસર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "હંસ ક્રિશ્ચિયન ઓર્સ્ટેડ નામના વૈજ્ઞાનિકે વિદ્યુત પ્રવાહની ચુંબકીય અસર શોધી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઓર્સ્ટેડ = ચુંબકીય અસરના પિતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિદ્યુત ચુંબક લોખંડના ટુકડાને આકર્ષતું નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (વિદ્યુત ચુંબક એ ચુંબક જ છે, તેથી તે લોખંડને આકર્ષે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નામમાં જ 'ચુંબક' છે, એટલે લોખંડ તો ખેંચાય જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિદ્યુત પ્રવાહ બંધ કરવા છતાં વિદ્યુત ચુંબક પોતાનું ચુંબકત્વ જાળવી રાખે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (વિદ્યુત પ્રવાહ બંધ થતાં વિદ્યુત ચુંબક સામાન્ય રીતે તેનું ચુંબકત્વ ગુમાવે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કરંટ ચાલુ તો ચુંબક ચાલુ, કરંટ બંધ તો ચુંબક બંધ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિદ્યુત ઘંટડીમાં વિદ્યુત ચુંબક આવેલું હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઘંટડી વાગે ટન-ટન, કારણ છે ઈલેક્ટ્રો-મેગ્નેટન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "નરમ લોખંડના ટુકડા પર વીંટાળેલા અલગ કરેલા વિદ્યુત તારના ગૂંચળાને વિદ્યુત ચુંબક કહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): તારનું ગૂંચળું + લોખંડ + વિદ્યુત = વિદ્યુત ચુંબક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ક્રેન વડે કચરાના ઢગલામાંથી પ્લાસ્ટિકની થેલીઓ અલગ કરવા વિદ્યુત ચુંબકનો ઉપયોગ થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (ચુંબક માત્ર ચુંબકીય પદાર્થો એટલે કે લોખંડને આકર્ષે છે, પ્લાસ્ટિકને નહીં.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ચુંબક + લોખંડ = દોસ્તી, ચુંબક + પ્લાસ્ટિક = દુશ્મની.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિદ્યુત કોષની સંજ્ઞામાં ટૂંકી અને જાડી રેખા ધન ધ્રુવ દર્શાવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (ટૂંકી અને જાડી રેખા ઋણ (-) ધ્રુવ દર્શાવે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ટૂંકું અને જાડું = માઈનસ (-).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "જ્યારે વિદ્યુત બલ્બનો ફિલામેન્ટ તૂટી જાય ત્યારે તેને 'ફ્યુઝ થયેલો બલ્બ' કહેવાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): તૂટેલો તાર = પરિપથ પૂરો નહીં થાય = બલ્બ ઊડી ગયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિદ્યુત ઈસ્ત્રીમાં નિક્રોમ તારનો ઉપયોગ એલિમેન્ટ તરીકે થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગરમ થવા માટે નિક્રોમ બેસ્ટ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ચુંબકીય સોય પાસે વિદ્યુત પ્રવાહ ધારિત તાર રાખતા સોયનું વિચલન થતું નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (વિદ્યુત પ્રવાહને લીધે ચુંબકીય ક્ષેત્ર ઉત્પન્ન થાય છે, તેથી સોયનું વિચલન થાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્રવાહ પસાર તો સોય થરથર (વિચલન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ટોર્ચમાં વિદ્યુત કોષોને શ્રેણીમાં (એક પછી એક) જોડવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ટોર્ચમાં સેલ હારમાળામાં (શ્રેણીમાં) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિદ્યુત પરિપથની રેખાકૃતિમાં સ્વિચ ગમે ત્યાં જોડી શકાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સ્વિચનું કામ પ્રવાહ તોડવાનું છે, તે ક્યાંય પણ હોઈ શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "તારમાંથી પસાર થતા વિદ્યુત પ્રવાહને કારણે ઉત્પન્ન થતી ઉષ્માનો જથ્થો તારના દ્રવ્ય પર આધાર રાખતો નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (ઉષ્માનો જથ્થો તારના દ્રવ્ય, લંબાઈ અને જાડાઈ પર આધાર રાખે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઉષ્મા = દ્રવ્ય + લંબાઈ + જાડાઈ (ત્રણેય જરૂરી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિદ્યુત ફ્યુઝમાં વપરાતો તાર તાંબાનો બનેલો હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (ફ્યુઝમાં ખાસ પ્રકારની મિશ્રધાતુનો તાર વપરાય છે જે નીચા તાપમાને પીગળે છે; સામાન્ય તાંબું વહેલું પીગળતું નથી.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ફ્યુઝ એટલે 'સ્પેશિયલ વાયર', સાદો તાંબાનો નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "MCB ઓટોમેટિકલી 'OFF' થઈ જાય છે જ્યારે પરિપથમાં પ્રવાહ નિર્ધારિત મર્યાદાથી વધી જાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): MCB = સ્માર્ટ ફ્યુઝ (ઓટોમેટિક ટ્રિપ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વિદ્યુત ઘંટડીમાં નરમ લોખંડની પટ્ટી પર હથોડી જોડાયેલી હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પટ્ટી ખેંચાય એટલે હથોડી અથડાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "તારના ગૂંચળામાં આંટાઓની સંખ્યા વધારવાથી વિદ્યુત ચુંબકની શક્તિ ઘટે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (આંટાઓની સંખ્યા વધારવાથી વિદ્યુત ચુંબક વધુ શક્તિશાળી બને છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વધુ આંટા = વધુ શક્તિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "વિદ્યુત પરિપથમાં વિદ્યુત પ્રવાહ હંમેશા ધન ધ્રુવથી ઋણ ધ્રુવ તરફ વહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્રવાહની દિશા: (+) થી (-).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "બેટરીના સંકેતમાં બે સમાંતર રેખાઓ વચ્ચે હંમેશા ટપકું (ડોટ) મૂકવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (બેટરીના સંકેતમાં એકથી વધુ કોષોની જોડી દર્શાવવામાં આવે છે, ટપકું એ સ્વિચ બંધ હોવાનો સંકેત છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બેટરી = ઘણી લાંબી-ટૂંકી રેખાઓની જોડી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "પ્રકાશ મેળવવા માટે બલ્બ કરતા CFL વધુ સારો વિકલ્પ છે કારણ કે તે ઉર્જા બચાવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લાઈટ વધુ, બિલ ઓછું (CFL/LED).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "તારમાંથી વહેતો વિદ્યુત પ્રવાહ વધારતા હોકાયંત્રની સોયનું વિચલન વધે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાવર વધે તો અસર પણ વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "વિદ્યુત કોષ એ વિદ્યુત પ્રવાહનું ઉદ્ગમ સ્થાન છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સેલ (કોષ) માંથી પાવર નીકળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "ખુલ્લા પરિપથમાં (Open Circuit) વિદ્યુત પ્રવાહ વહી શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (જો પરિપથ ખુલ્લો હોય, તો કનેક્શન તૂટેલું હોય છે અને પ્રવાહ વહેતો નથી.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રસ્તો તૂટેલો = ગાડી (કરંટ) ના ચાલે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "હોકાયંત્રની સોય પોતે એક નાનું ચુંબક છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સોય = નાનકડું ગુંજતું ચુંબક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "વિદ્યુત ચુંબકનો ઉપયોગ આંખમાં પડેલા લોખંડના રજકણો કાઢવા માટે ડોકટરો કરી શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મેગ્નેટિક સર્જરી - લોખંડ ખેંચવા માટે બેસ્ટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "વિદ્યુત પ્રવાહની ચુંબકીય અસરને લીધે વિદ્યુત ઘંટડીનો હથોડો વારંવાર અથડાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ખેંચાણ (ચુંબક) -> અથડામણ (અવાજ).</p></div>"
+    }
+  ]
+}
