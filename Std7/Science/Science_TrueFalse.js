@@ -1188,3 +1188,161 @@ var Std7_Science_TrueFalse = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "સજીવોમાં શ્વસન",
+  "questionType": "ખરાં ખોટાં જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "કોષીય શ્વસન ફક્ત પ્રાણીઓના કોષોમાં જ જોવા મળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે કોષીય શ્વસન એ તમામ સજીવોના (પ્રાણીઓ અને વનસ્પતિ) કોષોમાં થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સજીવ એટલે કોષ, અને કોષ એટલે શ્વસન ફરજિયાત!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "જ્યારે ખોરાકનું દહન ઓક્સિજનની હાજરીમાં થાય છે, ત્યારે તેને જારક શ્વસન કહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'જ' થી જારક અને 'જ' થી હાજરી (ઓક્સિજનની).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "યીસ્ટ જેવા સજીવો ઓક્સિજનની ગેરહાજરીમાં જીવી શકતા નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. યીસ્ટ એ અજારક સજીવ છે જે ઓક્સિજન વગર પણ જીવી શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): યીસ્ટ = 'અ'જારક (ઓક્સિજન વગર 'આ'નંદમાં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "અજારક શ્વસન દરમિયાન ગ્લુકોઝના તૂટવાથી આલ્કોહોલ અને કાર્બન ડાયોક્સાઇડ ઉત્પન્ન થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અજારક = આલ્કોહોલની ફેક્ટરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "આપણા સ્નાયુઓ થોડા સમય માટે અજારક શ્વસન કરી શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભારે કસરત વખતે સ્નાયુઓ 'ઇમરજન્સી'માં અજારક શ્વસન કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સ્નાયુઓમાં લેક્ટિક એસિડના જમા થવાને કારણે સ્નાયુઓ ખેંચાઈ જાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લેક્ટિક એસિડ = સ્નાયુમાં લોચો (ખેંચાણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "શ્વાસોચ્છવાસ એ રાસાયણિક પ્રક્રિયા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. શ્વાસોચ્છવાસ એ ભૌતિક પ્રક્રિયા છે, જ્યારે કોષીય શ્વસન એ રાસાયણિક પ્રક્રિયા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હવા અંદર-બહાર જવી એ માત્ર 'મેકેનિકલ' એટલે કે ભૌતિક કામ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "એક મિનિટમાં સજીવ જેટલી વાર શ્વાસોચ્છવાસ કરે છે, તેને શ્વસન દર કહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દર = સમય (1 મિનિટ) દીઠ થતી ક્રિયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "આરામદાયી સ્થિતિમાં પુખ્ત વયની વ્યક્તિનો શ્વસન દર મિનિટે 25-30 વખત હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. આરામદાયી સ્થિતિમાં શ્વસન દર મિનિટે 15 થી 18 વખત હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આરામ = ઓછો દર (15-18), કસરત = વધુ દર (25 સુધી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "જ્યારે આપણે ઉચ્છવાસ છોડીએ છીએ ત્યારે પાંસળીઓ ઉપરની તરફ ગતિ કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. ઉચ્છવાસ દરમિયાન પાંસળીઓ નીચે અને અંદરની તરફ જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઉચ્છવાસ = હવા બહાર = છાતી નાની = પાંસળી નીચે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ઉરોદરપટલ એ ઉરસગુહાના તળિયે આવેલું એક મોટા સ્નાયુબદ્ધ પડદો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઉરોદરપટલ = ફેફસાંનું પ્લેટફોર્મ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "શ્વાસ લેતી વખતે ઉરોદરપટલ નીચે તરફ જાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શ્વાસ અંદર = જગ્યા વધારવા પટલ નીચે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "આપણે જે હવા ઉચ્છવાસમાં બહાર કાઢીએ છીએ તે માત્ર કાર્બન ડાયોક્સાઇડ જ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. ઉચ્છવાસની હવામાં કાર્બન ડાયોક્સાઇડની સાથે ઓક્સિજન અને અન્ય વાયુઓનું મિશ્રણ પણ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હવા હંમેશા મિશ્રણ હોય છે, ક્યારેય શુદ્ધ એક વાયુ નથી હોતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વંદા જેવા કીટકોમાં શ્વસન માટે ફેફસાં આવેલા હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કીટકોમાં શ્વસન માટે શ્વસનછિદ્રો અને શ્વસનનળીઓનું જાળું હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વંદો = નાની નળીઓ (શ્વસનનળી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "અળસિયું તેની ત્વચા દ્વારા શ્વસન કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અળસિયું = ભીની અને ચીકણી ત્વચા દ્વારા શ્વાસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "દેડકા માત્ર ફેફસાં દ્વારા જ શ્વસન કરી શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. દેડકા ફેફસાં અને પોતાની ભીની ત્વચા એમ બંને દ્વારા શ્વસન કરી શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દેડકો = ડબલ ફાયદો (ફેફસાં + ત્વચા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "માછલીઓમાં શ્વસન માટે ચૂઈ (Gills) આવેલી હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): માછલી + પાણી = ઝાલર/ચૂઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વનસ્પતિના પર્ણોમાં આવેલા નાના છિદ્રોને પર્ણરંધ્ર કહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પર્ણ + રંધ્ર (કાણું) = વાયુઓનું આદાનપ્રદાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વનસ્પતિના મૂળ જમીનમાંના કણો વચ્ચે રહેલી હવામાંથી ઓક્સિજન મેળવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મૂળ પણ જીવંત છે, તેને પણ હવા જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "શ્વસન એ જૈવિક પ્રક્રિયા છે જેમાં શક્તિ મુક્ત થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શ્વસનનો મુખ્ય હેતુ = ઉર્જા (Energy).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "કીટકોમાં લોહી દ્વારા ઓક્સિજનનું વહન થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કીટકોમાં ઓક્સિજન સીધો શ્વસનનળીઓ દ્વારા કોષો સુધી પહોંચે છે, લોહી દ્વારા નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કીટકોનું લોહી હિમોગ્લોબિન વગરનું હોય છે, એટલે તે વાયુ વહન કરતું નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "પર્ણરંધ્રો દ્વારા વનસ્પતિ માત્ર કાર્બન ડાયોક્સાઇડ જ લે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. પર્ણરંધ્રો દ્વારા વનસ્પતિ શ્વસન માટે ઓક્સિજન લે છે અને પ્રકાશસંશ્લેષણ માટે CO2 લે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પર્ણરંધ્ર = વનસ્પતિનું નાક (બંને વાયુ માટે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વધુ પડતા પાણીવાળા કુંડામાં છોડ મરી જાય છે કારણ કે મૂળને હવા મળતી નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વધુ પાણી = હવાની જગ્યા બંધ = મૂળનો શ્વાસ રૂંધાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ઉચ્છવાસની હવામાં ઓક્સિજનનું પ્રમાણ 16.4% જેટલું હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લીધો 21%, વાપર્યો થોડો, કાઢ્યો 16.4%.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "નાસિકા કોટરમાં રહેલા વાળ અને શ્લેષ્મ ધૂળના રજકણોને રોકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નાકના વાળ = કુદરતી ફિલ્ટર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "શ્વસન દરમિયાન ગ્લુકોઝનું વિખંડન થઈને એટીપી (ATP) સ્વરૂપે શક્તિ મુક્ત થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ATP = સજીવની શક્તિનું ચલણ (Currency).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "જારક શ્વસનમાં અજારક શ્વસન કરતા વધુ શક્તિ મુક્ત થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઓક્સિજનની હાજરી = પૂરેપૂરું દહન = વધુ ઉર્જા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "માત્ર પર્ણો જ વનસ્પતિમાં શ્વસન કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. વનસ્પતિના દરેક જીવંત ભાગો (મૂળ, પ્રકાંડ, પર્ણ) શ્વસન કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જીવંત અંગ = શ્વસન ચાલુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ઉચ્છવાસની હવામાં કાર્બન ડાયોક્સાઇડનું પ્રમાણ 0.04% હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. ઉચ્છવાસની હવામાં CO2 નું પ્રમાણ 4.4% હોય છે; 0.04% તો શ્વાસમાં લેવાતી હવામાં હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બહાર નીકળતો CO2 હંમેશા અંદર લેવાતા કરતા ઘણો વધારે હોય (4.4%).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વહેલ અને ડોલ્ફિન માછલી હોવા છતાં ફેફસાં દ્વારા શ્વાસ લે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વહેલ/ડોલ્ફિન = સસ્તન પ્રાણી = ફેફસાં.</p></div>"
+    }
+  ]
+}
