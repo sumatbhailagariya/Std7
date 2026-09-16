@@ -355,3 +355,111 @@ var Std7_Science_MatchPairs = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "ભૌતિક અને રાસાયણિક ફેરફારો",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>વિભાગ 'A': (1) બરફનું પીગળવું, (2) લોખંડનું કટાવું<br>વિભાગ 'B': (A) રાસાયણિક ફેરફાર, (B) ભૌતિક ફેરફાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો પદાર્થ પાછો મળી શકે (ઉલટાવી શકાય) તો ભૌતિક, અને જો નવો પદાર્થ બને તો રાસાયણિક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>વિભાગ 'A': (1) મેગ્નેશિયમ ઓક્સાઈડ, (2) મેગ્નેશિયમ હાઈડ્રોક્સાઈડ<br>વિભાગ 'B': (A) બેઝિક પ્રકૃતિ, (B) સફેદ રાખ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાખ (Oxide) હંમેશા સફેદ હોય અને તેનું પાણી સાથેનું મિશ્રણ (Hydroxide) બેઝ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>વિભાગ 'A': (1) કોપર સલ્ફેટ, (2) આયર્ન સલ્ફેટ<br>વિભાગ 'B': (A) લીલો રંગ, (B) વાદળી રંગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કોપર' એટલે 'વાદળી' (સી-બી) અને 'આયર્ન' (લોખંડ) એટલે 'લીલો'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>વિભાગ 'A': (1) વિનેગર, (2) ખાવાનો સોડા<br>વિભાગ 'B': (A) સોડિયમ હાઈડ્રોજન કાર્બોનેટ, (B) એસિટિક એસિડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિનેગર ખાટું (એસિડ) હોય અને સોડામાં કાર્બોનેટ (Face wash જેવું) હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>વિભાગ 'A': (1) લોખંડ પર જસતનું પડ ચઢાવવું, (2) દરિયાના પાણીમાંથી મીઠું મેળવવું<br>વિભાગ 'B': (A) સ્ફટિકીકરણ, (B) ગેલ્વેનાઈઝેશન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝીંક (જસત) = ગેલ્વેનાઈઝેશન અને ચોખ્ખા દાણા = સ્ફટિકીકરણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>વિભાગ 'A': (1) કાર્બન ડાયોક્સાઈડ + ચૂનાનું નિતર્યું પાણી, (2) લોખંડ + ઓક્સિજન + ભેજ<br>વિભાગ 'B': (A) લોખંડનો કાટ, (B) કેલ્શિયમ કાર્બોનેટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચૂનો + CO2 = સફેદ દૂધિયું કેલ્શિયમ કાર્બોનેટ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>વિભાગ 'A': (1) પ્રકાશસંશ્લેષણ, (2) કાગળના ટુકડા કરવા<br>વિભાગ 'B': (A) ભૌતિક ફેરફાર, (B) રાસાયણિક ફેરફાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખોરાક બનવો તે કુદરતી કેમિકલ ફેક્ટરી (રાસાયણિક) છે, કાગળ તો માત્ર કપાય છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>વિભાગ 'A': (1) આયર્ન ઓક્સાઈડ, (2) ઓઝોન સ્તર<br>વિભાગ 'B': (A) પારજાંબલી કિરણોથી રક્ષણ, (B) કાટનું રાસાયણિક નામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓઝોન એટલે આપણી પૃથ્વીની 'છત્રી' (રક્ષણ)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>વિભાગ 'A': (1) ફળનું પાકવું, (2) ખાંડનું પાણીમાં ઓગળવું<br>વિભાગ 'B': (A) ભૌતિક ફેરફાર, (B) રાસાયણિક ફેરફાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાકેલું ફળ પાછું કાચું ન થાય એટલે રાસાયણિક, પણ ખાંડનું પાણી ગરમ કરો તો ખાંડ પાછી મળે એટલે ભૌતિક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>વિભાગ 'A': (1) લોખંડની ખીલી પર તાંબાનું પડ, (2) સ્ટેઈનલેસ સ્ટીલ<br>વિભાગ 'B': (A) ક્રોમિયમ અને નિકલનું મિશ્રણ, (B) વિસ્થાપન પ્રક્રિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ટીલ મજબૂત બનાવવા 'ક્રોમિયમ-નિકલ' જોઈએ, અને તાંબુ ખસીને ખીલી પર બેસે તેને 'વિસ્થાપન' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>વિભાગ 'A': (1) ભૌતિક ગુણધર્મો, (2) રાસાયણિક ગુણધર્મો<br>વિભાગ 'B': (A) નવો પદાર્થ બનવો, (B) આકાર, માપ અને રંગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે દેખાય તે 'ભૌતિક' (Physical), જે અંદર બદલાય તે 'રાસાયણિક'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>વિભાગ 'A': (1) લોખંડના કટાવા માટે જરૂરી, (2) કાટ લાગતો અટકાવવા<br>વિભાગ 'B': (A) કલર અથવા ગ્રીસ લગાવવું, (B) ઓક્સિજન અને પાણી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાટના બે મિત્રો: હવા (O2) અને પાણી (H2O)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>વિભાગ 'A': (1) મીણનું પીગળવું, (2) મીણબત્તીનું સળગવું<br>વિભાગ 'B': (A) રાસાયણિક ફેરફાર, (B) ભૌતિક ફેરફાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પીગળવું (Melting) હંમેશા ભૌતિક હોય, સળગવું (Burning) હંમેશા રાસાયણિક હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>વિભાગ 'A': (1) મેગ્નેશિયમની પટ્ટીનું સળગવું, (2) પાણીનું વરાળમાં રૂપાંતર<br>વિભાગ 'B': (A) ભૌતિક ફેરફાર, (B) રાસાયણિક ફેરફાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરાળ ઠંડી કરો તો પાણી પાછું મળે, પણ મેગ્નેશિયમની રાખમાંથી પટ્ટી પાછી ન મળે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>વિભાગ 'A': (1) ખોરાકનું પાચન, (2) લાકડાના ટુકડા કરવા<br>વિભાગ 'B': (A) ભૌતિક ફેરફાર, (B) રાસાયણિક ફેરફાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેટમાં જઈને ખોરાક બદલાઈ જાય (રાસાયણિક), પણ લાકડું કપાય તો લાકડું જ રહે (ભૌતિક)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>વિભાગ 'A': (1) લોખંડની તવી, (2) કાટ લાગવાની ઝડપ વધુ<br>વિભાગ 'B': (A) દરિયાકાંઠાના વિસ્તારમાં, (B) ભેજવાળી હવામાં ખુલ્લી રાખતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્ષારવાળું પાણી કાટનો દુશ્મન (ઝડપ વધારે) છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>વિભાગ 'A': (1) નીલો થોથો (Blue Vitriol), (2) ચૂનાનું નીતર્યું પાણી<br>વિભાગ 'B': (A) કેલ્શિયમ હાઈડ્રોક્સાઈડ, (B) કોપર સલ્ફેટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બ્લુ એટલે નીલો (Copper) અને ચૂનો એટલે કેલ્શિયમ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>વિભાગ 'A': (1) એલ્યુમિનિયમ ફોઈલ બનાવવી, (2) કોલસાનું સળગવું<br>વિભાગ 'B': (A) રાસાયણિક ફેરફાર, (B) ભૌતિક ફેરફાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આકાર બદલાય (ટીપવું) તે ભૌતિક, ધુમાડો નીકળે તે રાસાયણિક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>વિભાગ 'A': (1) મેગ્નેશિયમ ઓક્સાઈડ (MgO), (2) કેલ્શિયમ કાર્બોનેટ (CaCO3)<br>વિભાગ 'B': (A) દૂધિયો રંગ, (B) સફેદ ભસ્મ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: MgO એટલે મેગ્નેશિયમની રાખ, અને કાર્બોનેટ એટલે ચૂનાના પાણીનું દૂધિયું થવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br>વિભાગ 'A': (1) ભૌતિક ફેરફાર, (2) રાસાયણિક ફેરફાર<br>વિભાગ 'B': (A) કાયમી અને અપ્રતિવર્તી, (B) સામાન્ય રીતે પ્રતિવર્તી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૌતિક ફેરફારમાં રિવર્સ (પ્રતિવર્તી) ગિયર હોય, રાસાયણિકમાં ન હોય!</p></div>"
+    }
+  ]
+}
