@@ -2436,3 +2436,161 @@ var Std7_Science_TrueFalse = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "વનસ્પતિઓ: આપણી જીવાદોરી",
+  "questionType": "ખરાં ખોટાં જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "જંગલો એ માત્ર વનસ્પતિઓનો સમૂહ નથી, પરંતુ તે એક ગતિશીલ જૈવિક એકમ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જંગલ એ જીવંત છે કારણ કે ત્યાં પ્રાણીઓ, વનસ્પતિ અને સૂક્ષ્મજીવો વચ્ચે સતત આંતરક્રિયા થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ઊંચા વૃક્ષોની ડાળીઓ જંગલમાં અન્ય વનસ્પતિઓ પર છત જેવું કાર્ય કરે છે, તેને 'મુગટ' કહેવાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે, તેને 'છાયા' અથવા 'કેનોપી' (Canopy) કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): છત જેવી 'છાયા' એટલે કેનોપી, અને ઉપરનો ભાગ એટલે 'મુગટ' (Crown).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "જંગલો પૃથ્વી પર 'લીલાં ફેફસાં' તરીકે ઓળખાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ફેફસાં શ્વાસ લેવામાં મદદ કરે, જંગલો ઓક્સિજન આપી પૃથ્વીને શ્વાસ લેવામાં મદદ કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જંગલોમાં વનસ્પતિ પ્રકાશસંશ્લેષણ દ્વારા કાર્બન ડાયોક્સાઈડ મુક્ત કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. વનસ્પતિ પ્રકાશસંશ્લેષણ દ્વારા ઓક્સિજન મુક્ત કરે છે અને કાર્બન ડાયોક્સાઈડ ગ્રહણ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વનસ્પતિ = O2 આપનાર (મિત્ર), CO2 લેનાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "જંગલનું તળિયું હંમેશા સૂકું અને ચમકતું હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. જંગલનું તળિયું ઘેરા રંગનું અને મૃત પાંદડા, ફળો, બીજ અને ડાળીઓથી ઢંકાયેલું તથા ભેજવાળું હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જંગલનું તળિયું એટલે કુદરતી ખાતરની ફેક્ટરી, જે હંમેશા ભેજવાળી અને ઘેરી હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "મૃત વનસ્પતિ અને પ્રાણીઓના પેશીઓને ખાનારા સૂક્ષ્મજીવોને વિઘટકો કહેવાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વિઘટકો એટલે કુદરતના 'સફાઈ કામદારો' જે કચરાને ખાતરમાં બદલે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "જંગલોમાં થતું સેન્દ્રિય પદાર્થોનું નિર્માણ જમીનને ફળદ્રુપ બનાવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સેન્દ્રિય પદાર્થ (Humus) = જમીનનો પૌષ્ટિક ખોરાક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જંગલો જળચક્રને જાળવી રાખવામાં કોઈ ફાળો આપતા નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. વૃક્ષો બાષ્પોત્સર્જન દ્વારા હવામાં પાણીની વરાળ મુક્ત કરે છે અને જળચક્રમાં મહત્વનો ફાળો આપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વધુ વૃક્ષો = વધુ વરસાદ (જળચક્રનું એન્જિન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "જંગલો જમીનનું ધોવાણ અટકાવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વૃક્ષોનાં મૂળ જમીનને પકડી રાખે છે, જેમ ગુંદર કાગળને પકડી રાખે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "આહાર શૃંખલામાં ઘાસને દેડકો ખાય છે અને દેડકાને કીટકો ખાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. સાચી શૃંખલા: ઘાસ → કીટકો → દેડકો → સાપ → ગરુડ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નાનું મોટાને નહિ, પણ મોટું નાનાને ખાય - એ જ આહાર શૃંખલા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "બધા જ પ્રાણીઓ (શાકાહારી કે માંસાહારી) ખોરાક માટે વનસ્પતિ પર જ નિર્ભર છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વનસ્પતિ એ પાયો છે, પાયો વગર ઇમારત (પ્રાણીઓ) ન ટકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "જંગલોમાં વિઘટકો પોષક તત્વોના ચક્રને પૂર્ણ કરવામાં મદદ કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રીસાઈકલિંગ (Recycling) નું કામ વિઘટકો કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "જો જંગલો નાશ પામે, તો હવામાં કાર્બન ડાયોક્સાઈડનું પ્રમાણ ઘટી જાય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. જો જંગલો નાશ પામે, તો CO2 વાપરનાર કોઈ ન રહેતા તેનું પ્રમાણ વધી જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જંગલ ઓછાં = ગરમી અને CO2 વધશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "કેનોપીની નીચે ક્ષુપ અને છોડવાઓ દ્વારા જે સ્તરો બને છે તેને 'અધોવૃક્ષો' (Understoreys) કહેવાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અધો એટલે નીચે, મુખ્ય છતની નીચેના સ્તરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "જંગલો અવાજનું પ્રદૂષણ ઘટાડવામાં મદદરૂપ થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વૃક્ષો અવાજને શોષી લેતા કુદરતી 'સાઉન્ડ પ્રૂફ' દીવાલો જેવા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "જંગલના વિસ્તારમાં રહેતા લોકો વનસ્પતિના વિવિધ ભાગોનો ઔષધ તરીકે ઉપયોગ કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જંગલ એ કુદરતી દવાખાનું (Pharmacy) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વૃક્ષનો જે ભાગ પ્રકાંડની ઉપર હોય છે તેને વૃક્ષનું થડ કહેવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. પ્રકાંડની ઉપરના ડાળીઓવાળા ભાગને 'મુગટ' (Crown) કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): માથા પર મુગટ હોય, તેમ પ્રકાંડ (શરીર) ની ઉપર ડાળીઓનો મુગટ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "જંગલોમાં વાતાવરણ ઠંડુ રહે છે કારણ કે ત્યાં વધુ પડતું બાષ્પોત્સર્જન થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બાષ્પોત્સર્જન = કુદરતી એર કન્ડિશનર (AC).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "મૃત પ્રાણીઓ વિઘટકો માટે ખોરાક પૂરો પાડે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કુદરતમાં કશું જ નકામું નથી, મૃત્યુ પણ બીજાનો ખોરાક છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "જંગલો પૂરને રોકવા માટે કુદરતી શોષક તરીકે કાર્ય કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જંગલ એ કુદરતી સ્પોન્જ (Sponge) છે જે પાણીને રોકે અને શોષે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "સીમલ, સીસમ અને લીમડો એ જંગલની વનસ્પતિઓના ઉદાહરણો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સીમલ-સીસમ-લીમડો, જંગલનાં નામ તો આવડે જ ને ભાઈ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "કીટકો, પતંગિયા અને મધમાખીઓ ફૂલોમાં પરાગનયન માટે મદદરૂપ થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પતંગિયા અને માખી = વનસ્પતિના કુરિયર બોય જે પરાગરજ પહોંચાડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "જંગલમાં વિવિધ પ્રકારના સ્તરો હોવાથી વન્યજીવોને ખોરાક અને રહેઠાણ મળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વધુ સ્તર = વધુ ઘર = વધુ જીવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "જંગલો નાશ પામવાથી જમીન રેતાળ બની જાય છે અને તેની પાણી સંગ્રહવાની શક્તિ વધે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. જંગલ નાશ પામવાથી પાણી સંગ્રહવાની શક્તિ ઘટે છે અને પૂરની શક્યતા વધે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વનસ્પતિ વગરની જમીન એટલે પાણી માટે કાણું વાસણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "જંગલોમાં પ્રાણીઓનો લાત (મળ) વિઘટન પામીને જમીનને પોષક તત્વો પૂરા પાડે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્રાણીઓનું વેસ્ટ (Waste) એ વનસ્પતિ માટે બેસ્ટ (Best) ખાતર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "શૂન્ય હરિતદ્રવ્ય ધરાવતી વનસ્પતિ મશરૂમ જંગલના તળિયે જોવા મળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મશરૂમ એ બિલાડીનો ટોપ છે, જે હરિતદ્રવ્ય વગર સડેલા પદાર્થો પર ઉગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "જંગલો વાતાવરણમાં માત્ર ઓક્સિજનનો જ સ્ત્રોત છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. તે ઓક્સિજનની સાથે ખોરાક, રહેઠાણ, લાકડું અને અનેક ઉપયોગી વસ્તુઓનો સ્ત્રોત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જંગલ = ઓલ ઇન વન (All-in-one) સુપર સ્ટોર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "કેનોપી એ જંગલનું સૌથી નીચલું સ્તર છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કેનોપી એ સૌથી ઉપરનું છત જેવું સ્તર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કેનોપી (Canopy) = કેપ (Cap) એટલે કે ટોચનો ભાગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "જંગલના કારણે ભૂગર્ભ જળસ્તર જળવાઈ રહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વૃક્ષોના મૂળ પાણીને જમીનમાં નીચે ઉતરવાનો રસ્તો આપે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "જો એક આહાર શૃંખલા ખોરવાય, તો આખી જંગલની વ્યવસ્થાને અસર થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સાંકળની એક કડી તૂટે તો આખી સાંકળ નકામી, જંગલમાં બધું એકબીજા સાથે જોડાયેલું છે.</p></div>"
+    }
+  ]
+}
