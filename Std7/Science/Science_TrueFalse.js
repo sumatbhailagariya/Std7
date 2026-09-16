@@ -2594,3 +2594,136 @@ var Std7_Science_TrueFalse = {
     }
   ]
 }
+,
+"13": {
+  "chapterName": "પ્રકરણ 13",
+  "chapterTitle": "ગંદા પાણીની વાર્તા",
+  "questionType": "ખરાં ખોટાં જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વપરાયેલું પાણી એ નકામું નથી, તેને શુદ્ધ કરીને ફરી વાપરી શકાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રિસાઈકલિંગ (Recycling) એ કુદરતી સંસાધનો બચાવવાનો શ્રેષ્ઠ માર્ગ છે. 'વેસ્ટ' માંથી 'બેસ્ટ' બનાવી શકાય! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સીવેજ (Sewage) એ ઘન કચરો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: સીવેજ એ ઘરો, ઉદ્યોગો અને અન્ય સ્થળોએથી મુક્ત થતું 'પ્રવાહી' કચરો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીવેજ = વહેતું ગંદું પાણી. પ્રવાહી હોય તો જ તે ગટરમાં વહી શકે! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિશ્વ જળ દિવસ 22 માર્ચના રોજ ઉજવવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '22 માર્ચ' - પાણી બચાવવા માટેનો ખાસ દિવસ યાદ રાખવો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પાણીને જંતુમુક્ત કરવા માટે ઓઝોન વાયુનો ઉપયોગ કરી શકાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્લોરિન અને ઓઝોન - બંને પાણીના શુદ્ધિકરણના 'પોલીસ' છે જે જંતુઓને મારે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ગટર વ્યવસ્થામાં મેનહોલ (Manholes) દર 100 થી 200 મીટરના અંતરે આવેલા હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: મેનહોલ દર 50 થી 60 મીટરના અંતરે આવેલા હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેનહોલનું અંતર ટૂંકું હોય (50-60m) જેથી સફાઈમાં સરળતા રહે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સીવેજમાં રહેલી અશુદ્ધિઓમાં નાઈટ્રેટ્સ અને ફોસ્ફેટ્સ એ કાર્બનિક અશુદ્ધિઓ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: નાઈટ્રેટ્સ અને ફોસ્ફેટ્સ એ 'અકાર્બનિક' અશુદ્ધિઓ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્ષાર અને ધાતુઓ હંમેશા 'અકાર્બનિક' (Inorganic) ગણાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "યુકેલિપ્ટસ (નીલગીરી) ના છોડ વાવવાથી આસપાસનું વધારાનું પાણી શોષાઈ જાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યુકેલિપ્ટસ એ કુદરતી 'વોટર પંપ' છે જે જમીનનું ગંદું પાણી પીને શુદ્ધ બાષ્પ હવામાં છોડે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ખાદ્ય તેલ અને ચરબીને ગટરમાં નાખવા જોઈએ નહીં.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેલ ગટરમાં જામી જાય અને પાઈપ લાઈન બ્લોક કરી દે. તેલને કચરાપેટીમાં નાખો! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "WWTP એટલે 'Waste Water Treatment Plant'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખું નામ યાદ રાખો: WWTP = ગંદા પાણીના શુદ્ધિકરણનો પ્લાન્ટ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પાણીના શુદ્ધિકરણમાં વપરાતા બાર સ્ક્રીન (Bar Screen) કાંકરી અને પથ્થર દૂર કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: બાર સ્ક્રીન મોટા પદાર્થો જેવા કે ચીંથરાં, લાકડીઓ અને પ્લાસ્ટિકના પેકેટ દૂર કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાર સ્ક્રીન એટલે મોટી જાળી, જે માત્ર મોટી વસ્તુઓ જ રોકી શકે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સ્લજ (કાદવ) નો ઉપયોગ બાયોગેસ મેળવવા માટે થઈ શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સડેલો કાદવ + અજારક બેક્ટેરિયા = બાયોગેસ (બળતણ). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "જારક બેક્ટેરિયા (Aerobic bacteria) ને જીવવા માટે ઓક્સિજનની જરૂર હોતી નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: જારક બેક્ટેરિયાને વૃદ્ધિ પામવા માટે ઓક્સિજનની જરૂર હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જારક' એટલે જે 'હવા' (Air) સાથે પ્રક્રિયા કરે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ટાઈફોઈડ અને કોલેરા એ પાણી દ્વારા ફેલાતા રોગો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગંદું પાણી પીએ તો પેટના રોગો (કોલેરા, ટાઈફોઈડ) થાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "સેપ્ટિક ટેન્ક એ સીવેજ નિકાલની ઓન-સાઈટ (On-site) વ્યવસ્થા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાં મોટી ગટર લાઈન ન હોય ત્યાં ઘરની નીચે 'સેપ્ટિક ટેન્ક' બનાવાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વર્મિ-પ્રોસેસિંગ ટોઈલેટમાં અળસિયાનો ઉપયોગ કરવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વર્મિ' એટલે અળસિયા. તે માનવ મળને ખાતરમાં ફેરવે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ખુલ્લી ગટરો મચ્છર અને માખીઓના પ્રજનન માટે ઉત્તમ સ્થળ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગંદકી + ખુલ્લી જગ્યા = બીમારીનું ઘર. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સ્કીમર (Skimmer) નો ઉપયોગ પાણી ઉપર તરતી ચરબી અને તેલ દૂર કરવા માટે થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્કીમર એટલે મલાઈ કાઢવાની જારી જેવું, જે ઉપરનો તરતો કચરો હટાવે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સીવેજમાં રહેલ માનવ મળ એ અકાર્બનિક અશુદ્ધિ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: માનવ મળ એ 'કાર્બનિક' અશુદ્ધિ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સજીવોમાંથી મળતો કચરો (મળ, મૂત્ર, શાકભાજી) હંમેશા 'કાર્બનિક' હોય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "રેતી અને કાંકરી દૂર કરવાના ટાંકામાં પાણીની પ્રવાહની ઝડપ વધારવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: પ્રવાહની ઝડપ 'ઘટાડવામાં' આવે છે જેથી રેતી અને કાંકરી નીચે બેસી જાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી ધીમું પડે તો જ કચરો નીચે બેસે (Settling process). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "શુષ્ક સ્લજ (Dry sludge) નો ઉપયોગ ખાતર તરીકે થઈ શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્લજમાં પોષક તત્વો હોય છે, જે જમીન માટે ખાતરનું કામ કરે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "સીવેજ ટ્રીટમેન્ટના અંતે મળતું પાણી પીવાલાયક શુદ્ધ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: તે નદીમાં છોડવા લાયક હોય છે, પણ સીધું પીવા માટે સલામત હોતું નથી (જ્યાં સુધી તેને વધુ શુદ્ધ ન કરાય).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: WWTP નું પાણી ખેતી કે ઉદ્યોગો માટે ઠીક છે, પણ પીવા માટે 'વોટર પ્યુરિફાયર' જોઈએ! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ક્લોરિનની ટીકડીઓ પાણીને શુદ્ધ કરવા માટે વપરાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્લોરિન = જંતુનાશક. ઘરના પાણીના ટાંકામાં પણ નંખાય છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "રંગો અને સોલવન્ટ્સ (દ્રાવકો) ને ગટરમાં નાખવાથી પાણી શુદ્ધ કરતા સૂક્ષ્મજીવો મરી શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેમિકલ્સ બેક્ટેરિયા માટે 'ઝેર' સમાન છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "મેનહોલ એ બે કે તેથી વધુ ગટર લાઈનોના જોડાણ પર હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાં રસ્તાનું જંક્શન હોય ત્યાં ગટરનું પણ જંક્શન (મેનહોલ) હોય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "અશુદ્ધ પાણી અને બિનઆરોગ્યપ્રદ પરિસ્થિતિઓથી મોટી સંખ્યામાં રોગો ફેલાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્વચ્છતા ત્યાં પ્રભુતા અને આરોગ્ય! (NJ Classes)</p></div>"
+    }
+  ]
+}
