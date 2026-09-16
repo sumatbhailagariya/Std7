@@ -589,3 +589,111 @@ var Std7_Science_MatchPairs = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "વનસ્પતિમાં પ્રજનન",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br>વિભાગ A: (1) ઈસ્ટ (2) સ્પાયરોગાયરા <br>વિભાગ B: (a) અવખંડન (b) કલિકાસર્જન (c) બીજાણુસર્જન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઈસ્ટ' માં 'ક' આવે (કલિકા) અને 'સ્પાયરો' એટલે લાંબો તંતુ જે 'ખંડ' માં વહેંચાય (અવખંડન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br>વિભાગ A: (1) બટાટા (2) આદુ <br>વિભાગ B: (a) પ્રકાંડ (ગાંઠ) (b) પર્ણ (c) આંખ (કલિકા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (c), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બટાટાને આપણે 'આંખ' વડે જોઈએ છીએ અને આદુમાં 'ગાંઠ' (Nodes) જોવા મળે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br>વિભાગ A: (1) પાનફૂટી (2) ગુલાબ <br>વિભાગ B: (a) કલમ (b) પર્ણની કિનારી પર કલિકા (c) મૂળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પાન'ફૂટી એટલે 'પર્ણ' દ્વારા પ્રજનન અને ગુલાબની તો 'કલમ' રોપાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br>વિભાગ A: (1) હંસરાજ (2) બ્રેડ મોલ્ડ <br>વિભાગ B: (a) બીજાણુસર્જન (b) કલિકાસર્જન (c) ફલન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફૂગ (બ્રેડ મોલ્ડ) અને હંસરાજ (Fern) બંને 'બીજાણુ' (Spores) ના પપ્પા છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br>વિભાગ A: (1) નર પ્રજનન અંગ (2) માદા પ્રજનન અંગ <br>વિભાગ B: (a) સ્ત્રીકેસર (b) પુંકેસર (c) દલપત્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પુ' એટલે પુરુષ (નર) - પુંકેસર, 'સ્ત્રી' એટલે માદા - સ્ત્રીકેસર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br>વિભાગ A: (1) પરાગાશય (2) અંડાશય <br>વિભાગ B: (a) અંડક (b) પરાગરજ (c) પરાગાસન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરાગ'આશય' માં પરાગ'રજ' રહે, 'અંડ'ાશય માં 'અંડ'ક રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br>વિભાગ A: (1) પપૈયું (2) સરસવ <br>વિભાગ B: (a) એકલિંગી પુષ્પ (b) દ્વિલિંગી પુષ્પ (c) પ્રકાંડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પપૈયું અને કાકડી 'એકલા' (એકલિંગી) રહે, જ્યારે ગુલાબ અને સરસવ 'સાથે' (દ્વિલિંગી) રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br>વિભાગ A: (1) ફલન પછીનું અંડાશય (2) ફલન પછીનું અંડક <br>વિભાગ B: (a) બીજ (b) ફળ (c) પુષ્પ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અંડા' (અંડાશય) માંથી 'ફળ' બને અને 'અંડક' માંથી 'બીજ' (ક અને જ - નજીક છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br>વિભાગ A: (1) મેપલ / સરગવો (2) મદાર (આંકડો) <br>વિભાગ B: (a) પાંખોવાળા બીજ (b) રોમમય બીજ (c) કાંટાવાળા બીજ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરગવાની સળી 'પાંખો' જેવી ઉડે, આંકડાના બીજ પર 'રૂ (રોમ)' જેવું હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br>વિભાગ A: (1) ગાડરિયું (2) નાળિયેર <br>વિભાગ B: (a) પાણી દ્વારા પ્રસારણ (b) પ્રાણીઓ દ્વારા પ્રસારણ (c) પવન દ્વારા પ્રસારણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાડરિયું 'કાંટા' વાળું હોય એટલે પ્રાણીને વળગે, નાળિયેર પાણીમાં તરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br>વિભાગ A: (1) એરંડા / બાલસમ (2) સૂર્યમુખી <br>વિભાગ B: (a) ફળ ફાટવાથી પ્રસારણ (b) રોમમય ફળ (c) પાણી દ્વારા પ્રસારણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એરંડા 'ધડાકા' સાથે ફાટે (Explosive), સૂર્યમુખીના ફળ 'રોમમય' હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br>વિભાગ A: (1) સ્વ-પરાગનયન (2) પર-પરાગનયન <br>વિભાગ B: (a) તે જ પુષ્પ પર પરાગરજ પડે (b) અન્ય છોડના પુષ્પ પર પરાગરજ પડે (c) કલિકા સર્જન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ્વ' એટલે 'પોતાનું' (તે જ પુષ્પ), 'પર' એટલે 'બીજું' (અન્ય છોડ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br>વિભાગ A: (1) સિંગલ સેલ (એકકોષી) પ્રજનન (2) ફલિતાંડ <br>વિભાગ B: (a) ફલનનું પરિણામ (b) ઈસ્ટ (c) પાનફૂટી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈસ્ટ એકકોષી છે, નર-માદા ભેગા થાય તો 'ફલિતાંડ' બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br>વિભાગ A: (1) પરાગાસન (2) પરાગવાહિની <br>વિભાગ B: (a) પરાગરજ સ્વીકારે (b) પરાગરજને અંડાશય સુધી પહોંચાડે (c) પરાગરજ ઉત્પન્ન કરે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આસન' એટલે બેસવાની જગ્યા (સ્વીકાર), 'વાહિની' એટલે રસ્તો (પહોંચાડવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br>વિભાગ A: (1) શક્કરિયું (2) થોર (Cactus) <br>વિભાગ B: (a) મૂળ દ્વારા પ્રજનન (b) મુખ્ય છોડથી અલગ પડેલા ભાગ (c) બીજાણુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શક્કરિયું જમીનમાં 'મૂળ' માં હોય, થોરનો 'ટુકડો' પડે તો નવો છોડ ઊગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br>વિભાગ A: (1) લિંગી પ્રજનન (2) અલિંગી પ્રજનન <br>વિભાગ B: (a) બીજ દ્વારા (b) બીજ વગર (c) માત્ર નર દ્વારા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લિંગી = બીજ (Seed), અલિંગી = બીજ સિવાયના ભાગ (Vegetative).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br>વિભાગ A: (1) યુરેના (2) ઘાસ / ડ્રમસ્ટિક <br>વિભાગ B: (a) પવન દ્વારા (b) હૂક (કાંટા) દ્વારા (c) સ્વયંસ્ફુરિત ફાટવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યુરેના અને ગાડરિયું 'હૂક' વાળા મિત્રો છે, ઘાસના બીજ પવનમાં ઊડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br>વિભાગ A: (1) પુંકેસર તંતુ (2) પરાગનયન <br>વિભાગ B: (a) નર પ્રજનન અંગનો ભાગ (b) પરાગરજનું સ્થળાંતર (c) માદા પ્રજનન અંગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પુંકેસરના બે ભાગ: તંતુ + પરાગાશય. પરાગનયન એટલે રજની 'મુસાફરી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br>વિભાગ A: (1) મોસ (Moss) (2) ડાહલિયા <br>વિભાગ B: (a) બીજાણુસર્જન (b) મૂળ દ્વારા પ્રજનન (c) કલિકાસર્જન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (a), (2) - (b)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોસ અને હંસરાજ 'બીજાણુ' થી વધે, ડાહલિયા 'મૂળ' થી વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br>વિભાગ A: (1) પરાગરજ (2) અંડકોષ <br>વિભાગ B: (a) માદા જન્યુ (b) નર જન્યુ (c) વનસ્પતિ દેહ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (b), (2) - (a)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરાગ'રજ' = નર (Boy), અંડ'કોષ' = માદા (Girl).</p></div>"
+    }
+  ]
+}
