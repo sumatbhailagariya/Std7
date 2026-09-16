@@ -214,3 +214,86 @@ var Std7_Science_MatchPairs = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "ઉષ્મા",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "યોગ્ય રીતે જોડકાં જોડો: \nવિભાગ A: \n(1) ક્લિનિકલ થર્મોમીટરની રેન્જ \n(2) લેબોરેટરી થર્મોમીટરની રેન્જ \n\nવિભાગ B: \n(A) -10°C થી 110°C \n(B) 35°C થી 42°C \n(C) 0°C થી 100°C",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્લિનિકલ (ડોક્ટર) નાનું હોય એટલે નાની રેન્જ (35-42), લેબોરેટરી મોટી હોય એટલે મોટી રેન્જ (-10 થી 110). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "યોગ્ય રીતે જોડકાં જોડો: \nવિભાગ A: \n(1) ઉષ્માવહન \n(2) ઉષ્માનયન \n\nવિભાગ B: \n(A) પ્રવાહી અને વાયુ પદાર્થોમાં \n(B) ઘન પદાર્થોમાં \n(C) શૂન્યાવકાશમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વહન' એટલે ઘન (વ-ઘ), 'નયન' એટલે પ્રવાહી (ન-પ્રેમ). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "યોગ્ય રીતે જોડકાં જોડો: \nવિભાગ A: \n(1) દરિયાઈ લહેર \n(2) ભૂમીય લહેર \n\nવિભાગ B: \n(A) રાત્રિના સમયે વહે છે \n(B) દિવસના સમયે વહે છે \n(C) સવાર-સાંજ સતત વહે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરિયે પિકનિક 'દિવસે' જવાય એટલે દરિયાઈ લહેર દિવસે, બાકીનું (ભૂમીય) રાત્રે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "યોગ્ય રીતે જોડકાં જોડો: \nવિભાગ A: \n(1) ઉષ્માના સુવાહક \n(2) ઉષ્માના મંદવાહક \n\nવિભાગ B: \n(A) લાકડું અને પ્લાસ્ટિક \n(B) તાંબુ અને એલ્યુમિનિયમ \n(C) શુદ્ધ પાણી અને હવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે ગરમ થાય તે સુવાહક (ધાતુઓ), જે દાઝવા ન દે તે મંદવાહક (લાકડું/પ્લાસ્ટિક). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "યોગ્ય રીતે જોડકાં જોડો: \nવિભાગ A: \n(1) ઘેરા રંગના વસ્ત્રો \n(2) હળવા રંગના વસ્ત્રો \n\nવિભાગ B: \n(A) ઉનાળામાં પહેરવા વધુ આરામદાયક \n(B) શિયાળામાં પહેરવા વધુ આરામદાયક \n(C) ચોમાસામાં પહેરવા વધુ આરામદાયક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘેરો રંગ શોષણ કરે (ગરમી આપે), હળવો રંગ પરાવર્તન કરે (ઠંડક આપે). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "યોગ્ય રીતે જોડકાં જોડો: \nવિભાગ A: \n(1) માનવ શરીરનું સામાન્ય તાપમાન \n(2) ઉકળતા પાણીનું તાપમાન \n\nવિભાગ B: \n(A) 100°C \n(B) 37°C \n(C) 98°C",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તગડે સાતડે સાડત્રીસ (37) એ માણસનું તાપમાન છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "યોગ્ય રીતે જોડકાં જોડો: \nવિભાગ A: \n(1) ઉષ્મા વિકિરણ \n(2) થર્મોમીટરમાં વપરાતું પ્રવાહી \n\nવિભાગ B: \n(A) આલ્કોહોલ \n(B) માધ્યમની જરૂર નથી \n(C) મરક્યુરી (પારો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્યના કિરણો (વિકિરણ) ને કોઈ વાહન (માધ્યમ) જોઈતું નથી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "યોગ્ય રીતે જોડકાં જોડો: \nવિભાગ A: \n(1) ખાંચ (Kink) \n(2) સ્ટેનલેસ સ્ટીલની કડાઈના નીચેના ભાગે તાંબાનું સ્તર \n\nવિભાગ B: \n(A) ઝડપી ઉષ્મા મેળવવા માટે \n(B) પારો આપમેળે નીચે ન ઉતરી જાય તે માટે \n(C) દેખાવ સારો કરવા માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખાંચ એટલે 'બ્રેક', જે પારાને નીચે ઉતરતા રોકે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "યોગ્ય રીતે જોડકાં જોડો: \nવિભાગ A: \n(1) તાપમાનનું માપન \n(2) ઉષ્માનો એકમ (સામાન્ય રીતે) \n\nવિભાગ B: \n(A) કેલરી \n(B) અંશ સેલ્સિયસ (°C) \n(C) લીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાવ માપવો હોય તો ડિગ્રી (°C) જોઈએ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "યોગ્ય રીતે જોડકાં જોડો: \nવિભાગ A: \n(1) રસોઈના વાસણોના હાથા \n(2) રસોઈના વાસણોનું તળિયું \n\nવિભાગ B: \n(A) ઉષ્માના સુવાહક (ધાતુ) \n(B) ઉષ્માના મંદવાહક (ઈબોનાઈટ/પ્લાસ્ટિક) \n(C) કાચ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાથા પકડવા માટે 'ઠંડા' (મંદવાહક) જોઈએ, તળિયું ખોરાક રાંધવા 'ગરમ' (સુવાહક) જોઈએ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "યોગ્ય રીતે જોડકાં જોડો: \nવિભાગ A: \n(1) ઉષ્માના પ્રસારણની રીતો \n(2) થર્મોમીટરના પ્રકારો \n\nવિભાગ B: \n(A) ક્લિનિકલ અને લેબોરેટરી \n(B) વહન, નયન અને વિકિરણ \n(C) મીટર અને સેન્ટીમીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉષ્માના 'ત્રણ મિત્રો': વહન, નયન અને વિકિરણ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "યોગ્ય રીતે જોડકાં જોડો: \nવિભાગ A: \n(1) ઉન (Wool) \n(2) સ્ટીલ (Steel) \n\nવિભાગ B: \n(A) ઉષ્માનું સુવાહક \n(B) ઉષ્માનું મંદવાહક \n(C) પારદર્શક પદાર્થ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિયાળામાં ઉન ગરમી પકડી રાખે કારણકે તે હવાને રોકે છે (મંદવાહક). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "યોગ્ય રીતે જોડકાં જોડો: \nવિભાગ A: \n(1) હવાનું ગરમ થવું \n(2) લોખંડના સળિયાનું ગરમ થવું \n\nવિભાગ B: \n(A) ઉષ્માવહન \n(B) ઉષ્માનયન \n(C) ઉષ્મા વિકિરણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવા અને પાણીમાં 'નયન' (Convection) જ કામ કરે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "યોગ્ય રીતે જોડકાં જોડો: \nવિભાગ A: \n(1) સૂર્યની ગરમી પૃથ્વી પર પહોંચવી \n(2) પાણી ગરમ થવું \n\nવિભાગ B: \n(A) ઉષ્માનયન \n(B) ઉષ્મા વિકિરણ \n(C) ઉષ્માવહન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્ય દાદા બહુ દૂર છે, એટલે ડાયરેક્ટ 'વિકિરણ' (Radiation) મોકલે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "યોગ્ય રીતે જોડકાં જોડો: \nવિભાગ A: \n(1) ડિજિટલ થર્મોમીટર \n(2) ક્લિનિકલ થર્મોમીટર \n\nવિભાગ B: \n(A) પારો હોતો નથી \n(B) પારો હોય છે \n(C) પાણી ભરેલું હોય છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડિજિટલ એ નવું છે, જેમાં ઝેરી પારો (Mercury) હોતો નથી. (NJ Classes)</p></div>"
+    }
+  ]
+}
