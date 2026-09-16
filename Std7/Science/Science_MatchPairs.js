@@ -697,3 +697,161 @@ var Std7_Science_MatchPairs = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "ગતિ અને સમય",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A: (1) ઝડપનો મૂળભૂત એકમ, વિભાગ B: (A) km/h (B) m/s (C) m/min",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) m/s (મીટર/સેકન્ડ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - ઝડપ એટલે અંતર/સમય. અંતરનો નાનો એકમ મીટર અને સમયનો સેકન્ડ, એટલે m/s યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A: (1) સ્પીડોમીટર, વિભાગ B: (A) અંતર માપે (B) સમય માપે (C) ઝડપ માપે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (C) ઝડપ માપે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - 'Speed' શબ્દ પરથી 'Speedometer' એટલે તે સીધી ઝડપ જ બતાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A: (1) ઓડોમીટર, વિભાગ B: (A) ઝડપ માપે (B) કાપેલું અંતર માપે (C) તાપમાન માપે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) કાપેલું અંતર માપે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - ગાડીમાં 'કિલોમીટર' જે આંકડા બદલાય છે તે ઓડોમીટર છે, જે 'અંતર' (Distance) બતાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A: (1) સાદું લોલક, વિભાગ B: (A) રેખીય ગતિ (B) આવર્ત ગતિ (C) વક્ર ગતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) આવર્ત ગતિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - લોલક વારંવાર એક જ પથ પર ગતિ કરે તેને 'આવર્ત' (Periodic) ગતિ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A: (1) જંતર-મંતર (દિલ્હી), વિભાગ B: (A) રેતઘડી (B) જળઘડી (C) છાયા યંત્ર (સૂર્યઘડી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (C) છાયા યંત્ર (સૂર્યઘડી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - દિલ્હીમાં મોટું સૂર્યઘડી (Sundial) આવેલું છે જે સૂર્યના પ્રકાશથી સમય બતાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A: (1) ઝડપનું સૂત્ર, વિભાગ B: (A) અંતર × સમય (B) અંતર / સમય (C) સમય / અંતર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) અંતર / સમય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - યાદ રાખો 'અંતર ઉપર, સમય નીચે' = ઝડપ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A: (1) લોલકનો આવર્તકાળ, વિભાગ B: (A) એક દોલન માટે લાગતો સમય (B) એક મિનિટમાં થતા દોલનો (C) લોલકની લંબાઈ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) એક દોલન માટે લાગતો સમય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - 'કાળ' એટલે સમય. 1 દોલન પૂર્ણ કરવા જે સમય લાગે તે આવર્તકાળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A: (1) અંતર-સમયનો આલેખ સીધી રેખા, વિભાગ B: (A) અચળ ઝડપ (B) બદલાતી ઝડપ (C) સ્થિર પદાર્થ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) અચળ ઝડપ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - આલેખ સીધો તો ઝડપ પણ સીધી (અચળ) - કોઈ વધઘટ નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A: (1) સમયનો મોટો એકમ, વિભાગ B: (A) સેકન્ડ (B) મિલિસેકન્ડ (C) કલાક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (C) કલાક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - સેકન્ડ થી મોટી મિનિટ અને મિનિટ થી મોટો કલાક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A: (1) લોલકનો ગોળો, વિભાગ B: (A) બોબ (Bob) (B) સ્પ્રિંગ (C) દોરી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) બોબ (Bob)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - લોલકના છેડે લટકતા ધાતુના નાના ગોળાને અંગ્રેજીમાં 'Bob' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A: (1) 1 મિનિટ, વિભાગ B: (A) 100 સેકન્ડ (B) 60 સેકન્ડ (C) 3600 સેકન્ડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) 60 સેકન્ડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - ઘડિયાળના કાંટા યાદ કરો, એક ચક્ર એટલે 60 સેકન્ડ = 1 મિનિટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A: (1) નિયમિત ગતિ, વિભાગ B: (A) ઝડપ બદલાય (B) અચળ ઝડપ (C) પદાર્થ સ્થિર રહે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) અચળ ઝડપ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - 'નિયમિત' એટલે જેમાં કોઈ ફેરફાર ન થાય, એટલે કે ઝડપ ફિક્સ રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A: (1) પ્રાચીન સમયની રેતઘડી, વિભાગ B: (A) અંતર માપવા (B) સમય માપવા (C) દિશા જાણવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) સમય માપવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - પહેલાના સમયમાં ઘડિયાળ નહોતી ત્યારે રેતઘડીથી સમયનો અંદાજ મેળવતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A: (1) અંતર શોધવા માટે, વિભાગ B: (A) ઝડપ / સમય (B) ઝડપ × સમય (C) સમય / ઝડપ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) ઝડપ × સમય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - અંતર (D) = ઝડપ (S) × સમય (T). યાદ રાખો D = S × T.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A: (1) ક્વાર્ટઝ ક્લોક, વિભાગ B: (A) સૂર્યના પડછાયા પર કામ કરે (B) વીજળીક પરિપથથી ચાલે (C) રેતીથી ચાલે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) વીજળીક પરિપથથી ચાલે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - આજની ડિજિટલ કે સેલવાળી ઘડિયાળો ક્વાર્ટઝ ક્લોક કહેવાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A: (1) 1 કલાક, વિભાગ B: (A) 60 સેકન્ડ (B) 3600 સેકન્ડ (C) 1000 સેકન્ડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) 3600 સેકન્ડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - 1 કલાક = 60 મિનિટ અને 1 મિનિટ = 60 સેકન્ડ, તેથી 60 × 60 = 3600.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A: (1) પદાર્થ સ્થિર હોય ત્યારે આલેખ, વિભાગ B: (A) ઊભી રેખા (B) સમયની અક્ષને સમાંતર રેખા (C) વક્ર રેખા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) સમયની અક્ષને સમાંતર રેખા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - પદાર્થ ઉભો છે (સ્થિર છે), એટલે સમય વધે પણ અંતર ન વધે, તેથી આડી લીટી મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A: (1) ગેલીલીયો ગેલીલી, વિભાગ B: (A) ગતિના નિયમો (B) લોલકનો આવર્તકાળ (C) અંતરનો એકમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) લોલકનો આવર્તકાળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - ગેલીલીયોએ ચર્ચમાં લટકતા દીવાને જોઈને લોલકના સમયની શોધ કરી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A: (1) કાપેલું કુલ અંતર / તે માટે લાગતો કુલ સમય, વિભાગ B: (A) સરેરાશ ઝડપ (B) અચળ ઝડપ (C) નિયમિત ગતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) સરેરાશ ઝડપ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - જ્યારે 'કુલ' શબ્દ આવે ત્યારે જવાબ હંમેશા 'સરેરાશ' (Average) આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A: (1) ગતિનું માપન, વિભાગ B: (A) થર્મોમીટર (B) અંતર-સમયનો આલેખ (C) બેરોમીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) અંતર-સમયનો આલેખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - ગતિને ચિત્ર રૂપે સમજવા માટે આલેખ સૌથી ઉત્તમ રીત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિભાગ A: (1) સમય માપવા માટેનું પ્રાચીન સાધન, વિભાગ B: (A) જળઘડી (B) સ્ટેથોસ્કોપ (C) માઇક્રોસ્કોપ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) જળઘડી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - જૂના જમાનામાં પાણી, રેતી અને સૂર્ય આ ત્રણ મુખ્ય સમય જાણવાના સ્ત્રોત હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિભાગ A: (1) ઝડપી ગતિ, વિભાગ B: (A) ઓછી ઝડપ (B) વધુ ઝડપ (C) શૂન્ય ઝડપ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) વધુ ઝડપ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - જે પદાર્થ આપેલ સમયમાં વધુ અંતર કાપે તેની ઝડપ વધુ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિભાગ A: (1) અંતર-સમય આલેખમાં X-અક્ષ પર, વિભાગ B: (A) અંતર દર્શાવાય (B) સમય દર્શાવાય (C) ઝડપ દર્શાવાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) સમય દર્શાવાય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - આડી ધરી (X) હંમેશા સ્વતંત્ર ચલ એટલે કે 'સમય' માટે વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિભાગ A: (1) અંતર-સમય આલેખમાં Y-અક્ષ પર, વિભાગ B: (A) સમય (B) અંતર (C) તાપમાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) અંતર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - ઊભી ધરી (Y) પર હંમેશા અંતર (Distance) દર્શાવવામાં આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિભાગ A: (1) આવર્તકાળ શોધવા માટેનું સૂત્ર, વિભાગ B: (A) સમય / દોલનોની સંખ્યા (B) દોલનોની સંખ્યા / સમય (C) અંતર / સમય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) સમય / દોલનોની સંખ્યા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - એક દોલનનો સમય શોધવો હોય તો કુલ સમયને દોલનો વડે ભાગવા પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિભાગ A: (1) સમય માપવા માટેની ઘટના, વિભાગ B: (A) અચાનક થતી (B) પુનરાવર્તિત થતી (C) એક જ વાર થતી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) પુનરાવર્તિત થતી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - સૂર્યોદય કે પૂનમ જેવી ઘટનાઓ વારંવાર થાય છે એટલે જ આપણે સમય માપી શકીએ છીએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વિભાગ A: (1) અંતરનો મોટો એકમ, વિભાગ B: (A) સેન્ટીમીટર (B) કિલોમીટર (C) મિલિમીટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) કિલોમીટર (km)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - બે શહેરો વચ્ચેનું અંતર માપવા આપણે હંમેશા કિલોમીટર વાપરીએ છીએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિભાગ A: (1) લોલકને તેની મધ્યસ્થ સ્થિતિમાંથી મુક્ત કરવું, વિભાગ B: (A) ગતિની શરૂઆત (B) દોલન પૂર્ણ થયું (C) સ્થિર સ્થિતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) ગતિની શરૂઆત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - જ્યારે ગોળાને એક બાજુ લઈ જઈને છોડીએ ત્યારે જ દોલન શરૂ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિભાગ A: (1) સમય માપવા માટે આધુનિક સાધન, વિભાગ B: (A) ડિજિટલ ઘડિયાળ (B) સૂર્યઘડી (C) પાણીનું ઘણું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A) ડિજિટલ ઘડિયાળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - અત્યારના ટેકનોલોજીના યુગમાં આપણે સેલ કે બેટરીથી ચાલતી ડિજિટલ ઘડિયાળ વાપરીએ છીએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વિભાગ A: (1) અસમાન ગતિ, વિભાગ B: (A) ઝડપ અચળ રહે (B) ઝડપ બદલાતી રહે (C) પદાર્થ ગતિ ન કરે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B) ઝડપ બદલાતી રહે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes - 'અસમાન' એટલે જે એકસરખું નથી, એટલે કે ઝડપમાં વધઘટ થયા કરે.</p></div>"
+    }
+  ]
+}
