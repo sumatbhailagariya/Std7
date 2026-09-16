@@ -297,3 +297,61 @@ var Std7_Science_MatchPairs = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "એસિડ, બેઇઝ અને ક્ષાર",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો:<br><b>વિભાગ A:</b><br>(1) વિનેગર<br>(2) કીડીનો ડંખ<br>(3) નારંગી/લીંબુ<br>(4) દહીં<br><b>વિભાગ B:</b><br>(A) સાઇટ્રિક એસિડ<br>(B) લેક્ટિક એસિડ<br>(C) એસિટિક એસિડ<br>(D) ફોર્મિક એસિડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - D, (3) - A, (4) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કીડી ફોર્મમાં છે' (ફોર્મિક એસિડ) અને 'દહીં લેવા જા' (લેક્ટિક એસિડ) - આ રીતે યાદ રાખો! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો:<br><b>વિભાગ A:</b><br>(1) પાલક<br>(2) આમળા/સાઇટ્રસ ફળો<br>(3) આંબલી/દ્રાક્ષ<br>(4) સાબુ<br><b>વિભાગ B:</b><br>(A) ટાર્ટરિક એસિડ<br>(B) સોડિયમ હાઇડ્રોક્સાઇડ<br>(C) ઓક્ઝેલિક એસિડ<br>(D) એસ્કોર્બિક એસિડ (વિટામિન C)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - D, (3) - A, (4) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાલકમાં 'L' આવે એટલે ઓક્ઝેલિક (Oxalic) અને સાબુ ધોવા માટે 'સોડા' (સોડિયમ) જોઈએ! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો:<br><b>વિભાગ A:</b><br>(1) ચૂનાનું પાણી<br>(2) કાચ સાફ કરવાનું પ્રવાહી<br>(3) મિલ્ક ઓફ મેગ્નેશિયા<br>(4) ખાવાનો સોડા<br><b>વિભાગ B:</b><br>(A) એમોનિયમ હાઇડ્રોક્સાઇડ<br>(B) મેગ્નેશિયમ હાઇડ્રોક્સાઇડ<br>(C) કેલ્શિયમ હાઇડ્રોક્સાઇડ<br>(D) સોડિયમ હાઈડ્રોજન કાર્બોનેટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - A, (3) - B, (4) - D</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિલ્ક = મેગ્નેશિયમ (બંને 'M' થી શરૂ થાય) અને ચૂનો એટલે કેલ્શિયમ! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો:<br><b>વિભાગ A:</b><br>(1) એસિડ સ્વાદે<br>(2) બેઇઝ સ્વાદે<br>(3) લિટમસ પત્રનો સ્ત્રોત<br>(4) તટસ્થ પદાર્થો<br><b>વિભાગ B:</b><br>(A) લાઈકેન<br>(B) ખાટા<br>(C) લાલ કે ભૂરા લિટમસ પર અસર કરતા નથી<br>(D) કડવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - D, (3) - A, (4) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એસિડ 'ખાટા' અને બેઇઝ 'કડવા' - આ પાયાનો નિયમ છે! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સૂચકની એસિડિક દ્રાવણ પર અસર:<br><b>વિભાગ A (સૂચક):</b><br>(1) ભૂરું લિટમસ<br>(2) હળદર પત્ર<br>(3) જાસૂદના ફૂલનું દ્રાવણ<br>(4) ફિનોલ્ફથેલીન<br><b>વિભાગ B (એસિડમાં રંગ):</b><br>(A) રંગવિહીન<br>(B) લાલ<br>(C) કોઈ ફેરફાર નહીં (પીળો)<br>(D) ઘેરો ગુલાબી (મેજેન્ટા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - C, (3) - D, (4) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'એ ભુલા' -> એસિડ ભૂરાને લાલ બનાવે. 'જાસૂદ-એસિડ-મેજેન્ટા' (JAM) યાદ રાખો! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સૂચકની બેઇઝ દ્રાવણ પર અસર:<br><b>વિભાગ A (સૂચક):</b><br>(1) લાલ લિટમસ<br>(2) હળદર પત્ર<br>(3) જાસૂદના ફૂલનું દ્રાવણ<br>(4) ફિનોલ્ફથેલીન<br><b>વિભાગ B (બેઇઝમાં રંગ):</b><br>(A) ગુલાબી<br>(B) લીલો<br>(C) લાલ<br>(D) ભૂરું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - D, (2) - C, (3) - B, (4) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બે લાભુ' -> બેઇઝ લાલને ભૂરું બનાવે. 'હળદર-બેઇઝ-લાલ' (હબેલા) યાદ રાખો! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વ્યવહારમાં તટસ્થીકરણ:<br><b>વિભાગ A (સમસ્યા):</b><br>(1) અપચો<br>(2) કીડીનો ડંખ<br>(3) એસિડિક જમીન<br>(4) બેઝિક જમીન<br><b>વિભાગ B (ઉપાય):</b><br>(A) કેલેમાઈન દ્રાવણ (ઝિંક કાર્બોનેટ)<br>(B) મિલ્ક ઓફ મેગ્નેશિયા<br>(C) કાર્બનિક પદાર્થો (ખાતર)<br>(D) ક્વિક લાઈમ (ચૂનો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A, (3) - D, (4) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એસિડિક જમીનને 'ચૂનો' લગાડવો પડે (તટસ્થ કરવા) અને પેટમાં 'દૂધ' (મિલ્ક ઓફ મેગ્નેશિયા) જોઈએ! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો:<br><b>વિભાગ A:</b><br>(1) એસિડ + બેઇઝ<br>(2) લિટમસ<br>(3) હળદર<br>(4) ફેક્ટરીનો કચરો<br><b>વિભાગ B:</b><br>(A) કુદરતી સૂચક<br>(B) જળચર જીવોને નુકસાન<br>(C) ક્ષાર + પાણી<br>(D) લાઈકેનમાંથી નિષ્કર્ષણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - D, (3) - A, (4) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એસિડ અને બેઇઝના લગ્ન થાય ત્યારે 'ક્ષાર અને પાણી' નામના સંતાનો જન્મે! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "દ્રાવણના પ્રકાર અને લિટમસ પર અસર:<br><b>વિભાગ A:</b><br>(1) ખાંડનું દ્રાવણ<br>(2) શેમ્પૂનું દ્રાવણ<br>(3) લીંબુનો રસ<br>(4) મીઠાનું દ્રાવણ<br><b>વિભાગ B:</b><br>(A) લાલ લિટમસને ભૂરું બનાવે<br>(B) તટસ્થ (કોઈ અસર નહીં)<br>(C) તટસ્થ (કોઈ અસર નહીં)<br>(D) ભૂરા લિટમસને લાલ બનાવે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B/C, (2) - A, (3) - D, (4) - C/B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખાંડ અને મીઠું બંને 'તટસ્થ' છે, કારણ કે તેઓ લિટમસ સાથે કોઈ ભેદભાવ રાખતા નથી! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "રાસાયણિક નામ અને સામાન્ય નામ:<br><b>વિભાગ A:</b><br>(1) સોડિયમ ક્લોરાઇડ<br>(2) કેલ્શિયમ ઓક્સાઈડ<br>(3) મેગ્નેશિયમ હાઇડ્રોક્સાઇડ<br>(4) હાઇડ્રોક્લોરિક એસિડ<br><b>વિભાગ B:</b><br>(A) જઠરનો એસિડ<br>(B) મિલ્ક ઓફ મેગ્નેશિયા<br>(C) મીઠું<br>(D) ક્વિક લાઈમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - D, (3) - B, (4) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આપણું જઠર (Stomach) એ એસિડની ફેક્ટરી છે, ત્યાં HCl (હાઇડ્રોક્લોરિક એસિડ) હોય જ! (NJ Classes)</p></div>"
+    }
+  ]
+}
