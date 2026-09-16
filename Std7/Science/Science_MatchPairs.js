@@ -521,3 +521,71 @@ var Std7_Science_MatchPairs = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "ગતિ અને સમય",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> 1. ઝડપનો મૂળભૂત એકમ <br> 2. સમયનો મૂળભૂત એકમ <br> 3. અંતરનો મૂળભૂત એકમ <br><br> વિભાગ 'બ': (a) મીટર (b) સેકન્ડ (c) મીટર/સેકન્ડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (c) મીટર/સેકન્ડ <br>2 - (b) સેકન્ડ <br>3 - (a) મીટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અંતર / સમય = ઝડપ' આ સૂત્ર યાદ રાખો, એટલે m/s એકમ આપોઆપ યાદ રહી જશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> 1. સ્પિડોમીટર <br> 2. ઓડોમીટર <br><br> વિભાગ 'બ': (a) વાહને કાપેલું અંતર માપે (b) વાહનની ઝડપ માપે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (b) વાહનની ઝડપ માપે <br>2 - (a) વાહને કાપેલું અંતર માપે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Speed' માપે તે 'Speedo'meter અને અંતર (Distance) માપે તે 'Odo'meter!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> 1. સાદું લોલક <br> 2. અચળ ઝડપે ગતિ કરતા પદાર્થનો આલેખ <br> 3. સમય માપતું પ્રાચીન સાધન <br><br> વિભાગ 'બ': (a) સુરેખા (b) આવર્ત ગતિ (c) રેતઘડિયાળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (b) આવર્ત ગતિ <br>2 - (a) સુરેખા <br>3 - (c) રેતઘડિયાળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોલક એટલે 'દોલન' અને દોલન એટલે 'આવર્ત' ગતિ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ 'અ' (સૂત્રો) ને વિભાગ 'બ' (ભૌતિક રાશિ) સાથે જોડો: <br> 1. કાપેલું અંતર / તે માટે લાગતો સમય <br> 2. ઝડપ × સમય <br> 3. અંતર / ઝડપ <br><br> વિભાગ 'બ': (a) અંતર (b) સમય (c) ઝડપ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (c) ઝડપ <br>2 - (a) અંતર <br>3 - (b) સમય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અંતર' હંમેશા ઉપર રહેશે, કાં તો તે ઝડપ અને સમયના ગુણાકારથી મળશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> 1. પૃથ્વીની આસપાસ ચંદ્રની ગતિ <br> 2. સીધા રસ્તા પર ગતિ કરતી કાર <br> 3. પંખાના પાંખિયાની ગતિ <br><br> વિભાગ 'બ': (a) વર્તુળાકાર ગતિ (b) આવર્ત ગતિ (c) સીધી રેખામાં ગતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (b) આવર્ત ગતિ <br>2 - (c) સીધી રેખામાં ગતિ <br>3 - (a) વર્તુળાકાર ગતિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસ્તો સીધો તો ગતિ સીધી, અને ગોળ ફરે તે વર્તુળાકાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> 1. 1 મિનિટ <br> 2. 1 કલાક <br> 3. 1 દિવસ <br><br> વિભાગ 'બ': (a) 3600 સેકન્ડ (b) 24 કલાક (c) 60 સેકન્ડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (c) 60 સેકન્ડ <br>2 - (a) 3600 સેકન્ડ <br>3 - (b) 24 કલાક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 કલાક = 60 મિનિટ × 60 સેકન્ડ = 3600 સેકન્ડ. ગણિત પાકું તો વિજ્ઞાન પાકું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> 1. લોલકની લંબાઈ વધારતા <br> 2. લોલકનો ગોળો <br> 3. આવર્તકાળ <br><br> વિભાગ 'બ': (a) બોબ (Bob) (b) એક દોલન પૂર્ણ કરવા લાગતો સમય (c) આવર્તકાળ વધે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (c) આવર્તકાળ વધે છે <br>2 - (a) બોબ (Bob) <br>3 - (b) એક દોલન પૂર્ણ કરવા લાગતો સમય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોલકની દોરી લાંબી, તો તેને હિંચકો ખાતા સમય પણ વધારે લાગે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> 1. સૂર્યઘડિયાળ <br> 2. જંતર-મંતર <br> 3. ક્વાર્ટઝ ક્લોક <br><br> વિભાગ 'બ': (a) દિલ્હી (b) વિદ્યુત પરિપથ (c) છાયા યંત્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (c) છાયા યંત્ર <br>2 - (a) દિલ્હી <br>3 - (b) વિદ્યુત પરિપથ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સૂર્ય' એટલે પડછાયો (છાયા), અને 'ક્વાર્ટઝ' એટલે આજની સેલવાળી મોર્ડન ઘડિયાળ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> 1. નિયમિત ગતિ <br> 2. અનિયમિત ગતિ <br> 3. સ્થિર પદાર્થ <br><br> વિભાગ 'બ': (a) સમય સાથે ઝડપ બદલાય (b) સમય સાથે ઝડપ અચળ રહે (c) સમય સાથે અંતર બદલાતું નથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (b) સમય સાથે ઝડપ અચળ રહે <br>2 - (a) સમય સાથે ઝડપ બદલાય <br>3 - (c) સમય સાથે અંતર બદલાતું નથી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિયમિત એટલે 'Same Speed' અને સ્થિર એટલે 'No Movement'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> 1. અંતર-સમયના આલેખમાં X-અક્ષ <br> 2. અંતર-સમયના આલેખમાં Y-અક્ષ <br> 3. આલેખમાં ઢાળ <br><br> વિભાગ 'બ': (a) અંતર દર્શાવે છે (b) સમય દર્શાવે છે (c) ઝડપ દર્શાવે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (b) સમય દર્શાવે છે <br>2 - (a) અંતર દર્શાવે છે <br>3 - (c) ઝડપ દર્શાવે છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'X' પર સમય (Time) અને 'Y' પર અંતર (Distance). TYX - ટ્રીક યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ 'અ' (મોટા એકમો) ને વિભાગ 'બ' સાથે જોડો: <br> 1. અંતરનો મોટો એકમ <br> 2. ઝડપનો મોટો એકમ <br> 3. સમયનો મોટો એકમ <br><br> વિભાગ 'બ': (a) કલાક (h) (b) કિલોમીટર (km) (c) કિમી / કલાક (km/h)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (b) કિલોમીટર (km) <br>2 - (c) કિમી / કલાક (km/h) <br>3 - (a) કલાક (h)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાના એકમ માટે મીટર-સેકન્ડ, મોટા એકમ માટે કિલોમીટર-કલાક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> 1. લંબચોરસ આલેખ <br> 2. પાય આલેખ (Pie Chart) <br> 3. રેખા આલેખ <br><br> વિભાગ 'બ': (a) વર્તુળ આકાર (b) સ્તંભ આલેખ (c) બિંદુઓને જોડતી રેખા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (b) સ્તંભ આલેખ <br>2 - (a) વર્તુળ આકાર <br>3 - (c) બિંદુઓને જોડતી રેખા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાય (Pie) એટલે મમ્મીએ બનાવેલો ગોળ રોટલો, એટલે વર્તુળ આલેખ!</p></div>"
+    }
+  ]
+}
