@@ -1,0 +1,133 @@
+var Std7_Science_MatchPairs = {
+"1": {
+  "chapterName": "પ્રકરણ 1",
+  "chapterTitle": "વનસ્પતિમાં પોષણ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A: (1) હરિતદ્રવ્ય (2) નાઈટ્રોજન --- વિભાગ B: (A) બેક્ટેરિયા (B) પર્ણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્ણ લીલું કારણ કે તેમાં 'હરિત'દ્રવ્ય છે, અને નાઈટ્રોજન માટે 'રાઈઝોબિયમ' બેક્ટેરિયા જરૂરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A: (1) અમરવેલ (2) પ્રાણીઓ --- વિભાગ B: (A) પરોપજીવી (B) પરાવલંબી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અમરવેલ બીજા પર 'અમર' (કાયમી) રીતે રહે એટલે પરોપજીવી, પ્રાણીઓ ખોરાક માટે બીજા પર 'અવલંબી' એટલે પરાવલંબી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A: (1) કીટાહારી (2) મશરૂમ --- વિભાગ B: (A) મૃતોપજીવી (B) કળશપર્ણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કળશમાં કીટક પડે એટલે 'કીટાહારી', મરેલા સડેલા પદાર્થો પર ઊગે તે 'મશરૂમ' (મૃતોપજીવી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A: (1) પ્રકાશસંશ્લેષણ (2) લાઈકેન --- વિભાગ B: (A) સહજીવન (B) સૂર્યપ્રકાશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રકાશ વગર સંશ્લેષણ અશક્ય, લાઈકેન એટલે લીલ + ફૂગની 'લાઈક' (મિત્રતા) એટલે સહજીવન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A: (1) રક્ષક કોષો (2) પર્ણરંધ્ર --- વિભાગ B: (A) વાયુ વિનિમય (B) પર્ણરંધ્રની આસપાસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રક્ષક હંમેશા દરવાજા (રંધ્ર) ની આસપાસ હોય, રંધ્ર એ શ્વાસ (વાયુ) લેવાની બારી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A: (1) કાર્બોદિત (2) પ્રોટીન --- વિભાગ B: (A) નાઈટ્રોજનયુક્ત પદાર્થ (B) ખોરાકનો ઘટક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાર્બોદિત ઉર્જાનો સ્ત્રોત છે, પ્રોટીન બનાવવા માટે નાઈટ્રોજન 'પ્રો' (ખાસ) જરૂરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A: (1) રાઈઝોબિયમ (2) કઠોળ --- વિભાગ B: (A) શિમ્બી કુળની વનસ્પતિ (B) નાઈટ્રોજન સ્થાપન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાઈઝોબિયમ જમીનનો રાજા (નાઈટ્રોજન સ્થાપે), કઠોળના મૂળમાં તેની રહેવાની જગ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A: (1) સ્વાવલંબી (2) પરાવલંબી --- વિભાગ B: (A) લીલી વનસ્પતિ (B) મનુષ્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે પોતે રસોઈ (ખોરાક) બનાવે તે 'સ્વ', જે બીજાની થાળી (ખોરાક) પર આધાર રાખે તે 'પર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A: (1) આયોડિન કસોટી (2) સ્ટાર્ચ --- વિભાગ B: (A) કાર્બોદિતનું સ્વરૂપ (B) સ્ટાર્ચની હાજરી જાણવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આયોડિન નાખો અને ભૂરો-કાળો રંગ જુઓ તો સમજો સ્ટાર્ચ હાજર છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A: (1) લીલ (2) ફૂગ --- વિભાગ B: (A) પરાવલંબી/મૃતોપજીવી (B) સ્વાવલંબી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લીલ લીલી છે એટલે ખોરાક બનાવે, ફૂગ સફેદ/કાળી છે એટલે બીજા પાસેથી છીનવી લે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A: (1) કાર્બન ડાયોક્સાઈડ (2) ઓક્સિજન --- વિભાગ B: (A) પ્રકાશસંશ્લેષણ દરમિયાન મુક્ત થાય (B) પ્રકાશસંશ્લેષણ માટે જરૂરી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વનસ્પતિ CO2 'ઈન' (અંદર) કરે અને O2 'આઉટ' (બહાર) કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A: (1) વનસ્પતિનું રસોડું (2) જલવાહિની --- વિભાગ B: (A) પાણીનું વહન (B) પર્ણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મમ્મી રસોડામાં રસોઈ બનાવે, વનસ્પતિ પર્ણમાં બનાવે. નળ જેવી પાઈપ એટલે જલવાહિની.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A: (1) વેનસ મક્ષીપાશ (2) ઘીમોર (સનડ્યુ) --- વિભાગ B: (A) કીટાહારી વનસ્પતિ (B) કીટાહારી વનસ્પતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ બંને વનસ્પતિઓ નાઈટ્રોજનની ઉણપ પૂરી કરવા કીટકોનો 'નાસ્તો' કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A: (1) યીસ્ટ (2) મોલ્ડ --- વિભાગ B: (A) ફૂગ (B) ફૂગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભીની બ્રેડ પર 'મોલ્ડ' જોવા મળે, અને ઢોકળા/બ્રેડ ફુલાવવા 'યીસ્ટ' વપરાય. બંને ફૂગ જ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A: (1) પોષકતત્વો (2) પોષણ --- વિભાગ B: (A) ખોરાક ગ્રહણ કરવાની પદ્ધતિ (B) ઘટકો જેવા કે કાર્બોદિત, પ્રોટીન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તત્વો એટલે વસ્તુઓ (પ્રોટીન વગેરે), અને પોષણ એટલે ખાવાની આખી રીત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A: (1) સૂર્ય (2) પર્ણરંધ્ર --- વિભાગ B: (A) ઉર્જાનો અદ્રિતીય સ્ત્રોત (B) નાના છિદ્રો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્ય વગર પૃથ્વી પર લાઈટ (ઉર્જા) નથી, અને પર્ણમાં રહેલા કાણાં એટલે રંધ્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A: (1) ખોરાકનું ફેક્ટરી (2) મૂળ --- વિભાગ B: (A) પાણી અને ખનિજ ક્ષારોનું શોષણ (B) પર્ણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફેક્ટરીમાં માલ બને (પર્ણ), અને પાયો (મૂળ) જમીનમાંથી કાચો માલ ખેંચે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A: (1) હોસ્ટ (યજમાન) (2) પેરાસાઈટ (પરોપજીવી) --- વિભાગ B: (A) અમરવેલ (B) જેની પર અમરવેલ ઊગે છે તે વૃક્ષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહેમાન (પરોપજીવી) જમવા આવે, યજમાન (હોસ્ટ) જમાડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A: (1) પાચક ઉત્સેચકો (2) કીટક --- વિભાગ B: (A) કળશપર્ણ દ્વારા પાચન (B) કીટાહારીનો ખોરાક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કળશમાં જે પ્રવાહી હોય તે 'ઉત્સેચક' છે, જે કીટકને ઓગાળી નાખે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A: (1) ખાતર (2) નાઈટ્રોજન --- વિભાગ B: (A) વાયુ સ્વરૂપે પુષ્કળ (B) પોષકતત્વોની પૂર્તિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જમીનને ભૂખ લાગે તો 'ખાતર' આપો, હવામાં 78% નાઈટ્રોજન છે પણ વનસ્પતિ સીધો લઈ શકતી નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિભાગ A: (1) લીલ અને ફૂગ (2) સહજીવન --- વિભાગ B: (A) લાઈકેન (B) સાથે જીવવું અને પોષણ મેળવવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સહ' એટલે સાથે, 'જીવન' એટલે જીવવું. લાઈકેન તેનું બેસ્ટ ઉદાહરણ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિભાગ A: (1) સૂર્ય ઉર્જાનું શોષણ (2) ખોરાકનું વહન --- વિભાગ B: (A) હરિતદ્રવ્ય (B) વાહિનીઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હરિતદ્રવ્ય એટલે સૂર્યપ્રકાશને પકડવાનો 'સોલર પેનલ', અને વાહિની એટલે વહનનો માર્ગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિભાગ A: (1) ફંગસ (ફૂગ) (2) બીજાણુઓ (Spores) --- વિભાગ B: (A) હવામાં હાજર હોય (B) અથાણાં બગાડે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અથાણું સફેદ થાય એટલે ફૂગ આવી, તેના બીજ (બીજાણુ) તો હવામાં જ તરતા હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિભાગ A: (1) સ્ટાર્ચની કસોટી (2) લીલા રંગ સિવાયના પર્ણો --- વિભાગ B: (A) હરિતદ્રવ્ય ધરાવે છે (B) આયોડિનનું દ્રાવણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્ણ લાલ હોય તો પણ અંદર છુપાયેલું હરિતદ્રવ્ય તો હોય જ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિભાગ A: (1) જમીનમાં નાઈટ્રોજન ઉમેરવો (2) પોષણના પ્રકારો --- વિભાગ B: (A) સ્વાવલંબી અને પરાવલંબી (B) કઠોળના પાક દ્વારા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેડૂતો કઠોળ વાવે એટલે યુરિયા ખાતર ઓછું નાખવું પડે!</p></div>"
+    }
+  ]
+}
