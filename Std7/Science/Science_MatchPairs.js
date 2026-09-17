@@ -855,3 +855,86 @@ var Std7_Science_MatchPairs = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "સજીવોમાં શ્વસન",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ': (1) યીસ્ટ (2) માછલી (3) અળસિયું (4) દેડકો<br>વિભાગ 'બ': (A) ત્વચા અને ફેફસાં (B) આલ્કોહોલ (C) ઝાલરો (D) ભીની ત્વચા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-B, (2)-C, (3)-D, (4)-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'યીસ્ટ-દારૂ (B), માછલી-ઝાલર (C), અળસિયું-ચામડી (D), દેડકો-બેઉ (A)'. NJ Classes યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ': (1) ઉરોદરપટલ (2) પાંસળીઓ (3) નાસિકાછિદ્ર (4) શ્વાસનળી<br>વિભાગ 'બ': (A) રક્ષણ (B) ઉરસગુહાનું તળિયું (C) હવા દાખલ થવાનો માર્ગ (D) હવાના વહન માટેની નળી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-B, (2)-A, (3)-C, (4)-D</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'તળિયું = ઉરોદરપટલ', 'રક્ષણ = પાંસળી'. NJ Classes ટ્રીક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ': (1) જારક શ્વસન (2) અજારક શ્વસન (3) સ્નાયુઓમાં અજારક શ્વસન (4) ઉચ્છવાસ<br>વિભાગ 'બ': (A) આલ્કોહોલ + CO2 (B) લેક્ટિક એસિડ (C) કાર્બન ડાયોક્સાઈડ મુક્ત થાય (D) CO2 + પાણી + શક્તિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-D, (2)-A, (3)-B, (4)-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જરક-પાણી, અજરક-દારૂ, સ્નાયુ-એસિડ'. NJ Classes શોર્ટકટ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ': (1) શ્વસન છિદ્રો (2) પર્ણરંધ્ર (3) મૂળ (4) શ્વસનનળી (Trachea)<br>વિભાગ 'બ': (A) જમીનમાંથી હવા લે છે (B) વનસ્પતિમાં વાતવિનિમય (C) કીટકોમાં વાયુવિનિમય (D) વંદાના શરીરની બાજુ પર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-D, (2)-B, (3)-A, (4)-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પર્ણ-રંધ્ર, કીટક-નળી, મૂળ-જમીન'. NJ Classes ની પદ્ધતિ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ': (1) શ્વાસ લેતી વખતે પાંસળીઓ (2) ઉચ્છવાસ વખતે પાંસળીઓ (3) શ્વાસ વખતે ઉરોદરપટલ (4) ઉચ્છવાસ વખતે ઉરોદરપટલ<br>વિભાગ 'બ': (A) ઉપર અને બહાર (B) નીચે અને અંદર (C) નીચે જાય છે (D) ઉપર મૂળ જગ્યાએ આવે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-A, (2)-B, (3)-C, (4)-D</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શ્વાસ = 'બહાર-નીચે', ઉચ્છવાસ = 'અંદર-ઉપર'. NJ Classes ટ્રીક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ': (1) શ્વાસમાં ઓક્સિજન (2) ઉચ્છવાસમાં ઓક્સિજન (3) શ્વાસમાં CO2 (4) ઉચ્છવાસમાં CO2<br>વિભાગ 'બ': (A) 0.04% (B) 21% (C) 16.4% (D) 4.4%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-B, (2)-C, (3)-A, (4)-D</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવા જેવી જ (21%), જતી વખતે ઓછી (16.4%). NJ Classes આંકડા ટ્રીક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ': (1) દોડતી વખતે (2) સૂતી વખતે (3) બગાસું આવવું (4) સ્નાયુ ખેંચાઈ જવા<br>વિભાગ 'બ': (A) શ્વસનદર સૌથી ઓછો (B) શ્વસનદર સૌથી વધુ (C) ઓક્સિજનની અછત (D) લેક્ટિક એસિડનો ભરાવો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-B, (2)-A, (3)-C, (4)-D</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'દોડવું-ફાસ્ટ, સૂવું-સ્લો, ખેંચાણ-એસિડ'. NJ Classes ટ્રીક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ': (1) ગ્લુકોઝ + ઓક્સિજન (2) ગ્લુકોઝ (ઓક્સિજન વગર) - યીસ્ટ (3) ગ્લુકોઝ (ઓક્સિજન વગર) - સ્નાયુ (4) શક્તિનું મુક્ત થવું<br>વિભાગ 'બ': (A) લેક્ટિક એસિડ (B) શ્વસન (C) CO2 + પાણી + શક્તિ (D) આલ્કોહોલ + CO2 + શક્તિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-C, (2)-D, (3)-A, (4)-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'યીસ્ટ-દારૂ, સ્નાયુ-એસિડ, જારક-પાણી'. NJ Classes ટ્રીક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ': (1) ત્વચા દ્વારા શ્વસન (2) ઝાલરફાટ (3) શ્વસન છિદ્રો (4) ફેફસાં<br>વિભાગ 'બ': (A) હાથી, પક્ષીઓ (B) માછલી (C) વંદો (D) અળસિયું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-D, (2)-B, (3)-C, (4)-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અળસિયું-ત્વચા, વંદો-કાણાં, પક્ષી-ફેફસાં'. NJ Classes ટ્રીક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ': (1) કોષીય શ્વસન (2) શ્વાસોચ્છવાસ (3) એક મિનિટમાં શ્વાસની સંખ્યા (4) અંતઃશ્વાસ<br>વિભાગ 'બ': (A) ભૌતિક પ્રક્રિયા (B) શ્વસનદર (C) કોષમાં ખોરાકનું તૂટવું (D) ઓક્સિજનયુક્ત હવા અંદર લેવી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-C, (2)-A, (3)-B, (4)-D</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કોષીય-ખોરાક, શ્વાસદર-મિનિટ, અંતઃ-અંદર'. NJ Classes!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ': (1) વંદો (2) પૃથ્વી પરના સજીવો (3) યીસ્ટ (4) ગરમ પાણીનું સ્નાન<br>વિભાગ 'બ': (A) આથવણ (B) વાતનળી (C) સ્નાયુઓના ખેંચાણમાં રાહત (D) ઊર્જા માટે શ્વસન કરે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-B, (2)-D, (3)-A, (4)-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'યીસ્ટ-આથવણ, વંદો-નળી, ગરમ પાણી-રાહત'. NJ Classes!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ': (1) પર્ણરંધ્રની આસપાસ (2) મૂળની હવાની જરૂરિયાત (3) વનસ્પતિના કોષોમાં શ્વસન (4) પર્ણરંધ્રનું કાર્ય<br>વિભાગ 'બ': (A) ગ્લુકોઝનું ઓક્સિડેશન (B) રક્ષક કોષો (C) વાયુ વિનિમય (D) જમીનના કણો વચ્ચેની જગ્યા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-B, (2)-D, (3)-A, (4)-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'રંધ્ર-રક્ષક, મૂળ-જગ્યા, કાર્ય-વિનિમય'. NJ Classes!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ': (1) શ્વસનનળી (2) શ્વાસનળી (3) નાસિકાકોટરો (4) મુખગુહા<br>વિભાગ 'બ': (A) મનુષ્યનું શ્વસન અંગ (B) કીટકોનું તંત્ર (C) નાકની અંદરની ખાલી જગ્યા (D) પાચન અને શ્વસનનો સહ-માર્ગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-B, (2)-A, (3)-C, (4)-D</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'શ્વસનનળી-કીટક, શ્વાસનળી-મનુષ્ય'. NJ Classes!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ': (1) ઓક્સિજનની હાજરીમાં (2) ઓક્સિજનની ગેરહાજરીમાં (3) સ્નાયુમાં ક્યારેક (4) ઊર્જાની જરૂરિયાત<br>વિભાગ 'બ': (A) અજારક શ્વસન (B) જારક શ્વસન (C) ભારે કસરત વખતે (D) લેક્ટિક એસિડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-B, (2)-A, (3)-D, (4)-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'હાજરી-જારક, ગેરહાજરી-અજારક'. NJ Classes ટ્રીક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ': (1) ફેફસાંનું સ્થાન (2) ફેફસાં ઘેરાયેલા છે (3) ઉરોદરપટલનું સ્થાન (4) રક્ષક કોષો<br>વિભાગ 'બ': (A) પાંસળીઓ દ્વારા (B) ઉરસગુહામાં (C) પર્ણરંધ્ર (D) ઉરસગુહાના તળિયે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1)-B, (2)-A, (3)-D, (4)-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ફેફસા-ઉરસગુહા, રક્ષક-પર્ણરંધ્ર'. NJ Classes!</p></div>"
+    }
+  ]
+}
