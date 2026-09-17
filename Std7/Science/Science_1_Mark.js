@@ -672,3 +672,311 @@ var Std7_Science_1_Mark = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "એસિડ, બેઝ અને ક્ષાર",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "એસિડ શબ્દની ઉત્પત્તિ કયા લેટિન શબ્દ પરથી થઈ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એસિડ શબ્દની ઉત્પત્તિ લેટિન શબ્દ 'એસીયર' (Acere) પરથી થઈ છે, જેનો અર્થ 'ખટાશ' થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એસીયર = એસિડ = ખાટું (Acere = Acid = Sour).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "એસિડ સ્વાદે કેવા હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એસિડ સ્વાદે ખાટા હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'એ-ખા' એટલે કે એસિડ ખાટા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "બેઝ સ્વાદે અને સ્પર્શે કેવા હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બેઝ સ્વાદે કડવા અને સ્પર્શે ચીકણા (સાબુ જેવા) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'બે-ક-ચી' - બેઝ કડવા અને ચીકણા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સૂચક એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પદાર્થ એસિડિક છે કે બેઝિક છે તેનું પરીક્ષણ કરવા માટે વપરાતા ખાસ પ્રકારના પદાર્થોને સૂચક કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સૂચક એટલે કે જે પદાર્થની પ્રકૃતિની 'સૂચના' આપે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "કોઈપણ ત્રણ કુદરતી સૂચકોના નામ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લિટમસ, હળદર અને જાસૂદની પાંખડીઓ કુદરતી સૂચકો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લ-હ-જા (લિટમસ, હળદર, જાસૂદ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "લિટમસ શેમાંથી મેળવવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લિટમસ લાઈકેન (Lichens) નામની વનસ્પતિમાંથી મેળવવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લ થી લિટમસ અને લ થી લાઈકેન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "નિસ્યંદિત પાણીમાં લિટમસનો રંગ કેવો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિસ્યંદિત પાણીમાં લિટમસનો રંગ નિલ (જાંબલી) જેવો હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નિસ્યંદિત એટલે તટસ્થ = જાંબલી રંગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "એસિડ બ્લુ (ભૂરા) લિટમસ પેપર પર શું અસર કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એસિડ ભૂરા લિટમસ પેપરને લાલ બનાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'એ-ભૂ-લા' (એસિડ ભૂરાને લાલ બનાવે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "બેઝ લાલ લિટમસ પેપર પર શું અસર કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બેઝ લાલ લિટમસ પેપરને ભૂરું બનાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'બે-લા-ભૂ' (બેઝ લાલને ભૂરું બનાવે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "તટસ્થ દ્રાવણ કોને કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે દ્રાવણો લાલ કે ભૂરા લિટમસનો રંગ બદલતા નથી, તેને તટસ્થ દ્રાવણ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કોઈ અસર નહીં = તટસ્થ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિનેગરમાં કયો એસિડ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિનેગરમાં એસિટિક એસિડ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'વિ-એ' (વિનેગર-એસિટિક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "કીડીના ડંખમાં કયો એસિડ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કીડીના ડંખમાં ફોર્મિક એસિડ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કીડી 'ફોર્મ'માં આવીને ડંખ મારે (ફોર્મિક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "નારંગી અને લીંબુમાં કયો એસિડ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નારંગી અને લીંબુ જેવા ખાટાં ફળોમાં સાઇટ્રિક એસિડ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સાઇટ્રસ ફળો = સાઇટ્રિક એસિડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "દહીંમાં કયો એસિડ રહેલો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દહીંમાં લેક્ટિક એસિડ રહેલો હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મિલ્ક પ્રોડક્ટ (દહીં) = લેક્ટિક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "પાલકની ભાજીમાં કયો એસિડ જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાલકની ભાજીમાં ઓક્ઝેલિક એસિડ જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાલક = ઓક્ઝેલિક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "આમળા અને સાઇટ્રસ ફળોમાં વિટામિન-C સિવાય કયો એસિડ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તેમાં એસ્કોર્બિક એસિડ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વિટામિન-C નું નામ એસ્કોર્બિક એસિડ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "આંબલી, દ્રાક્ષ અને કાચી કેરીમાં કયો એસિડ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ પદાર્થોમાં ટાર્ટરિક એસિડ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આંબલી 'ટાર-ટાર' જેવી ખાટી (ટાર્ટરિક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ચૂનાના પાણીમાં કયો બેઝ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચૂનાના પાણીમાં કેલ્શિયમ હાઇડ્રોક્સાઇડ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ચૂનો એટલે કેલ્શિયમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "કાચ સાફ કરવાના પ્રવાહીમાં કયો બેઝ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાચ સાફ કરવાના પ્રવાહીમાં એમોનિયમ હાઇડ્રોક્સાઇડ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વિન્ડો ક્લીનર = એમોનિયમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સાબુમાં કયા બેઝ રહેલા હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાબુમાં સોડિયમ હાઇડ્રોક્સાઇડ અથવા પોટેશિયમ હાઇડ્રોક્સાઇડ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સાબુમાં 'ના' (Na) કે 'કે' (K) હાઇડ્રોક્સાઇડ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "મિલ્ક ઓફ મેગ્નેશિયામાં કયો બેઝ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મિલ્ક ઓફ મેગ્નેશિયામાં મેગ્નેશિયમ હાઇડ્રોક્સાઇડ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નામમાં જ 'મેગ્નેશિયમ' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "હળદર પત્ર બેઝિક દ્રાવણ સાથે કેવો રંગ આપે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હળદર પત્ર બેઝિક દ્રાવણ સાથે લાલ રંગ આપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હળદર + સાબુ (બેઝ) = લાલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "જાસૂદના ફૂલનું સૂચક એસિડિક દ્રાવણ સાથે કેવો રંગ આપે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જાસૂદનું સૂચક એસિડિક દ્રાવણ સાથે ઘેરો ગુલાબી (મેજેન્ટા) રંગ આપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'જા-એ-ઘે' (જાસૂદ + એસિડ = ઘેરો ગુલાબી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "જાસૂદના ફૂલનું સૂચક બેઝિક દ્રાવણ સાથે કેવો રંગ આપે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જાસૂદનું સૂચક બેઝિક દ્રાવણ સાથે લીલો રંગ આપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'જા-બે-લી' (જાસૂદ + બેઝ = લીલો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "એસિડ વર્ષા (Acid Rain) માટે કયા વાયુઓ મુખ્યત્વે જવાબદાર છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાર્બન ડાયોક્સાઇડ, સલ્ફર ડાયોક્સાઇડ અને નાઇટ્રોજન ડાયોક્સાઇડ એસિડ વર્ષા માટે જવાબદાર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): CO2, SO2, NO2 ના કારણે એસિડ વર્ષા થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "તટસ્થીકરણની પ્રક્રિયા એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એસિડ અને બેઝ વચ્ચે થતી રાસાયણિક પ્રક્રિયાને તટસ્થીકરણ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એસિડ + બેઝ = તટસ્થ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "તટસ્થીકરણની પ્રક્રિયાના અંતે કયા પદાર્થો ઉત્પન્ન થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તટસ્થીકરણની પ્રક્રિયામાં ક્ષાર, પાણી અને ઉષ્મા ઉત્પન્ન થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ક્ષાર + પાણી + ગરમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ફિનોલ્ફથેલીન એસિડિક દ્રાવણમાં કેવો રંગ આપે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફિનોલ્ફથેલીન એસિડિક દ્રાવણમાં રંગવિહીન રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એસિડમાં કોઈ રંગ નહીં (રંગવિહીન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ફિનોલ્ફથેલીન બેઝિક દ્રાવણમાં કેવો રંગ આપે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફિનોલ્ફથેલીન બેઝિક દ્રાવણમાં ગુલાબી રંગ આપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બેઝ + ફિનોલ્ફથેલીન = ગુલાબી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "જઠરમાં ખોરાકના પાચનમાં કયો એસિડ મદદરૂપ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જઠરમાં હાઇડ્રોક્લોરિક એસિડ (HCl) ખોરાકના પાચનમાં મદદ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જઠરનો રાજા HCl.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "અપાચન (Indigestion) ના સમયે કઈ દવા લેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અપાચનના સમયે 'એન્ટાસિડ' (પ્રતિ-એસિડ) જેવી કે મિલ્ક ઓફ મેગ્નેશિયા લેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એસિડિટી ઘટાડવા એન્ટાસિડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "કીડીના ડંખની અસરને નાબૂદ કરવા ચામડી પર શું ઘસવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કીડીના ડંખની અસર નાબૂદ કરવા ખાવાનો સોડા (સોડિયમ હાઇડ્રોજન કાર્બોનેટ) અથવા કેલેમાઇન લોશન ઘસવું જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એસિડ સામે બેઝિક સોડા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "ખેતીની જમીન વધુ પડતી એસિડિક હોય તો શું ઉમેરવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જમીન વધુ એસિડિક હોય તો તેમાં ક્વિક લાઇમ (કેલ્શિયમ ઓક્સાઇડ) કે સ્લેક્ડ લાઇમ (કેલ્શિયમ હાઇડ્રોક્સાઇડ) જેવા બેઝ ઉમેરવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એસિડિક જમીન + બેઝિક લાઇમ = તટસ્થ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "ખેતીની જમીન વધુ પડતી બેઝિક હોય તો શું ઉમેરવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જમીન વધુ બેઝિક હોય તો તેમાં સેન્દ્રિય પદાર્થો (ખાતર) ઉમેરવામાં આવે છે, જે એસિડ મુક્ત કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બેઝિક જમીન + સેન્દ્રિય એસિડ = તટસ્થ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "કારખાનાઓમાંથી નીકળતા કચરાને પાણીમાં વહેવડાવતા પહેલા શા માટે તટસ્થ કરવો જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કારખાનાનો કચરો એસિડિક હોય છે, જે જળચર જીવોને નુકસાન પહોંચાડી શકે છે, તેથી તેને બેઝિક પદાર્થ ઉમેરી તટસ્થ કરવો જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): માછલી બચાવવા એસિડ હટાવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "કેલેમાઇન લોશનમાં કયો રાસાયણિક પદાર્થ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેલેમાઇન લોશનમાં ઝિંક કાર્બોનેટ નામનો બેઝિક પદાર્થ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કેલેમાઇન = ઝિંક કાર્બોનેટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "તટસ્થીકરણની પ્રક્રિયામાં ઉષ્મા ઉત્પન્ન થવાથી શું થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તટસ્થીકરણની પ્રક્રિયામાં ઉષ્મા ઉત્પન્ન થવાથી પ્રક્રિયા મિશ્રણનું તાપમાન વધે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગરમી વધી એટલે તાપમાન વધ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "શું ખાવાનો સોડા (Baking Soda) સ્વાદે ખાટો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, ખાવાનો સોડા સ્વાદે કડવો હોય છે કારણ કે તે બેઝિક પ્રકૃતિ ધરાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સોડા = બેઝ = કડવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "કપડાં પર પડેલા હળદરના ડાઘા સાબુથી ધોતા લાલ કેમ થઈ જાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાબુનું દ્રાવણ બેઝિક હોવાથી તે હળદર (સૂચક) સાથે પ્રક્રિયા કરી લાલ રંગ આપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હળદર + બેઝ = હંમેશા લાલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "હાઇડ્રોક્લોરિક એસિડ અને સોડિયમ હાઇડ્રોક્સાઇડ વચ્ચેની તટસ્થીકરણ પ્રક્રિયામાં કયો ક્ષાર બને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ પ્રક્રિયામાં સોડિયમ ક્લોરાઇડ (મીઠું) નામનો ક્ષાર બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): HCl + NaOH -> NaCl (મીઠું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "કયું દ્રાવણ લાલ અને ભૂરા બંને લિટમસ પેપર પર અસર કરતું નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખાંડ કે મીઠાનું દ્રાવણ (તટસ્થ દ્રાવણો) લિટમસ પર કોઈ અસર કરતા નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): તટસ્થ પદાર્થો રંગ બદલતા નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "લિચેન (Lichen) એ કઈ બે વનસ્પતિઓનું સહજીવન છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લિચેન એ ફૂગ અને લીલનું સહજીવન છે (જોકે અહીં તે લિટમસના સ્ત્રોત તરીકે પ્રકરણમાં છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લિચેન એટલે કુદરતી રંગસૂચકનો પિતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "સોડા વોટરની પ્રકૃતિ કેવી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સોડા વોટરની પ્રકૃતિ એસિડિક હોય છે કારણ કે તેમાં કાર્બનિક એસિડ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સોડામાં ગેસ (CO2) એસિડ બનાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "મેગ્નેશિયમની પટ્ટીને સળગાવતા મળતી રાખને પાણીમાં ઓગાળતા કયું દ્રાવણ મળે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મેગ્નેશિયમની રાખને પાણીમાં ઓગાળતા મેગ્નેશિયમ હાઇડ્રોક્સાઇડનું બેઝિક દ્રાવણ મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ધાતુના ઓક્સાઇડ હંમેશા બેઝિક હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "લિટમસ દ્રાવણ તરીકે સિવાય કયા સ્વરૂપે ઉપલબ્ધ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લિટમસ કાગળની પટ્ટીઓના સ્વરૂપે ઉપલબ્ધ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લિટમસ પેપર = ભૂરા અને લાલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "શું બધા ક્ષાર તટસ્થ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, ક્ષાર એસિડિક, બેઝિક કે તટસ્થ એમ કોઈ પણ પ્રકૃતિના હોઈ શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ક્ષારના ત્રણ રૂપ - એસિડિક, બેઝિક, તટસ્થ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "એસિડ અને બેઝના ટીપાંથી ફિનોલ્ફથેલીનમાં રંગ પરિવર્તનને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તેને સૂચક દ્વારા થતું તટસ્થીકરણનું પરીક્ષણ કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રંગ બદલાય એટલે સૂચક કામ કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "ક્વિક લાઇમનું રાસાયણિક નામ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ક્વિક લાઇમનું રાસાયણિક નામ કેલ્શિયમ ઓક્સાઇડ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ક્વિક લાઇમ = CaO.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "સ્લેક્ડ લાઇમનું રાસાયણિક નામ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્લેક્ડ લાઇમનું રાસાયણિક નામ કેલ્શિયમ હાઇડ્રોક્સાઇડ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભીંજવેલો ચૂનો = સ્લેક્ડ લાઇમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "વિટામિન સી (Vitamin C) કયા એસિડ તરીકે ઓળખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિટામિન સી એ એસ્કોર્બિક એસિડ તરીકે ઓળખાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): C = Ascorbic.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 51",
+      "question": "એસિડ વર્ષા જમીન અને વનસ્પતિને કેવી રીતે નુકસાન કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એસિડ વર્ષા જમીનને એસિડિક બનાવે છે અને વનસ્પતિના પાંદડાને નુકસાન પહોંચાડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એસિડ + વનસ્પતિ = નુકસાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 52",
+      "question": "શું ખાવાનો સોડા એસિડિક છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, ખાવાનો સોડા બેઝિક પ્રકૃતિ ધરાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સોડા હંમેશા એસિડિટી ઘટાડે, એટલે તે પોતે બેઝ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 53",
+      "question": "ચૂનાના પાણીમાં કાર્બન ડાયોક્સાઇડ વાયુ પસાર કરતા શું થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચૂનાનું પાણી દૂધિયું બની જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): CO2 + ચૂનાનું પાણી = દૂધિયું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્n 54",
+      "question": "સંશ્લેષિત (Synthetic) સૂચકનું એક ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફિનોલ્ફથેલીન એ એક સંશ્લેષિત સૂચક છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લેબમાં બને એટલે સંશ્લેષિત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 55",
+      "question": "એસિડ અને બેઝ વચ્ચેની પ્રક્રિયાથી બનતા પદાર્થને શું કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એસિડ અને બેઝ વચ્ચેની પ્રક્રિયાથી બનતા નવા પદાર્થને ક્ષાર (Salt) કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એસિડ + બેઝ = ક્ષાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 56",
+      "question": "જઠરમાં એસિડિટી થવાનું કારણ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જઠરમાં જ્યારે હાઇડ્રોક્લોરિક એસિડનું પ્રમાણ જરૂર કરતાં વધી જાય ત્યારે એસિડિટી થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વધુ એસિડ = એસિડિટી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 57",
+      "question": "પ્રયોગશાળામાં વપરાતા ત્રણ મુખ્ય એસિડના નામ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હાઇડ્રોક્લોરિક એસિડ, સલ્ફ્યુરિક એસિડ અને નાઇટ્રિક એસિડ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): HCl, H2SO4, HNO3.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 58",
+      "question": "શા માટે ચીકણા પદાર્થો મોટે ભાગે બેઝ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બેઝિક પદાર્થોનો ગુણધર્મ જ સ્પર્શે ચીકણા રહેવાનો છે, જેમ કે સાબુ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બેઝ = ચીકણા સાબુ જેવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 59",
+      "question": "તટસ્થીકરણ એ કેવો ફેરફાર છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તટસ્થીકરણ એ રાસાયણિક ફેરફાર છે કારણ કે તેમાં નવા પદાર્થો ઉત્પન્ન થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નવો પદાર્થ બન્યો એટલે રાસાયણિક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 60",
+      "question": "જમીનમાં સેન્દ્રિય પદાર્થો ઉમેરવાથી શું ફાયદો થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સેન્દ્રિય પદાર્થો એસિડ મુક્ત કરે છે જે જમીનની બેઝિક પ્રકૃતિને તટસ્થ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ખાતર = કુદરતી એસિડ સ્ત્રોત.</p></div>"
+    }
+  ]
+}
