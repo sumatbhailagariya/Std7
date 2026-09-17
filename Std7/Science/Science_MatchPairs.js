@@ -1154,3 +1154,111 @@ var Std7_Science_MatchPairs = {
     }
   ]
 }
+,
+"13": {
+  "chapterName": "પ્રકરણ 13",
+  "chapterTitle": "પ્રદૂષિત પાણીની વાર્તા",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. કાર્બનિક અશુદ્ધિઓ<br>2. અકાર્બનિક અશુદ્ધિઓ<br><br>વિભાગ 'બ':<br>A. નાઈટ્રેટ્સ અને ફોસ્ફેટ્સ<br>B. માનવ મળ અને તેલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કા-મા' (કાર્બનિક-માનવ મળ) અને 'અ-ના' (અકાર્બનિક-નાઈટ્રેટ્સ) યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. પોષક તત્વો<br>2. બેક્ટેરિયા<br><br>વિભાગ 'બ':<br>A. ટાઈફોઈડ અને કોલેરા ફેલાવે<br>B. નાઈટ્રોજન અને ફોસ્ફરસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેતરમાં 'N-P' (નાઈટ્રોજન-ફોસ્ફરસ) નાખીએ એ પોષક તત્વો કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. ગટરના પાઈપોનું જાળું<br>2. ગટર વ્યવસ્થામાં હોલ<br><br>વિભાગ 'બ':<br>A. મેનહોલ (Manhole)<br>B. ગટર માર્ગ (Sewerage)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઈપોનું નેટવર્ક એટલે 'Sewerage' અને ચેકિંગ માટેનો ખાડો એટલે 'Manhole'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. બાર સ્ક્રીન (Bar Screen)<br>2. સ્કીમર (Skimmer)<br><br>વિભાગ 'બ':<br>A. તરતા તેલ અને ગ્રીસ દૂર કરવા<br>B. મોટી વસ્તુઓ (ચિથરાં, લાકડીઓ) દૂર કરવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ક્રીન (જાળી) મોટી વસ્તુ રોકે, સ્કીમર (Skimmer) તરતી ચીજ 'સ્કિમ' (દૂર) કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. એરેટર (Aerator)<br>2. કાદવ (Sludge)<br><br>વિભાગ 'બ':<br>A. બાયોગેસ મેળવવા વપરાય<br>B. વાયુજીવી બેક્ટેરિયાની વૃદ્ધિ કરે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એરેટર = 'Air' (હવા) આપે, કાદવ = ગેસ (બાયોગેસ) આપે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. પાણીને જંતુમુક્ત કરવા<br>2. ઓછી કિંમતની મળ નિકાલ વ્યવસ્થા<br><br>વિભાગ 'બ':<br>A. સેપ્ટિક ટેન્ક (Septic tank)<br>B. ઓઝોન અને ક્લોરીન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જંતુ મારવા માટે 'OC' (Ozone, Chlorine) યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. વિબ્રિયો કોલેરી<br>2. સાલ્મોનેલા ટાઈફી<br><br>વિભાગ 'બ':<br>A. ટાઈફોઈડ<br>B. કોલેરા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામના છેડે જ જવાબ છે: 'કોલેરી' તો કોલેરા, 'ટાઈફી' તો ટાઈફોઈડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. શુષ્ક કાદવ<br>2. ગટરલાઈન બ્લોક કરે<br><br>વિભાગ 'બ':<br>A. ખાદ્ય તેલ અને ચરબી<br>B. ખાતર તરીકે વપરાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેલ થીજી જાય એટલે ગટર જામ (બ્લોક) થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. પાણીથી ફેલાતો રોગ<br>2. પ્રદૂષિત પાણીના ઉપચારનો પ્લાન્ટ<br><br>વિભાગ 'બ':<br>A. WWTP<br>B. મેનિન્જાઈટીસ (Meningitis)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Wastewater Treatment Plant ને ટૂંકમાં 'WWTP' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. ગ્રીટ અને રેતી દૂર કરવાની ટાંકી<br>2. ક્લેરિફાયર (Clarifier)<br><br>વિભાગ 'બ':<br>A. પાણીને સ્થિર કરી કાદવ બેસાડવો<br>B. અવસાદન દ્વારા કાંકરી દૂર કરવી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્રીટ એટલે કાંકરી, જે વજનના લીધે નીચે બેસી જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. જંતુનાશકો અને હર્બિસાઈડ્સ<br>2. ધાતુઓ<br><br>વિભાગ 'બ':<br>A. અકાર્બનિક અશુદ્ધિ<br>B. કાર્બનિક અશુદ્ધિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દવાઓ (જંતુનાશક) કાર્બનિક હોય, પણ લોખંડ-તાંબુ (ધાતુ) અકાર્બનિક હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. વર્મી-પ્રોસેસિંગ શૌચાલય<br>2. રાસાયણિક શૌચાલય<br><br>વિભાગ 'બ':<br>A. વિમાન અને બસમાં વપરાશ<br>B. અળસિયા દ્વારા મળનો નિકાલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વર્મી' એટલે 'Worm' (અળસિયું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. યુરિયા (મૂત્ર)<br>2. ફળ અને શાકભાજીનો કચરો<br><br>વિભાગ 'બ':<br>A. કાર્બનિક અશુદ્ધિ<br>B. પોષક તત્વોનો સ્ત્રોત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ બંને કુદરતી કચરો હોવાથી 'કાર્બનિક' જ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. કાદવનું વિઘટન કરનાર<br>2. હવા દાખલ કરનાર મશીન<br><br>વિભાગ 'બ':<br>A. એરેટર<br>B. અવાયુજીવી બેક્ટેરિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાદવનું વિઘટન હવા વગર (અવાયુજીવી) થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. વિશ્વ જળ દિવસ<br>2. આંતરરાષ્ટ્રીય દાયકો (પાણી માટે)<br><br>વિભાગ 'બ':<br>A. 2005 - 2015<br>B. 22 માર્ચ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '22 માર્ચ' - પાણી બચાવો, જિંદગી બચાવો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. પ્રોટોઝોઆ<br>2. વાયરસ<br><br>વિભાગ 'બ':<br>A. પોલિયો અને હેપેટાઈટીસ<br>B. મરડો (Dysentery)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'P-D' (પ્રોટોઝોઆ-Dysentery) અને 'V-P' (વાયરસ-પોલિયો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. સાફ કરેલું પાણી (Clarified water)<br>2. ગટર (Sewage)<br><br>વિભાગ 'બ':<br>A. પ્રવાહી કચરો<br>B. ગંધમુક્ત અને પારદર્શક પાણી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Clarified' એટલે જે ચોખ્ખું (Clear) થઈ ગયું છે તે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. રંગ અને દ્રાવકો<br>2. ચાની પત્તી અને ખાદ્ય કચરો<br><br>વિભાગ 'બ':<br>A. ગટર બ્લોક કરે (ન ફેંકવા જોઈએ)<br>B. સૂક્ષ્મજીવોને મારી નાખે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેમિકલ (રંગ) જીવડાં મારે, ઘન કચરો ગટર જામ કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. ઓન-સાઈટ નિકાલ પ્રણાલી<br>2. સામુદાયિક સ્વચ્છતા<br><br>વિભાગ 'બ':<br>A. જાહેર સ્થળોએ સ્વચ્છતા<br>B. સેપ્ટિક ટેન્ક અને કમ્પોસ્ટિંગ ખાડા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઓન-સાઈટ' એટલે જ્યાં કચરો ઉત્પન્ન થાય ત્યાં જ નિકાલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. ડિસઇન્ફેક્ટન્ટ (Disinfectant)<br>2. ટ્રીટમેન્ટ પ્લાન્ટના બાય-પ્રોડક્ટ્સ<br><br>વિભાગ 'બ':<br>A. કાદવ અને બાયોગેસ<br>B. ક્લોરીન ગોળીઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડિસઇન્ફેક્ટન્ટ એટલે જંતુનાશક દવા.</p></div>"
+    }
+  ]
+}
