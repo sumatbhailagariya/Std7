@@ -938,3 +938,136 @@ var Std7_Science_MatchPairs = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "પ્રકાશ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) સમતલ અરીસો, (2) બહિર્ગોળ અરીસો \nવિભાગ B: (i) વાહનોમાં સાઈડ વ્યુ મિરર તરીકે, (ii) વસ્તુના જેવડું જ પ્રતિબિંબ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'સમતલ' એટલે બધું 'સમાન' (વસ્તુ જેવડું) અને 'બહિર્ગોળ' એટલે 'બહાર'નો ટ્રાફિક જોવા માટે વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) અંતર્ગોળ અરીસો, (2) અંતર્ગોળ લેન્સ \nવિભાગ B: (i) હંમેશા આભાસી અને નાનું પ્રતિબિંબ, (ii) દાંતના ડોક્ટર દ્વારા તપાસ માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'અંતર્ગોળ અરીસો' ડોક્ટરને 'મોટું' જોવામાં મદદ કરે, જ્યારે 'અંતર્ગોળ લેન્સ' હંમેશા 'નાનું' જ બતાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) બહિર્ગોળ લેન્સ, (2) પ્રિઝમ \nવિભાગ B: (i) પ્રકાશનું સાત રંગોમાં વિભાજન, (ii) મેગ્નિફાઈંગ ગ્લાસ (બિલોરી કાચ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'બહિર્ગોળ લેન્સ' એટલે 'બિલોરી' કાચ (બ-બ) અને પ્રિઝમ એટલે 'સાત રંગનો રાજા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) વાસ્તવિક પ્રતિબિંબ, (2) આભાસી પ્રતિબિંબ \nવિભાગ B: (i) પડદા પર મેળવી શકાતું નથી, (ii) પડદા પર મેળવી શકાય છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'વાસ્તવિક' એટલે જે 'પડદા' પર દેખાય (જેમ કે મૂવી), 'આભાસી' માત્ર અરીસામાં દેખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) શ્વેત પ્રકાશ, (2) ન્યૂટનની તકતી \nવિભાગ B: (i) સાત રંગોનું મિશ્રણ, (ii) ઝડપથી ફેરવતા સફેદ દેખાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સૂર્યપ્રકાશ 'શ્વેત' છે પણ તેમાં 7 રંગો છુપાયેલા છે, ન્યૂટનની તકતી ફરે ત્યારે 7 માંથી 1 (સફેદ) થઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) ટોર્ચનું પરાવર્તક, (2) ગાડીનો સાઈડ ગ્લાસ \nવિભાગ B: (i) બહિર્ગોળ અરીસો, (ii) અંતર્ગોળ અરીસો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ટોર્ચની 'અંદર' અંતર્ગોળ હોય, અને 'બહાર'નો ટ્રાફિક જોવા બહિર્ગોળ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) પ્રકાશનું પરાવર્તન, (2) પ્રકાશનો માર્ગ \nવિભાગ B: (i) સીધી રેખામાં ગતિ, (ii) અરીસા વડે દિશા બદલાવી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્રકાશ હંમેશા 'સીધો' ચાલે, પણ અરીસો સામે આવે તો 'બાઉન્સ' (પરાવર્તન) થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) પાર્શ્વ વ્યુત્ક્રમન, (2) એમ્બ્યુલન્સ \nવિભાગ B: (i) અરીસામાં ઉલટું લખાણ સીધું વંચાય, (ii) ડાબી બાજુ જમણી દેખાવી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'પાર્શ્વ' એટલે 'બાજુ' બદલાવી (ડાબું-જમણું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) બહિર્ગોળ લેન્સની કિનારી, (2) અંતર્ગોળ લેન્સની કિનારી \nવિભાગ B: (i) મધ્ય કરતાં પાતળી, (ii) મધ્ય કરતાં જાડી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બહિર્ગોળ 'બહાર'થી પાતળો અને વચ્ચેથી 'પેટ' બહાર કાઢેલું (જાડો) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) મેઘધનુષ, (2) સીડી (CD) ની સપાટી \nવિભાગ B: (i) આકાશમાં સાત રંગો, (ii) પરાવર્તિત પ્રકાશમાં અનેક રંગો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બંનેમાં 'પ્રકાશનું વિભાજન' જોવા મળે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) સમતલ અરીસો (અંતર), (2) આભાસી પ્રતિબિંબ \nવિભાગ B: (i) હંમેશા ચત્તું, (ii) વસ્તુનું અરીસાથી અંતર = પ્રતિબિંબનું અંતર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમતલ અરીસો એટલે 'કાચની અંદર પણ એટલો જ દૂર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) અભિસારી લેન્સ, (2) અપસારી લેન્સ \nવિભાગ B: (i) અંતર્ગોળ લેન્સ, (ii) બહિર્ગોળ લેન્સ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'બહિર્ગોળ' પ્રકાશને 'ભેગો' (અભિસારી) કરે, 'અંતર્ગોળ' પ્રકાશને 'છૂટો' (અપસારી) પાડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) સાચું પ્રતિબિંબ, (2) પ્રતિબિંબનું કદ નાનું \nવિભાગ B: (i) બહિર્ગોળ અરીસો, (ii) વાસ્તવિક પ્રતિબિંબ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વાસ્તવિક એટલે સાચું. બહિર્ગોળ અરીસો હંમેશા 'નાનું' જ બતાવે એટલે તો રસ્તા પરની બધી ગાડીઓ કાચમાં સમાઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) જિજ્ઞાસા (વસ્તુ જોવા માટે), (2) પેરીસ્કોપ \nવિભાગ B: (i) સમતલ અરીસાનો ઉપયોગ, (ii) પ્રકાશનું પરાવર્તન જરૂરી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પેરીસ્કોપ એટલે 'ઉપરનું નીચે જોવાનું સાધન' જેમાં સમતલ અરીસા વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) કેલિડોસ્કોપ, (2) લેન્સ \nવિભાગ B: (i) પારદર્શક પદાર્થ, (ii) ભાત જોવા માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લેન્સમાંથી પ્રકાશ 'આરપાર' નીકળે એટલે પારદર્શક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) મોટું પ્રતિબિંબ, (2) હંમેશા ચત્તું પ્રતિબિંબ \nવિભાગ B: (i) અંતર્ગોળ અરીસો (નજીક રાખતા), (ii) સમતલ અરીસો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (i), (2) - (ii)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમતલ અરીસામાં આપણે ક્યારેય ઉલટા દેખાતા નથી, હંમેશા ચત્તા જ હોઈએ છીએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) સ્પેક્ટ્રમ (વર્ણપટ), (2) સૂર્યપ્રકાશ \nવિભાગ B: (i) ઉર્જાનો સ્ત્રોત અને શ્વેત રંગ, (ii) સાત રંગોની શ્રેણી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'જાનીવાલીપીનારા' એટલે જ સ્પેક્ટ્રમ (વર્ણપટ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) અંતર્ગોળ અરીસાની સપાટી, (2) બહિર્ગોળ અરીસાની સપાટી \nવિભાગ B: (i) બહારની તરફ ઉપસેલી, (ii) અંદરની તરફ વળેલી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'અંતર' એટલે અંદર અને 'બહિર' એટલે બહાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) સ્ટેનલેસ સ્ટીલની ચમચી (અંદરનો ભાગ), (2) ચમચીનો બહારનો ભાગ \nવિભાગ B: (i) બહિર્ગોળ અરીસા જેવો, (ii) અંતર્ગોળ અરીસા જેવો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ચમચીમાં જમવાનું ભરીએ તે 'અંદર' (અંતર્ગોળ) અને પાછળનો ભાગ 'બહાર' (બહિર્ગોળ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) રિયલ ઈમેજ (Real Image), (2) વર્ચ્યુઅલ ઈમેજ (Virtual Image) \nવિભાગ B: (i) અરીસાની પાછળ રચાતું પ્રતિબિંબ, (ii) પડદા પર ઝીલાતું પ્રતિબિંબ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વાસ્તવિક (Real) હંમેશા પડદા (Screen) પર આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) મોટી વસ્તુનું નાનું પ્રતિબિંબ, (2) નાની વસ્તુનું મોટું પ્રતિબિંબ \nવિભાગ B: (i) અંતર્ગોળ અરીસો, (ii) બહિર્ગોળ અરીસો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બહિર્ગોળ 'વાઈડ એન્ગલ' આપે એટલે મોટી દુનિયા નાના કાચમાં દેખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) ટેલિસ્કોપ, (2) ચશ્માં \nવિભાગ B: (i) લેન્સનો ઉપયોગ, (ii) દૂરની વસ્તુ જોવા લેન્સ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લેન્સ વગર જોવું મુશ્કેલ છે, પછી તે ચશ્માં હોય કે ટેલિસ્કોપ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) ડાર્ક રૂમમાં ટોર્ચ, (2) અરીસા પર ટોર્ચનો પ્રકાશ \nવિભાગ B: (i) પરાવર્તન અનુભવે, (ii) સીધી રેખામાં કિરણપુંજ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્રકાશ 'સીધો' જાય અને અરીસા સાથે ' અથડાઈને પાછો' આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) લાલ રંગ, (2) જાંબલી રંગ \nવિભાગ B: (i) મેઘધનુષમાં સૌથી નીચે, (ii) મેઘધનુષમાં સૌથી ઉપર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): યાદ રાખો 'જા-ની-વા-લી-પી-ના-રા'. જાંબલી (જા) નીચે, રાતો/લાલ (રા) ઉપર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) અરીસો, (2) લેન્સ \nવિભાગ B: (i) પ્રકાશનું વક્રીભવન/આરપાર જવું, (ii) પ્રકાશનું પરાવર્તન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ii), (2) - (i)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અરીસો એટલે 'ભટકાવવું' (Reflect) અને લેન્સ એટલે 'પાર કરવું'.</p></div>"
+    }
+  ]
+}
