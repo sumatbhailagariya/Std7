@@ -1987,3 +1987,211 @@ var Std7_Science_1_Mark = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "ગતિ અને સમય",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પદાર્થની ઝડપ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પદાર્થે એકમ સમયમાં કાપેલા અંતરને તે પદાર્થની ઝડપ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઝડપ એટલે 'એકમ સમયનો કાપેલ રસ્તો'. બસ આટલું યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ઝડપ શોધવા માટેનું સૂત્ર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઝડપ = કાપેલું કુલ અંતર / તે માટે લાગેલો કુલ સમય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ઝડપ = અ / સ' (અંતર ઉપર, સમય નીચે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ઝડપનો મૂળભૂત એકમ કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઝડપનો મૂળભૂત એકમ મીટર/સેકન્ડ (m/s) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અંતરનો m અને સમયનો s, ભેગા કરો એટલે m/s!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "નિયમિત ગતિ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે પદાર્થ સીધા માર્ગ પર અચળ ઝડપે ગતિ કરતો હોય, ત્યારે તેની ગતિને નિયમિત ગતિ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'અચળ ઝડપ + સીધો રસ્તો = નિયમિત ગતિ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "અનિયમિત ગતિ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જો સુરેખ પથ પર ગતિ કરતા પદાર્થની ઝડપ બદલાતી રહેતી હોય, તો તેવી ગતિને અનિયમિત ગતિ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે ગતિમાં ઝડપ વારંવાર બદલાય, તે જ 'અનિયમિત'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "આવર્ત ગતિનું એક ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લોલકની ગતિ અથવા હીંચકાની ગતિ એ આવર્ત ગતિના ઉદાહરણો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે ગતિમાં પદાર્થ વારંવાર એક જ પથ પર પાછો આવે તે 'આવર્ત'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સાદા લોલકમાં લોખંડના નાના ગોળાને શું કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાદા લોલકના લોખંડના નાના ગોળાને 'બૉબ' (Bob) કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લોલકનો ગોળો = 'બૉબ'. (નાનું નામ, યાદ રાખવું સરળ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "લોલકનું એક દોલન એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લોલક તેના મધ્યમાન સ્થાનથી એક બાજુએ જઈને બીજી બાજુએ જઈ ફરી મધ્યમાન સ્થાને આવે તેને એક દોલન કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એક ચક્કર પૂરું કરવું = એક દોલન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "આવર્તકાળ કોને કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લોલકને એક દોલન પૂર્ણ કરવા માટે લાગતા સમયને તેનો આવર્તકાળ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આવર્તકાળ એટલે 'એક દોલનનો ટાઈમ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સમયનો મૂળભૂત એકમ કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમયનો મૂળભૂત એકમ સેકન્ડ (s) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઘડિયાળનો કાંટો ટક-ટક થાય એ 'સેકન્ડ' સૌથી પાયાનો એકમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વાહનોમાં ઝડપ માપવા માટે કયા સાધનનો ઉપયોગ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાહનોમાં ઝડપ માપવા માટે 'સ્પીડોમીટર' (Speedometer) નો ઉપયોગ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સ્પીડ માપે તે સ્પીડોમીટર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વાહને કાપેલું અંતર માપવા માટે કયું સાધન વપરાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાહને કાપેલું અંતર માપવા માટે 'ઓડોમીટર' (Odometer) વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અંતર (Distance) માપવા માટે ઓડોમીટર યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "પ્રાચીન સમયમાં લોકો સમયના માપન માટે કયા સાધનો વાપરતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રાચીન સમયમાં લોકો રેતઘડી, જલઘડી અને છાયાયંત્રો (ધૂપઘડી) જેવા સાધનો વાપરતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રેતી, પાણી અને તડકો - આ ત્રણથી સમય મપાતો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "એક માઈક્રોસેકન્ડ એટલે કેટલો સમય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક માઈક્રોસેકન્ડ એટલે એક સેકન્ડનો દસ લાખમો ભાગ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): માઈક્રો = 10 લાખમો ભાગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "એક નેનોસેકન્ડ એટલે કેટલો સમય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક નેનોસેકન્ડ એટલે એક સેકન્ડનો અબજમો ભાગ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નેનો એટલે અબજમો ભાગ (ખૂબ જ નાનો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "અંતર-સમયના આલેખમાં 'સમય' ને કઈ ધરી પર દર્શાવવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમયને આલેખમાં X-ધરી (આડી ધરી) પર દર્શાવવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): X-ધરી હંમેશા સ્વતંત્ર ચલ (સમય) માટે હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "અંતર-સમયના આલેખમાં 'અંતર' ને કઈ ધરી પર દર્શાવવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંતરને આલેખમાં Y-ધરી (ઊભી ધરી) પર દર્શાવવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Y-ધરી એટલે ઊંચાઈ, જેમાં અંતર વધતું દેખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "નિયમિત ગતિ કરતા પદાર્થનો અંતર-સમયનો આલેખ કેવો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિયમિત ગતિ કરતા પદાર્થનો અંતર-સમયનો આલેખ સીધી રેખા (સુરેખા) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નિયમિત ગતિ = સીધી રેખા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "1 મિનિટમાં કેટલી સેકન્ડ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 મિનિટમાં 60 સેકન્ડ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 60 નો આંકડો સમયના માપનમાં કિંગ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "1 કલાકમાં કેટલી મિનિટ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 કલાકમાં 60 મિનિટ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1 કલાક = 60 મિનિટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "અંતર શોધવા માટેનું સૂત્ર શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંતર = ઝડપ × સમય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અંતર મેળવવા માટે ઝડપ અને સમયનો ગુણાકાર કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સમય શોધવા માટેનું સૂત્ર શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમય = અંતર / ઝડપ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'સ = અ / ઝ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "આધુનિક સમયમાં કઈ ઘડિયાળો વધુ વપરાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આધુનિક સમયમાં ક્વાર્ટઝ ક્લોક (Quartz Clock) વધુ વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સેલથી ચાલતી ઘડિયાળ એટલે 'ક્વાર્ટઝ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "લોલકની લંબાઈ વધારતા તેના આવર્તકાળ પર શું અસર થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લોલકની લંબાઈ વધારતા તેનો આવર્તકાળ વધે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લાંબુ લોલક = ધીમી ગતિ = વધુ સમય (આવર્તકાળ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ઝડપનો મોટો એકમ કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઝડપનો મોટો એકમ કિમી/કલાક (km/h) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વાહનોની ઝડપ હંમેશા km/h માં મપાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "એક દિવસની કુલ કેટલી સેકન્ડ થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક દિવસની કુલ 86,400 સેકન્ડ થાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 24 કલાક × 60 મિનિટ × 60 સેકન્ડ = 86400.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "લોલકના આવર્તકાળની શોધ કોણે કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લોલકના આવર્તકાળની શોધ ગેલીલિયો ગેલીલી નામના વૈજ્ઞાનિકે કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ચર્ચમાં ઝૂલતા દીવા પરથી 'ગેલીલિયો' ને વિચાર આવ્યો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "જો પદાર્થ સ્થિર હોય, તો તેનો અંતર-સમયનો આલેખ કેવો મળે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જો પદાર્થ સ્થિર હોય, તો આલેખ X-ધરીને સમાંતર સીધી રેખા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સ્થિર પદાર્થ = ઊંચાઈ (અંતર) ન વધે, માત્ર સમય વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ચિત્તાની મહત્તમ ઝડપ આશરે કેટલી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચિત્તાની મહત્તમ ઝડપ આશરે 112 કિમી/કલાક (km/h) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પૃથ્વી પરનું સૌથી ઝડપી પ્રાણી = 112 km/h.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "રોકેટની ઝડપ સામાન્ય રીતે કયા એકમમાં મપાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રોકેટની ઝડપ સામાન્ય રીતે કિમી/સેકન્ડ (km/s) માં મપાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રોકેટ બહુ ફાસ્ટ હોય એટલે 1 સેકન્ડમાં કેટલા કિમી કાપે તે જોવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "જ્યારે કોઈ પદાર્થ સમાન સમયગાળામાં સમાન અંતર કાપે, ત્યારે તેની ઝડપને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તેને પદાર્થની 'અચળ ઝડપ' કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમાન સમય + સમાન અંતર = અચળ ઝડપ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "ગતિના પ્રકારો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગતિના મુખ્ય પ્રકારોમાં સુરેખ ગતિ, વર્તુળાકાર ગતિ અને આવર્ત ગતિનો સમાવેશ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સીધું (સુરેખ), ગોળ (વર્તુળ) અને હિંચકો (આવર્ત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "શું દરેક પદાર્થની ઝડપ હંમેશા સરખી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ના, જુદા જુદા પદાર્થોની ઝડપ જુદી જુદી હોઈ શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સાયકલ અને વિમાનની ઝડપ ક્યારેય સરખી ન હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "દોલિત ગતિ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પદાર્થની પોતાની મધ્યમાન સ્થિતિની આસપાસ થતી ગતિને દોલિત ગતિ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મધ્યથી ડાબે-જમણે થતી ગતિ = દોલિત ગતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "એક વર્ષ એટલે કેટલો સમય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વીને સૂર્યની આસપાસ એક પરિક્રમણ પૂરું કરવા માટે લાગતા સમયને એક વર્ષ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પૃથ્વીનું એક સૂર્ય-ચક્કર = 1 વર્ષ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "એક માસ (મહિનો) નો સમયગાળો કઈ રીતે નક્કી કરવામાં આવ્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક અમાસ પછી બીજી અમાસ વચ્ચેના સમયગાળાને એક માસ કહેવામાં આવતો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ચાંદની કળા અને અમાસ પરથી મહિનો નક્કી થયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "ઘડિયાળ કયા સિદ્ધાંત પર કાર્ય કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘડિયાળો આવર્ત ગતિના સિદ્ધાંત પર કાર્ય કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઘડિયાળ = આવર્ત ગતિ (નિયમિત પુનરાવર્તન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "લોલકનો આવર્તકાળ શાના પર આધાર રાખતો નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લોલકનો આવર્તકાળ તેના ગોળા (બૉબ) ના દ્રવ્ય કે વજન પર આધાર રાખતો નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગોળો ગમે તેટલો ભારે હોય, લંબાઈ સરખી તો સમય સરખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "કિમી/કલાકને મીટર/સેકન્ડમાં ફેરવવા શું કરવું પડે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કિમી/કલાકને 5/18 વડે ગુણવાથી તે મીટર/સેકન્ડમાં ફેરવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1000/3600 નું ટૂંકું રૂપ એટલે 5/18.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "અંતર-સમયના આલેખમાં ઢાળ શું દર્શાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંતર-સમયના આલેખનો ઢાળ પદાર્થની ઝડપ દર્શાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જેટલો ઢાળ વધુ, તેટલી ઝડપ વધુ.</p></div>"
+    }
+  ]
+}
