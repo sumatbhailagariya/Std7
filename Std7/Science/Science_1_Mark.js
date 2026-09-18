@@ -1754,3 +1754,236 @@ var Std7_Science_1_Mark = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "વનસ્પતિમાં પ્રજનન",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પ્રજનન એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પિતૃમાંથી નવા સજીવો ઉત્પન્ન થવાની ક્રિયાને પ્રજનન કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પ્ર' એટલે પ્રગતિ અને 'જનન' એટલે જન્મ - પિતૃ જેવો જ નવો જીવ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "પ્રજનનના મુખ્ય પ્રકારો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રજનનના મુખ્ય બે પ્રકારો છે: (1) અલિંગી પ્રજનન અને (2) લિંગી પ્રજનન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અ' એટલે એક (માત્ર એક જ પિતૃ) અને લિંગી એટલે બે પિતૃની જરૂર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "અલિંગી પ્રજનન કોને કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પ્રજનનમાં વનસ્પતિ બીજ વગર નવા છોડ ઉત્પન્ન કરે છે, તેને અલિંગી પ્રજનન કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અલિંગી = બીજ વગરની આઝાદી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "લિંગી પ્રજનન એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પ્રજનનમાં નવો છોડ બીજમાંથી મેળવવામાં આવે છે, તેને લિંગી પ્રજનન કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લિંગી = બીજ દ્વારા જીવનની શરૂઆત!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વનસ્પતિના વાનસ્પતિક અંગો કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મૂળ, પ્રકાંડ અને પર્ણો એ વનસ્પતિના વાનસ્પતિક અંગો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મું-પ્ર-૫ (મૂળ, પ્રકાંડ, પર્ણ) - આ વનસ્પતિનું શરીર છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વનસ્પતિનું પ્રજનન અંગ કયું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પુષ્પ (ફૂલ) એ વનસ્પતિનું પ્રજનન અંગ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુંદર ફૂલ જ બીજ બનાવે, માટે ફૂલ એ જ પ્રજનનનું કેન્દ્ર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વાનસ્પતિક પ્રજનન એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વનસ્પતિના મૂળ, પ્રકાંડ કે પર્ણ જેવા વાનસ્પતિક અંગો દ્વારા નવા છોડ ઉત્પન્ન થવાની ક્રિયાને વાનસ્પતિક પ્રજનન કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંગોમાંથી નવો છોડ = વાનસ્પતિક પ્રજનન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "કક્ષકલિકા એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પર્ણના પ્રકાંડ સાથેના જોડાણ સ્થાને આવેલી કલિકાને કક્ષકલિકા કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્ણના ખૂણા (કક્ષ) માં રહેલી કળી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ગુલાબમાં પ્રજનન કઈ પદ્ધતિથી કરી શકાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુલાબમાં પ્રજનન પ્રકાંડની 'કલમ' કરીને કરી શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુલાબની ડાળી કાપીને રોપો એટલે કલમ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "બટાકા પર જોવા મળતા ચાઠાઓને શું કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બટાકા પર જોવા મળતા ચાઠાઓને 'આંખ' કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બટાકાની આંખમાંથી જ નવો છોડ જન્મે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "આદુ અને હળદરમાં પ્રજનન શાના દ્વારા થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આદુ અને હળદરમાં પ્રજનન ભૂગર્ભીય પ્રકાંડ (ગાંઠામૂળી) દ્વારા થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જમીનની અંદર રહેલું પ્રકાંડ એટલે આદુ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "પર્ણફૂટી (બ્રાયોફાયલમ) માં પ્રજનન કઈ રીતે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પર્ણફૂટીમાં પર્ણની કિનારી પર આવેલી કલિકાઓ દ્વારા નવો છોડ ઉત્પન્ન થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર્ણ માંથી ફૂટે એ 'પર્ણફૂટી'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "કઈ વનસ્પતિના મૂળ નવા છોડનું સર્જન કરી શકે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શક્કરિયા અને ડાલિયા જેવી વનસ્પતિના મૂળ નવા છોડનું સર્જન કરી શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીઠા શક્કરિયા મૂળમાંથી ઉગે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "થોર જેવી વનસ્પતિ કઈ રીતે પ્રજનન કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> થોરનો મુખ્ય છોડથી અલગ પડેલો ભાગ (પ્રકાંડ) નવા છોડનું સર્જન કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: થોરનો ટુકડો પડે ત્યાં નવો થોર ઉગે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "યીસ્ટમાં કયા પ્રકારે અલિંગી પ્રજનન થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> યીસ્ટમાં 'કલિકાસર્જન' (Budding) દ્વારા પ્રજનન થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યીસ્ટ એટલે એક કોષી જીવ જે કળી બનાવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "અવખંડન એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સજીવના શરીરના ટુકડાઓ થઈ દરેક ટુકડામાંથી નવો સજીવ બનવાની ક્રિયાને અવખંડન કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખંડ એટલે ટુકડો, અવખંડન એટલે ટુકડામાંથી નવો જીવ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સ્પાયરોગાયરા (લીલ) માં કયા પ્રકારે પ્રજનન થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્પાયરોગાયરામાં 'અવખંડન' પદ્ધતિથી પ્રજનન થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લીલના લાંબા તંતુ તૂટે અને નવા જીવ બને!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "બીજાણુસર્જન દ્વારા પ્રજનન કરતી વનસ્પતિઓના ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મ્યુકર (બ્રેડ મોલ્ડ), હંસરાજ (Fern) અને મોસ જેવી વનસ્પતિઓ બીજાણુસર્જન દ્વારા પ્રજનન કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવામાં ઉડતા બીજાણુ અને ફૂગનું સામ્રાજ્ય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "બીજાણુઓ શા માટે લાંબો સમય જીવંત રહી શકે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બીજાણુઓ સખત રક્ષણાત્મક કવચ ધરાવે છે, જે તેમને પ્રતિકૂળ પરિસ્થિતિમાં ટકી રહેવા મદદ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બીજાણુનું કવચ એટલે તેનું કુદરતી હેલ્મેટ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "પુષ્પના નર પ્રજનન અંગને શું કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પુષ્પના નર પ્રજનન અંગને 'પુંકેસર' કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પુ એટલે પુરુષ (નર) અને પુંકેસર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "પુષ્પના માદા પ્રજનન અંગને શું કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પુષ્પના માદા પ્રજનન અંગને 'સ્ત્રીકેસર' કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ત્રી એટલે માદા અને સ્ત્રીકેસર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "એકલિંગી પુષ્પો કોને કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પુષ્પો માત્ર પુંકેસર અથવા માત્ર સ્ત્રીકેસર ધરાવતા હોય, તેને એકલિંગી પુષ્પો કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક જ લિંગ (નર કે માદા) હાજર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "દ્વિલિંગી પુષ્પો એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પુષ્પો પુંકેસર અને સ્ત્રીકેસર બંને ધરાવતા હોય, તેને દ્વિલિંગી પુષ્પો કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દ્વિ એટલે બે - બંને પ્રજનન અંગો સાથે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "એકલિંગી પુષ્પોના ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મકાઈ, પપૈયા અને કાકડીના પુષ્પો એકલિંગી પુષ્પો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મકાઈ-પપૈયા-કાકડી, એકલિંગીની છે જોડી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "દ્વિલિંગી પુષ્પોના ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સરસવ, ગુલાબ અને પેટુનિયાના પુષ્પો દ્વિલિંગી પુષ્પો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુંદર ફૂલો (ગુલાબ) મોટાભાગે દ્વિલિંગી હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "પરાગાશયમાં શું ઉત્પન્ન થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પરાગાશયમાં 'પરાગરજ' ઉત્પન્ન થાય છે, જે નર જન્યુઓ ઉત્પન્ન કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરાગાશય એટલે પરાગરજનું ઘર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "સ્ત્રીકેસરના ભાગો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્ત્રીકેસર પરાગાસન, પરાગવાહિની અને અંડાશય એમ ત્રણ ભાગો ધરાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ-વા-સન (અંડાશય, પરાગવાહિની, પરાગાસન)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "અંડક ક્યાં આવેલા હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંડક અંડાશયની અંદર આવેલા હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંડાશયની અંદર અંડક - માદા જન્યુનું સ્થાન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "પરાગનયન એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પરાગાશયમાંથી પરાગરજનું પુષ્પના પરાગાસન તરફ વહન થવાની ક્રિયાને પરાગનયન કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરાગરજની પરાગાસન સુધીની મુસાફરી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "સ્વ-પરાગનયન કોને કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જો પરાગરજ તે જ પુષ્પના પરાગાસન પર સ્થાપિત થાય, તો તેને સ્વ-પરાગનયન કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્વ એટલે પોતાનું જ ઘર (ફૂલ)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "પર-પરાગનયન એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જો એક પુષ્પની પરાગરજ તે જ પ્રકારના બીજા છોડના પુષ્પના પરાગાસન પર સ્થાપિત થાય, તો તેને પર-પરાગનયન કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પર એટલે પારકા (બીજા છોડના) ફૂલ પર જવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "ફલન એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નર જન્યુ અને માદા જન્યુના સંયુગ્મન (જોડાણ) થી ફલિતાંડ બનવાની ક્રિયાને ફલન કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નર + માદા = નવો જીવ (ફલિતાંડ)!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "ફલિતાંડ (Zygote) કોને કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નર જન્યુ અને માદા જન્યુના જોડાણથી બનેલા કોષને ફલિતાંડ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફલન પછી બનતો પહેલો કોષ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "ફલન પછી અંડાશયનું શેમાં રૂપાંતર થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફલન પછી અંડાશયનું રૂપાંતર 'ફળ' માં થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંડાશય ફુલે એટલે 'ફળ' બને!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "ફલન પછી અંડકનું શેમાં રૂપાંતર થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફલન પછી અંડકનું રૂપાંતર 'બીજ' માં થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંડક નાના હોય, માટે તે બીજ બને!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "બીજની અંદર શું રક્ષાયેલું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બીજની અંદર રક્ષણાત્મક બીજાવરણમાં ભ્રૂણ (ગર્ભ) રક્ષાયેલો હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બીજ એટલે ભવિષ્યના છોડનું સુરક્ષિત પેકેટ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "બીજ વિકિરણના માધ્યમો કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પવન, પાણી અને પ્રાણીઓ એ બીજ વિકિરણના મુખ્ય માધ્યમો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ-પા-પ્રા (પવન, પાણી, પ્રાણી) - બીજના વાહનો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "પવન દ્વારા વિકિરણ પામતા બીજના ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સરગવો (Drumstick), મેપલ અને સૂર્યમુખીના રોમમય બીજ પવન દ્વારા ફેલાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હલકા અને પાંખોવાળા બીજ ઉડીને દૂર જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "પાણી દ્વારા કઈ વનસ્પતિના બીજનું વિકિરણ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નાળિયેર અને અન્ય જલીય વનસ્પતિઓના બીજ પાણીના પ્રવાહ દ્વારા ફેલાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાળિયેર પાણીમાં તરે એટલે દૂર પહોંચે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "પ્રાણીઓ દ્વારા વિકિરણ પામતા બીજ કેવા હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રાણીઓ દ્વારા વિકિરણ પામતા બીજ કાંટાળા અને હૂક જેવી રચના ધરાવતા હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હૂકવાળા બીજ પ્રાણીના શરીર પર ચોંટી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "ઝેન્થિયમ અને યુરેનામાં બીજ વિકિરણ કોના દ્વારા થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઝેન્થિયમ અને યુરેનામાં બીજ વિકિરણ પ્રાણીઓ દ્વારા થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાડરિયું (ઝેન્થિયમ) કાંટાળું હોય અને પ્રાણીને વળગે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "કઈ વનસ્પતિના ફળ ઝટકા સાથે ફાટે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એરંડા અને બાલસમ જેવી વનસ્પતિના ફળ ઝટકા સાથે ફાટીને બીજનું વિકિરણ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફટાકડાની જેમ ફૂટે એ એરંડા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "બીજ વિકિરણ શા માટે જરૂરી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બીજ વિકિરણ એક જ જગ્યાએ છોડની ગીચતા રોકવા અને હવા, પાણી તથા સૂર્યપ્રકાશની સ્પર્ધા ઘટાડવા જરૂરી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભીડ ઘટાડો અને નવા વિસ્તારોમાં ઘર બનાવો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "પરાગરજ શા માટે હલકી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પરાગરજ હલકી હોય છે જેથી તે પવન દ્વારા સરળતાથી વહન પામી શકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હલકું હોય એ જ હવામાં ઉડી શકે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "કયા પ્રકારના પ્રજનનમાં સંતતિ પિતૃ જેવી જ દેખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અલિંગી પ્રજનન (ખાસ કરીને વાનસ્પતિક પ્રજનન) માં સંતતિ પિતૃની આબેહૂબ નકલ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બીજ વગરનું પ્રજનન એટલે પિતૃની કાર્બન કોપી!</p></div>"
+    }
+  ]
+}
