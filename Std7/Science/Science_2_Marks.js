@@ -288,3 +288,61 @@ var Std7_Science_2_Marks = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "સજીવોમાં શ્વસન",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "આપણે શ્વસન શા માટે કરીએ છીએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દરેક સજીવ સૂક્ષ્મ એકમોનો બનેલો છે જેને કોષ કહે છે. કોષોને પોષણ, પરિવહન અને ઉત્સર્જન જેવા કાર્યો કરવા માટે શક્તિની જરૂર હોય છે. આપણે જે ખોરાક લઈએ છીએ તેમાં સંગ્રહિત શક્તિ શ્વસન દરમિયાન છૂટી પડે છે. આથી, શરીરમાં શક્તિ મેળવવા માટે આપણે શ્વસન કરીએ છીએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શ્વસન = ખોરાકમાંથી શક્તિ મુક્ત કરવાની પ્રક્રિયા (Food to Energy conversion).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "કોષીય શ્વસન એટલે શું? તેના પ્રકારો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોષમાં ખોરાક (ગ્લુકોઝ) ના કણોને તોડીને શક્તિ મુક્ત કરવાની પ્રક્રિયાને કોષીય શ્વસન કહે છે. તેના બે પ્રકાર છે: (1) જારક શ્વસન (ઓક્સિજનની હાજરીમાં) અને (2) અજારક શ્વસન (ઓક્સિજનની ગેરહાજરીમાં).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કોષ + ગ્લુકોઝ + શક્તિ = કોષીય શ્વસન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ભારે કસરત દરમિયાન સ્નાયુઓમાં ખેંચાણ કેમ આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે આપણે ભારે કસરત કરીએ છીએ ત્યારે સ્નાયુઓને વધુ શક્તિની જરૂર પડે છે, પણ ઓક્સિજનનો પુરવઠો મર્યાદિત હોય છે. આ સમયે સ્નાયુઓ અજારક શ્વસન કરે છે, જેના કારણે લેક્ટિક એસિડ ઉત્પન્ન થાય છે. આ લેક્ટિક એસિડ એકઠો થવાથી સ્નાયુઓમાં ખેંચાણ આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઓછો O2 -> અજારક શ્વસન -> લેક્ટિક એસિડ -> ખેંચાણ (Cramps).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "શ્વસન દર (Breathing Rate) એટલે શું? સામાન્ય સ્થિતિમાં તે કેટલો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વ્યક્તિ એક મિનિટમાં જેટલી વાર શ્વાસોચ્છવાસ કરે છે તેને શ્વસન દર કહે છે. એક શ્વાસોચ્છવાસ એટલે એક શ્વાસ અને એક ઉચ્છવાસ. આરામદાયી સ્થિતિમાં પુખ્ત વયની વ્યક્તિનો સરેરાશ શ્વસન દર મિનિટના 15 થી 18 વખત હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શ્વસન દર = 1 મિનિટમાં શ્વાસ + ઉચ્છવાસની સંખ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વંદામાં શ્વસન ક્રિયા સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વંદાના શરીરની બંને બાજુએ નાના છિદ્રો આવેલા હોય છે, જેને શ્વસન છિદ્રો (Spiracles) કહે છે. આ છિદ્રો વાયુ નળીઓ (Trachea) ના જાળા સાથે જોડાયેલા હોય છે. ઓક્સિજનયુક્ત હવા છિદ્રો દ્વારા નળીઓમાં જાય છે અને કોષો સુધી પહોંચે છે, જ્યારે CO2 તે જ રસ્તે બહાર નીકળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વંદો -> શ્વસન છિદ્રો (Spiracles) + વાયુ નળીઓ (Trachea).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "અળસિયામાં શ્વસન કેવી રીતે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અળસિયું તેની ત્વચા દ્વારા શ્વસન કરે છે. અળસિયાની ત્વચા ભીની અને ચીકણી હોય છે, જેમાંથી વાયુઓ સરળતાથી પસાર થઈ શકે છે. ત્વચામાં રહેલી રુધિરકેશિકાઓ સીધો ઓક્સિજન શોષી લે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અળસિયું = ભીની અને ચીકણી ત્વચા (Moist Skin).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "જ્યારે આપણે ધૂળવાળી હવામાં શ્વાસ લઈએ છીએ ત્યારે છીંક કેમ આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હવામાં રહેલા ધૂળના રજકણો અને કચરો જ્યારે આપણા નાસિકા કોટરમાં જાય છે, ત્યારે તે નાકની અંદરની દીવાલ પર ઉત્તેજના પેદા કરે છે. આ ઉત્તેજનાને કારણે આપણને છીંક આવે છે. છીંક દ્વારા આ કચરો બહાર નીકળી જાય છે અને ફેફસામાં સ્વચ્છ હવા પહોંચે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): છીંક = બિનજરૂરી કચરાને બહાર કાઢવાની કુદરતી સફાઈ પ્રક્રિયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "માછલીઓ પાણીમાં શ્વસન કેવી રીતે કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માછલીઓ પાસે શ્વસન માટે 'ઝાલરો' (Gills) હોય છે. ઝાલરો રુધિરવાહિનીઓથી સમૃદ્ધ હોય છે. જ્યારે પાણી ઝાલરો પરથી પસાર થાય છે, ત્યારે તેમાં ઓગળેલો ઓક્સિજન ઝાલરો દ્વારા શોષાઈ જાય છે અને રુધિરમાં ભળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): માછલી -> ઝાલરો -> ઓગળેલો O2.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "શ્વસન અને શ્વાસોચ્છવાસ વચ્ચેનો મુખ્ય તફાવત શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શ્વાસોચ્છવાસ એ માત્ર ઓક્સિજન લેવાની અને CO2 બહાર કાઢવાની ભૌતિક પ્રક્રિયા છે, જ્યારે શ્વસન (કોષીય શ્વસન) એ કોષમાં ખોરાકમાંથી શક્તિ મુક્ત કરવાની જૈવ-રાસાયણિક પ્રક્રિયા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શ્વાસોચ્છવાસ = હવા અંદર-બહાર; શ્વસન = શક્તિ ઉત્પન્ન કરવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વનસ્પતિના મૂળ જમીનમાંથી કેવી રીતે શ્વસન કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વનસ્પતિના મૂળના કોષોને પણ શક્તિ મેળવવા માટે ઓક્સિજનની જરૂર હોય છે. મૂળ જમીનના કણો વચ્ચે રહેલી ખાલી જગ્યામાં રહેલી હવા (ઓક્સિજન) ને શોષી લે છે અને CO2 મુક્ત કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મૂળ + જમીનની જગ્યામાં રહેલી હવા = વનસ્પતિનું ભૂગર્ભીય શ્વસન.</p></div>"
+    }
+  ]
+}
