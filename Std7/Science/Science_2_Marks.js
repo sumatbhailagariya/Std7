@@ -636,3 +636,61 @@ var Std7_Science_2_Marks = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "વનસ્પતિમાં પ્રજનન",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "અલિંગી પ્રજનન એટલે શું? તેના કોઈ પણ બે પ્રકારો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પ્રજનનમાં વનસ્પતિ બીજ વગર નવા છોડ ઉત્પન્ન કરે છે તેને અલિંગી પ્રજનન કહેવાય છે. આ પદ્ધતિમાં નર અને માદા જન્યુઓની જરૂર પડતી નથી. <br>ઉદાહરણ તરીકે: (1) કલિકાસર્જન (2) અવખંડન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘અલિંગી’ એટલે ‘બીજ વગર’ - જેમાં મા-બાપ એક જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વાનસ્પતિક પ્રજનન એટલે શું? તેના બે ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વનસ્પતિના વાનસ્પતિક અંગો જેવા કે મૂળ, પ્રકાંડ કે પર્ણ દ્વારા નવો છોડ ઉત્પન્ન કરવાની પ્રક્રિયાને વાનસ્પતિક પ્રજનન કહે છે. <br>ઉદાહરણ: (1) બટાટાના પ્રકાંડ (આંખ) દ્વારા ઉગવું. (2) પાનફુટીના પર્ણની કિનારી પરથી નવો છોડ ઉગવો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વનસ્પતિના અંગો (મૂળ-પ્રકાંડ-પર્ણ) થી થતું પ્રજનન = વાનસ્પતિક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "યીસ્ટમાં કલિકાસર્જન કેવી રીતે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> યીસ્ટ એ એકકોષી સજીવ છે. તેના કોષમાંથી એક નાનું બલ્બ જેવું પ્રવર્ધ બહાર નીકળે છે, જેને 'કલિકા' કહે છે. આ કલિકા ધીરે ધીરે વિકાસ પામે છે અને પિતૃકોષથી અલગ થઈ સ્વતંત્ર યીસ્ટ કોષ બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): યીસ્ટ = બલ્બ જેવી કલિકા = ફટાફટ વૃદ્ધિ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "અવખંડન એટલે શું? તે કઈ વનસ્પતિમાં જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે કોઈ સજીવ બે કે તેથી વધુ ટુકડાઓમાં વિભાજિત થાય અને દરેક ટુકડો નવા સજીવ તરીકે વિકાસ પામે, તો તેને અવખંડન કહે છે. <br>દા.ત. સ્પાયરોગાયરા (લીલ) માં અવખંડન દ્વારા પ્રજનન થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લીલના ટુકડા કરો = નવા નવા છોડ બનાવો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "એકલિંગી પુષ્પો અને દ્વિલિંગી પુષ્પો એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પુષ્પો માત્ર સ્ત્રીકેસર અથવા માત્ર પુંકેસર ધરાવે તેને 'એકલિંગી પુષ્પો' કહેવાય (દા.ત. મકાઈ). જે પુષ્પો સ્ત્રીકેસર અને પુંકેસર બંને ધરાવે તેને 'દ્વિલિંગી પુષ્પો' કહેવાય (દા.ત. ગુલાબ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એક અંગ = એકલિંગી; બંને અંગ = દ્વિલિંગી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પરાગનયન એટલે શું? તેના પ્રકારો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પુંકેસરના પરાગાશયમાંથી પરાગરજનું સ્ત્રીકેસરના પરાગાસન તરફ સ્થળાંતર થવાની ક્રિયાને પરાગનયન કહે છે. <br>તેના બે પ્રકાર છે: (1) સ્વ-પરાગનયન (2) પર-પરાગનયન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પરાગરજની પરાગાશયથી પરાગાસન સુધીની મુસાફરી એટલે પરાગનયન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સ્વ-પરાગનયન અને પર-પરાગનયન વચ્ચેનો મુખ્ય તફાવત જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જો પરાગરજ તે જ પુષ્પના પરાગાસન પર સ્થાપિત થાય, તો તેને 'સ્વ-પરાગનયન' કહેવાય. પરંતુ જો તે તે જ છોડના બીજા પુષ્પ અથવા બીજા છોડના પુષ્પ પર સ્થાપિત થાય, તો તેને 'પર-પરાગનયન' કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પોતાનું ઘર = સ્વ; પાડોશીનું ઘર = પર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ફલન એટલે શું? ફલિતાંડ કેવી રીતે બને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નર જન્યુ (પરાગરજ) અને માદા જન્યુ (અંડકોષ) ના સંયુગ્મન (જોડાણ) થવાની ક્રિયાને ફલન કહે છે. આ ક્રિયાના અંતે જે કોષ બને છે તેને ફલિતાંડ કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નર + માદા = ફલન; પરિણામ = ફલિતાંડ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "બીજ વિકિરણના માધ્યમો જણાવી ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બીજ એક જગ્યાએથી બીજી જગ્યાએ ફેલાય તેને બીજ વિકિરણ કહેવાય. <br>માધ્યમો: (1) પવન (દા.ત. આંકડો), (2) પાણી (દા.ત. નાળિયેર), (3) પ્રાણીઓ (દા.ત. ગાડરિયું).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પવન, પાણી ને પ્રાણી - બીજ ફેલાવે ત્રણેય જાણી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ફલન પછી પુષ્પમાં કયા ફેરફારો થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફલન પછી અંડાશય વિકાસ પામીને 'ફળ' માં ફેરવાય છે અને અંડકોમાંથી 'બીજ' બને છે. પુષ્પના અન્ય ભાગો જેવા કે વજ્રપત્ર અને દલપત્ર કરમાઈને ખરી પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અંડાશય = ફળ, અંડક = બીજ!</p></div>"
+    }
+  ]
+}
