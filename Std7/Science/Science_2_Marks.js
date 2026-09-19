@@ -404,3 +404,61 @@ var Std7_Science_2_Marks = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "વનસ્પતિમાં પ્રજનન",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પ્રજનન એટલે શું? તેના મુખ્ય પ્રકારો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સજીવો દ્વારા પોતાના જેવા જ નવા સજીવ ઉત્પન્ન કરવાની ક્રિયાને પ્રજનન કહે છે. વનસ્પતિમાં પ્રજનનના મુખ્ય બે પ્રકાર છે: (1) અલિંગી પ્રજનન અને (2) લિંગી પ્રજનન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'પ્ર' એટલે પ્રજા (સંતાન) અને 'જનન' એટલે જન્મ આપવો. બીજ વગર = અલિંગી, બીજ દ્વારા = લિંગી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વાનસ્પતિક પ્રજનન એટલે શું? તેના ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વનસ્પતિના વાનસ્પતિક અંગો જેવા કે મૂળ, પ્રકાંડ, પર્ણ કે કલિકામાંથી નવો છોડ ઉત્પન્ન કરવાની પ્રક્રિયાને વાનસ્પતિક પ્રજનન કહે છે. દા.ત., બટાકાના પ્રકાંડ પરની આંખ, ગુલાબની કલમ, પાનફુટીના પર્ણની કિનારી પરની કલિકાઓ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'વા' એટલે વનસ્પતિના અંગો (મૂળ-પ્રકાંડ-પર્ણ) થી થતું પ્રજનન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "એકલિંગી પુષ્પો અને દ્વિલિંગી પુષ્પો વચ્ચેનો તફાવત સ્પષ્ટ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે પુષ્પો માત્ર પુંકેસર અથવા માત્ર સ્ત્રીકેસર ધરાવે છે તેને એકલિંગી પુષ્પો કહે છે (દા.ત. મકાઈ, પપૈયા). જ્યારે જે પુષ્પો પુંકેસર અને સ્ત્રીકેસર બંને ધરાવે છે તેને દ્વિલિંગી પુષ્પો કહે છે (દા.ત. સરસવ, ગુલાબ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એકલિંગી = 'એક જ' (નર કે માદા), દ્વિલિંગી = 'બંને' (નર અને માદા હાજર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પરાગનયન એટલે શું? તેના પ્રકારોના નામ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પરાગાશયમાંથી પરાગરજનું પુષ્પના પરાગાસન તરફ વહન થવાની પ્રક્રિયાને પરાગનયન કહે છે. તેના બે પ્રકાર છે: (1) સ્વ-પરાગનયન અને (2) પર-પરાગનયન.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પરાગરજનું પરાગાસન સુધીનું 'ટ્રાવેલિંગ' એટલે પરાગનયન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ફલન પ્રક્રિયા ટૂંકમાં સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નર જન્યુ (પરાગરજમાંથી) અને માદા જન્યુ (અંડકમાંથી) ના સંયુગ્મન (જોડાણ) થવાની ક્રિયાને ફલન કહે છે. ફલનને પરિણામે ફલિતાંડ (Zygote) બને છે, જે આગળ જતાં ભ્રૂણમાં વિકાસ પામે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નર + માદા = ફલિતાંડ. આ જોડાણ એટલે 'ફલન'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પવન દ્વારા બીજ વિકિરણ કેવી રીતે થાય છે? ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે બીજ હલકા, પાંખોવાળા અથવા રોમમય (વાળવાળા) હોય છે, તે પવન સાથે હવામાં ઉડીને દૂર સુધી ફેલાય છે. દા.ત. સીમળાના રોમમય બીજ, મેપલના પાંખોવાળા બીજ અને સૂર્યમુખીના રોમમય ફળ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પવનમાં ઉડવા માટે બીજ 'હલકા' અને 'પાંખોવાળા' હોવા જરૂરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પાણી દ્વારા થતું બીજ વિકિરણ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જલીય વનસ્પતિઓ અથવા નદી/દરિયા કિનારે ઉગતી વનસ્પતિઓના ફળો કે બીજ પાણી પર તરી શકે તેવા પોચા અને રેસાવાળા બાહ્ય આવરણ ધરાવે છે, જે પાણીના પ્રવાહ સાથે એક જગ્યાએથી બીજી જગ્યાએ જાય છે. દા.ત. નાળિયેર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાણીમાં 'તરવા' માટે નાળિયેર જેવું 'રેસાવાળું' કવચ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "પ્રાણીઓ દ્વારા બીજનું વિકિરણ કેવી રીતે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેટલાક બીજ કાંટાવાળા અને હૂક જેવી રચના ધરાવતા હોય છે, જે પસાર થતા પ્રાણીઓના શરીર સાથે ચોંટી જાય છે અને દૂરના સ્થળોએ પહોંચે છે. દા.ત. ગાડરિયું (Xanthium) અને યુરેના.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્રાણીઓ સાથે 'ચીપકવા' માટે બીજ પાસે 'કાંટા' કે 'હૂક' હોવા જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "કલિકાસર્જન દ્વારા થતું પ્રજનન સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> યીસ્ટ જેવા એકકોષી સજીવોમાં કોષમાંથી એક નાનું બલ્બ જેવું પ્રવર્ધ બહાર નીકળે છે, જેને કલિકા કહે છે. આ કલિકા ધીમે ધીમે વિકાસ પામી પિતૃકોષથી અલગ થઈ સ્વતંત્ર સજીવ બને છે. ક્યારેક કલિકા પર બીજી કલિકાઓ ફૂટી સાંકળ પણ બનાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): યીસ્ટ = કલિકા (બલ્બ જેવો ફુગાવો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "બીજ વિકિરણના ફાયદા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બીજ વિકિરણથી (1) એક જ જગ્યાએ છોડની સંખ્યા વધી જતી અટકે છે, (2) છોડ વચ્ચે સૂર્યપ્રકાશ, પાણી અને ખનીજ ક્ષારો માટેની સ્પર્ધા ઘટે છે, અને (3) વનસ્પતિ નવી વસાહતોમાં ફેલાઈ શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વિકિરણ = ભીડ ઘટાડો + પૂરતો ખોરાક/પ્રકાશ + નવું ઘર.</p></div>"
+    }
+  ]
+}
