@@ -462,3 +462,61 @@ var Std7_Science_2_Marks = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "ગતિ અને સમય",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ઝડપ એટલે શું? તેનું સૂત્ર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પદાર્થે એકમ સમયગાળામાં કાપેલા અંતરને તે પદાર્થની ઝડપ કહેવાય છે. ઝડપ શોધવાનું સૂત્ર નીચે મુજબ છે:<br>ઝડપ = કાપેલું કુલ અંતર / તે માટે લાગેલો કુલ સમય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>'ઝડપ = અ / સ' (અંતર ભાગ્યા સમય). બસ આટલું યાદ રાખો એટલે વ્યાખ્યા અને સૂત્ર બંને આવડી જશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ઝડપના એકમો વિશે ટૂંકમાં માહિતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઝડપનો મૂળભૂત એકમ મીટર/સેકન્ડ (m/s) છે. તેને મીટર/મિનિટ (m/min) અથવા કિલોમીટર/કલાક (km/h) જેવા મોટા એકમોમાં પણ દર્શાવી શકાય છે. બધા જ એકમોમાં સમય અને અંતરનો ગુણોત્તર જળવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ઝડપના એકમ માટે હંમેશા 'અંતરનો એકમ' ઉપર અને 'સમયનો એકમ' નીચે મૂકવો (ઉદા. km ઉપર, h નીચે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "નિયમિત ગતિ અને અનિયમિત ગતિ વચ્ચેનો મુખ્ય તફાવત જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે પદાર્થ સીધી રેખામાં અચળ ઝડપે ગતિ કરતો હોય, તો તેને 'નિયમિત ગતિ' કહે છે. જો પદાર્થની ઝડપ સમય સાથે બદલાતી રહેતી હોય, તો તેવી ગતિને 'અનિયમિત ગતિ' કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ઝડપ અચળ તો 'નિયમિત', ઝડપ બદલાય તો 'અનિયમિત'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સાદા લોલકમાં 'આવર્તકાળ' એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાદા લોલકને એક દોલન પૂર્ણ કરવા માટે જે સમય લાગે છે, તેને તે લોલકનો આવર્તકાળ કહેવામાં આવે છે. આવર્તકાળનો એકમ સેકન્ડ (s) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>1 દોલન = 1 આવર્તકાળ. લોલક જ્યાંથી શરૂ થાય ત્યાં પાછું આવે તે સમય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પ્રાચીન સમયમાં સમય માપવા માટે કયા સાધનોનો ઉપયોગ થતો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રાચીન સમયમાં જ્યારે લોલકવાળી ઘડિયાળો ન હતી, ત્યારે લોકો સમય માપવા માટે 'છાયાયંત્ર' (સૂર્યઘડી), 'જલઘડી' અને 'રેતીઘડી' જેવા સાધનોનો ઉપયોગ કરતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>'સૂર્ય, રેતી અને જળ' - આ ત્રણેય કુદરતી તત્વો પરથી પ્રાચીન સાધનો યાદ રહી જશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સ્પીડોમીટર અને ઓડોમીટર વચ્ચેનો તફાવત સ્પષ્ટ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1. સ્પીડોમીટર: તે વાહનની તે સમયની ઝડપ (km/h માં) માપે છે.<br>2. ઓડોમીટર: તે વાહને કાપેલું કુલ અંતર (km માં) માપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>'સ્પીડ' માપે તે સ્પીડોમીટર, અને 'અંતર' માપે તે ઓડોમીટર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "અંતર-સમયના આલેખના બે ઉપયોગો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. આલેખ પરથી પદાર્થની ગતિના પ્રકાર (નિયમિત કે અનિયમિત) વિશે જાણી શકાય છે.<br>2. કોઈ પણ ચોક્કસ સમયે પદાર્થે કાપેલું અંતર કે પદાર્થની ઝડપ ગણતરી કર્યા વગર આલેખ પરથી જાણી શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>આલેખ એ ગતિનું 'ચિત્ર' છે, જે આપણને ઝડપ અને અંતરની ડાયરેક્ટ માહિતી આપે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "એક કાર 2 કલાકમાં 100 કિમી અંતર કાપે છે, તો તેની ઝડપ કેટલી હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>અહીં, અંતર = 100 કિમી, સમય = 2 કલાક<br>સૂત્ર: ઝડપ = અંતર / સમય<br>ઝડપ = 100 / 2 = 50 કિમી/કલાક.<br>આમ, કારની ઝડપ 50 km/h હશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>દાખલામાં હંમેશા આપેલી વિગતો પહેલા લખી લો, પછી સૂત્રમાં કિંમત મૂકો. એકમ લખવાનું ભૂલતા નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "કુદરતમાં બનતી એવી કઈ ઘટનાઓ છે જેનો ઉપયોગ સમય માપન માટે થઈ શકે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કુદરતમાં ઘણી ઘટનાઓ ચોક્કસ અંતરાલે પુનરાવર્તિત થાય છે, જેમ કે:<br>1. સૂર્યોદયથી બીજા દિવસના સૂર્યોદય વચ્ચેનો સમય (દિવસ).<br>2. એક સુદ (અમાસ) થી બીજી અમાસ વચ્ચેનો સમય (માસ).<br>3. પૃથ્વીને સૂર્યની ફરતે એક પરિક્રમણ પૂર્ણ કરતા લાગતો સમય (વર્ષ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>યાદ રાખો: દિવસ, મહિનો અને વર્ષ - આ ત્રણેય કુદરતી ઘટનાઓ પર આધારિત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ચોક્કસ અંતર કાપવા માટે લાગતા સમય અને ઝડપ વચ્ચે શું સંબંધ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જો અંતર નિશ્ચિત હોય, તો પદાર્થની ઝડપ વધારવામાં આવે તો તે અંતર કાપવા માટે ઓછો સમય લાગે છે. એટલે કે, ઝડપ અને સમય એકબીજાના વ્યસ્ત પ્રમાણમાં હોય છે. (સમય = અંતર / ઝડપ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>વધુ ઝડપ = ઓછો સમય, ઓછી ઝડપ = વધુ સમય.</p></div>"
+    }
+  ]
+}
