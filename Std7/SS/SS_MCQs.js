@@ -990,3 +990,161 @@ var Std7_SS_MCQs = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "વનવાસી, વિચરતી જાતિ અને સ્થાનિક સમુદાય",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "જનજાતિના લોકો નીચેનામાંથી કઈ જગ્યાએ વસવાટ કરતા હતા?\nA. શહેરોમાં\nB. ગીચ જંગલો અને પહાડોમાં\nC. મોટી હવેલીઓમાં\nD. માત્ર દરિયાકિનારે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ગીચ જંગલો અને પહાડોમાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વન'વાસી એટલે જે 'વન' (જંગલ) અને પહાડોમાં રહેતા હોય તે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "13મી અને 14મી સદી દરમિયાન પંજાબમાં કઈ જનજાતિ મુખ્ય હતી?\nA. ખોખર અને ગખ્ખર\nB. ભીલ\nC. અહોમ\nD. ગોંડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. ખોખર અને ગખ્ખર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંજાબમાં 'ખ' પરથી ખોખર યાદ રાખો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "મુઘલ બાદશાહ અકબરે કયા ગખ્ખર નેતાને મનસબદાર બનાવ્યા હતા?\nA. રાજા માનસિંહ\nB. કમાલખાન ગખ્ખર\nC. સંગ્રામ શાહ\nD. દલપત શાહ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. કમાલખાન ગખ્ખર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અકબરે 'કમાલ' કરી એટલે 'કમાલ'ખાનને પદ આપ્યું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "મુલ્તાન અને સિંધમાં કઈ જાતિઓનું પ્રભુત્વ હતું?\nA. મુંડા\nB. અર્ઘુન અને લંઘા\nC. નાગા\nD. કોળી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. અર્ઘુન અને લંઘા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિંધમાં 'લ' પરથી લંઘા જાતિ યાદ રાખવી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "અકબરના સેનાપતિ રાજા માનસિંહે કઈ જાતિ પર હુમલો કરી પરાજય આપ્યો હતો?\nA. ગોંડ\nB. ખોખર\nC. ચેર\nD. ભીલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ચેર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માનસિંહે ચહેરા (ચેર) પર વાર કર્યો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પશ્ચિમ અને મધ્ય ભારતમાં કઈ જનજાતિ સૌથી વધુ ફેલાયેલી હતી?\nA. ભીલ\nB. અહોમ\nC. સંતાલ\nD. નાગા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. ભીલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પશ્ચિમ એટલે ગુજરાત-રાજસ્થાન અને ત્યાં 'ભીલ' રાજાઓ હતા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિચરતી જાતિના લોકો કયા પ્રાણીઓ સાથે જીવન નિર્વાહ કરતા હતા?\nA. માત્ર વાઘ અને સિંહ\nB. પશુધન (ગાય, ભેંસ, ઘેટાં-બકરાં)\nC. માત્ર માછલી\nD. જંગલી હાથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પશુધન (ગાય, ભેંસ, ઘેટાં-બકરાં)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિચરતી જાતિ એટલે જેમને ચરાવવા માટે પશુધન જોઈએ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "બધા જ વણઝારાઓમાં સૌથી મહત્વના કોણ હતા?\nA. અનાજ વેચનારા\nB. વેપારી વણઝારા\nC. યુદ્ધ કરનારા\nD. ખેતી કરનારા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. વેપારી વણઝારા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વણઝારા એટલે માલસામાનની હેરફેર કરનાર 'વેપારી'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વણઝારાના પોઠના સમૂહને શું કહેવામાં આવતું હતું?\nA. ટોળી\nB. જૂથ\nC. ટાંડુ\nD. કાફલો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ટાંડુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વણઝારાની ટ્રેન એટલે 'ટાંડુ'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ગોંડ લોકો કઈ ખેતી પદ્ધતિ અપનાવતા હતા?\nA. આધુનિક ખેતી\nB. સ્થળાંતરિત ખેતી (ઝૂમ ખેતી)\nC. બાગાયતી ખેતી\nD. માત્ર પિયત ખેતી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. સ્થળાંતરિત ખેતી (ઝૂમ ખેતી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જંગલમાં રહેતા લોકો ઝાડ કાપીને 'ઝૂમ' (સ્થળાંતરિત) ખેતી કરે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ગઢ કટંગાના ગોંડ રાજ્યમાં અંદાજે કેટલા ગામડાઓનો સમાવેશ થતો હતો?\nA. 50,000\nB. 60,000\nC. 70,000\nD. 80,000",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. 70,000</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અકબરનામા મુજબ ગોંડ રાજ્યમાં '70' હજાર ગામડા હતા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ગોંડ રાજ્યની વહીવટી વ્યવસ્થામાં 'ચોર્યાસી' કેટલા ગામોના સમૂહમાં વહેંચાયેલી હતી?\nA. 12 ગામો\nB. 84 ગામો\nC. 24 ગામો\nD. 100 ગામો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. 84 ગામો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામમાં જ જવાબ છે, 'ચોર્યાસી' એટલે '84'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "દરેક 'ચોર્યાસી' ને કેટલા ગામોના પેટા એકમ 'બારહોતો' માં વહેંચવામાં આવતી હતી?\nA. 10\nB. 12\nC. 14\nD. 16",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. 12</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બાર'હોતો માં 'બાર' (12) શબ્દ સંતાયેલો છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ગઢ કટંગાના રાજા અમનદાસે કઈ પદવી ધારણ કરી હતી?\nA. મહારાજા\nB. સંગ્રામ શાહ\nC. છત્રપતિ\nD. સુલતાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. સંગ્રામ શાહ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અમનદાસે 'સંગ્રામ' કરીને પદવી મેળવી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "રાણી દુર્ગાવતી કયા ચંદેલ રાજપૂત રાજાની પુત્રી હતી?\nA. પૃથ્વીરાજ ચૌહાણ\nB. સલબહાન\nC. રાણા પ્રતાપ\nD. રાજા માનસિંહ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. સલબહાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દુર્ગાવતીના પિતા 'મહોબા'ના રાજા 'સલબહાન' હતા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "અહોમ લોકો 13મી સદીમાં કયા દેશથી આવી બ્રહ્મપુત્ર નદીના ખીણ વિસ્તારમાં વસ્યા હતા?\nA. મ્યાનમાર\nB. ચીન\nC. તિબેટ\nD. નેપાળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. મ્યાનમાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અહોમ લોકો પૂર્વ ભારત (આસામ) માં આવ્યા જે મ્યાનમારની નજીક છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "અહોમ રાજ્યમાં બળજબરીથી કામ કરતા લોકોને શું કહેવામાં આવતું?\nA. મજૂર\nB. પાઈક\nC. ગુલામ\nD. સાથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પાઈક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પાઈક' એટલે પગપાળા કામ કરનારા બળજબરીયા મજૂરો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "અહોમ સમાજના કુળને શું કહેવામાં આવતું હતું?\nA. ગઢ\nB. ખેલ\nC. ટાંડુ\nD. પાઈક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ખેલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અહોમ લોકો 'ખેલ' (કુળ) માં વહેંચાયેલા હતા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "અહોમ રાજા દ્વારા કોને જમીન દાનમાં આપવામાં આવતી હતી?\nA. વેપારીઓને\nB. મંદિરો અને બ્રાહ્મણોને\nC. મુઘલોને\nD. માત્ર સૈનિકોને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. મંદિરો અને બ્રાહ્મણોને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રાચીન સમયમાં ધાર્મિક કાર્યો માટે મંદિરોને જમીન અપાતી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "અહોમ શાસનમાં લખવામાં આવેલી ઐતિહાસિક કૃતિઓ કયા નામે ઓળખાતી?\nA. અકબરનામા\nB. બુરંજી\nC. બાબરનામા\nD. રાજતરંગિણી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. બુરંજી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અહોમ' લોકોની 'બુરંજી' (ઐતિહાસિક પુસ્તક). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "નીચેનામાંથી કઈ જાતિ ઉત્તર-પૂર્વ ભારતમાં પ્રભાવશાળી હતી?\nA. નાગા અને અહોમ\nB. ભીલ\nC. ગોંડ\nD. મુંડા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. નાગા અને અહોમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉત્તર-પૂર્વ એટલે આસામ અને નાગાલેન્ડ બાજુની જાતિઓ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ગઢ કટંગાના પતન પછી નબળા પડેલા ગોંડ રાજ્યો કોના આક્રમણ સામે ટકી શક્યા નહીં?\nA. બુંદેલા અને મરાઠા\nB. અંગ્રેજો\nC. અહોમ\nD. સીદી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. બુંદેલા અને મરાઠા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોંડ રાજ્યોને મધ્ય ભારતના 'બુંદેલા' અને 'મરાઠા'એ હરાવ્યા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "બિહાર અને ઝારખંડમાં 12મી સદી સુધી કોનું શાસન હતું?\nA. અહોમ\nB. ચેર સરદારો\nC. ગોંડ\nD. ચોલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ચેર સરદારો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બિહાર-ઝારખંડમાં 'ચેર' લોકોનું જોર હતું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વણઝારા લોકો અનાજ ક્યાંથી લાવતા અને ક્યાં વેચતા?\nA. બજારમાંથી લાવીને ખેતરમાં\nB. ગામડામાંથી લાવીને શહેરોમાં\nC. વિદેશમાંથી લાવીને ભારતમાં\nD. જંગલમાંથી લાવીને દરિયામાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ગામડામાંથી લાવીને શહેરોમાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વણઝારા વેપારી હતા, તે સસ્તા ગામડામાંથી માલ લઈ મોંઘા શહેરમાં વેચતા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ગુજરાતના કયા વિસ્તારોમાં ભીલ જનજાતિનું પ્રભુત્વ જોવા મળતું હતું?\nA. સૌરાષ્ટ્રના દરિયાકિનારે\nB. પૂર્વપટ્ટીના ડુંગરાળ વિસ્તારોમાં\nC. કચ્છના રણમાં\nD. અમદાવાદ શહેરમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પૂર્વપટ્ટીના ડુંગરાળ વિસ્તારોમાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આબુથી ડાંગ સુધીની પૂર્વ પટ્ટી ભીલ જાતિનું સ્થાન છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "અહોમ રાજા 'શિબસિંહ' ના સમયમાં કયો ધર્મ મુખ્ય ધર્મ બન્યો હતો?\nA. બૌદ્ધ ધર્મ\nB. હિન્દુ ધર્મ\nC. ઇસ્લામ ધર્મ\nD. જૈન ધર્મ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. હિન્દુ ધર્મ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિબસિંહના નામે જ 'સિંહ' (હિન્દુ પરંપરા) છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ગઢ કટંગા રાજ્ય શાના વેપાર દ્વારા પુષ્કળ ધન કમાયું હતું?\nA. મરી-મસાલા\nB. હાથીઓના વેપાર\nC. સુતરાઉ કાપડ\nD. હીરા-ઝવેરાત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. હાથીઓના વેપાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જંગલના રાજા હાથી, ગોંડ લોકો હાથી પકડીને વેચતા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "મુઘલ સૈન્ય જ્યારે ગઢ કટંગા પર હુમલો કર્યો ત્યારે તેનું નેતૃત્વ કોણે કર્યું હતું?\nA. આસિફ ખાન\nB. બૈરમ ખાન\nC. રાજા માનસિંહ\nD. અબુલ ફઝલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. આસિફ ખાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગઢ કટંગાના યુદ્ધમાં 'આસિફ ખાન' સેનાપતિ હતા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "કઈ સદી સુધીમાં ભીલ જનજાતિના ઘણા લોકો ખેડૂત અને જમીનદાર તરીકે સ્થાયી થયા હતા?\nA. 14મી સદી\nB. 16મી સદી\nC. 18મી સદી\nD. 20મી સદી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. 16મી સદી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 16મી સદી એટલે અકબરનો સમય, ત્યારે પરિવર્તન આવ્યું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "અહોમ રાજ્યમાં વસ્તીગણતરી મુજબ કયા વિસ્તારોમાંથી લોકોને ઓછા વસ્તીવાળા વિસ્તારમાં ખસેડવામાં આવ્યા હતા?\nA. વધુ વસ્તીવાળા વિસ્તારોમાંથી\nB. શહેરોમાંથી\nC. પહાડોમાંથી\nD. દરિયાકિનારેથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. વધુ વસ્તીવાળા વિસ્તારોમાંથી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વસ્તીને સંતુલિત કરવા 'વધુ' થી 'ઓછા' તરફ ખસેડાય. (NJ Classes)</p></div>"
+    }
+  ]
+}
