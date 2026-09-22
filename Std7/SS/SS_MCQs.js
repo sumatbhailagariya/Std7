@@ -1880,3 +1880,161 @@ var Std7_SS_MCQs = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "પર્યાવરણના ઘટકો અને આંતર સંબંધો",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પર્યાવરણ શબ્દ કયા બે શબ્દોનો બનેલો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) પરિ + આવરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘પરિ’ એટલે ચારેબાજુ અને ‘આવરણ’ એટલે પડ. ચારેબાજુનું પડ એટલે પર્યાવરણ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "પૃથ્વીના ઉપરના ઘન પોપડાને શું કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) મૃદાવરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘મૃદ’ એટલે માટી. માટીનું બનેલું આવરણ એટલે મૃદાવરણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પૃથ્વી સપાટીનો કેટલા ટકા ભાગ જલાવરણ રોકે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) આશરે 71%</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પૃથ્વી પર 'પાણી' (જલાવરણ) 71% અને 'જમીન' 29% છે. પાણી વધારે છે એ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વાતાવરણમાં નાઇટ્રોજન વાયુનું પ્રમાણ કેટલા ટકા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) 78.03 %</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નાઇટ્રોજન સૌથી વધુ (78%), ઓક્સિજન (21%) અને બાકીના 1% માં અન્ય વાયુઓ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સૌર વિકિરણોનું શોષણ કરી પૃથ્વીને સૂર્યની પ્રચંડ ગરમીથી કોણ બચાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ઓઝોન વાયુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઓઝોન એટલે પૃથ્વીની 'સનસ્ક્રીન લોશન' જે યુવી કિરણોથી બચાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પર્યાવરણના કયા ઘટકમાં વનસ્પતિ, પ્રાણીઓ અને જીવજંતુઓનો સમાવેશ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) જીવાવરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યાં 'જીવ' (Life) છે તે જીવાવરણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિશ્વ પર્યાવરણ દિવસ કઈ તારીખે ઉજવવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 5 જૂન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'જૂન' મહિનાનો 'પાંચમો' દિવસ પર્યાવરણ માટે ખાસ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "પૃથ્વી પરના પાણીના કુલ જથ્થામાંથી કેટલા ટકા પાણી મહાસાગરોમાં રહેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 97.3 %</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મોટા ભાગનું પાણી ખારું છે (97.3%), મીઠું પાણી તો બહુ જ ઓછું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ભરતી-ઓટ દિવસમાં કેટલી વાર આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) બે વાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સૂર્ય અને ચંદ્રના ગુરુત્વાકર્ષણને લીધે દિવસમાં 2 વાર દરિયો ઊંચો-નીચો થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "કઈ તિથિએ સૌથી મોટી ભરતી આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) પૂનમ અને અમાસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પૂનમે ચંદ્ર આખો હોય અને અમાસે સૂર્ય-ચંદ્ર એક બાજુ હોય, એટલે ખેંચાણ વધુ લાગે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સમુદ્રના પાણીમાં રહેલા પથ્થરો પરથી પાણી નીચે ઉતરે તેને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ઓટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાણી ચઢે તો 'ભરતી', પાણી ઉતરે તો 'ઓટ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "મીઠા પાણીના મુખ્ય સ્ત્રોત કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) આપેલ તમામ (હિમશિખરો, ભૂમિગત પાણી, નદીઓ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મહાસાગરો ખારા છે, બાકીના કુદરતી સ્ત્રોતો મીઠા પાણીના છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ધ્વનિ પ્રદૂષણને માપવા માટેનો એકમ કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ડેસિબલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અવાજની તીવ્રતા 'ડેસિબલ' (dB) માં મપાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "માનવનિર્મિત પર્યાવરણને કયા નામે પણ ઓળખવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સાંસ્કૃતિક પર્યાવરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): માનવીએ પોતાની બુદ્ધિથી જે બનાવ્યું તે તેની સંસ્કૃતિનો ભાગ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વાતાવરણમાં ઓક્સિજન વાયુનું પ્રમાણ આશરે કેટલા ટકા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 20.94 %</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આશરે 21% યાદ રાખવું, જે ચોકસાઈમાં 20.94% છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ગ્રીન હાઉસ ઇફેક્ટ માટે કયો વાયુ મુખ્યત્વે જવાબદાર છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) કાર્બન ડાયોક્સાઈડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): CO2 ગરમી પકડી રાખે છે, એટલે તે ગ્રીન હાઉસ ગેસ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "કયા પ્રદૂષણથી ભૂમિની ફળદ્રુપતા ઘટે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ભૂમિ પ્રદૂષણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જમીન (ભૂમિ) બગડે તો પાક પણ બગડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વાતાવરણમાં સૌથી ઓછું પ્રમાણ કયા વાયુનું છે (આપેલ પૈકી)?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) અન્ય વાયુઓ (0.01%)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નાઇટ્રોજન > ઓક્સિજન > આર્ગોન > CO2 > અન્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "રેડિયો અને ટેલિવિઝનના પ્રસારણો કોને આભારી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વાતાવરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અવાજ અને તરંગો વાતાવરણમાં થઈને જ પ્રસરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "કયા પ્રકારના પ્રદૂષણને રોકવા માટે વધુ વૃક્ષો વાવવા જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વૃક્ષો હવા ચોખ્ખી કરે, અવાજ શોષે અને જમીનનું ધોવાણ અટકાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "સમુદ્રમાં આવતી મોટી ભરતી પાછળ કોનું ગુરુત્વાકર્ષણ બળ ભાગ ભજવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સૂર્ય અને ચંદ્ર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સૂર્ય-ચંદ્રની ખેંચવાની શક્તિ દરિયાના પાણીને ઊંચું લાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "નીચેનામાંથી કયું માનવસર્જિત પર્યાવરણનું ઉદાહરણ નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) નદી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નદી કુદરતી છે, જ્યારે રસ્તા, મકાન અને પુલ માણસે બનાવ્યા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "પ્લાસ્ટિકનો ઉપયોગ ઘટાડવો એ કયા પ્રદૂષણને રોકવામાં મદદરૂપ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ભૂમિ પ્રદૂષણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્લાસ્ટિક જમીનમાં કોહવાતું નથી, એટલે તે ભૂમિને સૌથી વધુ નુકસાન કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "સમુદ્રના મોજાં ઉત્પન્ન થવાના મુખ્ય કારણોમાં કોનો સમાવેશ થતો નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) જમીનનું ધોવાણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પવન, ભૂકંપ અને જ્વાળામુખીથી મોજાં ઉછળે છે, જમીન ધોવાણથી નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "જળ પ્રદૂષણ માટે મુખ્યત્વે કયું કારણ જવાબદાર છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઉદ્યોગોનું કેમિકલયુક્ત પાણી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઉદ્યોગોનું ગંદુ પાણી નદીઓમાં ભળે એટલે જળ પ્રદૂષણ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "પર્યાવરણના મુખ્ય કેટલા ઘટકો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ચાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): યાદ રાખવા માટે: મૃદાવરણ, જલાવરણ, વાતાવરણ અને જીવાવરણ (4 'વરણ').</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "પૃથ્વીની આસપાસ વીંટળાઈને આવેલા હવાના આવરણને શું કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) વાતાવરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'વાત' એટલે હવા. હવાનું આવરણ એટલે વાતાવરણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "જીવાવરણમાં નીચેનામાંથી કોનો સમાવેશ થતો નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) ખડકો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ખડકો નિર્જીવ છે, એટલે તે મૃદાવરણમાં આવે, જીવાવરણમાં નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "સમુદ્રમાં બે ભરતી કે ઓટ વચ્ચેનો સમયગાળો આશરે કેટલો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 12.25 કલાક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સવા બાર કલાકે દરિયાની 'શિટ' (ભરતી-ઓટ) બદલાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વાતાવરણમાં કાર્બન ડાયોક્સાઈડનું પ્રમાણ કેટલા ટકા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 0.03 %</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): CO2 બહુ ઓછો છે (0.03%), છતાં ગરમી વધારવા માટે પૂરતો છે.</p></div>"
+    }
+  ]
+}
