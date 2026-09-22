@@ -2487,3 +2487,161 @@ var Std7_SS_MCQs = {
     }
   ]
 }
+,
+"14": {
+  "chapterName": "પ્રકરણ 14",
+  "chapterTitle": "લોકશાહીમાં સમાનતા",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિશ્વનું સૌથી મોટું લેખિત બંધારણ કયા દેશનું છે?\n(A) અમેરિકા\n(B) ભારત\n(C) ઇંગ્લેન્ડ\n(D) રશિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ભારત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ભા' થી ભારત અને 'ભા' થી ભવ્ય - સૌથી ભવ્ય અને મોટું બંધારણ ભારતનું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ભારતમાં કેટલા વર્ષની ઉંમરે મતાધિકાર પ્રાપ્ત થાય છે?\n(A) 15 વર્ષ\n(B) 21 વર્ષ\n(C) 18 વર્ષ\n(D) 25 વર્ષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 18 વર્ષ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વ' એટલે વોટ અને 'વ' એટલે વર્ષ 18 - 18 વર્ષે પુખ્ત બનો એટલે વોટ અપાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "લોકશાહીની સૌથી નાની સંસ્થા કઈ છે?\n(A) નગરપાલિકા\n(B) તાલુકા પંચાયત\n(C) ગ્રામ પંચાયત\n(D) જિલ્લા પંચાયત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ગ્રામ પંચાયત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગ' થી ગામ અને 'ગ' થી ગ્રાઉન્ડ લેવલ - સૌથી પાયાની સંસ્થા એટલે ગ્રામ પંચાયત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ભારતના બંધારણે કયા પાયાના સિદ્ધાંતને સ્વીકાર્યો છે?\n(A) સમાનતા\n(B) અસમાનતા\n(C) રાજાશાહી\n(D) ભેદભાવ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) સમાનતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોકશાહીનો પ્રાણ એટલે 'સમાન' (સૌ સમાન, સૌ સન્માન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "મધ્યાહ્ન ભોજનની યોજના સૌ પ્રથમ કયા રાજ્યમાં શરૂ થઈ હતી?\n(A) ગુજરાત\n(B) રાજસ્થાન\n(C) તમિલનાડુ\n(D) કેરળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) તમિલનાડુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'તમિલનાડુ' ના લોકો 'મિલ' (Meal - ભોજન) માં આગળ - એટલે મધ્યાહ્ન ભોજન ત્યાંથી શરૂ થયું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "બંધારણ મુજબ કેટલા વર્ષથી ઓછી ઉંમરના બાળકને કામે રાખવો એ ગુનો છે?\n(A) 12 વર્ષ\n(B) 14 વર્ષ\n(C) 16 વર્ષ\n(D) 10 વર્ષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 14 વર્ષ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 થી 4 (14) સુધી ધોરણ ગણો તો ભણવાની ઉંમર, કામની નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "લોકશાહીના પાયામાં કઈ બાબત સૌથી મહત્વની છે?\n(A) સંપત્તિ\n(B) સત્તા\n(C) સમાનતા\n(D) વંશવાદ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સમાનતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોકશાહીની વ્યાખ્યામાં જ 'લોકો માટે' આવે, અને બધા લોકો ત્યારે જ ખુશ રહે જ્યારે 'સમાનતા' હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ચૂંટણીમાં મતદાન કરવા માટે કયું કાર્ડ અનિવાર્ય છે?\n(A) આધારકાર્ડ\n(B) રેશનકાર્ડ\n(C) ચૂંટણી કાર્ડ (એપિક)\n(D) પાનકાર્ડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ચૂંટણી કાર્ડ (એપિક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેનું નામ કામમાં હોય તે કાર્ડ - 'ચૂંટણી' માટે 'ચૂંટણી કાર્ડ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ભારતીય લોકશાહીમાં કોને 'દેશના સંચાલક' તરીકે ગણવામાં આવે છે?\n(A) રાજા\n(B) જનતા\n(C) સૈન્ય\n(D) વિદેશીઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) જનતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોકશાહી એટલે લોકોનું શાસન, એટલે જનતા જ રાજા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ખાનગી શાળાઓમાં ગરીબ બાળકો માટે કેટલી ટકા બેઠકો અનામત રાખવામાં આવે છે (RTE મુજબ)?\n(A) 10%\n(B) 25%\n(C) 50%\n(D) 33%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 25%</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સો (100) નો ચોથો ભાગ એટલે 25 - ગરીબ બાળકો માટે ચોથો ભાગ અનામત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "બંધારણના ઘડવૈયા કોણ હતા?\n(A) ગાંધીજી\n(B) સરદાર પટેલ\n(C) ડૉ. બી. આર. આંબેડકર\n(D) જવાહરલાલ નેહરુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ડૉ. બી. આર. આંબેડકર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બંધારણના બાબા' - બાબા સાહેબ આંબેડકર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ચૂંટણી પ્રક્રિયાનું સંચાલન કોણ કરે છે?\n(A) સુપ્રીમ કોર્ટ\n(B) સંસદ\n(C) ચૂંટણી પંચ\n(D) પોલીસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ચૂંટણી પંચ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેનું નામ એનું કામ - 'ચૂંટણી' કરાવે તે 'ચૂંટણી પંચ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "કોઈપણ ધર્મના આધારે ભેદભાવ ન કરવો તે કયા પ્રકારની સમાનતા છે?\n(A) ધાર્મિક સમાનતા\n(B) સામાજિક સમાનતા\n(C) આર્થિક સમાનતા\n(D) શૈક્ષણિક સમાનતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ધાર્મિક સમાનતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ધર્મ' શબ્દ પ્રશ્નમાં જ છે, તો જવાબ પણ 'ધાર્મિક' જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "દરેક નાગરિકને સમાન રીતે મતાધિકાર આપવો એ કયા સિદ્ધાંત પર આધારિત છે?\n(A) એક વ્યક્તિ, એક મત\n(B) એક વ્યક્તિ, દસ મત\n(C) લાયકાત મુજબ મત\n(D) ગરીબી મુજબ મત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) એક વ્યક્તિ, એક મત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વન મેન - વન વોટ (1 Person = 1 Vote).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ભારત એક કેવો દેશ છે?\n(A) સામ્યવાદી\n(B) લોકશાહી\n(C) સરમુખત્યારશાહી\n(D) રાજાશાહી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) લોકશાહી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારતની ઓળખ જ છે - 'વિશ્વની સૌથી મોટી લોકશાહી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "મતાધિકાર બાબતે કોને સમાનતા મળેલી છે?\n(A) માત્ર પુરુષોને\n(B) માત્ર શિક્ષિતોને\n(C) તમામ નાગરિકોને\n(D) માત્ર અમીરોને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) તમામ નાગરિકોને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાનતા એટલે જ 'તમામ' નો સમાવેશ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "બાળમજૂરી શા માટે જોવા મળે છે?\n(A) શિક્ષણના અભાવે\n(B) ગરીબીને કારણે\n(C) જાગૃતિના અભાવે\n(D) આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સામાજિક બદીઓ પાછળ હંમેશા ગરીબી અને અજ્ઞાનતા જવાબદાર હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "આપણા દેશમાં સ્ત્રી અને પુરુષને સમાન વેતન આપવા માટે કયો કાયદો છે?\n(A) સમાન કામ સમાન વેતન\n(B) વેતન વધારો કાયદો\n(C) મજૂરી કાયદો\n(D) રોજગારી કાયદો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) સમાન કામ સમાન વેતન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કામ સરખું તો પૈસા પણ સરખા - એટલે 'સમાન કામ, સમાન વેતન'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "લોકશાહીમાં નાગરિકોને કયા પ્રકારની સ્વતંત્રતા મળે છે?\n(A) વાણી અને અભિવ્યક્તિની\n(B) હરવા-ફરવાની\n(C) વ્યવસાય કરવાની\n(D) આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોકશાહી એટલે જ સ્વતંત્રતાનો મહાસાગર, જેમાં બધી જ છૂટ મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "બંધારણ એ દેશના સંચાલન માટેની શું છે?\n(A) કવિતાની ચોપડી\n(B) માર્ગદર્શિકા (નિયમાવલી)\n(C) નકશાપોથી\n(D) ધાર્મિક પુસ્તક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) માર્ગદર્શિકા (નિયમાવલી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમ રમત માટે 'રૂલ બુક' હોય તેમ દેશ માટે 'બંધારણ' હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ભારતમાં કોને બંધારણના રક્ષક ગણવામાં આવે છે?\n(A) પોલીસ\n(B) ન્યાયતંત્ર\n(C) પંચાયત\n(D) સેના",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ન્યાયતંત્ર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અન્યાય થાય ત્યારે કોર્ટમાં જઈએ, એટલે ન્યાયતંત્ર જ રક્ષક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સૌને ભણવાનો સમાન અધિકાર મળે તે માટે સરકાર કયો કાયદો લાવી છે?\n(A) RTI\n(B) RTE\n(C) GST\n(D) PWD",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) RTE</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'E' એટલે Education (શિક્ષણ). એટલે RTE એટલે શિક્ષણનો અધિકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "લોકશાહીનો અંતિમ નિર્ણય કોના હાથમાં હોય છે?\n(A) વડાપ્રધાન\n(B) રાષ્ટ્રપતિ\n(C) મતદારો\n(D) કલેક્ટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) મતદારો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મતદાર રાજા, જે ધારે તેને ગાદી પર બેસાડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "જાહેર સ્થળોએ હરવા-ફરવા માટે કયા પ્રકારની સમાનતા હોવી જોઈએ?\n(A) આર્થિક\n(B) સામાજિક\n(C) રાજકીય\n(D) ધાર્મિક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સામાજિક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બગીચા કે રસ્તા એ 'સમાજ' ની મિલકત છે, એટલે સામાજિક સમાનતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "દિવ્યાંગો માટે સરકાર કઈ ખાસ સુવિધા આપે છે?\n(A) સ્પેશિયલ બસ સીટ\n(B) વ્હીલચેર રેમ્પ\n(C) પરીક્ષામાં વધુ સમય\n(D) આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દિવ્યાંગો પ્રત્યે સહાનુભૂતિ એ સમાનતાનો જ એક ભાગ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "લોકશાહીમાં અસમાનતાનું એક મુખ્ય કારણ શું છે?\n(A) કાયદો\n(B) રૂઢિચુસ્તતા અને અજ્ઞાનતા\n(C) શિક્ષણ\n(D) ટેકનોલોજી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) રૂઢિચુસ્તતા અને અજ્ઞાનતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂની વાતો અને ઓછું ભણતર હંમેશા ભેદભાવ જન્માવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ગ્રામ પંચાયતની ચૂંટણી કેટલા વર્ષે થાય છે?\n(A) 2 વર્ષ\n(B) 5 વર્ષ\n(C) 10 વર્ષ\n(D) 6 વર્ષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 5 વર્ષ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારતમાં 'પંચ' એટલે 5, એટલે પંચાયતનો કાર્યકાળ 5 વર્ષ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ભારતના બંધારણનું આમુખ શું દર્શાવે છે?\n(A) માત્ર સજા\n(B) બંધારણના લક્ષ્યો અને આદર્શો\n(C) મંત્રીઓની યાદી\n(D) નદીઓના નામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) બંધારણના લક્ષ્યો અને આદર્શો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમ મૂવીનું 'ટ્રેલર' હોય તેમ બંધારણનું 'આમુખ' હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "લોકશાહીમાં 'સમાનતા' એટલે શું?\n(A) સૌને સમાન તક\n(B) સૌને સમાન વેતન\n(C) સૌને સમાન સજા\n(D) આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સૌ' માટે બધું 'સમાન' એ જ સાચી સમાનતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "ભારતની સંસદમાં કુલ કેટલા ગૃહો છે?\n(A) એક\n(B) બે\n(C) ત્રણ\n(D) ચાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) બે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોકસભા + રાજ્યસભા = 2 ગૃહો.</p></div>"
+    }
+  ]
+}
