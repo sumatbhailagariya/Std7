@@ -672,3 +672,211 @@ var Std7_SS_FillBlanks = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "મધ્યકાલીન સ્થાપત્યો, શહેરો, વેપારી અને કારીગરો",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ઓડિશા રાજ્યના પુરી જિલ્લામાં __________ નું સૂર્યમંદિર આવેલું છે. (કોણાર્ક, મોઢેરા, આબુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોણાર્ક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોણાર્કનો 'ક' અને ઓડિશાનો 'ઓ' - કોણ-દિશા (કોણાર્ક-ઓડિશા) યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "કોણાર્કના સૂર્યમંદિરને __________ તરીકે પણ ઓળખવામાં આવે છે. (સફેદ પેગોડા, કાળા પેગોડા, લાલ પેગોડા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાળા પેગોડા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોણાર્ક મંદિર કાળા પથ્થરોનું બનેલું છે એટલે 'કાળા પેગોડા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ઉત્તર ભારતના મંદિરોની લાક્ષણિકતા તેના __________ શિખરો છે. (ગોળ, ચોરસ, નાગર શૈલીના)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નાગર શૈલીના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ન' થી ઉત્તર અને 'ન' થી નાગર શૈલી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "કચ્છમાં __________ ખાતે મંદિરના અવશેષો મળી આવ્યા છે. (ધોળાવીરા, કંથકોટ, લોથલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કંથકોટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કચ્છમાં કંથકોટનો કિલ્લો અને સૂર્યમંદિર પ્રખ્યાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "મોઢેરાનું સૂર્યમંદિર ગુજરાતના __________ જિલ્લામાં આવેલું છે. (અમદાવાદ, મહેસાણા, પાટણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહેસાણા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મોઢેરા' બોલતા 'મ' આવે અને જિલ્લામાં પણ 'મ' એટલે મહેસાણા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સોમનાથ મંદિરનો જીર્ણોદ્ધાર છેલ્લે ઈ.સ. __________ માં થયો હતો. (1947, 1951, 1955)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1951</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આઝાદી પછીના 4 વર્ષે એટલે 1951 માં સોમનાથનું નવનિર્માણ થયું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "જૂનાગઢ શહેરમાં __________ કિલ્લો આવેલો છે. (ભદ્રનો, ઉપરકોટનો, લાલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉપરકોટનો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂનાગઢ ગિરનારની 'ઉપર' એટલે 'ઉપરકોટ'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "__________ એ જૂનાગઢમાં આવેલી પ્રખ્યાત વાવ છે. (રાણીની વાવ, અડી-કડીની વાવ, અડાલજની વાવ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અડી-કડીની વાવ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અડી-કડી વાવ અને નવઘણ કૂવો, જેણે ન જોયો તે જીવતો મૂવો' - આ લોકોક્તિ યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "રાણીની વાવ પાટણમાં રાણી __________ એ બંધાવી હતી. (મીનળદેવી, ઉદયમતી, નાયકીદેવી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉદયમતી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાટણમાં સૂર્યનો 'ઉદય' એટલે રાણી 'ઉદયમતી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "રાણીની વાવને UNESCO દ્વારા __________ વર્લ્ડ હેરિટેજ સાઈટનો દરજ્જો મળ્યો છે. (2010, 2012, 2014)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 2014</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2014 માં પાટણની વાવનું ભાગ્ય ચમક્યું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સિદ્ધરાજ જયસિંહે સિદ્ધપુરમાં __________ નું નિર્માણ કરાવ્યું હતું. (સૂર્યમંદિર, રુદ્ર મહાલય, કીર્તિ તોરણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રુદ્ર મહાલય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિદ્ધરાજ પોતે શિવભક્ત હતો, એટલે શિવનું નામ 'રુદ્ર' મહાલય બંધાવ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "અમદાવાદ શહેરની સ્થાપના અહમદશાહે ઈ.સ. __________ માં કરી હતી. (1410, 1411, 1415)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1411</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક-ચોગડો-બે એકડા (1411) એટલે અમદાવાદનો પાયો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "અમદાવાદની પ્રખ્યાત નકશીદાર જાળી __________ ની જાળી તરીકે ઓળખાય છે. (સીદી સૈયદ, જુમ્મા મસ્જિદ, સરખેજના રોજા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સીદી સૈયદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સીદી' (સીધી) રીતે કોતરેલી સુંદર જાળી એટલે સીદી સૈયદ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "પાટણના પ્રખ્યાત રેશમી વસ્ત્રને __________ કહેવામાં આવે છે. (બાંધણી, પટોળા, જરીકામ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પટોળા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પાટણના પટોળા' મોંઘા પણ મજબૂત - પડી પટોળે ભાત ફાટે પણ ફીટે નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ચિત્તોડગઢમાં રાણા કુંભાએ વિજયની સ્મૃતિમાં __________ બંધાવ્યો હતો. (કીર્તિ સ્તંભ, વિજય સ્તંભ, લોહ સ્તંભ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિજય સ્તંભ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિજય મેળવ્યો એટલે 'વિજય સ્તંભ' બંધાવ્યો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "બિહારમાં શાસારામમાં __________ નો મકબરો મધ્યકાલીન સ્થાપત્યનો નમૂનો છે. (અકબર, શેરશાહ સુરી, હુમાયુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શેરશાહ સુરી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'શા'સારામ - 'શેરશા'હ (બંનેમાં 'શા' કોમન છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "દિલ્હીમાં લાલ કિલ્લાનું નિર્માણ __________ એ કરાવ્યું હતું. (અકબર, જહાંગીર, શાહજહાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શાહજહાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાહજહાં સ્થાપત્યોનો શોખીન હતો - લાલ કિલ્લો અને તાજમહેલ બંને તેણે જ બનાવ્યા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "દુનિયાના સાત અજાયબીમાં સ્થાન પામેલ તાજમહેલ __________ નદીના કિનારે આવેલો છે. (ગંગા, યમુના, નર્મદા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> યમુના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આગ્રા શહેર યમુના કિનારે છે, એટલે તાજમહેલ પણ યમુના કિનારે જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "સુવર્ણમંદિર (Golden Temple) પંજાબના __________ શહેરમાં આવેલું છે. (લુધિયાણા, અમૃતસર, પટિયાલા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અમૃતસર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અમૃત સમાન પવિત્ર સરોવર એટલે અમૃતસર અને ત્યાં જ સુવર્ણમંદિર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિજયનગર સામ્રાજ્યની રાજધાની __________ હતી. (તંજાવર, હમ્પી, બેલુર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હમ્પી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિજયનગરમાં 'હંપી' (Hampi) એટલે પથ્થરના રથવાળું શહેર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "અમદાવાદમાં ભદ્રનો કિલ્લો __________ એ બંધાવ્યો હતો. (કુતુબુદ્દીન ઐબક, અહમદશાહ, મહંમદ બેગડો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અહમદશાહ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અમદાવાદની શરૂઆત જ ભદ્રના કિલ્લાથી અહમદશાહે કરી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "બિહારના ગયા પાસે __________ ના વિહાર આવેલા છે. (ચોસઠ જોગણી, બોધીગયા, નાલંદા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બોધીગયા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બુદ્ધ ભગવાનને જ્ઞાન મળ્યું તે સ્થળ એટલે બોધીગયા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "__________ સૂર્યમંદિર રથ આકારનું છે અને તેને 12 વિશાળ પૈડાં છે. (મોઢેરા, કોણાર્ક, માર્તંડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોણાર્ક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોણાર્કનું મંદિર ભગવાન સૂર્યનો રથ જ લાગે છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ગુજરાતમાં __________ સરોવર વિરમગામમાં આવેલું છે. (મુનસર, માલવ, સહસ્ત્રલિંગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુનસર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વિ-મુ' (વિરમગામ-મુનસર) યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ધોળકાનું __________ સરોવર ન્યાય માટે જાણીતું છે. (મુનસર, માલવ, બિંદુ સરોવર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માલવ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ન્યાય જોવો હોય તો માલવ તળાવ જુઓ' - મીનળદેવીએ ન્યાય માટે ખાંચો રાખ્યો હતો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "પાટણમાં સહસ્ત્રલિંગ તળાવ __________ એ બંધાવ્યું હતું. (કુંવારપાલ, મૂળરાજ સોલંકી, સિદ્ધરાજ જયસિંહ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સિદ્ધરાજ જયસિંહ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિદ્ધરાજે 1000 શિવલિંગવાળું 'સહસ્ત્ર'લિંગ તળાવ બંધાવ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "સુરત શહેર __________ ના કામ માટે જગવિખ્યાત હતું. (હીરા, જરી, કુંભાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જરી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુરતની 'જરી' અને સુરતનું 'જમણ' બંને ફેમસ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વડોદરા પાસે __________ મધ્યકાલીન ગુજરાતનું સમૃદ્ધ શહેર હતું. (ચાંપાનેર, ખંભાત, ભરૂચ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચાંપાનેર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંચમહાલમાં આવેલું ચાંપાનેર મહંમદ બેગડાએ વસાવ્યું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "મોઢેરાના સૂર્યમંદિરનું પ્રવેશદ્વાર __________ દિશામાં છે. (પશ્ચિમ, ઉત્તર, પૂર્વ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૂર્વ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્ય પૂર્વમાં ઊગે એટલે સૂર્યમંદિરનું મોઢું પણ પૂર્વમાં જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "અડાલજની વાવ રાણી __________ એ પોતાના પતિની યાદમાં બંધાવી હતી. (ઉદયમતી, મીનળદેવી, રૂડાબાઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રૂડાબાઈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અડાલજની 'રૂડી' (સુંદર) વાવ રાણી 'રૂડાબાઈ' એ બનાવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "દક્ષિણ ભારતમાં મંદિરોના પ્રવેશદ્વારને __________ કહેવામાં આવે છે. (ગર્ભગૃહ, મંડપ, ગોપુરમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગોપુરમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગેટ = ગોપુરમ (બંને 'G' થી શરૂ થાય છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "બૃહદેશ્વરનું મંદિર __________ ના શાસનકાળ દરમિયાન બંધાયું હતું. (ચોલ વંશ, પલ્લવ વંશ, પાંડ્ય વંશ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચોલ વંશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજરાજ ચોલે આ ભવ્ય મંદિર બનાવ્યું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "પાલિતાણાના જૈન મંદિરો __________ પર્વત પર આવેલા છે. (ગિરનાર, શેત્રુંજય, આબુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શેત્રુંજય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પા-શે' (પાલિતાણા-શેત્રુંજય) જોડી યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "કબીરવડ ગુજરાતના __________ જિલ્લામાં આવેલું છે. (ભરૂચ, સુરત, નર્મદા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભરૂચ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભરૂચમાં નર્મદાના કાંઠે મોટો વડ એટલે કબીરવડ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "મધ્યકાલીન સાહિત્યમાં 'કાન્હડદે પ્રબંધ' ના લેખક __________ છે. (હેમચંદ્રાચાર્ય, પદ્મનાભ, અમીર ખુસરો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પદ્મનાભ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પદ્મનાભે ઝાલોરના કાન્હડદેની શૌર્યગાથા લખી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "મુઘલ બાદશાહ __________ ના સમયમાં ચિત્રકલાનો ખૂબ વિકાસ થયો હતો. (અકબર, જહાંગીર, શાહજહાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જહાંગીર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જહાંગીર પોતે મહાન ચિત્રકાર હતો એટલે તેના સમયમાં 'ચિત્રકલા' ટોચ પર હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "મધ્યકાળમાં 'તુતી-એ-હિન્દ' (હિન્દનો પોપટ) તરીકે __________ જાણીતા હતા. (તાનસેન, અમીર ખુસરો, અબુલ ફઝલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અમીર ખુસરો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખુસરો બહુ ખુશ મિજાજી અને મીઠું બોલતા પોપટ જેવા હતા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "ગુરુ નાનક દ્વારા સ્થાપિત શીખ ધર્મના પવિત્ર ગ્રંથનું નામ __________ છે. (જિંદ અવેસ્તા, ગુરુ ગ્રંથ સાહિબ, બાઈબલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુરુ ગ્રંથ સાહિબ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુરુદ્વારામાં જે પૂજાય તે 'ગુરુ ગ્રંથ સાહિબ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "મોઢેરાના સૂર્યમંદિરની બાંધણી __________ શૈલીમાં થયેલી છે. (ઈરાની, દ્રવિડ, નાગર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઈરાની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોઢેરાના મંદિરમાં સૂર્યમૂર્તિ અને નકશીમાં ઈરાની શૈલી દેખાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "ઈ.સ. 1026 માં સોમનાથ પર આક્રમણ કરનાર __________ હતો. (મહંમદ ઘોરી, મહંમદ ગઝની, અલાઉદ્દીન ખીલજી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહંમદ ગઝની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગઝનીએ લૂંટના ઈરાદે સોમનાથ પર વારંવાર ચડાઈ કરી હતી.</p></div>"
+    }
+  ]
+}
