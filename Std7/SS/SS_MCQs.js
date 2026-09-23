@@ -2803,3 +2803,111 @@ var Std7_SS_MCQs = {
     }
   ]
 }
+,
+"16": {
+  "chapterName": "પ્રકરણ 16",
+  "chapterTitle": "જાતિગત ભિન્નતા",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ભારતમાં છોકરા અને છોકરીઓના ઉછેરમાં કઈ બાબતે ભિન્નતા જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) આપેલ તમામ (ખોરાક, શિક્ષણ, પોશાક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NJ Classes યાદ રાખજો કે 'જાતિગત ભિન્નતા' એટલે સમાજમાં છોકરા-છોકરી વચ્ચે રાખવામાં આવતો દરેક ભેદભાવ, જેમાં પાયાની જરૂરિયાતોનો પણ સમાવેશ થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ભારતનાં પ્રથમ મહિલા રાષ્ટ્રપતિ બનવાનું ગૌરવ કોણે પ્રાપ્ત કર્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) શ્રીમતી પ્રતિભાસિંહ પાટીલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'રાષ્ટ્ર' ના 'પ્રતિ'નિધિ એટલે 'પ્રતિભા'સિંહ પાટીલ. આ રીતે નામ યાદ રાખવું સહેલું પડશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ભારતનાં પ્રથમ મહિલા વડાપ્રધાન કોણ હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) શ્રીમતી ઈન્દિરા ગાંધી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વડાપ્રધાન (PM) એટલે પાવરફુલ મહિલા, અને ભારતના સૌથી પાવરફુલ મહિલા નેતા એટલે ઈન્દિરા ગાંધી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "કયા વર્ષની વસ્તી ગણતરી મુજબ ભારતમાં સ્ત્રી-પુરુષનું પ્રમાણ અસમાન જોવા મળ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ઈ.સ. 2011</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારતમાં છેલ્લી મોટી ગણતરી (2011) એ જ લિંગ પ્રમાણની અસમાનતા પર સૌથી વધુ પ્રકાશ પાડ્યો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "કયા મહિલાને 'સ્વર કોકિલા' તરીકે ઓળખવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) લતા મંગેશકર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ્વર' અને 'સંગીત' ના પર્યાય એટલે લતાજી. કોકિલા જેવો મીઠો અવાજ એટલે લતા મંગેશકર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ભારતનાં કયા મહિલા નેતા વિદેશ મંત્રી તરીકે પણ જાણીતા થયા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) સુષ્મા સ્વરાજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વિદેશ' માં રહેતા ભારતીયો માટે 'સુષ્મા' (સારું નામ) હંમેશા તૈયાર રહેતા. તે ઉત્તમ વક્તા પણ હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "કયા કારણસર દીકરીઓને ઉચ્ચ શિક્ષણ આપવામાં વાલીઓ ખચકાટ અનુભવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) સામાજિક માન્યતાઓ અને રૂઢિચુસ્તતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂની વિચારધારા (રૂઢિચુસ્તતા) એ જ પ્રગતિમાં અવરોધ છે, તે ખાસ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ભારતીય મૂળના પ્રથમ મહિલા અવકાશયાત્રી કોણ હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) કલ્પના ચાવલા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવકાશમાં જવાની 'કલ્પના' ને હકીકત બનાવનાર એટલે કલ્પના ચાવલા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ભારતમાં દર કેટલા વર્ષે વસ્તી ગણતરી કરવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) દર 10 વર્ષે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'દાયકો' એટલે 10 વર્ષ. વસ્તી ગણતરી હંમેશા દાયકાના અંતે થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "કન્યા કેળવણી માટે સરકાર દ્વારા કયા પ્રોત્સાહનો આપવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) મફત શિક્ષણ, સાયકલ સહાય અને શિષ્યવૃત્તિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દીકરી ભણે તો દેશ વધે, એટલે જ સરકાર બધી જ રીતે (આર્થિક અને સાધન) મદદ કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "બાળલગ્ન થવાનું મુખ્ય કારણ કયું હોઈ શકે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) શિક્ષણનો અભાવ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્ઞાન ન હોય ત્યાં જ અંધશ્રદ્ધા અને કુરિવાજો ફૂલેફાલે. શિક્ષણ એ બાળલગ્ન રોકવાનો શ્રેષ્ઠ ઉપાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "કયા ઉદ્યોગમાં મહિલાઓની સંખ્યા સૌથી વધુ જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ગૃહ ઉદ્યોગ અને સેવા ક્ષેત્ર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગૃહ' એટલે ઘર, સ્ત્રીઓ ઘરની જવાબદારી સાથે જે કામ કરી શકે તે ગૃહ ઉદ્યોગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સુનિતા વિલિયમ્સ કોણ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ભારતીય મૂળના અવકાશયાત્રી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કલ્પના ચાવલા પછી જેનું નામ અવકાશ ક્ષેત્રે ગૌરવથી લેવાય છે તે સુનિતા વિલિયમ્સ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "કઈ બાબતમાં છોકરા-છોકરીઓ વચ્ચે ભેદભાવ ન કરવો જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) આપેલ તમામ (શિક્ષણ, આરોગ્ય, રમતના સાધનો)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સમાનતા' એટલે દરેક ક્ષેત્રમાં સમાન તક. આજના યુગમાં કોઈ ક્ષેત્ર બાકી નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "નારી સશક્તિકરણ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) સ્ત્રીઓને આત્મનિર્ભર બનાવવી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સશક્તિકરણ = શક્તિ આપવી. જ્યારે સ્ત્રી પોતે નિર્ણય લેતી થાય ત્યારે તે સશક્ત કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ભારતના બંધારણે સ્ત્રી-પુરુષને કેવો અધિકાર આપ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સમાનતાનો અધિકાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાયદાની નજરમાં બધા સરખા, પછી તે સ્ત્રી હોય કે પુરુષ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "કયા રાજ્યમાં કન્યા કેળવણી માટે 'કન્યા કેળવણી રથયાત્રા' યોજાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ગુજરાત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ભણે ગુજરાત, આગળ વધે ગુજરાત' મિશન હેઠળ ગુજરાતમાં આ રથયાત્રા યોજાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સ્ત્રીઓ કયા ક્ષેત્રમાં પોતાની ઓળખ બનાવી રહી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) આપેલ તમામ (રાજકારણ, સંરક્ષણ, રમતગમત)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ત્રીઓ હવે લડાયક વિમાન પણ ઉડાડે છે અને ઓલિમ્પિકમાં મેડલ પણ લાવે છે, એટલે કે બધે જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ગૃહિણીનું કામ કેવું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) આખા ઘરનું સંચાલન કરવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગૃહિણી એ ઘરનો મુખ્ય પાયો છે, જેના વગર ઘરનું વ્યવસ્થાપન અશક્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "દીકરીઓ પ્રત્યેના ભેદભાવને દૂર કરવા માટે કયો દિવસ 'રાષ્ટ્રીય બાલિકા દિવસ' તરીકે ઉજવાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 24 જાન્યુઆરી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વર્ષની શરૂઆતમાં જ (જાન્યુઆરીમાં) દીકરીઓના સન્માન માટે આ દિવસ નક્કી કરાયો છે (24 જાન્યુઆરી).</p></div>"
+    }
+  ]
+}
