@@ -1088,3 +1088,161 @@ var Std7_SS_FillBlanks = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "ભક્તિ યુગ : ધાર્મિક સમુદાયો અને વિચારો",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ભારતમાં ભક્તિ આંદોલનની શરૂઆત ......... દ્વારા કરવામાં આવી હતી. (રામાનુજાચાર્ય, ચૈતન્ય મહાપ્રભુ, ગુરુ નાનક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રામાનુજાચાર્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'રામ' નામથી જ ભક્તિની શરૂઆત થાય એમ યાદ રાખો. દક્ષિણ ભારતથી ભક્તિ લાવી રામાનુજાચાર્યએ પાયો નાખ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "આદિ શંકરાચાર્યનું જન્મસ્થળ ......... છે. (કાલડી, પેરુમ્બદુર, તલવંડી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાલડી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શંકર ભગવાનની 'જટા' અને 'કાલ' (કાલડી) - શંકર કાલડીમાં જન્મ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "રામાનુજાચાર્યનું જન્મસ્થળ ......... છે. (કાલડી, પેરુમ્બદુર, કાશી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પેરુમ્બદુર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રામાનુજાચાર્ય લાંબુ નામ છે, તો ગામનું નામ પણ લાંબુ 'પેરુમ્બદુર' યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "કબીરના ગુરુ ......... હતા. (રામાનંદ, રૈદાસ, વલ્લભાચાર્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રામાનંદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કબીર આનંદમાં' - કબીરના ગુરુ રામાનંદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "કબીરના કવિતા સંગ્રહને ......... કહેવામાં આવે છે. (સાખી, બીજક, રત્નાવલી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બીજક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કબીરજીએ જ્ઞાનના 'બીજ' વાવ્યા, એટલે 'બીજક'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "શિખ ધર્મના સ્થાપક ......... હતા. (ગુરુ ગોવિંદસિંહ, ગુરુ નાનક, ગુરુ અર્જુનદેવ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુરુ નાનક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નાનક' એટલે નાના બાળક જેવા નિર્મળ પાયો નાખનાર પ્રથમ ગુરુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "શિખ ધર્મનો પવિત્ર ગ્રંથ ......... છે. (ભગવદ ગીતા, ગુરુ ગ્રંથ સાહિબ, બાઇબલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુરુ ગ્રંથ સાહિબ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે ધર્મ ગુરુનો છે, તેમનો ગ્રંથ પણ 'ગુરુ' ના નામથી જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "તુલસીદાસે કયો પ્રસિદ્ધ ગ્રંથ લખ્યો છે? (રામાયણ, રામચરિતમાનસ, પદાવલી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રામચરિતમાનસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તુલસીના છોડ પાસે બેસીને 'રામનું ચરિત્ર' લખ્યું = રામચરિતમાનસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "બંગાળમાં હરિબોલનો મંત્ર ......... એ આપ્યો હતો. (ચૈતન્ય મહાપ્રભુ, કબીર, નામદેવ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચૈતન્ય મહાપ્રભુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંગાળમાં 'ચૈતન્ય' (ચેતના) લાવવા માટે 'હરિબોલ' ગાયું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ગુજરાતના ભક્ત કવિ નરસિંહ મહેતાનું વતન ......... હતું. (તળાજા, જૂનાગઢ, દ્વારકા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તળાજા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નરસિંહ મહેતાનું જન્મસ્થળ પૂછાય તો 'તળાજા' અને કર્મભૂમિ પૂછાય તો 'જૂનાગઢ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "નરસિંહ મહેતાના પદો ......... તરીકે જાણીતા છે. (અભંગ, પ્રભાતિયાં, ચોપાઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રભાતિયાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નરસિંહ મહેતા 'વહેલી સવારે' (પ્રભાતે) ભજન ગાતા, એટલે પ્રભાતિયાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "મીરાબાઈના આરાધ્ય દેવ ......... હતા. (શ્રી રામ, શ્રીકૃષ્ણ, શિવ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શ્રીકૃષ્ણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીરાબાઈ હંમેશા ગિરધર ગોપાલ (કૃષ્ણ) ની ભક્તિ કરતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "મહારાષ્ટ્રમાં ભક્તિ આંદોલનનું કેન્દ્ર ......... મંદિર હતું. (સોમનાથ, વિઠોબા, પંઢરપુર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિઠોબા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહારાષ્ટ્રમાં વિઠ્ઠલ (વિઠોબા) ની આણ પ્રવર્તે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "મહારાષ્ટ્રના પ્રથમ સંત ......... હતા. (જ્ઞાનેશ્વર, નામદેવ, તુકારામ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્ઞાનેશ્વર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૌથી પહેલા 'જ્ઞાન' આવે, એટલે જ્ઞાનેશ્વરથી શરૂઆત થઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સંત તુકારામના કાવ્યો ......... તરીકે ઓળખાય છે. (પદ, અભંગ, સાખી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અભંગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તુકારામના ભજનો ક્યારેય 'ભંગ' ન થાય, એટલે 'અભંગ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સૂફી શબ્દ ઇસ્લામના ......... વિચારોને વ્યક્ત કરે છે. (કટ્ટરવાદી, રહસ્યવાદી, રાજકીય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રહસ્યવાદી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સૂફી' સંગીત સાંભળતા 'રહસ્ય' જેવું લાગે, એટલે રહસ્યવાદી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ભારતમાં ચિશ્તી પરંપરાની શરૂઆત ......... એ કરી હતી. (મોઈનુદ્દીન ચિશ્તી, નિઝામુદ્દીન ઓલિયા, બાબા ફરીદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોઈનુદ્દીન ચિશ્તી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અજમેરના 'ખ્વાજા' એટલે જ મોઈનુદ્દીન ચિશ્તી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "આદિ શંકરાચાર્યએ કયો સિદ્ધાંત આપ્યો હતો? (અદ્વૈતવાદ, વિશિષ્ટાદ્વૈતવાદ, દ્વૈતવાદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અદ્વૈતવાદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અ' થી આદિ અને 'અ' થી અદ્વૈતવાદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "મીરાબાઈના પિતાનું નામ ......... હતું. (ભોજરાજ, રતનસિંહ, સાંગાજી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રતનસિંહ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીરાબાઈ ભક્તિનું 'રતન' (રત્ન) હતા, એટલે પિતા રતનસિંહ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સંત રૈદાસ (રવિદાસ) કોના ગુરુભાઈ હતા? (કબીર, તુલસીદાસ, સૂરદાસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કબીર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કબીર અને રૈદાસ બંને રામાનંદના શિષ્યો હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ગુરુ નાનકનો જન્મ ......... માં થયો હતો. (તલવંડી, અમૃતસર, પટના)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તલવંડી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાનકડા તળાવ જેવું નામ 'તલવંડી' (હાલ પાકિસ્તાનમાં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સૂરદાસના ગુરુ ......... હતા. (વલ્લભાચાર્ય, રામાનંદ, ચૈતન્ય મહાપ્રભુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વલ્લભાચાર્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂરદાસ વલ્લભ સંપ્રદાય સાથે જોડાયેલા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "દક્ષિણ ભારતના વૈષ્ણવ સંતોને ......... કહેવાતા. (આલવાર, નયનાર, સૂફી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આલવાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિષ્ણુના ભક્તો 'આલવાર' (V-A) અને શિવના ભક્તો 'નયનાર' (S-N).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "દક્ષિણ ભારતના શૈવ સંતોને ......... કહેવાતા. (આલવાર, નયનાર, શ્રમણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નયનાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિવજીને ત્રીજું 'નયન' હોય છે, એટલે તેમના ભક્તો 'નયનાર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ખ્વાજા મોઈનુદ્દીન ચિશ્તીની દરગાહ ......... માં આવેલી છે. (દિલ્હી, અજમેર, આગ્રા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અજમેર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અજમેર શરીફ તરીકે આ સ્થળ વિશ્વવિખ્યાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "રામચરિતમાનસ ગ્રંથની રચના ......... ભાષામાં થઈ છે. (સંસ્કૃત, અવધી, હિન્દી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અવધી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અયોધ્યાની ભાષા 'અવધી' - રામ અયોધ્યાના હતા એટલે ગ્રંથ પણ અવધીમાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "શંકરાચાર્યના માતાનું નામ ......... હતું. (આર્યામ્બા, શારદાદેવી, મીરાબાઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આર્યામ્બા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શંકર ભગવાનની માતા 'અંબા' હોય એમ યાદ રાખો, એટલે 'આર્યામ્બા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "રામાનુજાચાર્યએ ભક્તિનો માર્ગ ......... માટે ખુલ્લો મૂક્યો. (બ્રાહ્મણો, ક્ષત્રિયો, તમામ વર્ગો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તમામ વર્ગો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાચી ભક્તિમાં કોઈ ભેદભાવ હોતો નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "સંત નામદેવ યુવાનીમાં ......... હતા. (વણકર, લૂંટારા, દરજી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લૂંટારા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાલ્મીકિ ઋષિની જેમ નામદેવ પણ પહેલા લૂંટારા હતા પછી સંત બન્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "કયા સંતે 'જ્ઞાનેશ્વરી' (ગીતા પરની ટીકા) લખી હતી? (તુકારામ, જ્ઞાનેશ્વર, એકનાથ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્ઞાનેશ્વર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામમાં જ જવાબ છે: જ્ઞાનેશ્વર = જ્ઞાનેશ્વરી.</p></div>"
+    }
+  ]
+}
