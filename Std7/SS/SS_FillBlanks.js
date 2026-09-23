@@ -1246,3 +1246,261 @@ var Std7_SS_FillBlanks = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "પ્રાદેશિક સંસ્કૃતિનું ઘડતર",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "નવમી સદીમાં સ્થાપવામાં આવેલ મહોદયપુરનું ચેર રાજ્ય હાલના __________ ના એક ભાગ તરીકે હતું. (કેરલ, તમિલનાડુ, કર્ણાટક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેરલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચેર' પર બેસીને 'કેર' (કેરલ) ખાઓ. આમ, ચેર રાજ્ય એટલે કેરલ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "મલયાલમ ભાષામાં લખાયેલું વ્યાકરણ અને કાવ્યશાસ્ત્રનું પુસ્તક 'લીલાતિલકમ' __________ શૈલીમાં લખાયું હતું. (મણિપ્રવાલમ્, સંસ્કૃત, દ્રવિડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મણિપ્રવાલમ્</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લીલા (લીલાતિલકમ) એ મણિ (મણિપ્રવાલમ્) પહેર્યો છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ઓડિશાના પૂરીમાં આવેલ જગન્નાથ સંપ્રદાય __________ ના અવતાર તરીકે માનવામાં આવે છે. (વિષ્ણુ, શિવ, બ્રહ્મા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિષ્ણુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જગન્નાથ એટલે જગતના નાથ અને વિષ્ણુ ભગવાન આખી દુનિયાનું પાલન કરે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ભારતમાં હોળીનો તહેવાર ઉત્તર ભારતમાં ખાસ કરીને __________ ના દિવસે ઉજવાય છે. (ફાગણ સુદ પૂનમ, ચૈત્ર સુદ એકમ, મહા સુદ પૂનમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફાગણ સુદ પૂનમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ફા' થી ફાગણ અને 'ફા' થી ફાગ (હોળીના ગીતો). હોળી પૂનમે જ હોય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "'કથક' શબ્દ __________ પરથી ઉતરી આવ્યો છે. (કથા, કથન, કલા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કથા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કથા કરે સો કથક કહાવે' - કથા પરથી જ કથક આવ્યું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કથકલી એ __________ રાજ્યની મુખ્ય નૃત્ય પરંપરા છે. (કેરલ, આંધ્રપ્રદેશ, તમિલનાડુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેરલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ક' થી કથકલી અને 'કે' થી કેરલ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ભરતનાટ્યમનું ઉદભવ સ્થાન તમિલનાડુનો __________ જિલ્લો મનાય છે. (તાંજોર, મદુરાઈ, ચેન્નાઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તાંજોર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ભરત' તમિલનાડુમાં 'જોર' (તાંજોર) થી નાચ્યો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "કુચિપુડી નૃત્યનો ઉદભવ આંધ્રપ્રદેશના __________ નામના ગામમાં થયો હતો. (કુચેલપુરમ, વિજયવાડા, હૈદરાબાદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કુચેલપુરમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કુ' થી કુચિપુડી અને 'કુ' થી કુચેલપુરમ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "મણિપુરી નૃત્યના મુખ્ય બે પ્રકારો લાસ્ય અને __________ છે. (તાંડવ, ભરત, કથક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તાંડવ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિવજીના બે રૂપ યાદ રાખો - કોમળ એટલે લાસ્ય અને રૌદ્ર એટલે તાંડવ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "લઘુચિત્રો એટલે __________ કદના ચિત્રો. (નાના, મોટા, મધ્યમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નાના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'લઘુ' એટલે નાનું અને 'ગુરુ' એટલે મોટું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "હિમાચલ પ્રદેશમાં વિકસેલી લઘુચિત્રકલાને __________ શૈલી કહેવામાં આવે છે. (બસોહલી, કાંગડા, રાજસ્થાની)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બસોહલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હિમાચલની પહાડીઓમાં 'બસો' (બસ) ચાલે છે એમ યાદ રાખો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ભાનુદત્તના પુસ્તક __________ માં વિશિષ્ટ લઘુચિત્રો જોવા મળે છે. (રસમંજરી, ગીત ગોવિંદ, રામાયણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રસમંજરી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાનુ (સૂર્ય) ના કિરણોમાં રસ (રસમંજરી) હોય છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ગુજરાતી ભાષાના આદિકવિ તરીકે __________ ઓળખાય છે. (નરસિંહ મહેતા, મીરાંબાઈ, પ્રેમાનંદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નરસિંહ મહેતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાતી સાહિત્યની શરૂઆત નરસિંહથી થાય એટલે તે આદિ (પ્રથમ) કવિ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "પ્રેમાનંદે આખ્યાન દ્વારા અને __________ એ ગરબી દ્વારા ગુજરાતી સાહિત્યને સમૃદ્ધ કર્યું. (દયારામ, અખો, નર્મદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દયારામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દયારામની 'ગરબી' અને પ્રેમાનંદના 'આખ્યાન' હંમેશા જોડીમાં યાદ રાખવા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "તરણેતરનો મેળો __________ જિલ્લામાં ભરાય છે. (સુરેન્દ્રનગર, રાજકોટ, જામનગર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુરેન્દ્રનગર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સુ' થી સુરેન્દ્રનગર અને 'તર' થી તરણેતર. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વૌઠાનો મેળો અમદાવાદ જિલ્લાના __________ તાલુકામાં ભરાય છે. (ધોળકા, દસ્ક્રોઈ, સાણંદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધોળકા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વૌઠામાં ગધેડા 'ધોળા' (ધોળકા) હોય છે એમ યાદ રાખો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ભવનાથનો મેળો ગિરનારની તળેટીમાં __________ ખાતે ભરાય છે. (જૂનાગઢ, સોમનાથ, પોરબંદર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જૂનાગઢ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગિરનાર પર્વત જૂનાગઢમાં જ છે, એટલે મેળો પણ ત્યાં જ હોય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "પાટણમાં આવેલી 'રાણીની વાવ' __________ વંશના શાસનકાળમાં બનાવવામાં આવી હતી. (સોલંકી, વાઘેલા, ચાવડા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સોલંકી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાટણના સોલંકીઓ સ્થાપત્ય પ્રેમી હતા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "સિદ્ધરાજ જયસિંહ દ્વારા સિદ્ધપુરમાં __________ બંધાવવામાં આવ્યું હતું. (રુદ્રમહાલય, સોમનાથ મંદિર, સૂર્ય મંદિર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રુદ્રમહાલય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સિ' થી સિદ્ધરાજ અને 'સિ' થી સિદ્ધપુર. ત્યાં રુદ્ર (શિવ) નો મહેલ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "પાટણના __________ આખા વિશ્વમાં પ્રખ્યાત છે. (પટોળા, બાંધણી, જરીકામ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પટોળા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'છેલ્લી જી રે મારી હાટુ પાટણથી પટોળા મોંઘા લાવજો' ગીત યાદ કરો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "તમિલનાડુનો મુખ્ય તહેવાર __________ છે. (પોંગલ, ઓણમ, બિહુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પોંગલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'તમિલ' લોકો 'પોંગલ' ખાય છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "અસમનો પ્રસિદ્ધ તહેવાર __________ છે. (બિહુ, પોંગલ, ઓણમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બિહુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અસમની વહુ એટલે 'બિહુ'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "કેરલમાં ઉજવાતો તહેવાર __________ છે. (ઓણમ, પોંગલ, દિવાળી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓણમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કે' થી કેરલ અને ઓણમમાં નૌકા સ્પર્ધા થાય છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "પારસીઓનો મુખ્ય તહેવાર __________ છે. (પતેતી, ઈદ, નાતાલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પતેતી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પ' થી પારસી અને 'પ' થી પતેતી (પસ્તાવો કરવાનો દિવસ). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "જૂનાગઢમાં આવેલ ઉપરકોટનું મૂળ નામ __________ હતું. (ગિરિદુર્ગ, જૂનાગઢ, સુદર્શન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગિરિદુર્ગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગિરિ' એટલે પર્વત અને 'દુર્ગ' એટલે કિલ્લો. ગિરનાર પર્વત પરનો કિલ્લો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "મધ્યકાલીન ગુજરાતી સાહિત્યમાં 'કાફી' માટે કયા કવિ જાણીતા છે? (ધીરો, અખો, દયારામ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધીરો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાફી પીવામાં 'ધીરજ' (ધીરો) રાખવી પડે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "શાંતિ નિકેતનની સ્થાપના __________ એ કરી હતી. (રવીન્દ્રનાથ ટાગોર, રાજા રામમોહનરાય, સ્વામી વિવેકાનંદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રવીન્દ્રનાથ ટાગોર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટાગોરજી પ્રકૃતિ પ્રેમી હતા, એટલે શાંતિ માટે શાંતિનિકેતન બનાવ્યું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "અમદાવાદની પ્રખ્યાત જાળીનું નામ __________ ની જાળી છે. (સીદી સૈયદ, સીદી બશીર, જુમ્મા મસ્જિદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સીદી સૈયદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અમદાવાદની શાન, સીદી સૈયદની કોતરણીવાળી જાળી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "માધવપુરનો મેળો ગુજરાતના __________ જિલ્લામાં ભરાય છે. (પોરબંદર, જૂનાગઢ, જામનગર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પોરબંદર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માધવપુર 'ઘેડ' વિસ્તારમાં છે જે પોરબંદર પાસે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "સૂર્યમંદિર મોઢેરા __________ જિલ્લામાં આવેલું છે. (મહેસાણા, પાટણ, સાબરકાંઠા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહેસાણા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મ' થી મોઢેરા અને 'મ' થી મહેસાણા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "જગન્નાથ રથયાત્રામાં ભગવાન જગન્નાથ, મોટા ભાઈ બલભદ્ર અને બહેન __________ ના રથ હોય છે. (સુભદ્રા, દ્રૌપદી, લક્ષ્મી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુભદ્રા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જગન્નાથપુરીમાં ત્રણેય ભાઈ-બહેન સાથે રથમાં નીકળે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "ચૈતન્ય મહાપ્રભુએ બંગાળમાં __________ આંદોલનની શરૂઆત કરી હતી. (ભક્તિ, સૂફી, જૈન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભક્તિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હરે કૃષ્ણ મંત્ર આપનાર ચૈતન્ય પ્રભુ ભક્તિ માર્ગના હતા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "અડોદરાની વાવ (અડાલજ) રાણી __________ એ પોતાના પતિ વીરસિંહની યાદમાં બંધાવી હતી. (રુદાબાઈ, મીનળદેવી, ઉદયમતી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રુદાબાઈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અ' થી અડાલજ અને 'ર' થી રુદાબાઈ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "પાઠ્યપુસ્તક મુજબ શામળાજીનો મેળો __________ નદીના કિનારે ભરાય છે. (મેશવો, સાબરમતી, મહી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મેશવો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મે' થી મેશવો અને 'શ' થી શામળાજી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "પાલિતાણાના જૈન મંદિરો કયા પર્વત પર આવેલા છે? (શેત્રુંજય, ગિરનાર, પાવાગઢ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શેત્રુંજય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાલિતાણા અને શેત્રુંજય હંમેશા સાથે બોલાય છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "કયા નૃત્યમાં અભિનય એ આત્મા ગણાય છે? (કથકલી, કથક, ઓડિસી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કથકલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કથકલીમાં મુખના હાવભાવ (અભિનય) સૌથી મહત્વના છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "સોમનાથ મંદિર વેરાવળ પાસેના __________ માં આવેલું છે. (પ્રભાસપાટણ, પાટણ, તળાજા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રભાસપાટણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોમનાથ જ્યોતિર્લિંગ એટલે પ્રભાસક્ષેત્ર. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "ભારતમુનિ દ્વારા રચિત __________ ગ્રંથ ભારતીય નૃત્ય કલાનો આધારસ્તંભ છે. (નાટ્યશાસ્ત્ર, લીલાતિલકમ, અભિનય દર્પણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નાટ્યશાસ્ત્ર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નાટ્ય' એટલે નાટક અને ડાન્સ બંનેનો શાસ્ત્ર એટલે નાટ્યશાસ્ત્ર. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "મુઘલ બાદશાહ __________ એ ચિત્રકલાને ખૂબ પ્રોત્સાહન આપ્યું હતું. (જહાંગીર, અકબર, હુમાયુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જહાંગીર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જ' થી જહાંગીર એ ચિત્રોનો જબરો શોખીન હતો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "નરસિંહ મહેતાના પદોને __________ તરીકે ઓળખવામાં આવે છે. (પ્રભાતિયાં, ગરબી, આખ્યાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રભાતિયાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નરસિંહના ભજનો સવારે (પ્રભાતે) ગવાય એટલે પ્રભાતિયાં. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "ભક્તિ માર્ગના કયા કવિએ વ્રજમાં રહીને શ્રીકૃષ્ણની લીલાઓના પદો રચ્યા હતા? (સૂરદાસ, તુલસીદાસ, કબીર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૂરદાસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂરદાસ કૃષ્ણ ભક્તિના સૂર રેલાવતા હતા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "આધુનિક ગુજરાતી સાહિત્યના પિતા કોણ ગણાય છે? (નર્મદ, નવલરામ, દલપતરામ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નર્મદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નવી' ગુજરાતી એટલે 'નર્મદ'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "કચ્છમાં ઉજવાતો તહેવાર કયો છે? (રણોત્સવ, દિવાળી, હોળી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રણોત્સવ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કચ્છડો બારે માસ' પણ રણ ઉત્સવ શિયાળાની શાન. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "શ્રીકૃષ્ણ અને રુક્મિણીના લગ્ન કયા મેળામાં મનાવવામાં આવે છે? (માધવપુરનો મેળો, તરણેતરનો મેળો, વૌઠાનો મેળો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માધવપુરનો મેળો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માધવ એટલે કૃષ્ણ, તેમના લગ્ન માધવપુરમાં થયા હતા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "જૂનાગઢમાં આવેલી 'અડી-કડીની વાવ' કોણે બંધાવી હોવાનું મનાય છે? (રા' ખેંગાર, સિદ્ધરાજ, મુળરાજ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રા' ખેંગાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અડી-કડીની વાવ અને નવઘણ કૂવો જેણે ન જોયો તે જીવતો મૂવો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "__________ ના સમયમાં કાંગડા શૈલીની ચિત્રકલાનો વિકાસ થયો હતો. (સંસારચંદ, અકબર, જહાંગીર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંસારચંદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ' થી સંસારચંદ અને કાંગડા ચિત્રકલામાં આખા સંસારના સુંદર રંગો છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "દક્ષિણ ભારતના મંદિરોમાં પ્રવેશદ્વારને __________ કહેવામાં આવે છે. (ગોપુરમ, ગર્ભગૃહ, શિખર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગોપુરમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગો' એટલે જવું, અંદર જવા માટેનો રસ્તો એટલે ગોપુરમ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "બંગાળી ભાષાનો ઉદભવ કઈ ભાષામાંથી થયો હોવાનું મનાય છે? (સંસ્કૃત, ફારસી, મલયાલમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંસ્કૃત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારતની મોટાભાગની ભાષાઓની માતા સંસ્કૃત છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "શહીદની યાદમાં જ્યાં સ્તંભ બાંધવામાં આવે તેને __________ કહેવાય છે. (પાળિયા, સ્તૂપ, તોરણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાળિયા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વીરોની રક્ષા (પાળવું) કરનારની યાદમાં પાળિયા હોય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "વિશ્વ વિખ્યાત રથયાત્રા કયા શહેરમાંથી નીકળે છે? (પુરી, પાટણ, અયોધ્યા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પુરી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓડિશાનું જગન્નાથ પુરી રથયાત્રા માટે જ જાણીતું છે. (NJ Classes)</p></div>"
+    }
+  ]
+}
