@@ -2645,3 +2645,161 @@ var Std7_SS_MCQs = {
     }
   ]
 }
+,
+"15": {
+  "chapterName": "પ્રકરણ 15",
+  "chapterTitle": "રાજ્ય સરકાર",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ગુજરાતની ધારાસભા ક્યાં આવેલી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>સાચો વિકલ્પ: (B) ગાંધીનગર</strong></p><p>વિકલ્પો:<br>A. અમદાવાદ<br>B. ગાંધીનગર<br>C. વડોદરા<br>D. રાજકોટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધીનગર એ ગુજરાતનું પાટનગર છે, અને બધાં જ મુખ્ય સરકારી ભવનો (સચિવાલય, ધારાસભા) પાટનગરમાં જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ગુજરાત વિધાનસભાના ભવનનું નામ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>સાચો વિકલ્પ: (C) વિઠ્ઠલભાઈ પટેલ ભવન</strong></p><p>વિકલ્પો:<br>A. વલ્લભભાઈ પટેલ ભવન<br>B. મહાત્મા ગાંધી ભવન<br>C. વિઠ્ઠલભાઈ પટેલ ભવન<br>D. નરેન્દ્ર મોદી ભવન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વિ' થી વિધાનસભા અને 'વિ' થી વિઠ્ઠલભાઈ પટેલ ભવન - આ રીતે યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "રાજ્ય સરકારના મુખ્ય કેટલા અંગો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>સાચો વિકલ્પ: (A) 3</strong></p><p>વિકલ્પો:<br>A. 3<br>B. 4<br>C. 2<br>D. 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધારાસભા, કારોબારી અને ન્યાયતંત્ર - આ ત્રિપુટી એટલે સરકારના 3 અંગો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "રાજ્યમાં કાયદો ઘડવાનું કાર્ય સરકારનું કયું અંગ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>સાચો વિકલ્પ: (B) ધારાસભા</strong></p><p>વિકલ્પો:<br>A. કારોબારી<br>B. ધારાસભા<br>C. ન્યાયતંત્ર<br>D. પોલીસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ધારા' એટલે કાયદો. જે ધારા (કાયદો) ઘડે તે ધારાસભા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિધાનસભાના સભ્યને શું કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>સાચો વિકલ્પ: (D) MLA</strong></p><p>વિકલ્પો:<br>A. MP<br>B. સરપંચ<br>C. PM<br>D. MLA</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: MLA = Member of Legislative Assembly (વિધાનસભાના સભ્ય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિધાનસભાની ચૂંટણી કેટલા વર્ષે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>સાચો વિકલ્પ: (C) 5 વર્ષે</strong></p><p>વિકલ્પો:<br>A. 2 વર્ષે<br>B. 6 વર્ષે<br>C. 5 વર્ષે<br>D. દર વર્ષે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારતમાં લોકશાહીમાં પંચવર્ષીય યોજનાની જેમ મોટાભાગની ચૂંટણીઓ 5 વર્ષે જ થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ધારાસભાનું ઉપલું ગૃહ કયા નામે ઓળખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>સાચો વિકલ્પ: (B) વિધાનપરિષદ</strong></p><p>વિકલ્પો:<br>A. વિધાનસભા<br>B. વિધાનપરિષદ<br>C. લોકસભા<br>D. રાજ્યસભા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજ્યમાં 'પ' થી પરિષદ એ 'પ' થી ઉપર (ઉપલું ગૃહ) - જો કે ગુજરાતમાં તે નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ગુજરાતમાં ધારાસભાનું કયું ગૃહ અસ્તિત્વમાં નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>સાચો વિકલ્પ: (A) વિધાનપરિષદ</strong></p><p>વિકલ્પો:<br>A. વિધાનપરિષદ<br>B. વિધાનસભા<br>C. ન્યાયતંત્ર<br>D. કારોબારી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાતમાં માત્ર એક જ ગૃહ છે - વિધાનસભા. અહીં પરિષદની 'પંચાત' નથી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિધાનસભાના સભ્ય બનવા માટે લઘુત્તમ વયમર્યાદા કેટલી હોવી જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>સાચો વિકલ્પ: (C) 25 વર્ષ</strong></p><p>વિકલ્પો:<br>A. 18 વર્ષ<br>B. 21 વર્ષ<br>C. 25 વર્ષ<br>D. 35 વર્ષ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વોટ આપવા 18, પંચાયત માટે 21 અને MLA/MP બનવા 25 વર્ષ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "રાજ્યના બંધારણીય વડા કોણ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>સાચો વિકલ્પ: (B) રાજ્યપાલ</strong></p><p>વિકલ્પો:<br>A. મુખ્યમંત્રી<br>B. રાજ્યપાલ<br>C. રાષ્ટ્રપતિ<br>D. વડાપ્રધાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેશમાં રાષ્ટ્રપતિ તો રાજ્યમાં રાજ્યપાલ. બંને 'પાલ' કે 'પતિ' બંધારણીય વડા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "રાજ્યપાલની નિમણૂક કોણ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>સાચો વિકલ્પ: (A) રાષ્ટ્રપતિ</strong></p><p>વિકલ્પો:<br>A. રાષ્ટ્રપતિ<br>B. વડાપ્રધાન<br>C. મુખ્યમંત્રી<br>D. સુપ્રીમ કોર્ટના ન્યાયાધીશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજ્યના વડા (રાજ્યપાલ) ની નિમણૂક દેશના વડા (રાષ્ટ્રપતિ) જ કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "મુખ્યમંત્રીની નિમણૂક કોણ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>સાચો વિકલ્પ: (D) રાજ્યપાલ</strong></p><p>વિકલ્પો:<br>A. રાષ્ટ્રપતિ<br>B. જનતા<br>C. વડાપ્રધાન<br>D. રાજ્યપાલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજ્યમાં જે પણ મુખ્ય નિમણૂકો થાય તે રાજ્યપાલના હસ્તે જ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "રાજ્યની કારોબારીના વાસ્તવિક વડા કોણ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>સાચો વિકલ્પ: (A) મુખ્યમંત્રી</strong></p><p>વિકલ્પો:<br>A. મુખ્યમંત્રી<br>B. રાજ્યપાલ<br>C. મુખ્ય સચિવ<br>D. વિધાનસભાના અધ્યક્ષ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંધારણીય વડા રાજ્યપાલ છે, પણ અસલી પાવર (વાસ્તવિક વડા) તો મુખ્યમંત્રી પાસે જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિધાનસભામાં કોની પૂર્વ મંજૂરીથી નાણાકીય ખરડો રજૂ કરી શકાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>સાચો વિકલ્પ: (C) રાજ્યપાલ</strong></p><p>વિકલ્પો:<br>A. મુખ્યમંત્રી<br>B. અધ્યક્ષ<br>C. રાજ્યપાલ<br>D. નાણામંત્રી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૈસાની વાત હોય ત્યારે રાજ્યના મોભી એટલે કે રાજ્યપાલની પૂછપરછ કરવી પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ગુજરાતમાં વિધાનસભાની કુલ કેટલી બેઠકો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>સાચો વિકલ્પ: (B) 182</strong></p><p>વિકલ્પો:<br>A. 150<br>B. 182<br>C. 200<br>D. 110</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ટેચ્યુ ઓફ યુનિટીની ઊંચાઈ પણ 182 મીટર છે અને બેઠકો પણ 182 છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિધાનસભાનું સંચાલન કરનારને શું કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>સાચો વિકલ્પ: (D) અધ્યક્ષ (સ્પીકર)</strong></p><p>વિકલ્પો:<br>A. રાજ્યપાલ<br>B. મુખ્યમંત્રી<br>C. મેયર<br>D. અધ્યક્ષ (સ્પીકર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્લાસમાં જે મોનિટર હોય તે વિધાનસભામાં 'સ્પીકર' (અધ્યક્ષ) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "કોઈપણ ખરડો કાયદો ક્યારે બને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>સાચો વિકલ્પ: (A) રાજ્યપાલની સહી થાય ત્યારે</strong></p><p>વિકલ્પો:<br>A. રાજ્યપાલની સહી થાય ત્યારે<br>B. મુખ્યમંત્રી મંજૂરી આપે ત્યારે<br>C. જનતા હા પાડે ત્યારે<br>D. અદાલત મંજૂરી આપે ત્યારે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેલ્લી સહી રાજ્યના 'રાજ' એટલે કે રાજ્યપાલની જ જોઈએ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "નીચેનામાંથી કઈ યોજના આરોગ્ય સાથે સંબંધિત છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>સાચો વિકલ્પ: (C) મુખ્યમંત્રી અમૃતમ (MA) યોજના</strong></p><p>વિકલ્પો:<br>A. સરસ્વતી સાધના યોજના<br>B. કુંવરબાઈનું મામેરું<br>C. મુખ્યમંત્રી અમૃતમ (MA) યોજના<br>D. વનબંધુ કલ્યાણ યોજના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અમૃત' આપણને લાંબુ આયુષ્ય (આરોગ્ય) આપે, માટે MA યોજના આરોગ્ય માટે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "કટોકટીના સમયે રાજ્યમાં કોનું શાસન લાદવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>સાચો વિકલ્પ: (B) રાષ્ટ્રપતિ શાસન</strong></p><p>વિકલ્પો:<br>A. લશ્કરી શાસન<br>B. રાષ્ટ્રપતિ શાસન<br>C. રાજ્યપાલ શાસન<br>D. લોકશાહી શાસન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે રાજ્યની ગાડી પાટા પરથી ઉતરે ત્યારે ડ્રાઈવર (મુખ્યમંત્રી) બદલાઈને સીધું દિલ્હી (રાષ્ટ્રપતિ) નું કંટ્રોલ આવી જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "રાજ્યની વડી અદાલતના ન્યાયાધીશોની નિમણૂક કોણ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>સાચો વિકલ્પ: (D) રાષ્ટ્રપતિ</strong></p><p>વિકલ્પો:<br>A. રાજ્યપાલ<br>B. મુખ્યમંત્રી<br>C. સુપ્રીમ કોર્ટ<br>D. રાષ્ટ્રપતિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અદાલત એ કેન્દ્રીય વ્યવસ્થાનો ભાગ છે, માટે હાઈકોર્ટના જજ પણ રાષ્ટ્રપતિ જ નીમે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "સરકારનું કયું અંગ કાયદાનો અમલ કરાવવાનું કાર્ય કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>સાચો વિકલ્પ: (A) કારોબારી</strong></p><p>વિકલ્પો:<br>A. કારોબારી<br>B. ધારાસભા<br>C. ન્યાયતંત્ર<br>D. મંત્રીમંડળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધારાસભા 'ઘડે', કારોબારી 'અમલ' કરે અને ન્યાયતંત્ર 'ન્યાય' આપે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "108 એમ્બ્યુલન્સ સેવા કઈ બાબત સાથે જોડાયેલી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>સાચો વિકલ્પ: (B) આરોગ્ય</strong></p><p>વિકલ્પો:<br>A. શિક્ષણ<br>B. આરોગ્ય<br>C. ખેતી<br>D. ઉદ્યોગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હોસ્પિટલ જવું હોય ત્યારે એમ્બ્યુલન્સ (108) બોલાવીએ, જે આરોગ્ય સેવા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "રાજ્યપાલ બનવા માટે ઓછામાં ઓછી કેટલી વય હોવી જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>સાચો વિકલ્પ: (D) 35 વર્ષ</strong></p><p>વિકલ્પો:<br>A. 25 વર્ષ<br>B. 30 વર્ષ<br>C. 21 વર્ષ<br>D. 35 વર્ષ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટા હોદ્દા માટે મોટી ઉંમર - રાજ્યપાલ અને રાષ્ટ્રપતિ માટે 35 વર્ષ ફિક્સ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિધાનસભાને બીજા કયા નામે ઓળખવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>સાચો વિકલ્પ: (C) નીચલું ગૃહ</strong></p><p>વિકલ્પો:<br>A. ઉપલું ગૃહ<br>B. વચલું ગૃહ<br>C. નીચલું ગૃહ<br>D. કાયમી ગૃહ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિધાનસભા એ લોકોની સભા છે, જે પાયામાં (નીચે) હોય, એટલે નીચલું ગૃહ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "રાજ્યનો વહીવટ કોના નામે ચાલે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>સાચો વિકલ્પ: (B) રાજ્યપાલ</strong></p><p>વિકલ્પો:<br>A. મુખ્યમંત્રી<br>B. રાજ્યપાલ<br>C. રાષ્ટ્રપતિ<br>D. મુખ્ય સચિવ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘરે પપ્પા નિર્ણયો લે પણ કંકોત્રીમાં નામ દાદાનું હોય, તેમ રાજ્યમાં બધું જ રાજ્યપાલના નામે થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વિધાનસભામાં પ્રશ્નોત્તરી દરમિયાન કોને ઉદ્દેશીને પ્રશ્નો પૂછવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>સાચો વિકલ્પ: (A) અધ્યક્ષને</strong></p><p>વિકલ્પો:<br>A. અધ્યક્ષને<br>B. મુખ્યમંત્રીને<br>C. રાજ્યપાલને<br>D. વિરોધ પક્ષના નેતાને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તમે પણ ક્લાસમાં કોઈને ફરિયાદ કરવી હોય તો ટીચર (મોનિટર/અધ્યક્ષ) ને જ કહો ને!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "આરોગ્યના ક્ષેત્રે ગુજરાત સરકારની કઈ એજન્સી રસીકરણનું કામ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>સાચો વિકલ્પ: (B) આરોગ્ય વિભાગ</strong></p><p>વિકલ્પો:<br>A. શિક્ષણ વિભાગ<br>B. આરોગ્ય વિભાગ<br>C. કૃષિ વિભાગ<br>D. મહેસૂલ વિભાગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દવા, રસી અને હોસ્પિટલ બધું જ આરોગ્ય વિભાગના અંડરમાં આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "રાજ્યની ધારાસભાના સભ્યોને કોણ ચૂંટે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>સાચો વિકલ્પ: (C) રાજ્યના મતદારો</strong></p><p>વિકલ્પો:<br>A. રાજ્યપાલ<br>B. મુખ્યમંત્રી<br>C. રાજ્યના મતદારો<br>D. સરપંચો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોકશાહીમાં રાજા (ચૂંટનાર) જનતા જ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ચૂંટણીમાં જે પક્ષના સભ્યો બહુમતી ધરાવતા હોય તે પક્ષ શું બનાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>સાચો વિકલ્પ: (D) સરકાર</strong></p><p>વિકલ્પો:<br>A. ન્યાયતંત્ર<br>B. પંચાયત<br>C. વિરોધ પક્ષ<br>D. સરકાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેની પાસે સૌથી વધુ માર્કસ (બેઠકો), તેની જ સરકાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "વિધાનપરિષદ એ કેવું ગૃહ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>સાચો વિકલ્પ: (B) કાયમી</strong></p><p>વિકલ્પો:<br>A. હંગામી<br>B. કાયમી<br>C. ચૂંટાયેલું<br>D. બિન-રાજકીય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિધાનપરિષદ ક્યારેય આખું વિખેરાતું નથી, એટલે તેને કાયમી ગૃહ કહેવાય.</p></div>"
+    }
+  ]
+}
