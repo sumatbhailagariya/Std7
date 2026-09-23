@@ -2911,3 +2911,136 @@ var Std7_SS_MCQs = {
     }
   ]
 }
+,
+"17": {
+  "chapterName": "પ્રકરણ 17",
+  "chapterTitle": "જાહેરાત અને સંચાર માધ્યમો",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "માનવી એ કેવું પ્રાણી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>વિકલ્પો:</strong><br>A. જંગલી<br>B. સામાજિક<br>C. એકાકી<br>D. આળસુ</p><p><strong>ઉકેલ/જવાબ:</strong> B. સામાજિક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> માનવી સમાજમાં રહે છે એટલે તે 'સામાજિક' પ્રાણી કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સંચાર માધ્યમોને અંગ્રેજીમાં શું કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>વિકલ્પો:</strong><br>A. Social Media<br>B. Communication Media<br>C. Internet Media<br>D. Print Media</p><p><strong>ઉકેલ/જવાબ:</strong> B. Communication Media</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> સંચાર એટલે 'Communication' અને માધ્યમ એટલે 'Media'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પહેલાના સમયમાં દૂત મોકલીને કે પશુ-પક્ષીઓ દ્વારા શું મોકલવામાં આવતું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>વિકલ્પો:</strong><br>A. સામાન<br>B. સંદેશા<br>C. ભેટ<br>D. રૂપિયા</p><p><strong>ઉકેલ/જવાબ:</strong> B. સંદેશા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> કબૂતર જા જા... એટલે કે પક્ષીઓ સંદેશો લઈ જતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ભારતમાં આધુનિક ટપાલ સેવા ક્યારે શરૂ થઈ હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>વિકલ્પો:</strong><br>A. ઈ.સ. 1854<br>B. ઈ.સ. 1954<br>C. ઈ.સ. 1857<br>D. ઈ.સ. 1947</p><p><strong>ઉકેલ/જવાબ:</strong> A. ઈ.સ. 1854</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> ટપાલના ચાર અક્ષર (T-A-P-A-L) અને છેલ્લે '4' (1854) યાદ રાખવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ટેલિગ્રામ (તાર) ની શોધ ક્યારે થઈ હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>વિકલ્પો:</strong><br>A. ઈ.સ. 1840<br>B. ઈ.સ. 1850<br>C. ઈ.સ. 1860<br>D. ઈ.સ. 1880</p><p><strong>ઉકેલ/જવાબ:</strong> B. ઈ.સ. 1850</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> તાર (Telegram) એ ટપાલ (1854) પહેલા 1850 માં શોધાયો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ભારતમાં ટેલિગ્રામ સેવા કયા બે શહેરો વચ્ચે શરૂ થઈ હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>વિકલ્પો:</strong><br>A. મુંબઈ અને પુણે<br>B. કોલકાતા અને ડાયમંડ હાર્બર<br>C. દિલ્હી અને આગ્રા<br>D. અમદાવાદ અને વડોદરા</p><p><strong>ઉકેલ/જવાબ:</strong> B. કોલકાતા અને ડાયમંડ હાર્બર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> 'K'olkata to 'D'iamond Harbour = KD ટ્રીક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ટેલિગ્રામ સેવા ભારતમાં કયા વર્ષથી બંધ કરવામાં આવી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>વિકલ્પો:</strong><br>A. 13 જુલાઈ, 2003<br>B. 15 ઓગસ્ટ, 2003<br>C. 26 જાન્યુઆરી, 2005<br>D. 1 મે, 2000</p><p><strong>ઉકેલ/જવાબ:</strong> A. 13 જુલાઈ, 2003</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> 21મી સદીની શરૂઆતમાં 'તાર' તૂટી ગયા (2003).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "પુસ્તકોને કોનો ભંડાર કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>વિકલ્પો:</strong><br>A. કાગળનો<br>B. જ્ઞાનનો<br>C. પૈસાનો<br>D. વાર્તાઓનો</p><p><strong>ઉકેલ/જવાબ:</strong> B. જ્ઞાનનો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> પુસ્તક એટલે 'જ્ઞાનનો દીવો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વર્તમાનપત્રો દુનિયાના કયા ખૂણેથી સમાચાર લાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>વિકલ્પો:</strong><br>A. માત્ર ભારતમાંથી<br>B. માત્ર ગામડામાંથી<br>C. ખૂણેખૂણેથી<br>D. માત્ર શહેરોમાંથી</p><p><strong>ઉકેલ/જવાબ:</strong> C. ખૂણેખૂણેથી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> પેપર વાંચવાથી આખી દુનિયાના સમાચાર ઘરે બેઠા મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "રેડિયો એ કયા પ્રકારનું માધ્યમ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>વિકલ્પો:</strong><br>A. દ્રશ્ય<br>B. શ્રાવ્ય<br>C. દ્રશ્ય-શ્રાવ્ય<br>D. લેખિત</p><p><strong>ઉકેલ/જવાબ:</strong> B. શ્રાવ્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> રેડિયો માત્ર સંભળાય, દેખાય નહીં. શ્રાવ્ય એટલે સાંભળવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "રેડિયોની શોધ કોણે કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>વિકલ્પો:</strong><br>A. માર્કોની<br>B. જ્હોન લોગી બેયર્ડ<br>C. ગ્રેહામ બેલ<br>D. એડિસન</p><p><strong>ઉકેલ/જવાબ:</strong> A. માર્કોની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> રેડિયો વાગે એટલે 'માર'કોની - ઈટાલીના માર્કોની.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "આકાશવાણીનું સૌપ્રથમ કેન્દ્ર ક્યાં શરૂ થયું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>વિકલ્પો:</strong><br>A. ભારત<br>B. અમેરિકા<br>C. ઇંગ્લેન્ડ<br>D. ફ્રાન્સ</p><p><strong>ઉકેલ/જવાબ:</strong> C. ઇંગ્લેન્ડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> અંગ્રેજો (ઇંગ્લેન્ડ) રેડિયો લઈને આવ્યા એમ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સિનેમા (ચલચિત્ર) એ કયા પ્રકારનું માધ્યમ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>વિકલ્પો:</strong><br>A. માત્ર દ્રશ્ય<br>B. માત્ર શ્રાવ્ય<br>C. દ્રશ્ય-શ્રાવ્ય<br>D. એક પણ નહીં</p><p><strong>ઉકેલ/જવાબ:</strong> C. દ્રશ્ય-શ્રાવ્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> મુવીમાં હીરો દેખાય પણ અને સંભળાય પણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "સૌથી લોકપ્રિય દ્રશ્ય-શ્રાવ્ય સાધન કયું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>વિકલ્પો:</strong><br>A. રેડિયો<br>B. ટેલિવિઝન (TV)<br>C. ટપાલ<br>D. પુસ્તક</p><p><strong>ઉકેલ/જવાબ:</strong> B. ટેલિવિઝન (TV)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> ઘરમાં બધાની નજર ટીવી (TV) પર જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ટેલિવિઝનની શોધ કોણે કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>વિકલ્પો:</strong><br>A. માર્કોની<br>B. જ્હોન લોગી બેયર્ડ<br>C. ન્યુટન<br>D. આઈન્સ્ટાઈન</p><p><strong>ઉકેલ/જવાબ:</strong> B. જ્હોન લોગી બેયર્ડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> TV જોતા જોતા 'બેયર્ડ' (દાઢી) વધારી દીધી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "મોબાઇલ ફોન દ્વારા કઈ સેવાઓ મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>વિકલ્પો:</strong><br>A. SMS અને MMS<br>B. ઘડિયાળ અને કેલ્ક્યુલેટર<br>C. ઇન્ટરનેટ અને રેડિયો<br>D. આપેલ તમામ</p><p><strong>ઉકેલ/જવાબ:</strong> D. આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> મોબાઈલ એ 'ઓલ-ઇન-વન' સાધન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "કૃત્રિમ ઉપગ્રહ (Satellite) નો ઉપયોગ શેના માટે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>વિકલ્પો:</strong><br>A. સંદેશાવ્યવહાર માટે<br>B. હવામાનની જાણકારી માટે<br>C. પૃથ્વીના આંતરિક ભાગની માહિતી માટે<br>D. આપેલ તમામ</p><p><strong>ઉકેલ/જવાબ:</strong> D. આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> સેટેલાઇટ એટલે અવકાશમાં બેઠેલો આપણો જાસૂસ જે બધું જ કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વસ્તુના વેચાણ માટેની સૌથી મોટી તાકાત કઈ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>વિકલ્પો:</strong><br>A. જાહેરાત<br>B. દુકાનદાર<br>C. પેકિંગ<br>D. મફત ભેટ</p><p><strong>ઉકેલ/જવાબ:</strong> A. જાહેરાત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> 'જો દિખતા હૈ, વો બિક્તા હૈ' - એટલે કે જાહેરાત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "લોકશાહીનો ચોથો સ્તંભ કોને માનવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>વિકલ્પો:</strong><br>A. પોલીસ<br>B. સંચાર માધ્યમો (Media)<br>C. સરકારી કચેરી<br>D. અદાલત</p><p><strong>ઉકેલ/જવાબ:</strong> B. સંચાર માધ્યમો (Media)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> મીડિયા લોકશાહીનું રક્ષણ કરનાર 'વોચડોગ' (ચોથો સ્તંભ) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સરકારની કલ્યાણકારી યોજનાઓની માહિતી લોકો સુધી કોણ પહોંચાડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>વિકલ્પો:</strong><br>A. જાહેરાત અને સંચાર માધ્યમો<br>B. પક્ષીઓ<br>C. શાળાઓ<br>D. હોસ્પિટલ</p><p><strong>ઉકેલ/જવાબ:</strong> A. જાહેરાત અને સંચાર માધ્યમો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> સરકાર ટીવી કે પેપરમાં એડ આપીને જ આપણને યોજનાની જાણ કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "સોશિયલ મીડિયાના ઉપયોગથી કયો ભય રહેલો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>વિકલ્પો:</strong><br>A. સાયબર ક્રાઈમ<br>B. વધુ જ્ઞાન મળવું<br>C. મિત્રો વધવા<br>D. અભ્યાસમાં ફાયદો</p><p><strong>ઉકેલ/જવાબ:</strong> A. સાયબર ક્રાઈમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> મોબાઈલ અને ઈન્ટરનેટના ખોટા ઉપયોગથી 'સાયબર ગુના' વધે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સંચાર માધ્યમોના વધુ પડતા ઉપયોગથી કઈ બીમારી થઈ શકે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>વિકલ્પો:</strong><br>A. આંખની તકલીફ<br>B. ઊંઘની સમસ્યા<br>C. માનસિક તણાવ<br>D. આપેલ તમામ</p><p><strong>ઉકેલ/જવાબ:</strong> D. આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> મોબાઈલના અતિરેકથી શરીરના અંગો અને મન બંનેને નુકસાન થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "કયા સૂત્ર દ્વારા ગ્રાહક જાગૃતિ ફેલાવવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>વિકલ્પો:</strong><br>A. સત્યમેવ જયતે<br>B. જાગો ગ્રાહક જાગો<br>C. અતિથિ દેવો ભવ<br>D. વંદે માતરમ</p><p><strong>ઉકેલ/જવાબ:</strong> B. જાગો ગ્રાહક જાગો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> ગ્રાહક જાગૃતિ = 'જાગો ગ્રાહક જાગો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ટેલિવિઝન પર આવતી જાહેરાતોમાં કઈ બાબતોનું ખાસ ધ્યાન રાખવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>વિકલ્પો:</strong><br>A. ખોટી અને ભ્રામક જાહેરાતોથી બચવું<br>B. બધી જ વસ્તુઓ ખરીદી લેવી<br>C. જાહેરાત જોવી જ નહીં<br>D. મોંઘી વસ્તુઓ જ લેવી</p><p><strong>ઉકેલ/જવાબ:</strong> A. ખોટી અને ભ્રામક જાહેરાતોથી બચવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> દેખાદેખીમાં પડવું નહીં, સમજદારીથી ખરીદી કરવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ચૂંટણી દરમિયાન કયા માધ્યમનો ઉપયોગ પ્રચાર માટે સૌથી વધુ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>વિકલ્પો:</strong><br>A. સંચાર માધ્યમો (TV, Newspaper)<br>B. કબૂતર<br>C. શંખ વગાડીને<br>D. માત્ર ટપાલ દ્વારા</p><p><strong>ઉકેલ/જવાબ:</strong> A. સંચાર માધ્યમો (TV, Newspaper)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> ચૂંટણી વખતે ટીવીમાં માત્ર નેતાઓની એડ જ આવે છે.</p></div>"
+    }
+  ]
+}
