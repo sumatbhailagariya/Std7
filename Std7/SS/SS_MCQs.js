@@ -3044,3 +3044,341 @@ var Std7_SS_MCQs = {
     }
   ]
 }
+,
+"18": {
+  "chapterName": "પ્રકરણ 18",
+  "chapterTitle": "બજાર",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ચીજવસ્તુઓનું વેચાણ કરતી દુકાનો જ્યાં હોય તે સ્થળ એટલે શું?",
+      "options": {
+        "A": "ખેતર",
+        "B": "કારખાનું",
+        "C": "બજાર",
+        "D": "શાળા"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. બજાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બજાર એટલે એવી જગ્યા જ્યાં ખરીદનાર અને વેચનાર ભેગા થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "આપણા ઘરની આસપાસની દુકાનો કયા નામે ઓળખાય છે?",
+      "options": {
+        "A": "સાપ્તાહિક બજાર",
+        "B": "મહોલ્લા બજાર",
+        "C": "નિયંત્રિત બજાર",
+        "D": "શોપિંગ મોલ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. મહોલ્લા બજાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘરની બાજુમાં આપણો 'મહોલ્લો' હોય, એટલે તેની દુકાનો 'મહોલ્લા બજાર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સાપ્તાહિક બજારને બીજા કયા નામે ઓળખવામાં આવે છે?",
+      "options": {
+        "A": "મોલ",
+        "B": "હાટ",
+        "C": "શોરૂમ",
+        "D": "ડેરી"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. હાટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાપ્તાહિક બજાર = હાટ (અઠવાડિયે એક વાર ભરાતી બજાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ગુજરાતમાં સાપ્તાહિક બજારને શું કહેવામાં આવે છે?",
+      "options": {
+        "A": "રવિવારી",
+        "B": "ગુજરી",
+        "C": "બજાર",
+        "D": "A અને B બંને"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D. A અને B બંને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાતમાં રવિવારે ભરાય તેને 'રવિવારી' કે 'ગુજરી' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "કયા બજારમાં એક જ બિલ્ડિંગમાં અલગ-અલગ માળ પર અલગ-અલગ પ્રકારની વસ્તુઓ મળે છે?",
+      "options": {
+        "A": "મહોલ્લા બજાર",
+        "B": "હાટ",
+        "C": "શોપિંગ મોલ",
+        "D": "નિયંત્રિત બજાર"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. શોપિંગ મોલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોલ એટલે મોટી બિલ્ડિંગ અને બહુ બધા માળ (Multi-storey).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ખેડૂતોની ખેતપેદાશોના વેચાણ માટેની વ્યવસ્થાને શું કહેવામાં આવે છે?",
+      "options": {
+        "A": "ખાનગી બજાર",
+        "B": "નિયંત્રિત બજાર (માર્કેટિંગ યાર્ડ)",
+        "C": "ઓનલાઇન બજાર",
+        "D": "સાપ્તાહિક બજાર"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. નિયંત્રિત બજાર (માર્કેટિંગ યાર્ડ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેડૂતોનું રક્ષણ કરવા માટે સરકાર દ્વારા 'નિયંત્રિત' (APMC) બજાર બનાવાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "APMC નું પૂરું નામ જણાવો.",
+      "options": {
+        "A": "Agricultural Produce Market Committee",
+        "B": "All Produce Market Centre",
+        "C": "Agricultural Price Market Company",
+        "D": "Ahmedabad Produce Market Committee"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. Agricultural Produce Market Committee</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: A-Agricultural, P-Produce, M-Market, C-Committee.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ડિજિટલ પેમેન્ટ અને ઘરબેઠાં વસ્તુઓ મંગાવવા માટે કયા બજારનો ઉપયોગ થાય છે?",
+      "options": {
+        "A": "મહોલ્લા બજાર",
+        "B": "ઓનલાઇન બજાર",
+        "C": "ગુજરી બજાર",
+        "D": "ખેતીવાડી બજાર"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ઓનલાઇન બજાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈન્ટરનેટ દ્વારા શોપિંગ એટલે 'ઓનલાઇન' બજાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "જે વેપારી મોટા જથ્થામાં માલ સામાન ખરીદે તેને શું કહેવાય?",
+      "options": {
+        "A": "છૂટક વેપારી",
+        "B": "ફેરિયો",
+        "C": "જથ્થાબંધ વેપારી",
+        "D": "ગ્રાહક"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. જથ્થાબંધ વેપારી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટો 'જથ્થો' એટલે 'જથ્થાબંધ' વેપારી (Wholesaler).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "આપણે જે દુકાનદારે પાસેથી વસ્તુઓ ખરીદીએ છીએ તે શું કહેવાય?",
+      "options": {
+        "A": "જથ્થાબંધ વેપારી",
+        "B": "ઉત્પાદક",
+        "C": "છૂટક વેપારી",
+        "D": "એજન્ટ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. છૂટક વેપારી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્રાહકને ડાયરેક્ટ માલ આપે તે 'છૂટક' વેપારી (Retailer).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "બજારની કડીમાં છેલ્લો કોણ હોય છે?",
+      "options": {
+        "A": "ઉત્પાદક",
+        "B": "ગ્રાહક",
+        "C": "જથ્થાબંધ વેપારી",
+        "D": "છૂટક વેપારી"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ગ્રાહક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વસ્તુ વાપરનાર 'ગ્રાહક' હંમેશા છેલ્લે હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સાપ્તાહિક બજારની મુખ્ય વિશેષતા કઈ છે?",
+      "options": {
+        "A": "વસ્તુઓ મોંઘી હોય છે",
+        "B": "જરૂરિયાતની ઘણી વસ્તુઓ એક જ જગ્યાએ મળે છે",
+        "C": "તે કાયમી દુકાનો હોય છે",
+        "D": "માત્ર મોટા વેપારીઓ જ હોય છે"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. જરૂરિયાતની ઘણી વસ્તુઓ એક જ જગ્યાએ મળે છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાટ બજારમાં શાકભાજીથી કપડાં સુધી બધું જ એકસાથે મળે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "બજારમાં સમાનતા એટલે શું?",
+      "options": {
+        "A": "દરેક વસ્તુનો ભાવ સરખો હોવો",
+        "B": "નાના અને મોટા વેપારીઓ વચ્ચેની તક",
+        "C": "માત્ર અમીરો માટેનું બજાર",
+        "D": "માત્ર ગરીબો માટેનું બજાર"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. નાના અને મોટા વેપારીઓ વચ્ચેની તક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોકશાહીમાં બજારમાં સૌને સમાન તક મળે તે જરૂરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ખેડૂતને તેની ખેતપેદાશના યોગ્ય ભાવ મળે તે માટે કઈ સંસ્થા કાર્યરત છે?",
+      "options": {
+        "A": "શોપિંગ મોલ",
+        "B": "માર્કેટિંગ યાર્ડ",
+        "C": "ઓનલાઇન શોપિંગ",
+        "D": "ફેરિયા"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. માર્કેટિંગ યાર્ડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેડૂતના હિત માટે = માર્કેટિંગ યાર્ડ (ખેતીવાડી ઉત્પન્ન બજાર સમિતિ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "નીચેનામાંથી કઈ વસ્તુ બજારમાં ગ્રાહક તરીકે આપણી ફરજ નથી?",
+      "options": {
+        "A": "બિલ માંગવું",
+        "B": "માલની ગુણવત્તા તપાસવી",
+        "C": "વગર જોયે વસ્તુ ખરીદવી",
+        "D": "મુદત વીતી ગઈ છે કે નહીં તે જોવું"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. વગર જોયે વસ્તુ ખરીદવી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાગૃત ગ્રાહક હંમેશા તપાસીને જ ખરીદી કરે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સાપ્તાહિક બજારમાં દુકાનદારોને કયા ખર્ચ થતા નથી?",
+      "options": {
+        "A": "વીજળી બિલ",
+        "B": "દુકાનનું ભાડું",
+        "C": "નગરપાલિકાનો ટેક્સ",
+        "D": "આપેલ તમામ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D. આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાટમાં કાયમી બાંધકામ ન હોવાથી ભાડું કે ટેક્સ લાગતા નથી, એટલે વસ્તુ સસ્તી મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "કયા બજારમાં આપણે વસ્તુઓની કિંમતમાં રકઝક (bargaining) કરી શકીએ છીએ?",
+      "options": {
+        "A": "શોપિંગ મોલ",
+        "B": "મહોલ્લા બજાર અને હાટ",
+        "C": "ઓનલાઇન સ્ટોર",
+        "D": "મોટા શોરૂમ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. મહોલ્લા બજાર અને હાટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જયાં ભાવ નિશ્ચિત નથી હોતા ત્યાં રકઝક શક્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "બજારમાં કયા માધ્યમ દ્વારા વસ્તુઓનું વેચાણ વધારવા પ્રયત્ન કરવામાં આવે છે?",
+      "options": {
+        "A": "ખેતી દ્વારા",
+        "B": "જાહેરાત દ્વારા",
+        "C": "શાળા દ્વારા",
+        "D": "વાંચન દ્વારા"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. જાહેરાત દ્વારા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'દેખાય તે વેચાય' - જાહેરાત (Advertisement) વેચાણ વધારે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "કઈ વ્યવસ્થામાં વેપારીઓ ખેડૂતોને ભાવમાં છેતરી શકતા નથી?",
+      "options": {
+        "A": "ખાનગી ખરીદીમાં",
+        "B": "નિયંત્રિત બજાર (APMC)",
+        "C": "ફેરિયા પાસેથી",
+        "D": "એક પણ નહીં"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. નિયંત્રિત બજાર (APMC)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: APMC માં જાહેર હરાજી થાય છે, એટલે પારદર્શકતા રહે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "કયા પ્રકારના બજારમાં મલ્ટીબ્રાન્ડેડ વસ્તુઓ વધુ જોવા મળે છે?",
+      "options": {
+        "A": "ગુજરી બજાર",
+        "B": "શોપિંગ મોલ",
+        "C": "મહોલ્લા બજાર",
+        "D": "હાટ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. શોપિંગ મોલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બ્રાન્ડેડ વસ્તુઓ = શોપિંગ મોલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "માલના ઉત્પાદક અને ગ્રાહક વચ્ચે કોણ મધ્યસ્થી તરીકે કામ કરે છે?",
+      "options": {
+        "A": "સરકાર",
+        "B": "શિક્ષક",
+        "C": "વેપારી",
+        "D": "ડોક્ટર"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. વેપારી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉત્પાદક -> વેપારી -> ગ્રાહક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "આજના સમયમાં બજારમાં ગયા વગર ખરીદી કરવાની કઈ પદ્ધતિ પ્રચલિત છે?",
+      "options": {
+        "A": "સાપ્તાહિક બજાર",
+        "B": "ઓનલાઇન શોપિંગ",
+        "C": "શોપિંગ કોમ્પ્લેક્સ",
+        "D": "નિયંત્રિત બજાર"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ઓનલાઇન શોપિંગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોબાઈલ કે લેપટોપથી ખરીદી એટલે ઓનલાઇન શોપિંગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "નિયંત્રિત બજાર (APMC) માં હરાજી કેવી રીતે થાય છે?",
+      "options": {
+        "A": "ખાનગીમાં",
+        "B": "જાહેર હરાજીથી",
+        "C": "માત્ર ફોન પર",
+        "D": "માત્ર ઓનલાઇન"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. જાહેર હરાજીથી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હરાજી એટલે બધાની સામે ખુલ્લી બોલી લગાવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "કયા બજારમાં ગ્રાહકને ઉધાર પર પણ વસ્તુઓ મળી શકે છે?",
+      "options": {
+        "A": "ઓનલાઇન બજાર",
+        "B": "મહોલ્લા બજાર",
+        "C": "સાપ્તાહિક બજાર",
+        "D": "શોપિંગ મોલ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. મહોલ્લા બજાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહોલ્લાના દુકાનદાર આપણને ઓળખતા હોવાથી ઉધાર આપે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "માલના ઉત્પાદક પાસેથી મોટા જથ્થામાં માલ કોણ ખરીદે છે?",
+      "options": {
+        "A": "ગ્રાહક",
+        "B": "જથ્થાબંધ વેપારી",
+        "C": "છૂટક વેપારી",
+        "D": "એજન્ટ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. જથ્થાબંધ વેપારી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જથ્થાબંધ વેપારી 'સેતુ' (બ્રિજ) જેવું કામ કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "સાપ્તાહિક બજાર ક્યાં ભરાય છે?",
+      "options": {
+        "A": "કોઈ નિશ્ચિત દિવસે અને નિશ્ચિત જગ્યાએ",
+        "B": "ગમે ત્યાં ગમે ત્યારે",
+        "C": "માત્ર શાળાઓમાં",
+        "D": "માત્ર ખેતરોમાં"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. કોઈ નિશ્ચિત દિવસે અને નિશ્ચિત જગ્યાએ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અઠવાડિયાનો એક 'ફિક્સ દિવસ' એટલે સાપ્તાહિક બજાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "આર્થિક સમાનતા લાવવા બજારમાં શું હોવું જરૂરી છે?",
+      "options": {
+        "A": "વધુ ભાવ",
+        "B": "સમાન તક",
+        "C": "માત્ર મોટા વેપારીઓ",
+        "D": "વધુ જાહેરાત"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. સમાન તક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાનતા એટલે નાના-મોટા સૌને સરખો ચાન્સ મળવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ખેડૂતોને રાત્રિ રોકાણ અને ભોજનની સુવિધા ક્યાં મળી રહે છે?",
+      "options": {
+        "A": "શોપિંગ મોલમાં",
+        "B": "માર્કેટિંગ યાર્ડમાં",
+        "C": "ગુજરી બજારમાં",
+        "D": "ઓનલાઇન બજારમાં"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. માર્કેટિંગ યાર્ડમાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: APMC માં ખેડૂતો માટે રહેવા-જમવાની પણ વ્યવસ્થા હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "બજારના કેટલા પ્રકારો મુખ્યત્વે પાઠમાં સમજાવ્યા છે?",
+      "options": {
+        "A": "2",
+        "B": "4",
+        "C": "5 થી વધુ",
+        "D": "માત્ર 1"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. 5 થી વધુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહોલ્લા, સાપ્તાહિક, કોમ્પ્લેક્સ, કન્ટ્રોલ અને ઓનલાઇન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "દૂધની ડેરી એ કયા પ્રકારની વ્યવસ્થાનો ભાગ છે?",
+      "options": {
+        "A": "સાપ્તાહિક બજાર",
+        "B": "ગ્રાહક સહકારી મંડળી/બજાર",
+        "C": "ઓનલાઇન બજાર",
+        "D": "ખાનગી બજાર"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ગ્રાહક સહકારી મંડળી/બજાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડેરી = સહકારી માળખું (Co-operative).</p></div>"
+    }
+  ]
+}
