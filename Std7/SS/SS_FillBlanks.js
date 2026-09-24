@@ -2078,3 +2078,236 @@ var Std7_SS_FillBlanks = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "વાતાવરણની સજીવો પર અસરો",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પૃથ્વીની ચારેબાજુ વીંટળાઈને આવેલા હવાના આવરણને ________ કહે છે. (મૃદાવરણ, વાતાવરણ, જલાવરણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાતાવરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વાત' એટલે હવા, એટલે હવાનું આવરણ = વાતાવરણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વાતાવરણ પૃથ્વીની સપાટીથી આશરે ________ કિમીની ઊંચાઈ સુધી વિસ્તરેલું છે. (૮૦૦, ૧૬૦૦, ૨૦૦૦)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧૬૦૦</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃથ્વી પર 'સોળ' (૧૬) આના જેવી હવા ૧૬૦૦ કિમી સુધી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વાતાવરણમાં નાઈટ્રોજન વાયુનું પ્રમાણ આશરે ________ ટકા છે. (૨૧, ૭૮, ૦.૦૩)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૭૮</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાઈટ્રોજન એ સૌથી મોટો ભાઈ છે, એટલે સૌથી વધુ ૭૮%.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વાતાવરણમાં ઓક્સિજન વાયુનું પ્રમાણ આશરે ________ ટકા છે. (૭૮, ૨૧, ૦.૯૩)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૨૧</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓક્સિજન (પ્રાણવાયુ) માટે શુકનનો આંકડો ૨૧ યાદ રાખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વાતાવરણમાં આર્ગોન વાયુનું પ્રમાણ આશરે ________ ટકા છે. (૦.૯૩, ૦.૦૩, ૦.૦૧)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૦.૯૩</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આર્ગોન = 'આર' એટલે ૯ અને ૩ જેવો આકાર (૦.૯૩).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વાતાવરણમાં કાર્બન ડાયોક્સાઈડ વાયુનું પ્રમાણ આશરે ________ ટકા છે. (૦.૯૩, ૦.૦૩, ૦.૦૧)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૦.૦૩</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CO2 માં બે અક્ષર અને એક આંકડો, કુલ ૦.૦૩ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વાતાવરણમાં આશરે ________ કિમીની ઊંચાઈ પછી કાર્બન ડાયોક્સાઈડ વાયુનું પ્રમાણ ઓછું થઈ જાય છે. (૨૦, ૪૦, ૧૧૦)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૨૦</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાર્બન ભારે છે એટલે નીચે જ રહે, ૨૦ કિમી એ જ થાકી જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વાતાવરણમાં ઓક્સિજન વાયુ આશરે ________ કિમીની ઊંચાઈ પછી ઓછો જણાય છે. (૨૦, ૧૧૦, ૧૩૦)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧૧૦</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓક્સિજન માટે ૧૧૦ (ઇમરજન્સી નંબર ૧૦૮ ની નજીક) યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વાતાવરણમાં નાઈટ્રોજન વાયુ આશરે ________ કિમીની ઊંચાઈ પછી ઓછો જણાય છે. (૧૧૦, ૧૩૦, ૧૬૦)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧૩૦</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાઈટ્રોજન સૌથી વધુ છે એટલે ઊંચાઈ પણ વધુ (૧૩૦ કિમી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સૂર્યના અત્યંત ગરમ પારજાંબલી કિરણોનું શોષણ ________ વાયુ કરે છે. (નાઈટ્રોજન, ઓક્સિજન, ઓઝોન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓઝોન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓઝોન એ પૃથ્વીની 'સનસ્ક્રીન' (રક્ષક કવચ) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "પૃથ્વીની સપાટીથી સૌથી નજીકના વાતાવરણના પ્રથમ આવરણને ________ કહે છે. (સમતાપ આવરણ, ક્ષોભ આવરણ, મધ્યાવરણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ક્ષોભ આવરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૌથી પહેલા 'ક્ષોભ' (શરમ) અનુભવવી પડે, પછી ઉપર જવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ક્ષોભ આવરણ વિષુવવૃત પર આશરે ________ કિમીની ઊંચાઈ સુધી ફેલાયેલું છે. (૮, ૧૨, ૧૬)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧૬</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિષુવવૃત ગરમ છે એટલે હવા ફૂલીને ૧૬ કિમી સુધી જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ક્ષોભ સીમાથી ઉપર આશરે ૫૦ કિમીની ઊંચાઈ સુધીના આવરણને ________ કહે છે. (મધ્યાવરણ, બાહ્યાવરણ, સમતાપ આવરણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમતાપ આવરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાં તાપમાન 'સમાન' રહે તે સમતાપ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "જેટ વિમાનો ઓછા અવરોધ અને ઝડપથી ________ આવરણમાં ઊડી શકે છે. (ક્ષોભ આવરણ, સમતાપ આવરણ, મધ્યાવરણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમતાપ આવરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્લેનમાં બેસીને 'શાંતિ' (સમતાપ) થી મુસાફરી થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સમતાપ આવરણમાં આશરે ૧૫ થી ૩૫ કિમીની ઊંચાઈએ ________ વાયુનું પ્રમાણ વધુ જોવા મળે છે. (હાઈડ્રોજન, ઓઝોન, હિલિયમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓઝોન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમતાપમાં 'ઓઝોન' નામની રક્ષક દીવાલ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સમતાપ આવરણની ઉપર આશરે ૮૦ કિમીની ઊંચાઈ સુધીના ભાગને ________ કહે છે. (મધ્યાવરણ, ઉષ્માવરણ, બાહ્યાવરણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મધ્યાવરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે આવરણ 'મધ્ય' (વચ્ચે) આવે તે મધ્યાવરણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "રેડિયો તરંગોનું પરાવર્તન ________ આવરણને આભારી છે. (ક્ષોભ આવરણ, આયનાવરણ, મધ્યાવરણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આયનાવરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આયના' (અરીસો) જેમ પરાવર્તન કરે તેમ આયનાવરણ રેડિયો તરંગોને પાછા મોકલે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વાતાવરણના સૌથી ઉપરના આવરણને ________ કહે છે. (બાહ્યાવરણ, ક્ષોભ આવરણ, સમતાપ આવરણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાહ્યાવરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે સૌથી 'બહાર' છે તે બાહ્યાવરણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ટૂંકા સમયગાળાની વાતાવરણની સરેરાશ પરિસ્થિતિને ________ કહે છે. (આબોહવા, હવામાન, તાપમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હવામાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'હવા' પળવારમાં બદલાય, એટલે ટૂંકો સમય = હવામાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "કોઈપણ સ્થળની ૩૫ કે તેથી વધુ વર્ષોની સરેરાશ હવામાનની સ્થિતિ એટલે ________. (આબોહવા, ઋતુ, તાપમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આબોહવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાંબો સમય + આબરૂ (સ્થિરતા) = આબોહવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "હવામાં રહેલી ગરમીની સપાટીને ________ કહે છે. (ભેજ, દબાણ, તાપમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તાપમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમી માપવી હોય તો 'તાપ' (તાપમાન) જોવો પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સૂર્યઘાતનું પ્રમાણ ________ થી ધ્રુવો તરફ ઘટે છે. (વિષુવવૃત, કર્કવૃત, મકરવૃત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિષુવવૃત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિષુવવૃત એટલે પૃથ્વીની ગરમાગરમ 'કમર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "હવાનું દબાણ માપવા માટે ________ સાધન વપરાય છે. (થર્મોમીટર, બેરોમીટર, એનિમોમીટર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બેરોમીટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દબાણ (Bar) માપવા માટે 'બેરો' (Baro) મીટર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "પૃથ્વીની સપાટી પર ગતિ કરતી હવાને ________ કહે છે. (ભેજ, પવન, વાવાઝોડું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પવન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગતિમાન હવા = પવન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વ્યાપારી પવનો એ ________ પવનોનો પ્રકાર છે. (કાયમી, મોસમી, સ્થાનિક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાયમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યાપાર 'કાયમ' ચાલવો જોઈએ, એટલે કાયમી પવનો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ભારતમાં ઉનાળામાં વાતા ગરમ પવનોને ________ કહે છે. (લૂ, મોસમી, વ્યાપારી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લૂ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉનાળામાં ગરમીમાં 'લૂ' લાગી જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "પૃથ્વીની સપાટી પરના જળરાશિમાંથી બાષ્પીભવન થતા બનતી વરાળને ________ કહે છે. (વરસાદ, ભેજ, ઝાકળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભેજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવામાં છુપાયેલું પાણી એટલે ભેજ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ભેજ ઠરવાની ક્રિયાને ________ કહે છે. (બાષ્પીભવન, ઘનીભવન, સૂર્યઘાત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘનીભવન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાયુનું 'ઘન' (પ્રવાહી) માં રૂપાંતર એટલે ઘનીભવન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "બ્રાઝિલના ઉષ્ણ કટિબંધીય બારેમાસ લીલા જંગલોને દુનિયાના ________ કહે છે. (હૃદય, મગજ, ફેફસાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફેફસાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જંગલો ઓક્સિજન આપે છે, જેમ ફેફસાં શ્વાસ લે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "ઉષ્ણ કટિબંધીય પાનખર જંગલોને ________ જંગલો પણ કહે છે. (બારેમાસ લીલા, મોસમી, શંકુદ્રુમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોસમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોસમ પ્રમાણે પાન ખેરવે એટલે 'મોસમી' જંગલો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "લીંબુ, નારંગી, દ્રાક્ષ જેવા ખાટા ફળો ________ જંગલોમાં વધુ થાય છે. (ભૂમધ્ય સાગરના, મોસમી, પાનખર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભૂમધ્ય સાગરના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૂમધ્ય સાગર એટલે 'ખાટા ફળોનો બગીચો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "શંકુદ્રુમ જંગલોની વનસ્પતિનું લાકડું ________ હોય છે. (કઠણ, પોચું અને નરમ, ખૂબ ભારે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પોચું અને નરમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોચું લાકડું એટલે દીવાસળી અને કાગળ બનાવવા કામ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "ઉષ્ણ કટિબંધીય ઘાસના મેદાનોમાં કયું ઘાસ વિશ્વવિખ્યાત છે? (સવાના, પ્રેરીઝ, વેલ્ડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સવાના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉષ્ણ (ગરમ) આફ્રિકામાં 'સવાના' નું ઘાસ ઊંચું ઊગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "રણ પ્રદેશની વનસ્પતિ મુખ્યત્વે ________ હોય છે. (ઘટાદાર, કાંટાળી, પોચી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાંટાળી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી બચાવવા રણની વનસ્પતિ 'કાંટા' ધારણ કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "ગુજરાતના કચ્છના નાના રણમાં કયું વિશિષ્ટ પ્રાણી જોવા મળે છે? (સિંહ, વાઘ, ઘુડખર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘુડખર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કચ્છનું રણ = જંગલી ગધેડા એટલે કે 'ઘુડખર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "ટુંડ્ર વનસ્પતિ કયા પ્રદેશમાં જોવા મળે છે? (ગરમ, ભેજવાળા, અતિશય ઠંડા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અતિશય ઠંડા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઠંડીમાં થીજી જાય ત્યારે 'ટુંડ્ર' વનસ્પતિ ઊગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "પવનની દિશા જાણવા માટે ________ વપરાય છે. (થર્મોમીટર, વાયુદિશા દર્શક, બેરોમીટર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાયુદિશા દર્શક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામમાં જ કામ છે - વાયુની 'દિશા' બતાવે તે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "નાઈટ્રોજન વાયુ પૃથ્વી પર ________ ની ક્રિયામાં ખૂબ જ મદદરૂપ છે. (દહન, વનસ્પતિના વિકાસ, ઠંડક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વનસ્પતિના વિકાસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેડૂત ખાતર નાખે (યુરિયા) જેમાં નાઈટ્રોજન હોય, જે વનસ્પતિને મોટું કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "ઓઝોન વાયુ કયા સમયે વધુ પ્રમાણમાં હોય છે? (બપોરે, રાત્રે, વહેલી સવારે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વહેલી સવારે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વહેલી સવારે ખુલ્લા મેદાન કે દરિયાકિનારે 'ઓઝોન' ની તાજગી મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "વાતાવરણમાં રહેલા રજકણો સૂર્યપ્રકાશને ________ કરે છે. (શોષણ, પરાવર્તિત, ગાયબ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પરાવર્તિત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રજકણોને લીધે જ સૂર્યોદય પહેલાં અને સૂર્યાસ્ત પછી અજવાળું દેખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "પર પર્વતો પર ઊંચાઈએ જતાં હવાનું દબાણ ________ છે. (વધે, ઘટે, સરખું રહે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘટે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊંચાઈ એ હવા પાતળી થાય, એટલે દબાણ 'ઘટે'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "દરિયાઈ લહેરો અને જમીન લહેરો એ ________ પવનો છે. (કાયમી, મોસમી, દૈનિક/સ્થાનિક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દૈનિક/સ્થાનિક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દિવસ અને રાત બદલાય એટલે 'દૈનિક' પવનો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "ચક્રવાતને યુ.એસ.એ. માં ________ કહે છે. (હરિકેન, ટાયફૂન, વિલીવિલી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હરિકેન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યુ.એસ.એ. ના લોકો 'હરી' (હરિકેન) ને બહુ માને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "વાતાવરણમાં ભેજનું પ્રમાણ વધતા ________ થવાની શક્યતા વધે છે. (વરસાદ, લૂ, ગરમી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વરસાદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભેજ જ્યારે ભારે થાય ત્યારે તે 'વરસાદ' બનીને નીચે આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "એશિયાઈ સિંહો સમગ્ર વિશ્વમાં માત્ર ________ ના જંગલોમાં જોવા મળે છે. (ડેલ્ટા, ગીર, સાપુતારા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગીર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિંહની 'ગર્જના' માત્ર 'ગીર' માં જ સંભળાય.</p></div>"
+    }
+  ]
+}
