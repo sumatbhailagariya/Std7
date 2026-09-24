@@ -3176,3 +3176,136 @@ var Std7_SS_FillBlanks = {
     }
   ]
 }
+,
+"17": {
+  "chapterName": "પ્રકરણ 17",
+  "chapterTitle": "જાતિગત ભિન્નતા",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "આપણા દેશમાં છોકરા અને છોકરીઓના ઉછેરમાં ઘણી વખત __________ જોવા મળે છે. (સમાનતા, ભિન્નતા, એકતા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભિન્નતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘ભિન્નતા’ એટલે કે જુદાઈ. સમાજમાં હજુ પણ દીકરા-દીકરી વચ્ચે ઉછેરમાં તફાવત જોવા મળે છે તે યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ભારતના બંધારણે તમામ નાગરિકોને સમાનતાની __________ આપી છે. (તક, સજા, મુક્તિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બંધારણ હંમેશા હક્ક અને ‘તક’ (Opportunity) આપે છે, જેથી સૌનો વિકાસ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વસ્તી ગણતરી મુજબ ઈ.સ. 2011 માં પ્રતિ 1000 પુરુષોએ સ્ત્રીઓનું પ્રમાણ __________ હતું. (940, 943, 919)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 943</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 2011 માં સ્ત્રીઓનો આંકડો ‘943’ હતો (9-4-3 ઉતરતો ક્રમ જેવું યાદ રાખો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "છોકરા-છોકરીઓ વચ્ચેની ભિન્નતા મુખ્યત્વે __________ વિસ્તારમાં વધુ જોવા મળે છે. (શહેરી, ગ્રામીણ, પશ્ચિમી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગ્રામીણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગામડામાં જૂની માન્યતાઓને કારણે શિક્ષણ અને ઉછેરમાં વધુ ભેદભાવ જોવા મળે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "કન્યાઓને ભણાવવામાં અને આગળ વધારવામાં સરકાર દ્વારા અનેક __________ અપાય છે. (સજા, રાહત અને મદદ, ચેતવણી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાહત અને મદદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સરકાર દીકરીઓને ભણાવવા માટે સ્કોલરશીપ અને સાયકલ જેવી ‘મદદ’ પૂરી પાડે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "બાળલગ્ન એ એક સામાજિક __________ છે. (વરદાન, કલંક/દૂષણ, ઉત્સવ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કલંક/દૂષણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે બાબત સમાજને નુકસાન કરે તેને ‘દૂષણ’ કહેવાય, બાળલગ્નથી બાળકીનું ભવિષ્ય બગડે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "બાળલગ્નને કારણે છોકરીઓના __________ પર ગંભીર અસર થાય છે. (શિક્ષણ અને સ્વાસ્થ્ય, રમતો, આર્થિક સ્થિતિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શિક્ષણ અને સ્વાસ્થ્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નાની ઉંમરે લગ્નથી ભણતર (શિક્ષણ) છૂટી જાય અને શરીર (સ્વાસ્થ્ય) નબળું પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ભારતના પ્રથમ મહિલા રાષ્ટ્રપતિ __________ હતા. (ઇન્દિરા ગાંધી, પ્રતિભા સિંહ પાટીલ, સુષ્મા સ્વરાજ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રતિભા સિંહ પાટીલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રાષ્ટ્રપતિ એટલે દેશનું ગૌરવ/પ્રતિભા, તેથી ‘પ્રતિભા’ સિંહ પાટીલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ભારતના પ્રથમ મહિલા વડાપ્રધાન __________ હતા. (આશા પૂર્ણા દેવી, ઇન્દિરા ગાંધી, નિર્મલા સીતારામન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇન્દિરા ગાંધી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘લોખંડી મહિલા’ તરીકે જાણીતા ઇન્દિરા ગાંધી આપણા પ્રથમ મહિલા PM હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિશ્વમાં સૌથી નાની વયે માઉન્ટ એવરેસ્ટ સર કરનાર મહિલા __________ છે. (બચેન્દ્રી પાલ, સંતોષ યાદવ, પૂર્ણા માલાવથ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૂર્ણા માલાવથ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘પૂર્ણા’ એટલે જેણે લક્ષ્ય પૂરું કર્યું અને નાની ઉંમરે સિદ્ધિ મેળવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ભારતની પ્રથમ મહિલા ટ્રેન એન્જિન ડ્રાઇવર __________ છે. (લક્ષ્મી લાકરા, મેરી કોમ, પી. ટી. ઉષા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લક્ષ્મી લાકરા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ટ્રેન ચલાવવા માટે ‘લક્ષ્મી’ જેવી શક્તિ અને ‘લાકડા’ (Lakara) જેવો મક્કમ ઈરાદો જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "દર __________ વર્ષે ભારતમાં વસ્તી ગણતરી કરવામાં આવે છે. (5, 10, 20)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વસ્તી ગણતરી = ‘દસકો’ (Decade). દર 10 વર્ષે આંકડા બદલાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "દેશના પ્રથમ મહિલા વિદેશ મંત્રી __________ હતા. (સુષ્મા સ્વરાજ, વિજયા લક્ષ્મી પંડિત, સ્મૃતિ ઈરાની)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુષ્મા સ્વરાજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વિદેશમાં રહેલા ભારતીયોની મદદ કરવા માટે ‘સુષ્મા’જી હંમેશા તૈયાર રહેતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "સ્ત્રીઓને ઘરકામ અને ઉછેરના કામનું મૂલ્ય __________ ગણવામાં આવે છે. (ખૂબ વધુ, શૂન્ય/ઓછું, બમણું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શૂન્ય/ઓછું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સ્ત્રીઓ ઘરમાં અનેક કામ કરે છે, છતાં તેને આર્થિક રીતે ‘શૂન્ય’ ગણવામાં આવે છે, જે ખોટું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વસ્તી ગણતરીની શરૂઆત ઈ.સ. __________ માં થઈ હતી. (1871, 1881, 1901)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1881</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વસ્તી વધે એટલે આંકડો ‘81’ જેવો મોટો થાય. પ્રથમ વ્યવસ્થિત ગણતરી 1881 માં થઈ હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "દીકરીના જન્મ માટે ‘__________’ જેવા અભિયાન ચલાવવામાં આવે છે. (બેટી બચાવો બેટી પઢાવો, ખેલો ઇન્ડિયા, સાક્ષરતા અભિયાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બેટી બચાવો બેટી પઢાવો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દીકરીને બચાવવી અને ભણાવવી એ જ સરકારનું મુખ્ય લક્ષ્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "પંચાયતી રાજમાં સ્ત્રીઓ માટે __________ ટકા અનામત રાખવામાં આવી છે. (10, 33, 50)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 50</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગુજરાત જેવા રાજ્યોમાં પંચાયતમાં સ્ત્રીઓને ‘અડધો-અડધ’ એટલે કે 50% હિસ્સો અપાયો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "છોકરીઓને સશક્ત બનાવવા માટે સરકાર દ્વારા __________ ની સુવિધા મફત અપાય છે. (પરિવહન, શિક્ષણ, ભોજન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શિક્ષણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શિક્ષણ એ જ સાચું શસ્ત્ર છે, એટલે સરકાર કન્યા શિક્ષણ મફત આપે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વસ્તી ગણતરી વખતે જ જાણવા મળે છે કે દેશમાં સ્ત્રી અને પુરુષોનું __________ કેટલું છે. (પ્રમાણ, અંતર, લિસ્ટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રમાણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગણતરી કરવાથી જ ‘પ્રમાણ’ (Ratio) ખબર પડે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "અવકાશ ક્ષેત્રે પદાર્પણ કરનાર ભારતીય મૂળના પ્રથમ મહિલા __________ હતા. (સુનિતા વિલિયમ્સ, કલ્પના ચાવલા, સિરીશા બાંદલા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કલ્પના ચાવલા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જેણે આકાશમાં જવાની ‘કલ્પના’ સાચી કરી, તે ‘કલ્પના’ ચાવલા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ભારતીય મૂળના બીજા મહિલા અવકાશયાત્રી __________ છે. (કલ્પના ચાવલા, સુનિતા વિલિયમ્સ, સરલા ઠકરાલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુનિતા વિલિયમ્સ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કલ્પના પછી ‘સુનિતા’ એ અવકાશમાં ભારતનું નામ રોશન કર્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ગુજરાત સરકારે કન્યા કેળવણીને પ્રોત્સાહન આપવા માટે ‘__________’ રથયાત્રા શરૂ કરી છે. (શાળા પ્રવેશોત્સવ, વિજય રથયાત્રા, જ્ઞાન રથયાત્રા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શાળા પ્રવેશોત્સવ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શાળામાં ‘પ્રવેશ’ મળે તો જ ‘ઉત્સવ’ થાય, એટલે શાળા પ્રવેશોત્સવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ઘણી જગ્યાએ સ્ત્રીઓને પુરુષોની સરખામણીમાં કામનું વેતન __________ આપવામાં આવે છે. (વધારે, સમાન, ઓછું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓછું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમાજમાં હજુ પણ માનસિકતા છે કે સ્ત્રીઓને ‘ઓછું’ વેતન અપાય છે, જે દૂર થવું જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "છોકરીઓને ઘરકામમાં રસોઈ બનાવવામાં અને __________ માં મદદ કરવી પડે છે. (ખેતી, નાના ભાઈ-બહેનને સાચવવામાં, નોકરી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નાના ભાઈ-બહેનને સાચવવામાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગામડાના વિસ્તારોમાં મોટી બહેન નાના ભાઈ-બહેનની જવાબદારી ઉપાડે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "આપણા દેશમાં દર __________ સ્ત્રીઓએ પુરુષોની સંખ્યા ગણવામાં આવે છે. (500, 1000, 1500)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1000</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લિંગ પ્રમાણ હંમેશા ‘1000’ ના બેઝ પર માપવામાં આવે છે.</p></div>"
+    }
+  ]
+}
