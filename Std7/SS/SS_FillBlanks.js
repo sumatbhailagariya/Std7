@@ -3018,3 +3018,161 @@ var Std7_SS_FillBlanks = {
     }
   ]
 }
+,
+"16": {
+  "chapterName": "પ્રકરણ 16",
+  "chapterTitle": "જાતિગત ભિન્નતા",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "આપણા દેશમાં છોકરા અને છોકરીઓના ઉછેરમાં ઘણી વખત ........... જોવા મળે છે. (સમાનતા, અસમાનતા, વિવિધતા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અસમાનતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'છોકરો-છોકરી અલગ ગણાય, ત્યાં અસમાનતા દેખાય!' - સમાજમાં હજુ પણ ભેદભાવ અસ્તિત્વમાં છે તે યાદ રાખવું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ભારતીય બંધારણમાં દરેક નાગરિકને ........... તક આપવામાં આવી છે. (સમાન, અસમાન, વિશેષ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંધારણ એટલે 'બધા માટે સરખું' (સમાન). લોકશાહીમાં હક હંમેશા સમાન જ હોય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "છોકરીઓને ભણાવવા બાબતે ઘણા કુટુંબોમાં ........... જોવા મળે છે. (ઉત્સાહ, દુરાગ્રહ, કચવાટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કચવાટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂની માન્યતા મુજબ દીકરીને ભણાવવા લોકો અચકાતા, જેને 'કચવાટ' કહેવાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "આપણા દેશના પ્રથમ મહિલા રાષ્ટ્રપતિ ........... હતા. (ઇન્દિરા ગાંધી, પ્રતિભા સિંહ પાટીલ, સુષ્મા સ્વરાજ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રતિભા સિંહ પાટીલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'રાષ્ટ્રપતિની પ્રતિભા' - રાષ્ટ્રપતિ પૂછાય તો પ્રતિભા સિંહ યાદ રાખવા અને વડાપ્રધાન પૂછાય તો ઇન્દિરા ગાંધી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ભારતના પ્રથમ મહિલા વડાપ્રધાન ........... હતા. (ઇન્દિરા ગાંધી, પ્રતિભા સિંહ પાટીલ, સરોજિની નાયડુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇન્દિરા ગાંધી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોખંડી મહિલા એટલે ઇન્દિરા ગાંધી, જે ભારતના પહેલા મહિલા PM હતા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "અવકાશ ક્ષેત્રે સંકળાયેલ ભારતીય મૂળની પ્રથમ મહિલા ........... હતા. (સુનિતા વિલિયમ્સ, કલ્પના ચાવલા, બચેન્દ્રી પાલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કલ્પના ચાવલા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આકાશની કલ્પના' - અવકાશની વાત આવે એટલે કલ્પના ચાવલાનું નામ સૌથી પહેલા યાદ રાખવું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "જન્મ પહેલાં સ્ત્રી-પુરુષની સંખ્યાની અસમાનતા દૂર કરવા ........... ટેસ્ટ પર પ્રતિબંધ છે. (લોહીના, ગર્ભ પરીક્ષણ, શારીરિક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગર્ભ પરીક્ષણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દીકરીને જન્મતા પહેલા જ રોકવી એ પાપ અને ગુનો છે, માટે 'ગર્ભ પરીક્ષણ' ગેરકાયદેસર છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સરકારે કન્યાઓને શિક્ષણ માટે આર્થિક સહાય અને ........... ની વ્યવસ્થા કરી છે. (છાત્રાલય, બગીચા, પ્લેગ્રાઉન્ડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> છાત્રાલય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દૂરથી ભણવા આવતી કન્યાઓ ક્યાં રહે? છાત્રાલય (Hostel) માં. સરકાર રહેવા-ભણવાની સગવડ આપે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ગુજરાત સરકાર દ્વારા કન્યા કેળવણી માટે ........... રથયાત્રા કાઢવામાં આવે છે. (શિક્ષણ, કન્યા કેળવણી, સાક્ષરતા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કન્યા કેળવણી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રશ્નમાં જ જવાબ છે! દીકરીને ભણાવવાની વાત હોય તો 'કન્યા કેળવણી' રથયાત્રા જ હોય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિશ્વમાં સૌથી વધુ મહિલા મતનારો ધરાવતો દેશ ........... છે. (અમેરિકા, ભારત, ચીન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આપણો ભારત દેશ દુનિયાની સૌથી મોટી લોકશાહી છે, એટલે મતનારો પણ અહીં જ સૌથી વધુ હોય! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "પહેલાના સમયમાં ........... જેવી કુપ્રથાઓ સમાજમાં વ્યાપક હતી. (બાળલગ્ન, વિધવા વિવાહ, અક્ષરજ્ઞાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાળલગ્ન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળલગ્ન એ જૂની અને ખરાબ પ્રથા હતી જે દીકરીઓના વિકાસને અટકાવતી હતી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સરકારે દીકરીઓના રક્ષણ અને ભણતર માટે ........... અભિયાન ચલાવ્યું છે. (સ્વચ્છ ભારત, બેટી બચાવો બેટી પઢાવો, મેક ઇન ઇન્ડિયા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બેટી બચાવો બેટી પઢાવો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દીકરી (બેટી) ને બચાવવી અને ભણાવવી એ જ તો આ પાઠનો મુખ્ય ઉદ્દેશ્ય છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "આપણા દેશમાં સ્ત્રીઓનું સાક્ષરતાનું પ્રમાણ પુરુષો કરતાં ........... છે. (વધુ, ઓછું, સમાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓછું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભેદભાવને કારણે સ્ત્રીઓને ભણવાની તક ઓછી મળતી, એટલે તેમનું સાક્ષરતા પ્રમાણ 'ઓછું' છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ભારતીય મૂળની બીજી મહિલા અવકાશયાત્રી ........... હતા. (કલ્પના ચાવલા, સુનિતા વિલિયમ્સ, પી. ટી. ઉષા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુનિતા વિલિયમ્સ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેહલી કલ્પના, બીજી સુનિતા! અવકાશની સફરમાં બંનેએ ભારતનું નામ રોશન કર્યું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "જાતિગત ભિન્નતાને કારણે સમાજમાં દીકરા-દીકરી વચ્ચે ........... રાખવામાં આવે છે. (પક્ષપાત, પ્રેમ, સમાનતા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પક્ષપાત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પક્ષપાત એટલે ભેદભાવ. દીકરાને બધું મળે અને દીકરીને ઓછું, તેને જ પક્ષપાત કહેવાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "મહિલાઓને આર્થિક રીતે પગભર બનાવવા ........... ની મદદ મળે છે. (સખી મંડળ, ખાનગી બેંક, વિદેશી સંસ્થા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સખી મંડળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સખી એટલે બહેનપણી. બહેનોનું ગ્રુપ એટલે 'સખી મંડળ' જે આર્થિક મદદ કરે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "દેશની આઝાદીમાં ક્રાંતિકારી તરીકે અને લડતમાં ........... એ પણ મહત્વનો ફાળો આપ્યો છે. (મહિલાઓ, માત્ર પુરુષો, વિદેશીઓ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહિલાઓ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાણી લક્ષ્મીબાઈ થી માંડીને સરોજિની નાયડુ સુધી, 'મહિલાઓ' નો ફાળો અમૂલ્ય છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સામાન્ય રીતે દીકરીઓને રસોઈકામ અને ........... માં મદદ કરવાની અપેક્ષા રખાય છે. (ખેતી, ઘરકામ, વ્યાપાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘરકામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂની માનસિકતા મુજબ રસોઈ અને 'ઘરકામ' દીકરીઓ માટે નક્કી કરાયેલું હતું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વર્ષ ૨૦૧૧ માં ભારતમાં ૧૦૦૦ પુરુષોએ સ્ત્રીઓનું પ્રમાણ ........... હતું. (૯૪૦, ૯૪૩, ૯૧૦)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૯૪૩</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ આંકડો ખાસ યાદ રાખવો: ૧૦૦૦ સામે ૯૪૩ (૧૦૦૦ - ૫૭ = ૯૪૩). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ભારત સરકાર દ્વારા ........... વર્ષથી ઓછી વયના છોકરા-છોકરીઓના લગ્ન પર પ્રતિબંધ છે. (૧૮-૨૧, ૧૫-૧૮, ૨૧-૨૫)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૧૮-૨૧</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કન્યા માટે ૧૮ અને યુવક માટે ૨૧ વર્ષ એ લગ્ન માટેની કાયદેસરની લઘુત્તમ વય છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "આધુનિક સમયમાં મહિલાઓ ........... ક્ષેત્રમાં પણ પુરુષોની સમોવડી બની છે. (રમતગમત, સંરક્ષણ, આપેલ તમામ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આજે મહિલાઓ રમતગમત હોય કે દેશનું સંરક્ષણ (આર્મી), બધે જ આગળ છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સમાજમાં કન્યાઓના શિક્ષણને વધારવા માટે સરકારે ........... યોજના અમલમાં મૂકી છે. (વિદ્યાલક્ષ્મી બોન્ડ, પંચામૃત, નિર્મલ ગુજરાત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિદ્યાલક્ષ્મી બોન્ડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિદ્યા એટલે ભણતર + લક્ષ્મી એટલે પૈસા. ભણવા માટે આર્થિક બોન્ડ એટલે વિદ્યાલક્ષ્મી બોન્ડ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ગુજરાતમાં લોકસભાની કુલ ........... બેઠકો છે. (૨૬, ૧૮૨, ૧૧)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૨૬</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૨૬ જાન્યુઆરી પરથી ૨૬ યાદ રાખવા, જેમાં મહિલાઓની ભાગીદારી પણ વધતી જાય છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ભારતમાં જાતિ પ્રમાણ ........... રાજ્યમાં સૌથી વધુ છે. (ગુજરાત, કેરલ, પંજાબ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેરલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાં ભણતર (સાક્ષરતા) વધુ, ત્યાં સ્ત્રીઓનું માન અને સંખ્યા (જાતિ પ્રમાણ) વધુ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "પંચાયતી રાજમાં મહિલાઓ માટે ........... ટકા અનામત બેઠકો રાખવામાં આવી છે. (૩૩, ૫૦, ૧૦)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૫૦</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહિલાઓને અડધો અડધ ભાગ એટલે ૫૦% અનામત પંચાયતી રાજમાં અપાય છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "........... ને ભારતના સ્વર કિન્નરી તરીકે ઓળખવામાં આવે છે. (લતા મંગેશકર, આશા ભોસલે, સુષ્મા સ્વરાજ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લતા મંગેશકર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ્વર એટલે અવાજ' - મધુર અવાજ માટે લતાજી દુનિયાભરમાં જાણીતા છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "છોકરીઓને ઉચ્ચ શિક્ષણથી વંચિત રાખવાના પરિણામે સમાજમાં ........... ની સ્થિતિ નબળી પડે છે. (પુરૂષો, સ્ત્રીઓ, બાળકો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્ત્રીઓ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિક્ષણ એ શક્તિ છે, શિક્ષણ વગર સ્ત્રીઓ આર્થિક અને સામાજિક રીતે પાછળ રહી જાય છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વિશ્વ મહિલા દિવસ દર વર્ષે ........... ના રોજ ઉજવવામાં આવે છે. (૮ માર્ચ, ૫ જૂન, ૨ ઓક્ટોબર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ૮ માર્ચ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આઠેય પ્રહર સ્ત્રી શક્તિ' - ૮ આંકડો અને માર્ચ મહિનો મહિલા દિન માટે ફિક્સ છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "રાજકીય ક્ષેત્રે મહિલાઓની ભાગીદારી વધારવા માટે તેમને ........... આપવામાં આવે છે. (પગાર, અનામત, ઈનામ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અનામત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અનામત (Reservation) એટલે બેઠકો સુરક્ષિત કરવી જેથી મહિલાઓ પણ નેતા બની શકે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "ભારતની આઝાદીના જંગમાં ........... એ કસ્તુરબા સાથે રહીને લડત આપી હતી. (મહિલાઓ, પુરુષો, અંગ્રેજો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહિલાઓ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધીજીની સાથે કસ્તુરબા અને તેમની સાથે અનેક 'ભારતીય મહિલાઓ' સત્યાગ્રહમાં જોડાયા હતા. (NJ Classes)</p></div>"
+    }
+  ]
+}
