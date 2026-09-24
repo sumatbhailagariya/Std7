@@ -3309,3 +3309,161 @@ var Std7_SS_FillBlanks = {
     }
   ]
 }
+,
+"18": {
+  "chapterName": "પ્રકરણ 18",
+  "chapterTitle": "બજાર",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ચીજવસ્તુઓનું વેચાણ કરતી દુકાનો જ્યાં હોય તે સ્થળને .......... કહેવામાં આવે છે. (બગીચો, બજાર, મેદાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બજાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જયાં લે-વેચનો 'વિકાર' નહિ પણ 'વેપાર' થાય, તે જ 'બજાર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "આપણી આસપાસની દુકાનોમાંથી આપણે જે ખરીદી કરીએ છીએ તેને .......... બજાર કહેવાય છે. (મોહલ્લા, જથ્થાબંધ, મોલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોહલ્લા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઘરની 'બાજુમાં' એટલે 'મોહલ્લા'માં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "અઠવાડિયામાં કોઈ એક ચોક્કસ દિવસે જ ભરાતી હોય તેવી બજારને .......... બજાર કહે છે. (મોહલ્લા, સાપ્તાહિક, ઓનલાઇન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાપ્તાહિક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સાત દિવસ એટલે એક સપ્તાહ, તેથી સાત દિવસે ભરાય તે સાપ્તાહિક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સાપ્તાહિક બજારને મહારાષ્ટ્રમાં .......... તરીકે ઓળખવામાં આવે છે. (હાટ, ગુજરી, મેળો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હાટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'મહારાષ્ટ્રમાં હાટની ઠાઠ' - આ રીતે યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "એક જ બિલ્ડિંગમાં અલગ-અલગ માળ પર અલગ-અલગ પ્રકારની વસ્તુઓ મળતી હોય તેને .......... કહે છે. (મોહલ્લા બજાર, સાપ્તાહિક બજાર, શોપિંગ કોમ્પ્લેક્સ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શોપિંગ કોમ્પ્લેક્સ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કોમ્પ્લેક્સ એટલે જ 'જૂથ' - દુકાનોનું જૂથ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "જે વેપારી મોટા જથ્થામાં માલ સામાન ખરીદે છે તેને .......... વેપારી કહે છે. (છૂટક, જથ્થાબંધ, ફેરિયો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જથ્થાબંધ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મોટો જથ્થો = જથ્થાબંધ વેપારી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "આજના સમયમાં ઘરે બેઠા જ વસ્તુઓ મંગાવવા માટે .......... બજારનો ઉપયોગ વધ્યો છે. (ઓનલાઇન, સાપ્તાહિક, મોહલ્લા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓનલાઇન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મોબાઈલ + ઇન્ટરનેટ = ઓનલાઇન શોપિંગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ખેતપેદાશોના વેચાણ માટે ખેડૂતોને યોગ્ય ભાવ મળી રહે તે માટે .......... બજારની વ્યવસ્થા કરવામાં આવે છે. (નિયંત્રિત, મુક્ત, ખાનગી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નિયંત્રિત (Marketing Yard)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ખેડૂતોનું રક્ષણ કરવા માટે નિયમો એટલે નિયંત્રિત બજાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ગુજરાતના વિવિધ તાલુકા મથકોએ ખેતીવાડી ઉત્પન્ન બજાર સમિતિ એટલે કે .......... ની સ્થાપના કરવામાં આવી છે. (APMC, LIC, SBI)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> APMC</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Agricultural Produce Market Committee = APMC.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ખેડૂતો પોતાની ખેતપેદાશોની હરાજી .......... બજારમાં કરે છે. (મોહલ્લા, સાપ્તાહિક, માર્કેટિંગ યાર્ડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માર્કેટિંગ યાર્ડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ખેડૂતનો 'યાર્ડ' એટલે માર્કેટિંગ યાર્ડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "જથ્થાબંધ વેપારી અને ગ્રાહક વચ્ચેની કડી .......... વેપારી છે. (ઉત્પાદક, છૂટક, દલાલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> છૂટક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગ્રાહકને જે આપે તે 'છૂટક'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સાપ્તાહિક બજારમાં વસ્તુઓના ભાવ .......... હોય છે. (વધારે, ખૂબ મોંઘા, ઓછા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓછા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દુકાનનું ભાડું નથી, તેથી ભાવ 'ઓછો' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ખરીદનાર અને વેચનાર વચ્ચેની કડી એટલે .......... (બજાર, રસ્તો, ખેતર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બજાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યાં બંને મળે તે જ 'બજાર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "દિવાળીના સમયે ફટાકડાના .......... લાગે છે. (બગીચા, સ્ટોલ, મેળા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્ટોલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કામચલાઉ વેચાણ વ્યવસ્થા એટલે સ્ટોલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "મોટા શોપિંગ મોલમાં વેચાતી વસ્તુઓ પર સામાન્ય રીતે .......... ભાવ લખેલા હોય છે. (ફિક્સ, અંદાજિત, વાટાઘાટીવાળા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ફિક્સ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મોલમાં મોંઘા મશીન એટલે ભાવ 'ફિક્સ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "કપડાંના વેપારી મિલોમાંથી કાપડ ખરીદે છે તેને .......... વેપારી કહેવાય. (છૂટક, જથ્થાબંધ, ફેરિયો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જથ્થાબંધ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મિલમાંથી ડાયરેક્ટ આવે તે 'જથ્થાબંધ' હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ખેડૂતોને ધિરાણ આપવા માટે .......... ની સુવિધા હોય છે. (ATM, કિસાન ક્રેડિટ કાર્ડ, ડેબિટ કાર્ડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કિસાન ક્રેડિટ કાર્ડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ખેડૂત + ક્રેડિટ (ઉધાર) = કિસાન ક્રેડિટ કાર્ડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "બજારમાં સમાનતા લાવવા માટે .......... નું મહત્વ છે. (લોકશાહી, તાનાશાહી, રાજાશાહી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લોકશાહી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યાં લોકોનું ચાલે ત્યાં 'લોકશાહી' અને 'સમાનતા' હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "બજારની પ્રક્રિયામાં અંતિમ ગ્રાહક કોણ છે? (વેપારી, ખેડૂત, આપણે પોતે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આપણે પોતે (ગ્રાહક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે વસ્તુ વાપરે તે જ 'ગ્રાહક'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "બજારના માધ્યમથી લોકોને .......... મળે છે. (રોજગારી, મનોરંજન, રમતગમત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રોજગારી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કામ મળે તો કમાણી થાય, એટલે કે 'રોજગારી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ડિજિટલ પેમેન્ટ માટે .......... એપ્લિકેશનનો ઉપયોગ થાય છે. (ગેમ, ભીમ-UPI, કેમેરા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભીમ-UPI</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પૈસા ટ્રાન્સફર કરવા માટે 'UPI' ની સવારી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સાપ્તાહિક બજારમાં કૌટુંબિક સભ્યો જ વેચાણમાં મદદ કરે છે જેથી .......... ખર્ચ થતો નથી. (ભાડાનો, મજૂરીનો, માલનો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મજૂરીનો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઘરના માણસો કામ કરે તો બહારનાને પૈસા ન આપવા પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વસ્તુના ઉત્પાદનથી વેચાણ સુધીની આખી સાંકળને .......... કહેવાય. (પ્રોડક્શન ચેઈન, બજાર સાંકળ, ટ્રેન સાંકળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બજાર સાંકળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કડીથી કડી જોડાય એટલે 'સાંકળ' બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ઓનલાઇન શોપિંગમાં નાણાંની ચૂકવણી .......... થી પણ કરી શકાય છે. (પથ્થર, નેટ બેંકિંગ, હીરા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નેટ બેંકિંગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઓનલાઇન ખરીદી તો ઓનલાઇન પેમેન્ટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "બજારમાં સમાનતાનો અર્થ દરેકને .......... તક મળે તે છે. (સમાન, અલગ, અન્યાયી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમાનતા એટલે જ 'સમાન તક'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "સાપ્તાહિક બજારમાં ગ્રાહકને .......... કરવાની તક મળે છે. (ઉઘરાણી, રકઝક, લડાઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રકઝક (Bargaining)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ભાવતાલ' એટલે જ 'રકઝક'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ખેતીવાડી ઉત્પન્ન બજાર સમિતિમાં ખેડૂત માટે .......... ની સગવડ હોય છે. (સિનેમા, રાત્રિ નિવાસ, રમતગમત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાત્રિ નિવાસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ખેડૂત દૂરથી આવે તો તેને 'રોકાવવા' ની જરૂર પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "મોટા મોલમાં વસ્તુઓની પસંદગી ગ્રાહક .......... કરી શકે છે. (જાતે, પૂછીને, પરાણે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જાતે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મોલ એટલે 'Self-service' ની દુનિયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "બજારમાં વેચાતી વસ્તુઓ પર સરકાર દ્વારા .......... લેવામાં આવે છે. (ભેટ, ટેક્સ, દંડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટેક્સ (કર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વેપાર થાય ત્યાં સરકારનો 'ભાગ' એટલે 'ટેક્સ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "જથ્થાબંધ વેપારીઓ માલ ક્યાંથી ખરીદે છે? (બજારમાંથી, મિલો કે ઉત્પાદકો પાસેથી, ગ્રાહક પાસેથી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મિલો કે ઉત્પાદકો પાસેથી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મોટો વેપારી હંમેશા 'મૂળ' (ઉત્પાદક) પાસે જાય.</p></div>"
+    }
+  ]
+}
