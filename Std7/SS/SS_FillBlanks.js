@@ -2311,3 +2311,211 @@ var Std7_SS_FillBlanks = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "આપત્તિ વ્યવસ્થાપન",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પૃથ્વીના પેટાળમાં થતા ઝડપી ભૂસંચલન અને દબાણને કારણે પૃથ્વીની સપાટીનો અમુક નબળો ભાગ એકાએક વેગથી ધ્રૂજી ઉઠે છે, તેને ________ કહે છે. (ભૂકંપ, વાવાઝોડું, પૂર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભૂકંપ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ધ્રૂજારી' એટલે 'ભૂકંપ' - જમીન (ભૂ) જ્યારે કાંપે (ધ્રૂજે) ત્યારે તેને ભૂકંપ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ભૂકંપની તીવ્રતા ________ એકમમાં માપવામાં આવે છે. (સીસ્મોગ્રાફ, લિટર, રિક્ટર સ્કેલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રિક્ટર સ્કેલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રિક્ટર સ્કેલ તીવ્રતા (Intensity) માટે અને સીસ્મોગ્રાફ આલેખ દોરવા માટે વપરાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વાતાવરણમાં હવાના દબાણમાં સર્જાતી અસમતુલાથી ઉદ્ભવતા તોફાનોને ભારતમાં ________ કહે છે. (ટાયફૂન, હરિકેન, ચક્રવાત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચક્રવાત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભારતમાં 'વાવાઝોડું' કે 'ચક્રવાત' કહેવાય, જ્યારે અમેરિકામાં હરિકેન કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સમુદ્રના તળિયે થતા ભૂકંપને કારણે ઉદ્ભવતા વિનાશક મોજાંને ________ કહે છે. (ભરતી, સુનામી, ઓટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુનામી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'સુનામી' એ જાપાનીઝ શબ્દ છે, જેનો અર્થ 'વિનાશક મોજાં' થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "નદીમાં આવતા પાણીના ધસમસતા પ્રવાહને ________ કહે છે. (દુષ્કાળ, પૂર, ચક્રવાત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૂર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નદીની મર્યાદા બહાર જ્યારે પાણી જાય ત્યારે તેને 'પૂર' (Flood) કહેવામાં આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વરસાદ ન પડવાથી કે બહુ ઓછો પડવાથી ખોરાક-પાણીની અછત સર્જાય તેને ________ કહે છે. (પૂર, સુનામી, દુષ્કાળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દુષ્કાળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાણીની 'કાળ' જેવી અછત એટલે 'દુષ્કાળ'. આ આયોજનથી રોકી શકાય તેવી આપત્તિ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ભૂકંપ એ ________ આપત્તિ છે. (કુદરતી, માનવસર્જિત, સામાજિક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કુદરતી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે આપત્તિ પર માણસનો કાબૂ નથી તે 'કુદરતી' (Natural) ગણાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "હુલ્લડ એ ________ આપત્તિ છે. (કુદરતી, માનવસર્જિત, આકાશી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માનવસર્જિત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હુલ્લડ, આગ, બોમ્બ વિસ્ફોટ અને ઔદ્યોગિક અકસ્માત માનવની ભૂલથી થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "અમેરિકામાં ચક્રવાતને ________ તરીકે ઓળખવામાં આવે છે. (હરિકેન, ટાયફૂન, વિલી-વિલી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હરિકેન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'અમેરિકા-હરિકેન' અને 'જાપાન-ટાયફૂન' - આ જોડી યાદ રાખવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ભૂકંપ દરમિયાન જો તમે શાળામાં હોવ તો ________ નીચે બેસી જવું જોઈએ. (ખુરશી, પાટલી (બેન્ચ), પંખા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાટલી (બેન્ચ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): માથાના રક્ષણ માટે મજબૂત ટેબલ કે બેન્ચ નીચે સંતાવવું હિતાવહ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સુનામી આવવાનું મુખ્ય કારણ સમુદ્રના તળિયે થતો ________ છે. (ભૂકંપ, પવન, પ્રકાશ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભૂકંપ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'પાણી નીચે ભૂકંપ = સુનામી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ચક્રવાતની આગાહી માટે ________ ટેકનોલોજી ખૂબ મદદરૂપ થાય છે. (રેડિયો, ટેલિવિઝન, સેટેલાઇટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સેટેલાઇટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અવકાશમાંથી સેટેલાઇટ (ઉપગ્રહ) ચક્રવાતની ગતિ અને દિશા બતાવી શકે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "જંગલોમાં લાગતી આગને ________ કહેવામાં આવે છે. (વડવાનલ, દાવાનળ, જ્વાળામુખી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દાવાનળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'જંગલની આગ = દાવાનળ' (Wildfire).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "દુષ્કાળથી બચવા માટે ________ પદ્ધતિથી ખેતી કરવી જોઈએ. (પરંપરાગત, ટપક સિંચાઈ, ક્યારા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટપક સિંચાઈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ટીપે ટીપે પાણી બચાવો, દુષ્કાળને દૂર ભગાવો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સુનામી સમયે દરિયા કિનારાથી ________ જવું જોઈએ. (નજીક, દૂર, ઉપર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દૂર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સુનામીના મોજાં ખૂબ ઊંચા અને શક્તિશાળી હોય છે, તેથી ઊંચાણવાળા સ્થળે કે દૂર જવું શ્રેષ્ઠ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "જે આપત્તિની પૂર્વ આગાહી શક્ય નથી તેને ________ કહે છે. (ચક્રવાત, ભૂકંપ, પૂર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભૂકંપ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વાવાઝોડું અને પૂરની આગાહી થઈ શકે, પણ ભૂકંપ 'અચાનક' આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "પૂર વખતે કિંમતી સામાન અને ________ સાથે રાખવા જોઈએ. (દવાઓ, રમકડાં, મોટા વાસણો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દવાઓ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આપત્તિ સમયે 'જીવ બચાવવો' અને 'તબિયત સાચવવી' એ પહેલી પ્રાથમિકતા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ગુજરાતના ________ દરિયાકિનારે ચક્રવાતની અસર વધુ જોવા મળે છે. (દક્ષિણ અને સૌરાષ્ટ્ર, ઉત્તર, મધ્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દક્ષિણ અને સૌરાષ્ટ્ર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગુજરાતમાં અરબી સમુદ્ર દક્ષિણ અને પશ્ચિમ (સૌરાષ્ટ્ર) માં હોવાથી ત્યાં વધુ અસર થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "________ આપત્તિ માનવસર્જિત નથી. (આગ, હુલ્લડ, સુનામી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુનામી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સુનામી એ પૃથ્વીના આંતરિક બળોને કારણે થાય છે, જે કુદરતી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "પૂર ઉતર્યા પછી પાણી ________ કરીને પીવું જોઈએ. (ગાળીને, ઉકાળીને, ઠંડુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉકાળીને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઉકાળેલું પાણી રોગચાળો ફેલાતો અટકાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "જાપાનમાં ચક્રવાતને ________ કહેવાય છે. (હરિકેન, ટાયફૂન, ટોર્નેડો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટાયફૂન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ચીન અને જાપાનના વિસ્તારમાં આવતા ચક્રવાતને 'ટાયફૂન' કહે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ભૂકંપ કેન્દ્રથી પૃથ્વીની સપાટી પરના નજીકના સ્થળને ________ કહે છે. (ભૂકંપ નિર્ગમન કેન્દ્ર, કેન્દ્રબિંદુ, ધરી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભૂકંપ નિર્ગમન કેન્દ્ર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યાંથી મોજાં 'બહાર નીકળે' તેને 'નિર્ગમન' કેન્દ્ર કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "સુનામી આવવાની આગાહી ________ દ્વારા કરી શકાય છે. (ટીવી, આધુનિક સાધનો, પ્રાણીઓ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આધુનિક સાધનો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમુદ્રમાં રહેલા સેન્સર અને સેટેલાઇટ સુનામીની ચેતવણી આપી શકે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "દુષ્કાળની પરિસ્થિતિમાં સરકારે ________ ના કામો શરૂ કરવા જોઈએ. (બાંધકામ, રાહત, વેપાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાહત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દુષ્કાળમાં લોકોને આવક અને ખોરાક મળી રહે તે માટે 'રાહત કામો' જરૂરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ભૂકંપ દરમિયાન બહુમાળી મકાનોમાં ઉતરવા માટે ________ નો ઉપયોગ ન કરવો જોઈએ. (સીડી, લિફ્ટ, દોરડા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લિફ્ટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લિફ્ટ ગમે ત્યારે બંધ થઈ શકે અથવા તૂટી શકે, એટલે હંમેશા સીડી વાપરવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "તીવ્ર વાવાઝોડાને કારણે સમુદ્ર કિનારે ઊંચા મોજાં ઉછળે તેને ________ કહે છે. (ચક્રવાત, સુનામી, ભરતી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુનામી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જોકે સુનામી મુખ્યત્વે ભૂકંપથી થાય છે, પણ ક્યારેક તોફાનથી પણ ભયાનક મોજાં આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "પૂરના વિસ્તારોમાં રહેતા લોકોએ પીવાનું પાણી ________ રાખવું જોઈએ. (ખુલ્લું, જંતુમુક્ત, ગરમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જંતુમુક્ત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પૂરના પાણીમાં કચરો અને રોગ હોય છે, તેથી પાણી ચોખ્ખું હોવું અનિવાર્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "આપત્તિ વ્યવસ્થાપન માટે ________ નું માળખું ખૂબ જ જરૂરી છે. (વહીવટી, કાનૂની, સામાજિક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વહીવટી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): તંત્ર જો સુસજ્જ હોય (વહીવટી માળખું), તો નુકસાન ઘટાડી શકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ચક્રવાત પહેલા માછીમારોએ ________ જવું જોઈએ નહીં. (બજારમાં, ખેતરમાં, દરિયામાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દરિયામાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દરિયો તોફાની બનવાનો હોય ત્યારે માછીમારોને રેડિયો પર ચેતવણી અપાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "દુષ્કાળને અટકાવવા માટે વધુને વધુ ________ ઉગાડવા જોઈએ. (પાક, ઘાસ, વૃક્ષો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વૃક્ષો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'વૃક્ષો લાવો, વરસાદ લાવો'. વૃક્ષો વાતાવરણમાં ભેજ જાળવી રાખે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "પૂરના સમયે પ્રાણીઓને ________ બાંધવા જોઈએ નહીં. (ખૂંટે, ઊંચાણે, સુરક્ષિત જગ્યાએ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખૂંટે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ખૂંટે બાંધેલા પશુઓ પોતાનો જીવ બચાવવા ભાગી શકતા નથી, એટલે તેમને મુક્ત કરવા જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "ભૂકંપ પછી કાટમાળ નીચે દબાયેલા લોકોને બહાર કાઢવા માટે ________ ની ટીમ કામ કરે છે. (NDRF, પોલીસ, લશ્કર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> NDRF</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): NDRF (National Disaster Response Force) ખાસ આપત્તિઓ માટે બનેલી ફોર્સ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "વધુ પડતા વરસાદને કારણે નદીઓના કાંઠા વિસ્તારો જળબંબાકાર થઈ જાય તેને ________ કહે છે. (સુનામી, દુષ્કાળ, પૂર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૂર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નદીનું પાણી પાળ ઓળંગે એટલે પૂર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "આપત્તિ સમયે અફવાઓથી ________ રહેવું જોઈએ. (દૂર, નજીક, સાવધ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દૂર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અફવાઓ ભય ફેલાવે છે, માત્ર સરકારી સૂચનાઓ પર જ વિશ્વાસ કરવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "ભૂકંપ પ્રૂફ મકાનો ________ ઘટાડવામાં મદદ કરે છે. (ભૂકંપ, નુકસાન, અવાજ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નુકસાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મકાન ભૂકંપ ન રોકી શકે, પણ જાન-માલની હાનિ (નુકસાન) ચોક્કસ ઘટાડી શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "દુષ્કાળમાં ________ અને પાણીની ભયંકર તંગી હોય છે. (પૈસાની, અનાજની, કપડાંની)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અનાજની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વરસાદ ન પડે તો ખેતી ન થાય, એટલે અનાજ ન પાકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "વાવાઝોડામાં કાચની બારીઓથી ________ રહેવું જોઈએ. (નજીક, દૂર, ઉપર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દૂર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પવનના દબાણથી કાચ તૂટી શકે છે અને વાગી શકે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "________ ના કારણે જમીનનું ધોવાણ થાય છે. (દુષ્કાળ, પૂર, અવાજ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૂર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વહેતું પાણી જમીનનો ફળદ્રુપ સ્તર પોતાની સાથે તાણી જાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "સુનામીના મોજાં કિનારે પહોંચતા તેમની ઝડપ ________ જાય છે. (વધી, ઘટી, શૂન્ય થઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘટી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કિનારા પાસે ઊંડાઈ ઓછી હોવાથી ઝડપ ઘટે છે પણ મોજાંની ઊંચાઈ વધે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "આપત્તિના સમયે ________ ન ગુમાવવી જોઈએ. (ધીરજ, હિંમત, શક્તિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હિંમત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગભરાવાને બદલે હિંમતથી કામ લેવું જોઈએ.</p></div>"
+    }
+  ]
+}
