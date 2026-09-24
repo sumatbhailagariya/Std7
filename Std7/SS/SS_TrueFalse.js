@@ -256,3 +256,161 @@ var Std7_SS_TrueFalse = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "દિલ્હી સલ્તનત",
+  "questionType": "ખરાં ખોટાં જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "દિલ્હી સલ્તનતની સ્થાપના ઈ.સ. ૧૨૦૬ માં કુતબુદ્દીન ઐબક દ્વારા કરવામાં આવી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બાર-છે' (૧૨૦૬) માં ઐબકે પાયો નાખ્યો. સલ્તનતનો સમયગાળો ૧૨૦૬ થી ૧૫૨૬ સુધીનો છે (૩૨૦ વર્ષ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ઈલ્તુત્મિશ ગુલામ વંશનો સાચો સ્થાપક માનવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઐબકે શરૂઆત કરી પણ 'ઈલ્તુત્મિશ' એ સત્તાને મજબૂત બનાવી એટલે તે 'સાચો સ્થાપક'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "રઝિયા સુલતાના દિલ્હીની ગાદી પર બેસનાર પ્રથમ મહિલા શાસક હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'રઝિયા' એટલે 'રાણી' જે પ્રથમ વાર દિલ્હીની ગાદીએ બેસી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ગિયાસુદ્દીન બલબને 'ચહલગાન' (દળ ચાલીસા) ની સ્થાપના કરી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: 'ચહલગાન' ની સ્થાપના ઈલ્તુત્મિશે કરી હતી, જ્યારે બલબને તેનો નાશ કર્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈલ્તુત્મિશે 'બનાવ્યું' (ચહલગાન), બલબને 'બગાડ્યું/નાશ કર્યો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "અલાઉદ્દીન ખલજીએ સૈન્યના ઘોડા અને સૈનિકો માટે 'દાગ' અને 'ચહેરા' પદ્ધતિ શરૂ કરી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અલાઉદ્દીન = શિસ્તબદ્ધ સૈન્ય. ઘોડા પર 'દાગ' અને સૈનિકનો 'ચહેરો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "મુહમ્મદ બિન તુગલકે પોતાની રાજધાની દિલ્હીથી દોલતાબાદ સ્થાનાંતરિત કરી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુહમ્મદ તુગલક એટલે 'તરંગી' યોજનાઓ. દિલ્હી થી દોલતાબાદ = 'દ' થી 'દ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ખિજરખાંએ લોદી વંશની સ્થાપના કરી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: ખિજરખાંએ સૈયદ વંશની સ્થાપના કરી હતી, જ્યારે બહલોલ લોદીએ લોદી વંશની સ્થાપના કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોદી વંશ = બહલોલ લોદી. ખિજરખાં = સૈયદ વંશ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "પાણીપતનું પ્રથમ યુદ્ધ ઈ.સ. ૧૫૨૬ માં ઇબ્રાહિમ લોદી અને બાબર વચ્ચે થયું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧૫૨૬ = સલ્તનતનો અંત અને મુઘલ સામ્રાજ્યની શરૂઆત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "કુતબુદ્દીન ઐબક દ્વારા નિર્મિત 'ઢાઈ દિન કા ઝોંપડા' મસ્જિદ દિલ્હીમાં આવેલી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: 'ઢાઈ દિન કા ઝોંપડા' મસ્જિદ અજમેરમાં આવેલી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અજમેર' માં 'ઝોંપડા' (ઢાઈ દિન કા ઝોંપડા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "તુગલક શાસન દરમિયાન ફિરોઝશાહ તુગલકે નગરો, નહેરો અને હોસ્પિટલોનું નિર્માણ કરાવ્યું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફિરોઝશાહ = કલ્યાણકારી કાર્યો (બાંધકામ પ્રેમી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિજયનગર સામ્રાજ્યની સ્થાપના હરિહરરાય અને બુક્કારાય નામના બે ભાઈઓએ કરી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'હરિ' અને 'બુક્કા' = વિજયનગરના પાયાના પથ્થરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "કૃષ્ણદેવરાય વિજયનગર સામ્રાજ્યના સર્વશ્રેષ્ઠ શાસક હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૃષ્ણદેવરાય = આંધ્રના ભોજ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સલ્તનત કાળમાં સુલતાનનો પ્રધાનમંત્રી 'વઝીર' કહેવાતો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વઝીર = સુલતાનનો જમણો હાથ (વહીવટી વડો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "બહમની રાજ્યની સ્થાપના જફરખાને કરી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહમની = જફરખાન (અલાઉદ્દીન બહમનશાહ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "કુતુબ મિનારનું બાંધકામ ફિરોઝશાહ તુગલકે પૂર્ણ કરાવ્યું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: કુતુબ મિનારનું બાંધકામ ઈલ્તુત્મિશે પૂર્ણ કરાવ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શરૂઆત ઐબકે કરી, પણ 'ઈલ્તુ' એ 'પૂર્ણ' કર્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સલ્તનત કાળમાં પ્રાંતને 'ઈક્તા' કહેવામાં આવતું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈક્તા = જમીનનો ટુકડો અથવા પ્રાંત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "અલાઉદ્દીન ખલજીના સમયમાં પ્રસિદ્ધ કવિ અમીર ખુસરો થઈ ગયા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અમીર ખુસરો = તુતી-એ-હિન્દ (ભારતનો પોપટ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સૈયદ વંશ પછી તુગલક વંશની સ્થાપના થઈ હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: તુગલક વંશ પછી સૈયદ વંશ અને ત્યારબાદ લોદી વંશ આવ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રમ યાદ રાખો: ગુલામ -> ખલજી -> તુગલક -> સૈયદ -> લોદી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિજયનગર સામ્રાજ્ય તુંગભદ્રા નદીના કિનારે વસેલું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'તુંગભદ્રા' ના તીરે 'વિજય' થયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "મુહમ્મદ તુગલકના સમયમાં આફ્રિકન મુસાફર ઇબ્નબતુતા ભારતની મુલાકાતે આવ્યો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તુગલક + ઇબ્નબતુતા (મોરોક્કોનો મુસાફર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "બહલોલ લોદી દિલ્હીની ગાદી પર બેસનાર પ્રથમ અફઘાન શાસક હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોદી વંશ = પ્રથમ અફઘાન સામ્રાજ્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "કૃષ્ણદેવરાયે વિજયનગરની પાસે 'નાગલપુર' નામનું નગર વસાવ્યું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કૃષ્ણદેવરાયે પોતાની માતા 'નાગલાદેવી' ના યાદમાં 'નાગલપુર' વસાવ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "સલ્તનત શાસન વ્યવસ્થામાં 'ખલીફા' સર્વોચ્ચ સેનાપતિ હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: સુલતાન શાસન વ્યવસ્થામાં કેન્દ્ર સ્થાને હતો અને તે જ સર્વોચ્ચ સેનાપતિ હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુલતાન = સત્તાનો સર્વોચ્ચ વડો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ગુલામ વંશના શાસક બલબને દિલ્હીમાં મસ્જિદો અને કિલ્લાઓનું નિર્માણ અટકાવી દીધું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: બલબને સત્તા મજબૂત કરવા પર ભાર મૂક્યો હતો પણ બાંધકામ અટકાવ્યું નહોતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બલબન એટલે લોખંડી પુરુષ (રક્ત અને લોહની નીતિ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "તાલીકોટાનું યુદ્ધ ઈ.સ. ૧૫૬૫ માં થયું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧૫૬૫ = વિજયનગર સામ્રાજ્યનો અંત (તાલીકોટા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "કુતબુદ્દીન ઐબકનું મૃત્યુ ઘોડા પરથી પડી જવાથી (પોલો રમતા) થયું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચૌગાન' (પોલો) રમતા ઐબકનું અવસાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "જલાલુદ્દીન ખલજીએ ખલજી વંશની સ્થાપના કરી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખલજી વંશની શરૂઆત 'જલાલ' થી થઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "બહમની સામ્રાજ્યના વઝીર મહમૂદ ગવાંએ સક્ષમ વહીવટીતંત્રની રચના કરી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહમૂદ ગવાં = બહમની રાજ્યનો હોશિયાર વઝીર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "કુતુબ મિનાર પાંચ માળની ઇમારત છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુતુબ મિનાર = ઐબકે ૧, ઈલ્તુએ ૩ અને ફિરોઝે છેલ્લો માળ (સમારકામ) કરાવ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "સલ્તનત કાળમાં ટપાલ પદ્ધતિ અસ્તિત્વમાં નહોતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: અલાઉદ્દીન ખલજીના સમયમાં ખેપિયાઓ દ્વારા ટપાલ પદ્ધતિ અસ્તિત્વમાં હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સલ્તનત કાળમાં 'ખેપિયા' એટલે કુરિયર સર્વિસ.</p></div>"
+    }
+  ]
+}
