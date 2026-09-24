@@ -2810,3 +2810,211 @@ var Std7_SS_FillBlanks = {
     }
   ]
 }
+,
+"15": {
+  "chapterName": "પ્રકરણ 15",
+  "chapterTitle": "રાજ્ય સરકાર",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ભારત એક વિશાળ .......... ધરાવતો સંઘાત્મક દેશ છે. (લોકશાહી / વસ્તી / વિસ્તાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વસ્તી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારતની વિશાળતા અને વસ્તી હંમેશા સાથે યાદ રાખવી (ભારત = વસ્તીમાં ટોચનો દેશ). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ગુજરાતમાં ધારાસભાનું નીચલું ગૃહ .......... તરીકે ઓળખાય છે. (વિધાન પરિષદ / વિધાનસભા / લોકસભા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિધાનસભા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નીચલું' અને 'વિધાનસભા' - બંનેમાં 'ન/વ' આવે છે, તે યાદ રાખવું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિધાનસભાના સભ્યને .......... તરીકે ઓળખવામાં આવે છે. (સાંસદ / ધારાસભ્ય (MLA) / સરપંચ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધારાસભ્ય (MLA)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિધાનસભા = વિધાન + સભા, તેથી વિધાન સભ્ય એટલે ધારાસભ્ય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ગુજરાત વિધાનસભામાં કુલ .......... બેઠકો છે. (182 / 250 / 543)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 182</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ટેચ્યુ ઓફ યુનિટીની ઊંચાઈ પણ 182 મીટર છે અને બેઠકો પણ 182 છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિધાનસભાની ચૂંટણી દર .......... વર્ષે થાય છે. (4 / 5 / 6)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 5</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારતમાં મોટાભાગની લોકશાહી સંસ્થાઓનો કાર્યકાળ 'પંજો' એટલે કે 5 વર્ષનો હોય છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિધાનસભાના સભ્ય બનવા માટે વયમર્યાદા .......... વર્ષ કે તેથી વધુ હોવી જોઈએ. (18 / 25 / 35)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 25</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યુવાનીના ઉંબરે (25 વર્ષ) ધારાસભ્ય બની શકાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ગુજરાતની વિધાનસભા .......... શહેરમાં આવેલી છે. (અમદાવાદ / રાજકોટ / ગાંધીનગર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાંધીનગર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજ્યનું પાટનગર એ જ વિધાનસભાનું ઘર. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ગુજરાતની વિધાનસભાનું નામ .......... ભવન છે. (સર્વોદય / વિઠ્ઠલભાઈ પટેલ / સરદાર પટેલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિઠ્ઠલભાઈ પટેલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો 'વી.પી. ભવન' - વિઠ્ઠલભાઈ પટેલ વિધાનસભા ભવન. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિધાનસભાનું સંચાલન કરનાર વ્યક્તિને .......... કહેવામાં આવે છે. (મુખ્યમંત્રી / અધ્યક્ષ (સ્પીકર) / રાજ્યપાલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અધ્યક્ષ (સ્પીકર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સભાના 'અધ્યક્ષ' હંમેશા સભાને શાંત રાખે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "રાજ્યના બંધારણીય વડા .......... છે. (મુખ્યમંત્રી / રાજ્યપાલ / રાષ્ટ્રપતિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાજ્યપાલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજ્યના 'પાલ' એટલે કે રખેવાળ - રાજ્યપાલ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "રાજ્યપાલની નિમણૂક .......... દ્વારા કરવામાં આવે છે. (મુખ્યમંત્રી / વડાપ્રધાન / રાષ્ટ્રપતિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાષ્ટ્રપતિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેશના વડા (રાષ્ટ્રપતિ) રાજ્યના વડા (રાજ્યપાલ) ને નિમે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "રાજ્યપાલ બનવા માટેની વયમર્યાદા .......... વર્ષ કે તેથી વધુ હોવી જોઈએ. (25 / 30 / 35)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 35</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજ્યપાલનું પદ મોટું છે, તેથી ઉંમર પણ મોટી (35) જોઈએ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "રાજ્યની કારોબારીના વડા .......... છે. (મુખ્યમંત્રી / રાજ્યપાલ / સ્પીકર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુખ્યમંત્રી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કામ કરનાર મુખ્ય હોય તેને 'મુખ્યમંત્રી' કહેવાય (કારોબારી એટલે કામ કરનાર). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "દરેક રાજ્યમાં એક .......... અદાલત હોય છે. (વડી / સર્વોચ્ચ / જિલ્લા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વડી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજ્યની સૌથી મોટી એટલે 'વડી' (High Court). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ભારતના બંધારણમાં રાજ્ય સરકારના કાર્યોને .......... યાદીઓમાં વહેંચવામાં આવ્યા છે. (બે / ત્રણ / ચાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ત્રણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંઘ યાદી, રાજ્ય યાદી અને સંયુક્ત યાદી - આ ત્રણ 'ત્રીદેવ' જેવી યાદીઓ છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ગરીબ લોકોને મફત દવાઓ મળે તે માટે .......... હોસ્પિટલની વ્યવસ્થા હોય છે. (ખાનગી / સરકારી / ટ્રસ્ટની)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સરકારી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરકાર એટલે સર્વની સંભાળ લેતી સંસ્થા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "તબીબી સેવાઓ માટે .......... નંબરની એમ્બ્યુલન્સ સેવા કાર્યરત છે. (100 / 101 / 108)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 108</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કટોકટીમાં 'એક શૂન્ય આઠ' બચાવે આપણો ઠાઠ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "રાજ્ય સરકારની આવકનું મુખ્ય સાધન .......... છે. (દાન / વેચાણવેરો / લોન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વેચાણવેરો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વસ્તુ વેચાય ત્યારે 'ટેક્સ' આવે અને તિજોરી ભરાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિશ્વ આરોગ્ય દિવસ .......... ના રોજ ઉજવવામાં આવે છે. (7 એપ્રિલ / 5 જૂન / 21 જૂન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 7 એપ્રિલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સાત' એપ્રિલે 'સાથ' મળીને સ્વાસ્થ્ય સાચવીએ (WHO ની સ્થાપના). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "બાળકોને પોલિયોથી બચાવવા .......... અભિયાન ચલાવવામાં આવે છે. (મિશન ઇન્દ્રધનુષ / પલ્સ પોલિયો / સ્વચ્છ ભારત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પલ્સ પોલિયો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોલિયોને ભગાડવા 'દો બૂંદ જિંદગી કી'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "રાજ્યમાં વિધાનસભાના સભ્યોને મંત્રીઓ અને મુખ્યમંત્રી તરીકેની શપથ .......... લેવડાવે છે. (વડાપ્રધાન / રાષ્ટ્રપતિ / રાજ્યપાલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાજ્યપાલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજ્યનો મોટો ભાઈ (રાજ્યપાલ) નાના ભાઈઓ (મંત્રીઓ) ને વચન લેવડાવે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિધાનસભાને .......... ગૃહ પણ કહેવામાં આવે છે. (ઉપલું / નીચલું / કાયમી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નીચલું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિધાનસભા = જનતાની નજીક એટલે કે 'નીચે' પાયામાં. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વિધાનપરિષદ એ ધારાસભાનું .......... ગૃહ છે. (નીચલું / વચલું / ઉપલું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉપલું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિષદ એટલે પંડિતોનું (મોટેરાંઓનું) 'ઉપલું' ગૃહ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "કયા રાજ્યમાં વિધાનપરિષદ નથી? (બિહાર / મહારાષ્ટ્ર / ગુજરાત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુજરાત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાતીઓ સીધી વાત કરે, બે ગૃહોની માથાકૂટમાં પડતા નથી! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વિધાનપરિષદના સભ્યની મુદત .......... વર્ષની હોય છે. (5 / 6 / 4)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 6</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાયમી ગૃહ હોવાથી સભ્યોને 1 વર્ષ બોનસ મળે એટલે 6 વર્ષ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "રાજ્યની વિધાનસભાના સત્રને બોલાવવાની સત્તા .......... ની છે. (મુખ્યમંત્રી / અધ્યક્ષ / રાજ્યપાલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાજ્યપાલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્કૂલની જેમ બેલ વગાડી બધાને ભેગા કરવાનું કામ મુખ્ય વડા (રાજ્યપાલ) નું છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "કોઈપણ ખરડો કાયદો ત્યારે જ બને જ્યારે તેના પર .......... ની સહી થાય. (રાજ્યપાલ / મુખ્યમંત્રી / નાણામંત્રી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાજ્યપાલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મંજૂરીની મહોર 'રાજ્યપાલ' જ મારે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "રાજ્યનું બજેટ (અંદાજપત્ર) વિધાનસભામાં .......... રજૂ કરે છે. (મુખ્યમંત્રી / નાણામંત્રી / શિક્ષણમંત્રી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નાણામંત્રી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાણું (પૈસા) એટલે નાણામંત્રીનું કામ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "રાજ્યમાં મંત્રીમંડળની બેઠકો કોણ બોલાવે છે? (રાજ્યપાલ / મુખ્યમંત્રી / સ્પીકર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુખ્યમંત્રી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મંત્રીઓના બોસ (મુખ્યમંત્રી) જ મીટિંગ બોલાવે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "રાજ્યના વહીવટમાં સચિવાલય કયા શહેરમાં આવેલું છે? (અમદાવાદ / ગાંધીનગર / વડોદરા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાંધીનગર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાં રાજા (સરકાર) ત્યાં જ તેનું દફતર (સચિવાલય). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "આરોગ્ય એટલે શારીરિક, માનસિક, સામાજિક અને આધ્યાત્મિક ક્ષેમકુશળતાની .......... અવસ્થા. (સંપૂર્ણ / અંશતઃ / ક્ષણિક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંપૂર્ણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આરોગ્યમાં કાચું ન કપાય, તે 'સંપૂર્ણ' જ હોવું જોઈએ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "સરકાર કઈ યોજના અંતર્ગત મફત ઓપરેશનની સુવિધા આપે છે? (MA યોજના / બેટી બચાવો / શ્રમિક કલ્યાણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> MA યોજના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માં (MA) જેવી મમતા રાખતી યોજના એટલે મુખ્યમંત્રી અમૃતમ યોજના. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "કેન્દ્ર સરકારની સ્વાસ્થ્ય સંબંધિત મહત્વની યોજના .......... છે. (જન ધન યોજના / આયુષ્માન ભારત / ઉજ્જવલા યોજના)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આયુષ્માન ભારત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આયુષ્ય' વધારનારી ભારત સરકારની યોજના. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "સસ્તા અનાજની દુકાનો દ્વારા સરકાર કયું કાર્ય કરે છે? (શિક્ષણ / ખાદ્ય સુરક્ષા / મનોરંજન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખાદ્ય સુરક્ષા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અનાજ એટલે ખાદ્ય, અને ગરીબોને મળે તે સુરક્ષા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "વિધાનસભામાં પ્રશ્નોત્તરી સમયે સભ્યો કોને સંબોધીને પ્રશ્નો પૂછે છે? (મુખ્યમંત્રીને / રાજ્યપાલને / અધ્યક્ષને)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અધ્યક્ષને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્લાસમાં સરને પૂછાય, વિધાનસભામાં અધ્યક્ષને પૂછાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "નીચેનામાંથી કઈ સેવા જાહેર સ્વાસ્થ્ય સેવા છે? (PHC / ખાનગી લેબોરેટરી / સ્પેશિયાલિટી હોસ્પિટલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> PHC</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: PHC = Primary Health Centre (પ્રાથમિક આરોગ્ય કેન્દ્ર). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "રાજ્ય સરકારનું કયું અંગ કાયદા ઘડવાનું કામ કરે છે? (કારોબારી / ન્યાયતંત્ર / ધારાસભા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધારાસભા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધારો એટલે કાયદો, તેથી કાયદો ઘડનાર એટલે ધારાસભા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "કાયદાનો અમલ કરાવવાનું કામ રાજ્ય સરકારનું કયું અંગ કરે છે? (કારોબારી / ધારાસભા / ન્યાયતંત્ર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કારોબારી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કા'યદાનો અમલ કરનાર 'કા'રોબારી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "કાયદાનો ભંગ કરનારને સજા આપવાનું કામ કોણ કરે છે? (પોલીસ / ન્યાયતંત્ર / મંત્રીમંડળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ન્યાયતંત્ર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અન્યાય સામે ન્યાય આપનાર ન્યાયતંત્ર. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "ગામડામાં આરોગ્યની સેવા માટે શેની રચના કરવામાં આવે છે? (સબ-સેન્ટર / સચિવાલય / નગરપાલિકા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સબ-સેન્ટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાયાની સેવા પાયાના કેન્દ્રો (Sub-centers) પર મળે. (NJ Classes)</p></div>"
+    }
+  ]
+}
