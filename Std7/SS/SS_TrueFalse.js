@@ -622,3 +622,236 @@ var Std7_SS_TrueFalse = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "મધ્યયુગીન સ્થાપત્યો, શહેરો, વેપારી અને કારીગરો",
+  "questionType": "ખરાં ખોટાં જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "શિલ્પશાસ્ત્રની દ્રષ્ટિએ મકાનો કે નગરોનું આયોજન કરવાની કળાને 'સ્થાપત્ય' કહેવાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થાપત્ય એટલે બાંધકામની કળા (વાસ્તુશાસ્ત્ર મુજબ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "મોઢેરાનું સૂર્યમંદિર સોલંકી વંશના રાજા સિદ્ધરાજ જયસિંહના શાસનકાળમાં બંધાયું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: મોઢેરાનું સૂર્યમંદિર સોલંકી વંશના રાજા ભીમદેવ પ્રથમના શાસનકાળમાં બંધાયું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોઢેરા = ભીમદેવ-૧ (ભીમે સૂર્ય જેવી શક્તિ બતાવી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કોણાર્કનું સૂર્યમંદિર ઓડિશા રાજ્યના પુરી જિલ્લામાં આવેલું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોણાર્ક = ઓડિશાનો દરિયાકિનારો (પુરી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "કોણાર્કનું સૂર્યમંદિર 'સફેદ પેગોડા' તરીકે ઓળખાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: કોણાર્કનું સૂર્યમંદિર કાળા પથ્થરોથી બનેલું હોવાથી તેને 'કાળા પેગોડા' તરીકે ઓળખવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાળા પથ્થર = કાળો (બ્લેક) પેગોડા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "તંજાવુરનું રાજરાજેશ્વર મંદિર તે સમયનું સૌથી ઊંચું મંદિર ગણાતું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તંજાવુર = સૌથી ઊંચું રાજરાજેશ્વર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "મુઘલ સ્થાપત્ય શૈલીનો ઉત્કૃષ્ટ નમૂનો હુમાયુના મકબરામાં જોવા મળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુઘલ સ્થાપત્યની શરૂઆતનો સુંદર નમૂનો એટલે હુમાયુનો મકબરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "આગરાનો લાલ કિલ્લો અકબરે બંધાવ્યો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ-અ: આગરાનો લાલ કિલ્લો = અકબર (દિલ્હીનો લાલ કિલ્લો શાહજહાંએ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ફતેહપુર સિક્રીનું નિર્માણ શાહજહાંએ પોતાની પત્નીની યાદમાં કરાવ્યું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: ફતેહપુર સિક્રી નગર અકબરે સૂફી સંત સલીમ ચિશ્તીની યાદમાં વસાવ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિક્રી = સલીમ ચિશ્તી (અકબર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "તાજમહાલ વિશ્વની સાત અજાયબીઓમાં સ્થાન ધરાવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાજમહાલ = સાત અજાયબી (યમુના કિનારે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "દિલ્હી સ્થિત લાલ કિલ્લાનું નિર્માણ અકબરે કરાવ્યું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: દિલ્હીનો લાલ કિલ્લો શાહજહાંએ બંધાવ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દિલ્હી લાલ કિલ્લો = શાહજહાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "અમૃતસરનું સુવર્ણ મંદિર શીખ ધર્મનું શ્રેષ્ઠ સ્થાપત્ય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અમૃતસર = સુવર્ણ મંદિર (ગોલ્ડન ટેમ્પલ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સોમનાથનું મંદિર ગૌરવશાળી, પ્રાચીન અને ઐતિહાસિક ધાર્મિક સ્થળ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોમનાથ = ૧૨ જ્યોતિર્લિંગોમાંનું એક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "જૂનાગઢ શહેરમાં ઉપરકોટનો કિલ્લો આવેલો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપરકોટ = જૂનાગઢ (રા' ખેંગાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "રાણીની વાવ સિદ્ધરાજ જયસિંહે બંધાવી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: રાણીની વાવ પાટણમાં રાણી ઉદયમતીએ તેમના પતિ ભીમદેવ પ્રથમની યાદમાં બંધાવી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાણીની વાવ = રાણી ઉદયમતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સિદ્ધપુરનો રુદ્રમહાલય મૂળરાજ સોલંકીએ પૂર્ણ કરાવ્યો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: રુદ્રમહાલય બાંધવાની શરૂઆત મૂળરાજે કરી હતી પણ તેને સિદ્ધરાજ જયસિંહે પૂર્ણ કરાવ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રુદ્રમહાલય 'સિદ્ધ' કર્યો સિદ્ધરાજ જયસિંહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "અમદાવાદની સીદી સૈયદની જાળી તેની નકશીકામ માટે વિશ્વભરમાં પ્રખ્યાત છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાળી = સીદી સૈયદ (અમદાવાદ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "પાલીતાણાના જૈન મંદિરો શેત્રુંજય પર્વત પર આવેલા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાલીતાણા = શેત્રુંજય પર્વત (ભાવનગર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "પાલિયા એ યુદ્ધમાં શહીદ થનાર વીરોની સ્મૃતિમાં બાંધવામાં આવતું સ્થાપત્ય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાલિયા = વીર શહીદોની યાદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "હમીરજી ગોહિલનો પાલિયો સોમનાથ મંદિર પાસે આવેલો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોમનાથ રક્ષક = હમીરજી ગોહિલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ભીમદેવ પ્રથમના શાસનકાળમાં પ્રખ્યાત સોમનાથ મંદિરનું પુનઃનિર્માણ થયું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોમનાથ પુનઃનિર્માણ = ભીમદેવ સોલંકી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "અમિત ખુશરો મુઘલ કાળના પ્રસિદ્ધ સંગીતકાર હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: અમીર ખુશરો સલ્તનત કાળના પ્રસિદ્ધ કવિ અને સંગીતકાર હતા, મુઘલ કાળમાં તાનસેન પ્રખ્યાત હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખુશરો = સલ્તનત કાળ (અલાઉદ્દીન ખીલજી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "કબીરના કાવ્ય સંગ્રહનું નામ 'બીજક' છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કબીર = બીજક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "નરસિંહ મહેતા ગુજરાતી ભાષાના આદ્ય કવિ ગણાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાતી સાહિત્યના પિતા/આદ્ય કવિ = નરસિંહ મહેતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "અમદાવાદમાં વૌઠાનો મેળો ગધેડાની લે-વેચ માટે જાણીતો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વૌઠા = ગધેડાની લે-વેચ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "તરણેતરનો મેળો સુરેન્દ્રનગર જિલ્લામાં ભરાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તરણેતર = સુરેન્દ્રનગર (રંગબેરંગી છત્રીઓ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "સુરત પશ્ચિમ ભારતનું મહત્વનું વેપારી કેન્દ્ર હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુરત = મક્કાનું પ્રવેશદ્વાર અને વેપારનું હબ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "મુઘલ સમ્રાટ અકબરના સમયમાં સંગીતના મહાન કલાકાર તાનસેન હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અકબર-તાનસેન (નવરત્ન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "હમ્પી વિજયનગર સામ્રાજ્યની રાજધાની હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિજયનગર = હમ્પી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "જહાંગીરના સમયમાં ચિત્રકલાનો ખૂબ જ વિકાસ થયો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જહાંગીર = ચિત્રકલાનો શોખીન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "મુઘલ કાળમાં સુરત સોનેરી જરીકામ માટે વિશ્વભરમાં પ્રખ્યાત હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુરત = જરીકામ (Golden Lace).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "પદ્મનાભે 'કાન્હડદે પ્રબંધ' નામની કૃતિ રચી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પદ્મનાભ = કાન્હડદે પ્રબંધ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "મોઢેરાના સૂર્યમંદિરનું પ્રવેશદ્વાર પશ્ચિમ દિશામાં છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: મોઢેરાના સૂર્યમંદિરનું પ્રવેશદ્વાર પૂર્વ દિશામાં છે જેથી સૂર્યનું પ્રથમ કિરણ ગર્ભগৃহ સુધી પહોંચે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્ય પૂર્વમાં ઊગે, એટલે દ્વાર પણ પૂર્વમાં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "રાણીની વાવને યુનેસ્કોએ વર્લ્ડ હેરિટેજ સાઈટનો દરજ્જો આપ્યો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાણીની વાવ = UNESCO સાઈટ (૨૦૧૪).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "મધ્યકાલીન સમયમાં ભારતમાં વિદેશી વેપારીઓ મુખ્યત્વે જળમાર્ગે આવતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મધ્યકાલીન વેપાર = મુખ્યત્વે દરિયાઈ (જળ) માર્ગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "મુલા મન્સૂર અને અબુલ હસન જહાંગીરના સમયના પ્રખ્યાત ચિત્રકારો હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જહાંગીરના હીરા = મન્સૂર અને અબુલ હસન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "શીખ ધર્મના પવિત્ર ગ્રંથનું નામ 'ગુરુ ગ્રંથ સાહિબ' છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શીખ ધર્મ = ગુરુ ગ્રંથ સાહિબ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "અમદાવાદ શહેરની સ્થાપના અહમદશાહે ઈ.સ. ૧૪૧૧ માં કરી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અહમદશાહ = અમદાવાદ (૧૪૧૧).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "ગુલબદન બેગમે 'હુમાયુનામા'ની રચના કરી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હુમાયુની બહેન ગુલબદન = હુમાયુનામા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "સોમનાથ મંદિર વેરાવળ પાસે પ્રભાસ પાટણમાં આવેલું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રભાસ પાટણ = સોમનાથ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "સુરત બંદર પર પોર્ટુગીઝો, ડચ અને અંગ્રેજોના વેપારી કોઠીઓ હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુરત = આંતરરાષ્ટ્રીય વેપારી મથક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "શાહજહાંએ દિલ્હીમાં મોતી મસ્જિદ બંધાવી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: આગરાના કિલ્લામાં મોતી મસ્જિદ શાહજહાંએ બંધાવી હતી, જ્યારે દિલ્હીના લાલ કિલ્લાની અંદરની મોતી મસ્જિદ ઔરંગઝેબે બંધાવી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આગરા મોતી મસ્જિદ = શાહજહાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "જૂનાગઢમાં આવેલો અડી-કડીની વાવ અને નવઘણ કૂવો પ્રખ્યાત છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અડી-કડી ને નવઘણ = જૂનાગઢ (ઉપરકોટ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "બાબરે આગરા અને લાહોરમાં બગીચાઓ બનાવવાની પરંપરા શરૂ કરી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાગ-બગીચા = બાબરે શરૂ કર્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "તાજમહાલનું નિર્માણ પૂર્ણ થતા લગભગ ૨૨ વર્ષ લાગ્યા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાજમહાલ સમય = ૨૨ વર્ષ (૧૬૩૧ થી ૧૬૫૩).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "સૈનિકો અને વેપારીઓ માટે મધ્યકાલીન શહેરો આશ્રયસ્થાન હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શહેર = વેપાર અને સુરક્ષાનું કેન્દ્ર.</p></div>"
+    }
+  ]
+}
