@@ -414,3 +414,211 @@ var Std7_SS_TrueFalse = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "મુઘલ સામ્રાજ્ય",
+  "questionType": "ખરાં ખોટાં જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ભારતમાં મુઘલ સામ્રાજ્યની સ્થાપના ઈ.સ. 1526 માં બાબરે કરી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '1526 - બાબરનો પાયો' - પાણીપતના પહેલા યુદ્ધથી જ મુઘલ શાસન શરૂ થયું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "પાણીપતનું પ્રથમ યુદ્ધ બાબર અને ઈબ્રાહિમ લોદી વચ્ચે થયું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બાલ (Ba-L)' - બાબર વિરુદ્ધ લોદી = પાણીપત 1.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "બાબરને તુર્કી અને ફારસી ભાષાનું જ્ઞાન નહોતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>સાચું કારણ: બાબર તુર્કી અને ફારસી ભાષાનો જાણકાર અને પ્રખર લેખક હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બાબર = વિદ્વાન' - તેણે પોતાની આત્મકથા 'તુઝુક-એ-બાબરી' પોતે લખી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "હુમાયુનો અર્થ 'નસીબદાર' થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હુમાયુ એટલે નસીબદાર, પણ તેનું જીવન સંઘર્ષથી ભરેલું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "શેરશાહ સુરીએ હુમાયુને હરાવીને ભારતમાંથી હાંકી કાઢ્યો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કનૌજના યુદ્ધમાં શેરશાહ 'શેર' સાબિત થયો અને હુમાયુને ભાગવું પડ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "શેરશાહ સુરી મુઘલ વંશનો શાસક હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>સાચું કારણ: શેરશાહ સુરી અફઘાન વંશનો મુસ્લિમ શાસક હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શેરશાહ એટલે 'સૂર' વંશ, મુઘલ નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "અકબર માત્ર 13 વર્ષની ઉંમરે દિલ્હીનો ગાદીપતિ બન્યો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાની ઉંમર, મોટું કામ - અકબર 13 વર્ષે રાજા બન્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "પાણીપતનું બીજું યુદ્ધ અકબર અને હેમુ વચ્ચે થયું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અ-હે (A-He)' - અકબર VS હેમુ = પાણીપત 2 (1556).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "અકબરે ધર્મનિરપેક્ષ રહી 'દીન-એ-ઈલાહી' નામના સંપ્રદાયની સ્થાપના કરી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'દીન' એટલે ધર્મ અને 'અકબર' એટલે ઉદારતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "હલ્દીઘાટીનું યુદ્ધ અકબર અને મહારાણા પ્રતાપ વચ્ચે થયું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'હલ્દીઘાટી - શૌર્યની માટી' - રાણા પ્રતાપની બહાદુરીનું પ્રતીક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "જહાંગીર ચિત્રકલાનો ખૂબ જ શોખીન હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જહાંગીર - જોનાર (ચિત્ર)' - તેના સમયમાં ચિત્રકલાનો સુવર્ણકાળ હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "શાહજહાંનું હુલામણું નામ 'ખુર્રમ' હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાહજહાં = ખુર્રમ, જેણે દુનિયા જીતવાની ઈચ્છા રાખી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ઔરંગઝેબે સંગીતકલા અને મૂર્તિપૂજાનો ટેકો આપ્યો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>સાચું કારણ: ઔરંગઝેબ સંગીતકલાનો વિરોધી હતો અને તે ચુસ્ત સુન્ની મુસ્લિમ હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઔરંગઝેબ = 'No Music' - તે કડક શાસક હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "મહારાણા પ્રતાપ મેવાડના પ્રતાપી રાજા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેવાડના સિંહ એટલે મહારાણા પ્રતાપ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "છત્રપતિ શિવાજી મહારાજે મરાઠા રાજ્યની સ્થાપના કરી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિવાજી = હિન્દવી સ્વરાજ્યના સંસ્થાપક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "મુઘલ વહીવટીતંત્રના વડાને 'બાદશાહ' કહેવામાં આવતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સર્વોચ્ચ સેનાપતિ અને ન્યાયાધીશ એટલે બાદશાહ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "અકબરની મહેસૂલ પદ્ધતિને 'જપ્તી પદ્ધતિ' તરીકે ઓળખવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જપ્તી - અકબરની શક્તિ' - મહેસૂલ ઉઘરાવવાની ખાસ રીત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "અકબરના મહેસૂલ મંત્રીનું નામ બીરબલ હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>સાચું કારણ: અકબરના મહેસૂલ મંત્રી રાજા તોડરમલ હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પૈસા (મહેસૂલ) તોડે તોડરમલ' - તોડરમલ એટલે ફાઈનાન્સ મિનિસ્ટર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "મુઘલ સેનાના વડાને 'મીરબક્ષ' કહેવામાં આવતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મીરબક્ષ - સૈન્યનો પક્ષ' - તે લશ્કરની ભરતી કરતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "મનસબદારી પ્રથા લશ્કર અને મહેસૂલ એમ બંને સાથે સંકળાયેલી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મનસબ એટલે પદ' - જેમાં લશ્કર પણ હોય અને જમીન પણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "હુમાયુનો મકબરો (દિલ્હી) મુઘલ સ્થાપત્યકલાનો પ્રથમ નમૂનો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુઘલ સ્થાપત્યની શરૂઆત હુમાયુના મકબરાથી થઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "બુલંદ દરવાજો ફતેહપુર સીકરીમાં આવેલો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બુલંદ - મોટો દરવાજો' - અકબરે ગુજરાત વિજયની યાદમાં બનાવ્યો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "તાજમહાલનું નિર્માણ જહાંગીરે કરાવ્યું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>સાચું કારણ: તાજમહાલનું નિર્માણ શાહજહાંએ મુમતાજની યાદમાં કરાવ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'તાજ - શાહ' - શાહજહાં એટલે સ્થાપત્યનો શોખીન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "દિલ્હીનો લાલ કિલ્લો શાહજહાંએ બંધાવ્યો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાલ કિલ્લાની અંદર મયુરાસન પણ શાહજહાંએ જ બનાવડાવ્યું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "અકબરના સમયમાં સંગીતનો પ્રખ્યાત ગાયક તાનસેન હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'તાનસેન - સૂરનો રાજા' - અકબરના નવ રત્નોમાંનું એક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "બાબર પછી તેનો પુત્ર અકબર ગાદી પર આવ્યો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>સાચું કારણ: બાબર પછી તેનો પુત્ર હુમાયુ ગાદી પર આવ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિક્વન્સ યાદ રાખો - B (બાબર) -> H (હુમાયુ) -> A (અકબર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "શેરશાહ સુરીએ ગ્રાન્ડ ટ્રંક રોડનું નિર્માણ કરાવ્યું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શેરશાહ = સુધારક રાજા, જેણે રસ્તા અને ટપાલ ચોકીઓ બનાવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "બૈરમખાન અકબરનો રક્ષક અને સેનાપતિ હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અકબર નાનો હતો ત્યારે બૈરમખાને જ શાસન સંભાળ્યું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "મહારાણા પ્રતાપના ઘોડાનું નામ 'ચેતક' હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વીર ઘોડો ચેતક, જેણે પ્રતાપને સંકટ સમયે બચાવ્યા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "મુઘલ કાળમાં ટપાલ પદ્ધતિ અસ્તિત્વમાં નહોતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>સાચું કારણ: શેરશાહ સુરીના સમયમાં જ ઘોડેસવાર દ્વારા ટપાલ સેવા શરૂ થઈ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શેરશાહ = Post Office ના પિતા જેવા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "ઔરંગઝેબે લગભગ 50 વર્ષ સુધી શાસન કર્યું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અકબર અને ઔરંગઝેબ બંનેએ લાંબુ શાસન (આશરે 50 વર્ષ) કર્યું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "મુઘલ વહીવટીતંત્રમાં ન્યાયાધીશને 'કાઝી' કહેવામાં આવતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કાઝી - કરે ન્યાયની બાજી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "સીખ ગુરુ અર્જુનસિંહની હત્યા જહાંગીરે કરાવી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાહજાદા ખુશરોને મદદ કરવા બદલ જહાંગીરે તેમને સજા આપી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "તુઝુક-એ-બાબરી પુસ્તક હુમાયુએ લખ્યું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>સાચું કારણ: તુઝુક-એ-બાબરી બાબરે પોતાની આત્મકથા તરીકે લખ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બાબરી - બાબર' - નામમાં જ લેખક છુપાયેલા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "અકબરે પવિત્ર યાત્રાધામ વેરો (યાત્રાવેરો) નાબૂદ કર્યો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અકબર = ઉદાર અને બિનસાંપ્રદાયિક રાજા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "ઔરંગઝેબે જઝિયાવેરો ફરીથી લાગુ કર્યો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અકબરે વેરો હટાવ્યો, ઔરંગઝેબે પાછો લાવ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "છત્રપતિ શિવાજીનો જન્મ શિવનેરી કિલ્લામાં થયો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિવનેરી - શિવાજીના જન્મની પવિત્ર ધરતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "મુઘલ વંશનો છેલ્લો શાસક બહાદુરશાહ ઝફર હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1857 ના વિપ્લવ પછી મુઘલ શાસનનો અંત આવ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "મુઘલોની મહેસૂલ પદ્ધતિમાં ઉપજનો 1/2 ભાગ લેવામાં આવતો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. <br>સાચું કારણ: અકબરની મહેસૂલ પદ્ધતિમાં સામાન્ય રીતે ઉપજનો 1/3 ભાગ લેવામાં આવતો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'એક તૃતીયાંશ (1/3) - મહેસૂલનું માપ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "નૂરજહાં જહાંગીરની પત્ની હતી અને તે અત્યંત પ્રતિભાશાળી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નૂરજહાંએ શાસન ચલાવવામાં જહાંગીરને મોટી મદદ કરી હતી.</p></div>"
+    }
+  ]
+}
