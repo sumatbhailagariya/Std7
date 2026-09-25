@@ -2311,3 +2311,161 @@ var Std7_SS_TrueFalse = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "આપત્તિ-વ્યવસ્થાપન",
+  "questionType": "ખરાં ખોટાં જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ભૂકંપ, જ્વાળામુખી અને સુનામી એ કુદરતી આપત્તિઓ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કુદરત દ્વારા આવતી આફત એટલે કુદરતી આપત્તિ. ભૂકંપ અને જ્વાળામુખી માણસના હાથમાં નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "હુલ્લડ અને આગ એ માનવસર્જિત આપત્તિઓ નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: હુલ્લડ અને આગ એ માનવીની ભૂલ કે પ્રવૃત્તિથી સર્જાતી હોવાથી તે માનવસર્જિત આપત્તિઓ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): માનવસર્જિત = જેમાં 'માનવ'ની ભૂલ કે તોફાન સામેલ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ભૂકંપની ચોક્કસ આગાહી કરી શકાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: અત્યાર સુધીના વિજ્ઞાન મુજબ ભૂકંપની સચોટ આગાહી કરવી શક્ય નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભૂકંપ અચાનક આવે છે, તેની કોઈ તારીખ હોતી નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ભૂકંપ સમયે લિફ્ટનો ઉપયોગ કરવો જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: ભૂકંપ સમયે વીજળી ગુલ થઈ શકે છે અને લિફ્ટમાં ફસાઈ જવાનું જોખમ રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભૂકંપમાં લિફ્ટ ટાળો, સીડી વાપરો અથવા મેદાનમાં જાઓ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સુનામી એટલે સમુદ્રના તળિયે થતા ભૂકંપથી ઉદ્ભવતા વિનાશક મોજાં.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમુદ્રમાં ભૂકંપ = સુનામી (S-Sea, S-Sunami).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વાવાઝોડાની આગાહી શક્ય નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: આધુનિક ટેકનોલોજી અને સેટેલાઈટની મદદથી વાવાઝોડાની સચોટ આગાહી કરી શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભૂકંપ સિવાય મોટાભાગની કુદરતી આફતોની આગાહી શક્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પૂર એ નદીમાં આવતો પાણીનો ધસમસતો પ્રવાહ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પૂર = નદીમાં પાણીની મર્યાદા બહારનો વધારો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "દુષ્કાળ વખતે વૃક્ષો વધુ વાવવા જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વધુ વૃક્ષો = વધુ વરસાદ = દુષ્કાળ સામે લડત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ગુજરાતમાં 26 જાન્યુઆરી, 2001 ના રોજ ભારે પૂર આવ્યું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: 26 જાન્યુઆરી, 2001 ના રોજ ગુજરાત (કચ્છ-ભુજ) માં વિનાશક ભૂકંપ આવ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 2001 એટલે 'ભયાનક ભૂકંપ' યાદ રાખવાનો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ચક્રવાતને ભારતના સમુદ્ર કિનારે વાવાઝોડું પણ કહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ચક્રવાત એટલે જ ગોળ ગોળ ફરતો પવન - વાવાઝોડું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "દુષ્કાળ એ અચાનક આવતી આપત્તિ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: દુષ્કાળ એ ધીમે ધીમે આવતી આપત્તિ છે, જે સતત વરસાદ ન પડવાથી સર્જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભૂકંપ 'ઝડપી' છે, દુષ્કાળ 'ધીમો' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ઔદ્યોગિક અકસ્માત એ કુદરતી આપત્તિ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: ફેક્ટરી કે ઉદ્યોગોમાં થતા અકસ્માત એ માનવસર્જિત આપત્તિ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઉદ્યોગો માણસે બનાવ્યા, તો અકસ્માત પણ 'માનવસર્જિત' જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વાવાઝોડા પછી જૂના અને જર્જરિત મકાનોમાં આશરો લેવો જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: વાવાઝોડા પછી જર્જરિત મકાનો ગમે ત્યારે પડી શકે છે, તેથી ત્યાં આશરો લેવો જોખમી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જૂના મકાન = જોખમી મકાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ભૂકંપ દરમિયાન જો શાળામાં હોવ તો બેંચની નીચે બેસી જવું જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): માથાનો બચાવ એ જ મુખ્ય લક્ષ્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "દાવાનળ એટલે જંગલમાં કુદરતી કે માનવસર્જિત રીતે લાગતી આગ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દાવ + અનલ (આગ) = દાવાનળ (જંગલની આગ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "પૂરના સમયે પાણી ઉકાળીને પીવું જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રોગચાળાથી બચવા પાણી ઉકાળવું બેસ્ટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સુનામી આવતા પહેલા સમુદ્રનું પાણી અચાનક ઓછું થઈ જાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાણી પાછળ હટે એ સુનામીનું આગમનનું એંધાણ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ભૂકંપ કેન્દ્ર પૃથ્વીના ઉપરના પડમાં હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: ભૂકંપનું ઉદ્ગમસ્થાન પૃથ્વીના ઊંડા પેટાળમાં હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભૂકંપ હંમેશા નીચેથી (પેટાળમાંથી) શરૂ થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "દુષ્કાળથી બચવા ટપક સિંચાઈ પદ્ધતિ અપનાવવી જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઓછું પાણી + ટપક પદ્ધતિ = પાણીની બચત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "રેડિયો પર આવતી સૂચનાઓ પૂર સમયે ધ્યાને લેવી જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રેડિયો એ મુસીબતના સમયનો સાચો મિત્ર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "બોમ્બ વિસ્ફોટ એ કુદરતી આપત્તિ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: બોમ્બ વિસ્ફોટ એ માનવ નિર્મિત આતંકવાદી પ્રવૃત્તિ કે દુર્ઘટના છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે કુદરત ન કરે તે બધું 'માનવસર્જિત'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સુનામી વખતે સમુદ્ર કિનારે ઊંચા મકાનો પર ચઢી જવું જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: સુનામીના મોજામાં ઊંચા મકાનો પણ ધરાશાયી થઈ શકે છે, કિનારાથી દૂર સલામત સ્થળે જવું જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સુનામીમાં કિનારો છોડવો જ હિતાવહ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વરસાદ ઓછો પડવાથી દુષ્કાળની સ્થિતિ સર્જાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નો વરસાદ = દુષ્કાળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "આપત્તિ વ્યવસ્થાપન માટે અગાઉથી આયોજન જરૂરી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આયોજન એટલે જ અર્ધી જીત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ભૂકંપ દરમિયાન બારીઓથી દૂર રહેવું જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કાચ ફૂટે તો નુકસાન થાય, એટલે બારીથી દૂર રહો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "સુનામી શબ્દ જાપાનીઝ ભાષાનો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Tsunami માં 'T' સાયલન્ટ છે, જાપાનના લોકો આ નામ આપ્યું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વાવાઝોડા પહેલા ગેસ અને વીજળીના જોડાણો ચાલુ રાખવા જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: શોર્ટ સર્કિટ કે ગેસ લીકેજથી મોટી દુર્ઘટના ટાળવા માટે તે બંધ કરી દેવા જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આફત આવે એટલે સ્વિચ ઓફ અને વાલ્વ બંધ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ગુજરાતમાં વર્ષ 2006 માં સુરતમાં ભયાનક પૂર આવ્યું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સુરતનું પૂર 'તાપી' નદીના કારણે 2006 માં ગાજ્યું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "દુષ્કાળમાં અનાજનો બગાડ અટકાવવો જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અછત હોય ત્યારે કરકસર જ સાચો ઉપાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "ભૂકંપ આલેખક યંત્ર દ્વારા ભૂકંપનું ઉદ્ગમ સ્થાન અને તીવ્રતા જાણી શકાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સિસ્મોગ્રાફ (ભૂકંપ આલેખક) = ભૂકંપની કુંડળી.</p></div>"
+    }
+  ]
+}
