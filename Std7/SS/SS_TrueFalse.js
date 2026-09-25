@@ -2469,3 +2469,161 @@ var Std7_SS_TrueFalse = {
     }
   ]
 }
+,
+"13": {
+  "chapterName": "પ્રકરણ 13",
+  "chapterTitle": "આપત્તિ વ્યવસ્થાપન",
+  "questionType": "ખરાં ખોટાં જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ભૂકંપની આગાહી કરવી શક્ય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (ભૂકંપની ચોક્કસ આગાહી કરવી હજુ સુધી શક્ય બની નથી.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૂકંપ એટલે 'નો ડેટ, નો વેટ' - તેની કોઈ આગાહી થઈ શકે નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સુનામી એ કુદરતી આપત્તિ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુદરતી આપત્તિ = જે મનુષ્યના હાથમાં નથી (જેમ કે સુનામી, પૂર, ભૂકંપ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ભૂકંપ સમયે લિફ્ટનો ઉપયોગ કરવો જોઈએ નહીં.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૂકંપમાં લિફ્ટ બને 'ફાંસો', એટલે સીડીનો જ રાખવો ભરોસો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ચક્રવાતને ભારતના કિનારે 'હરિકેન' તરીકે ઓળખવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (ભારતના કિનારે તેને ચક્રવાત કે વંટોળ કહે છે, હરિકેન અમેરિકા બાજુ કહેવાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારતમાં 'ચક્ર' (ચક્રવાત) ફરે, અમેરિકામાં 'હરિકેન' નડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "દુષ્કાળ એ માનવસર્જિત આપત્તિ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (દુષ્કાળ એ કુદરતી આપત્તિ છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરસાદ ન પડે એ કુદરતની વાત, એટલે દુષ્કાળ કુદરતી આફત!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સુનામી આવવાનું મુખ્ય કારણ સમુદ્રના તળિયે થતો ભૂકંપ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુનામી = સમુદ્ર + ભૂકંપ (પાણીનો મોટો ઉછાળો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "તીડ એ એક પ્રકારનું જંતુ (કીટક) છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેતીનો દુશ્મન 'તીડ', જે ખાઈ જાય આખું બીડ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "પૂર આવે ત્યારે વીજળીના ઉપકરણો ચાલુ રાખવા જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (વીજળીનો પ્રવાહ તરત જ બંધ કરી દેવો જોઈએ જેથી શોર્ટ સર્કિટ ન થાય.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી + વીજળી = જોખમ! પૂર આવે ત્યારે સ્વિચ કરો બંધ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "દાવાનળ માનવસર્જિત કારણોથી પણ થઈ શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (જંગલમાં પ્રવાસીઓની બેદરકારીથી દાવાનળ લાગી શકે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દાવાનળ એટલે જંગલની આગ - ગરમી કે માનવ ભૂલ, બંને જવાબદાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ભૂકંપ દરમિયાન જો તમે શાળામાં હોવ તો પાટલી (બેન્ચ) નીચે બેસી જવું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Drop, Cover, Hold on' - પાટલી નીચે પોતાને સુરક્ષિત કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વાવાઝોડા પછી જે-તે વિસ્તારમાં જવામાં જોખમ હોતું નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (વાવાઝોડા પછી લટકતા વાયરો કે નબળા મકાનો પડવાનું જોખમ રહે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાવાઝોડું શાંત થાય પણ ખતરો બાકી હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "આપત્તિને સામાન્ય વ્યવહારમાં લોકો 'આપદા', 'હોનારત' કે 'પ્રકોપ' પણ કહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આફત એટલે આફત - નામ અનેક, કામ વિનાશક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "પૂરની આગાહી કરી શકાતી નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (વરસાદ અને નદીના જળસ્તર પરથી પૂરની આગાહી થઈ શકે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂર અને વાવાઝોડામાં 'રેડિયો/ટીવી' સાંભળવા - તેની આગાહી શક્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ભૂકંપની તીવ્રતા 'રિક્ટર સ્કેલ' એકમમાં માપવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૂકંપ કેટલો 'રિક્ત' (રિક્ટર) કરી શકે તે તેના માપ પરથી ખબર પડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "દુષ્કાળથી બચવા માટે વધુમાં વધુ વૃક્ષો વાવવા જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ વૃક્ષો = વધુ વરસાદ = દુષ્કાળને ટાટા-બાયબાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "તીડના ટોળામાં લાખોની સંખ્યા હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તીડ હંમેશા 'ગેંગ' (ટોળા) માં આવે, એકલું ક્યારેય ન આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સુનામી સમયે કિનારાની નજીકના ઊંચા મકાનો પર આશ્રય લેવો સલામત છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કિનારાના મકાનો સુનામીના મોજાથી ધરાશાયી થઈ શકે છે, તેથી દૂર ઊંચાઈ પર જવું જોઈએ.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કિનારો છોડો, અંતર વધારો - સુનામીથી બચવા ઊંચાઈ ધારો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ભૂકંપ દરમિયાન બહુમાળી મકાનોમાં લિફ્ટનો ઉપયોગ કરવો જ જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (વીજળી જવાની કે લિફ્ટ અટકી જવાની શક્યતા વધુ રહે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૂકંપમાં લિફ્ટ એટલે 'ટ્રેપ', હંમેશા સીડીનો વાપરો 'મેપ'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ભારતનો પશ્ચિમ કિનારો સુનામીની અસરો માટે ઓછો સંવેદનશીલ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (પૂર્વ કિનારાની સરખામણીએ પશ્ચિમ કિનારે સુનામીનું જોખમ ઓછું છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂર્વ (બંગાળની ખાડી) એટલે સુનામીનો મુખ્ય અડ્ડો, પશ્ચિમ ઓછું સંવેદનશીલ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "દુષ્કાળમાં અનાજની માપબંધી કરવી જોઈએ નહીં.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (અનાજની અછત નિવારવા માપબંધી કરવી જરૂરી છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દુષ્કાળમાં સંયમ એ જ સફળતા - માપબંધી એટલે લાંબાગાળાનું આયોજન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ચક્રવાતની આગાહી રેડિયો અને ટેલિવિઝન પરથી કરવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાંભળો સમાચાર, બચો વારંવાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "પૂર વખતે કિંમતી વસ્તુઓ અને દસ્તાવેજો સાથે રાખવા જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાન અને મિલકત બંનેની સુરક્ષા જરૂરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "તીડના આક્રમણ સમયે બરણી કે થાળી વગાડીને અવાજ કરવો જોઈએ નહીં.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (અવાજ કરવાથી તીડના ટોળાને ભગાડી શકાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કરો શોરબકોર, તો તીડ ભાગે જોરશોર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "આપત્તિઓ માનવજીવન પર માઠી અસરો કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આફત કોઈને ગમે નહીં, તેની અસર ક્યારેય સારી ન હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ભૂકંપ પછી કાટમાળ જોવા માટે ભીડ કરવી જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (ભીડ કરવાથી રાહત અને બચાવ કામગીરીમાં અવરોધ ઊભો થાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેલ્ફી લેવા ન જાઓ, બચાવકર્તાને રસ્તો આપો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ચક્રવાત પહેલા માછીમારોએ દરિયો ખેડવા જવું જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (ચક્રવાતની ચેતવણી હોય ત્યારે દરિયો ખેડવો જોખમી છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાલ ઝંડી એટલે 'સ્ટોપ' - દરિયો ખેડવાનું બંધ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "જંગલમાં લાગતી આગને દાવાનળ કહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દાવ + અનલ (આગ) = જંગલની આગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ભૂકંપ દરમિયાન ખુલ્લા મેદાનમાં જતું રહેવું હિતાવહ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માથે કશું ન પડે એ જોવું, મેદાનમાં જઈને ઊભા રહેવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "દુષ્કાળ નિવારવા માટે ટપક સિંચાઈ પદ્ધતિનો ઉપયોગ કરવો જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટીપે ટીપે સરોવર ભરાય - પાણી બચાવવા ટપક પદ્ધતિ અપનાવાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "સુનામીના મોજાંની લંબાઈ ખૂબ જ ઓછી હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (સુનામીના મોજાંની લંબાઈ ખૂબ જ વધારે - આશરે 700 થી 1600 કિમી જેટલી હોય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુનામી એટલે 'વિશાળ' - મોજાં લાંબા અને ઊંચા!</p></div>"
+    }
+  ]
+}
