@@ -1737,3 +1737,211 @@ var Std7_SS_TrueFalse = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "પૃથ્વીની આંતરિક સંરચના અને ભૂમિસ્વરૂપો",
+  "questionType": "ખરાં ખોટાં જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પૃથ્વી ડુંગળીની માફક એક ઉપર એક સ્તરથી ગોઠવાયેલ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડુંગળીના પડ જેમ ઉખડે તેમ પૃથ્વીના પણ સ્તરો (Layers) છે. NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "પૃથ્વીની સપાટીના સૌથી ઉપરના સ્તરને 'મેન્ટલ' કહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: પૃથ્વીની સપાટીના સૌથી ઉપરના સ્તરને 'ભૂ-કવચ' (Crust) કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કવચ' એટલે રક્ષણ કરતું સૌથી ઉપરનું પડ. NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ભૂ-કવચ એ પૃથ્વીના તમામ સ્તરોમાં સૌથી પાતળું સ્તર છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સફરજનની છાલની જેમ ભૂ-કવચ સૌથી પાતળું છે. NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ખંડીય ભૂ-કવચ મુખ્યત્વે સિલિકા અને એલ્યુમિના જેવા ખનિજોનું બનેલું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Si (સિલિકા) + Al (એલ્યુમિના) = 'સીયાલ' (Sial). NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "મહાસાગરનું કવચ મુખ્યત્વે સિલિકા અને મેગ્નેશિયમનું બનેલું હોય છે જેને 'સીયાલ' કહેવાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: તેને 'સીમા' (Sima) કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Si (સિલિકા) + Ma (મેગ્નેશિયમ) = સીમા. સાગરમાં 'સીમા' હોય. NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "મેન્ટલ પડ પૃથ્વીની સપાટીથી આશરે 2900 કિમીની ઊંડાઈ સુધી ફેલાયેલું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેન્ટલ = મધ્યમ પડ = 2900 km. NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પૃથ્વીનું સૌથી આંતરિક સ્તર 'ભૂ-કવચ' છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: સૌથી આંતરિક સ્તર 'ભૂગર્ભ' (Core) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગર્ભ હંમેશા અંદર હોય, એટલે આંતરિક સ્તર એટલે ભૂગર્ભ. NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "આંતરિક ભૂગર્ભ મુખ્યત્વે નિકલ અને લોખંડનું બનેલું હોય છે જેને 'નિફે' કહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Ni (નિકલ) + Fe (ફેરસ/લોખંડ) = નિફે. NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "અગ્નિકૃત ખડકોના બે પ્રકાર છે: આંતરિક અને બાહ્ય.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અગ્નિ (મેગ્મા) અંદર ઠરે તો આંતરિક, બહાર ઠરે તો બાહ્ય. NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "બેસાલ્ટ એ આંતરિક અગ્નિકૃત ખડકનું ઉદાહરણ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: બેસાલ્ટ એ બાહ્ય (નિર્ગમિત) અગ્નિકૃત ખડક છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બ' થી બેસાલ્ટ અને 'બ' થી બહાર (બાહ્ય). NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ગ્રેનાઈટ એ આંતરિક અગ્નિકૃત ખડકનું ઉદાહરણ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્રેનાઈટ જમીનની અંદર ધીમે ધીમે ઠરે છે. NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "જળકૃત ખડકોમાં જીવાવશેષો જોવા મળતા નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: જળકૃત ખડકોમાં વનસ્પતિ, પ્રાણી અને સૂક્ષ્મ જીવાણુઓના જીવાવશેષો જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્તર પર સ્તર જમા થાય એટલે વચ્ચે જીવ દબાઈ જાય = જીવાવશેષ. NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "રેતીયો પત્થર એ પ્રસ્તર (જળકૃત) ખડકનું ઉદાહરણ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેતીના કણો દબાઈને સ્તર બનાવે એટલે પ્રસ્તર ખડક. NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "રૂપાંતરિત ખડકો ઊંચા તાપમાન અને અતિશય દબાણને કારણે બને છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રૂપ બદલવા માટે ગરમી (Heat) અને દબાણ (Pressure) જોઈએ. NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ચૂનાનો પત્થર રૂપાંતરિત થઈને આરસપહાણમાં ફેરવાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચૂનો (Limestone) ગરમ થાય તો ચમકતો આરસ (Marble) બને. NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ખડકચક્ર એ એક ખડકમાંથી બીજા ખડકમાં પરિવર્તન થવાની પ્રક્રિયા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચક્ર એટલે ગોળ ફરવું, ખડકો પણ એકબીજામાં બદલાયા કરે છે. NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "મૃદાવરણીય પ્લેટોની ગતિને કારણે પૃથ્વીની સપાટી પર પરિવર્તન થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્લેટો હલે તો ધરતી ધ્રુજે અને આકાર બદલાય. NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "જે બળ પૃથ્વીના આંતરિક ભાગમાં પેદા થાય છે તેને બાહ્ય બળ કહેવાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: તેને આંતરિક બળ (Endogenic force) કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંદર (In) એટલે આંતરિક, બહાર (Ex) એટલે બાહ્ય. NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ભૂકંપના ઉદગમ કેન્દ્રની ઉપરની સપાટી પરના કેન્દ્રને 'અધિકેન્દ્ર' કહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેઈન સેન્ટરની બરાબર ઉપરનું બિંદુ એટલે અધિકેન્દ્ર (Epicenter). NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ભૂકંપથી સૌથી વધુ નુકસાન ઉદગમ કેન્દ્ર પાસે થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: સૌથી વધુ નુકસાન 'અધિકેન્દ્ર' (સપાટી પરનું કેન્દ્ર) ની આસપાસ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૂકંપ જ્યાં બહાર નીકળે ત્યાં જ વધુ ધડાકો થાય. NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "નદી જ્યારે મેદાન પ્રદેશમાં પ્રવેશ કરે છે ત્યારે તે વળાંકવાળા માર્ગે વહે છે જેને 'સર્પાકાર વળાંક' કહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નદી સાપની જેમ વાંકીચૂકી ચાલે એટલે સર્પાકાર (Meander). NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "નદીના બંને કિનારે કાંપ-માટીના નિક્ષેપણથી જે દીવાલ જેવી રચના બને તેને 'કુદરતી તટબંધ' કહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તટ (કિનારા) પર કુદરતી રીતે બનેલો બંધ. NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "નદીના મુખ પાસેના નિક્ષેપણના જથ્થાથી 'મુખત્રિકોણ' (Delta) બને છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નદીનો છેડો + કાંપનો ઢગલો = ડેલ્ટા. NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "સમુદ્રના મોજાંના સતત ઘસારણને કારણે માત્ર છત જ રહે છે ત્યારે તેને 'સમુદ્રી ગુફા' કહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: જ્યારે માત્ર છત જ રહે તેને 'સમુદ્રી કમાન' (Sea Arches) કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આરપાર દેખાય અને ઉપર છત હોય તો એ કમાન (Arch) કહેવાય. NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "હિમનદી દ્વારા લાવવામાં આવેલ પદાર્થો નિક્ષેપિત થઈ 'હિમોઢ' (Moraine) ની રચના કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હિમ (બરફ) + ઓઢ (જમાવટ) = હિમોઢ. NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "રણ પ્રદેશમાં પવન ઘસારણ અને નિક્ષેપણનું મુખ્ય પરિબળ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રણમાં પાણી ઓછું પણ પવન જોરદાર હોય! NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "રણમાં જોવા મળતા છત્રક આકારના ખડકોને 'મશરૂમ રોક' કહેવાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બિલાડીના ટોપ જેવો આકાર એટલે મશરૂમ આકાર. NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ઢુવા (Sand Dunes) એ નદી દ્વારા થતા નિક્ષેપણનું પરિણામ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: ઢુવા એ 'પવન' દ્વારા થતા નિક્ષેપણનું પરિણામ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેતીના ઢગલા (ઢુવા) પવન ઉડાડીને બનાવે છે. NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "લોએસ (Loess) ના મેદાનો ચીનમાં મોટા પ્રમાણમાં જોવા મળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચીન જઈને લોએસ જોવો પડે! NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "જ્યારે દરિયાઈ મોજાં કિનારા પર નિક્ષેપ જમા કરે છે ત્યારે 'સમુદ્ર પુલિન' (Beaches) બને છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પુલિન એટલે આપણે ફરવા જઈએ એ બીચ (Beach). NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "ઘોડાની નાળ જેવું સરોવર પવનની ગતિને કારણે બને છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: તે નદીના સર્પાકાર વળાંક અને નિક્ષેપણને કારણે બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નદીનો વળાંક છૂટો પડી જાય એટલે નાળ આકારનું સરોવર બને. NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "પૃથ્વીની અંદર પિગળેલ મેગ્મા વર્તુળાકાર રૂપે ફરતો રહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેગ્મા અંદર ગરમીને લીધે ગોળ-ગોળ ચક્રાકારે ફરે છે. NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "પૃથ્વીના કદનો માત્ર 0.5% ભાગ જ ભૂ-કવચ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 0.5% કવચ, 16% મેન્ટલ અને 83% ભૂગર્ભ. NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "ભૂકંપને માપવા માટે 'સિસ્મોગ્રાફ' સાધનનો ઉપયોગ થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૂકંપ આલેખક એટલે સિસ્મોગ્રાફ. NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "સીમા (Sima) ના સ્તરમાં મેગ્નેશિયમનું પ્રમાણ વધુ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Si + Ma (Ma = Magnesium). NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "જળપ્રપાત એ પવનના ઘસારણને લીધે બનતું સ્વરૂપ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: જળપ્રપાત (ધોધ) એ નદીના ઘસારણથી બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામમાં જ 'જળ' (પાણી) છે, તો નદી જ હોય ને! NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "પૃથ્વીની ત્રિજ્યા 6371 કિમી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃથ્વીનું કેન્દ્ર 6371 કિમી ઊંડું છે. NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "જ્વાળામુખી એ પૃથ્વીની સપાટી પરનું એક મોટું કાણું છે જેમાંથી ગરમ મેગ્મા બહાર આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્વાળા (અગ્નિ) નીકળતું મુખ એટલે જ્વાળામુખી. NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "ખડકો માત્ર પથ્થર તરીકે જ ઉપયોગી છે, તેમાંથી ખનિજો મળતા નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: ખડકો ખનિજોના બનેલા હોય છે અને તે ઉદ્યોગો માટે ખૂબ ઉપયોગી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખડક એટલે ખનિજોનો ભંડાર. NJ Classes</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "સમુદ્રના ઊંચા ખડકાળ કિનારા જે લગભગ ઉભા હોય છે તેને 'સમુદ્ર ભૃગુ' (Sea Cliff) કહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૃગુ એટલે એકદમ ઉભી દીવાલ જેવો કિનારો. NJ Classes</p></div>"
+    }
+  ]
+}
