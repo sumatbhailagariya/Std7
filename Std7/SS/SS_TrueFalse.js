@@ -1579,3 +1579,161 @@ var Std7_SS_TrueFalse = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "અઢારમી સદીના રાજકીય શાસકો",
+  "questionType": "ખરાં ખોટાં જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ઔરંગઝેબનું અવસાન ઈ.સ. 1707 માં થયું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઔરંગઝેબનો 'અ' અને 1707 નો છેલ્લો આંકડો '7' (સાત) યાદ રાખો - શાસનનો અંત સાત (07) માં થયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "મુઘલ ગાદી પર આવનાર બહાદુરશાહ પ્રથમ ઉદાર શાસક હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહાદુરશાહે રાજપૂતો અને મરાઠાઓ સાથે શાંતિભર્યા સંબંધો રાખ્યા એટલે તે ઉદાર કહેવાયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ઈરાનના સમ્રાટ નાદિરશાહે ઈ.સ. 1739 માં ભારત પર આક્રમણ કર્યું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાદિરશાહ (N) = 1739 (નાઈન - 9). છેલ્લે 9 આવે તે વર્ષમાં આક્રમણ થયું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "હૈદરાબાદ રાજ્યની સ્થાપના મુર્શિદ કુલીખાંએ કરી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> હૈદરાબાદ રાજ્યની સ્થાપના નિઝામ-ઉલ-મુલ્ક આસફજાહે કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હૈદરાબાદ = નિઝામ (H-N). મુર્શિદ તો બંગાળમાં હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "બંગાળમાં મુર્શિદ કુલીખાં અને અલીવર્દીખાંએ સ્વતંત્ર રાજ્યની સ્થાપના કરી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંગાળની 'મીઠાઈ' (મુર્શિદ) અને 'અલી' (અલીવર્દી) બંને યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "અયોધ્યા (અવધ) ના નવાબ સાદતખાંએ સ્વતંત્ર રાજ્ય સ્થાપ્યું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અયોધ્યા (અવધ) માં 'સાદા' (સાદતખાં) માણસો રહે છે એમ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "શીખ ધર્મના દસમા ગુરુ ગોવિંદસિંહ હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'દસ' માં 'સ' અને ગોવિંદ'સિંહ' માં 'સ' - છેલ્લે સિંહ આવ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ખાલસા પંથની સ્થાપના ગુરુ નાનકે કરી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> ખાલસા પંથની સ્થાપના દસમા ગુરુ ગોવિંદસિંહે કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ખાલસા' એટલે શક્તિશાળી સૈન્ય, જે સિંહે (ગોવિંદસિંહ) બનાવ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "મહારાજા રણજીતસિંહ શીખ સમૂહોને એક કરીને શક્તિશાળી રાજ્ય સ્થાપ્યું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રણજીત = રણ (યુદ્ધ) જીતનાર. તેમણે પંજાબ જીતીને મોટું રાજ્ય બનાવ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સવાઈ જયસિંહ આમેરના કુશળ શાસક અને ખગોળશાસ્ત્રી હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જયપુર (જયસિંહ) અને જંતર-મંતર (ખગોળ) - જયસિંહ એટલે વિજ્ઞાનના પ્રેમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "છત્રપતિ શિવાજીએ મુઘલો સામે સંઘર્ષ કરીને મરાઠા સામ્રાજ્ય સ્થાપ્યું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિવાજી = સ્વરાજ્યના સ્થાપક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "બાલાજી વિશ્વનાથ પ્રથમ પેશ્વા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વિશ્વ' ની શરૂઆત 'પ્રથમ' થી થાય, એટલે બાલાજી વિશ્વનાથ પ્રથમ પેશ્વા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "બાજીરાવ પ્રથમ 'લડાયક પેશ્વા' તરીકે ઓળખાતા નહોતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> બાજીરાવ પ્રથમ અત્યંત કુશળ સેનાપતિ અને લડાયક પેશ્વા તરીકે જાણીતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાજીરાવ મસ્તાની મુવી યાદ કરો - તે લડાયક યોદ્ધા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "પાણીપતનું ત્રીજું યુદ્ધ ઈ.સ. 1761 માં થયું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 17-61 (સત્તર - એકસઠ). મરાઠા અને અહમદશાહ અબ્દાલી વચ્ચેનું મોટું યુદ્ધ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ચૂરામન અને બદનસિંહે જાટ રાજ્યની સ્થાપના કરી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચૂ' અને 'બ' (ચૂરામન-બદનસિંહ) = જાટ શક્તિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સૂરજમલ જાટ સમુદાયના શક્તિશાળી શાસક હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂરજમલ = જાટ પ્લેટો (Jat Plato). ખૂબ જ બુદ્ધિશાળી અને વીર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "અહમદશાહ અબ્દાલીએ પાણીપતના ત્રીજા યુદ્ધમાં મરાઠાઓને હરાવ્યા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અબ્દાલી (A) એ મરાઠા (M) ને હરાવ્યા - 1761.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ફર્રુખસિયરને સૈયદ બંધુઓએ ગાદી પરથી ઉઠાડી મૂક્યો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૈયદ બંધુઓ 'કિંગ મેકર' કહેવાતા, તેમણે રાજા બનાવ્યા અને હટાવ્યા પણ ખરા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ગુરુ ગોવિંદસિંહના મૃત્યુ પછી બંદા બહાદુરે મુઘલો સામે બળવો કર્યો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંદા (Banda) એટલે વીર યોદ્ધો, જેણે સિંહ પછી લડાઈ ચાલુ રાખી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "જયપુર શહેરની સ્થાપના રાજા માનસિંહે કરી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> જયપુર શહેરની સ્થાપના સવાઈ જયસિંહે કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામમાં જ જવાબ છે, જયપુર = જયસિંહ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ઔરંગઝેબના અવસાન પછી મુઘલ સામ્રાજ્ય વધુ મજબૂત બન્યું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> ઔરંગઝેબના અવસાન પછી મુઘલ સામ્રાજ્યના પતનની શરૂઆત થઈ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેલ્લો શક્તિશાળી મુઘલ ઔરંગઝેબ હતો, પછી તો બધું પૂરું (પતન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "નિઝામ-ઉલ-મુલ્કે હૈદરાબાદમાં પોતાની સત્તા મજબૂત કરવા માટે મુઘલ સૈનિકોની મદદ લીધી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિઝામ પોતે મુઘલ દરબારનો જ વજીર હતો, એટલે મુઘલ પદ્ધતિ વાપરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "સાહુ મહારાજને મુઘલ સમ્રાટ ઔરંગઝેબે કેદ કર્યા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાહુ (શિવાજીના પૌત્ર) ને ઔરંગઝેબે લાંબો સમય જેલમાં રાખ્યા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "બાલાજી બાજીરાવના સમયમાં મરાઠા શક્તિ સર્વોચ્ચ શિખરે પહોંચી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાલાજી બાજીરાવ (નાના સાહેબ) - જેમનું નામ મોટું, તેમનું શાસન પણ મોટું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "જાટ લોકો ખેતીકામ સાથે જોડાયેલા નહોતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p><strong>કારણ:</strong> જાટ લોકો મુખ્યત્વે ખેતીકામ સાથે જોડાયેલા હતા અને તેમાંથી જ સત્તા ઉભી કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાટ = જમીન અને ખેતી સાથે જોડાયેલ વીર કોમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "શિખ રાજ્યમાં 'મિસલ' નામના સંગઠનો હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિખ ધર્મમાં 12 'મિસલ' (ટુકડીઓ) હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "નિઝામ આસફજાહે દક્ષિણ ભારતમાં મરાઠાઓ સાથે સતત સંઘર્ષ કરવો પડ્યો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાડોશીઓ વચ્ચે ઝઘડો હોય જ - હૈદરાબાદ અને મરાઠાઓ પાડોશી હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "બાજીરાવ પ્રથમે 'હિન્દુ પાદ પાદશાહી' ના આદર્શનો પ્રચાર કર્યો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાજીરાવ 1 = હિન્દુ ધર્મ અને મરાઠા સામ્રાજ્યના રક્ષક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "અહમદશાહ અબ્દાલી અફઘાનિસ્તાનનો શાસક હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અબ્દાલી = અફઘાની (A for A).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "મુઘલ સામ્રાજ્યના અંતિમ શાસકો નબળા હતા, તેથી પ્રાદેશિક સત્તાઓનો ઉદય થયો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે કેન્દ્ર (રાજા) નબળો પડે, ત્યારે બાજુવાળા (પ્રાદેશિક રાજાઓ) શક્તિશાળી બને.</p></div>"
+    }
+  ]
+}
