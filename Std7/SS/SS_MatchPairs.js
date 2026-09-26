@@ -338,3 +338,71 @@ var Std7_SS_MatchPairs = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "ભક્તિ યુગ : ધાર્મિક સમુદાયો અને વિચારો",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:\nવિભાગ 'અ': (1) આદિ શંકરાચાર્યનું જન્મસ્થળ, (2) રામાનુજાચાર્યનું જન્મસ્થળ\nવિભાગ 'બ': (A) પેરુમ્બદુર, (B) કાલડી, (C) કાશી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> 'શંકર' ભગવાન 'કાલ'ના દેવ છે એટલે શંકરાચાર્ય - કાલડી. રામાનુજમાં 'રામ' છે અને સ્થળમાં 'પેરુમ' (પરમ) છે એટલે રામ પરમ છે - પેરુમ્બદુર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:\nવિભાગ 'અ': (1) અલવાર સંતો, (2) નયનાર સંતો\nવિભાગ 'બ': (A) શૈવ ભક્તો, (B) જૈન ભક્તો, (C) વૈષ્ણવ ભક્તો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> 'નયન' એટલે આંખ અને શિવજીને ત્રણ નયન હોય, તેથી નયનાર - શૈવ. બાકી વધ્યા અલવાર - વૈષ્ણવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:\nવિભાગ 'અ': (1) કબીરનો સંગ્રહ, (2) ગુરુ નાનકનો ધર્મ\nવિભાગ 'બ': (A) શીખ ધર્મ, (B) બીજક, (C) જ્ઞાનેશ્વરી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> 'કબીર'ના શબ્દો 'બીજ' જેવા કિંમતી હોય છે એટલે કબીર - બીજક. ગુરુ નાનક તો શીખ ધર્મના સ્થાપક છે જ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:\nવિભાગ 'અ': (1) નરસિંહ મહેતા, (2) મીરાંબાઈ\nવિભાગ 'બ': (A) મેવાડની રાજકુમારી, (B) બંગાળના સંત, (C) ગુજરાતના આદિ કવિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> નરસિંહ મહેતા એટલે આપણું 'ગુજરાત' અને મીરાંબાઈ એટલે 'રાજસ્થાન' (મેવાડ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:\nવિભાગ 'અ': (1) સંત જ્ઞાનેશ્વર, (2) સંત તુકારામ\nવિભાગ 'બ': (A) અભંગો, (B) રામચરિતમાનસ, (C) ભગવદ્ ગીતા પર ટીકા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> જ્ઞાનેશ્વરે 'જ્ઞાન' આપ્યું ગીતા પર (જ્ઞાનેશ્વરી). તુકારામના 'અભંગ' મહારાષ્ટ્રમાં ખૂબ ફેમસ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:\nવિભાગ 'અ': (1) તુલસીદાસ, (2) સૂરદાસ\nવિભાગ 'બ': (A) સૂરસાગર, (B) વિનય પત્રિકા, (C) બીજક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> 'સૂર'દાસ અને 'સૂર'સાગર - નામ પરથી જ ખબર પડી જાય. તુલસીદાસની પત્રિકામાં વિનય હોય એટલે વિનય પત્રિકા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:\nવિભાગ 'અ': (1) મોઇનુદ્દીન ચિશ્તી, (2) અજમેર\nવિભાગ 'બ': (A) સૂફી સંત, (B) શીખ ધર્મનું કેન્દ્ર, (C) ચિશ્તી સંપ્રદાયનું કેન્દ્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> અજમેરમાં ચિશ્તીની દરગાહ છે, તેથી અજમેર - ચિશ્તી કેન્દ્ર. મોઇનુદ્દીન ચિશ્તી મહાન સૂફી સંત હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:\nવિભાગ 'અ': (1) ગુરુ ગ્રંથ સાહિબ, (2) એકનાથ\nવિભાગ 'બ': (A) શીખ ધર્મનો પવિત્ર ગ્રંથ, (B) મહારાષ્ટ્રના સંત, (C) અદ્વૈતવાદ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> શીખ લોકો ગુરુ ગ્રંથ સાહિબને માને છે. જ્ઞાનેશ્વર, નામદેવ અને એકનાથ - આ ત્રણેય મહારાષ્ટ્રના સંતોની ત્રિપુટી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:\nવિભાગ 'અ': (1) ચૈતન્ય મહાપ્રભુ, (2) રામાનંદ\nવિભાગ 'બ': (A) ઉત્તર ભારતના ભક્તિ આંદોલનના પ્રણેતા, (B) હરિ સંકીર્તનની શરૂઆત, (C) શિવાજીના ગુરુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> ચૈતન્ય 'ચૈતન્ય' (ચેતના) લાવ્યા ભજન-કીર્તનથી. ઉત્તર ભારતમાં રામનું નામ 'રામાનંદ' લાવ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:\nવિભાગ 'અ': (1) રૈદાસ (રવિદાસ), (2) જ્ઞાનેશ્વરી\nવિભાગ 'બ': (A) કબીરના ગુરુભાઈ, (B) મરાઠી ભાષામાં ગીતાની ટીકા, (C) પદાવલિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> રૈદાસ અને કબીર બંને રામાનંદના શિષ્યો હતા, એટલે ગુરુભાઈ. જ્ઞાનેશ્વરે લખી તે જ્ઞાનેશ્વરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:\nવિભાગ 'અ': (1) શૈવ સંતોની સંખ્યા, (2) વૈષ્ણવ સંતોની સંખ્યા\nવિભાગ 'બ': (A) 12, (B) 63, (C) 10",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> શૈવ (નયનાર) વધુ હતા એટલે 63. વૈષ્ણવ (અલવાર) ઓછા હતા એટલે 12. યાદ રાખો: 'અ' થી અલવાર અને 'બ' (12) માં બ આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:\nવિભાગ 'અ': (1) શંકરાચાર્યનો મત, (2) રામાનુજાચાર્યનો મત\nવિભાગ 'બ': (A) વિશિષ્ટાદ્વૈત, (B) અદ્વૈતવાદ, (C) શુદ્ધાદ્વૈત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</strong> શંકર ભગવાન 'એક' જ છે (અદ્વૈત - જે બે નથી તે). રામાનુજ 'વિશિષ્ટ' જ્ઞાન લાવ્યા એટલે વિશિષ્ટાદ્વૈત.</p></div>"
+    }
+  ]
+}
