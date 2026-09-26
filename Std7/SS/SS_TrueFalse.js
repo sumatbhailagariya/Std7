@@ -3309,3 +3309,211 @@ var Std7_SS_TrueFalse = {
     }
   ]
 }
+,
+"18": {
+  "chapterName": "પ્રકરણ 18",
+  "chapterTitle": "બજાર",
+  "questionType": "ખરાં ખોટાં જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "બજાર એટલે જ્યાં ખરીદનાર અને વેચનાર ભેગા થતા હોય તેવું સ્થળ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બજાર = ખરીદનાર + વેચનારનું મિલન સ્થળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "મહોલ્લા બજારમાં આપણે ફક્ત રવિવારે જ ખરીદી કરી શકીએ છીએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: મહોલ્લા બજારની દુકાનો અઠવાડિયાના સાતેય દિવસ ખુલ્લી હોય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહોલ્લા બજાર એટલે ઘર પાસેની 'ગમે ત્યારે' મળતી સુવિધા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ગુજરી બજારને સાપ્તાહિક બજાર તરીકે પણ ઓળખવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરી = સાપ્તાહિક (અઠવાડિયે એક વાર ભરાતી બજાર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સાપ્તાહિક બજારમાં વસ્તુઓ મોંઘી હોય છે કારણ કે ત્યાં દુકાનનું ભાડું વધારે હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: સાપ્તાહિક બજારમાં દુકાનનું ભાડું, વીજળી કે વેરો હોતો નથી, તેથી વસ્તુઓ સસ્તી મળે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાપ્તાહિક બજાર = ઓછો ખર્ચ + સસ્તી વસ્તુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "મોટા શોપિંગ કોમ્પ્લેક્સમાં એક જ બિલ્ડિંગમાં અલગ-અલગ પ્રકારની દુકાનો હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોમ્પ્લેક્સ = બહુમાળી ભવન + વિવિધ દુકાનો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "નિયંત્રિત બજાર (માર્કેટિંગ યાર્ડ) ની સ્થાપના ખેડૂતોના શોષણને અટકાવવા માટે કરવામાં આવી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: APMC = ખેડૂતોનું રક્ષણ કરતું બજાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ઓનલાઇન શોપિંગ માટે આપણે બજારમાં જવું ફરજિયાત છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: ઓનલાઇન શોપિંગ ઘરે બેઠા ઇન્ટરનેટના માધ્યમથી કરી શકાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓનલાઇન = ડિજિટલ બજાર + હોમ ડિલિવરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જથ્થાબંધ વેપારી વસ્તુઓનું છૂટક વેચાણ સીધું ગ્રાહકોને કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: જથ્થાબંધ વેપારી છૂટક વેપારીને માલ વેચે છે, ગ્રાહકને નહીં.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જથ્થાબંધ -> છૂટક વેપારી -> ગ્રાહક (આ સાચી કડી છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ખેતપેદાશના વેચાણમાં પારદર્શિતા લાવવા માટે હરાજીની પ્રથા અપનાવવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હરાજી = ખુલ્લી બોલી + સાચો ભાવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "મોલમાં બ્રાન્ડેડ વસ્તુઓ પ્રમાણમાં સસ્તી હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: મોલમાં બ્રાન્ડેડ વસ્તુઓ પર જાહેરાત અને સુવિધાઓનો ખર્ચ વધુ હોવાથી તે મોંઘી હોય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોલ = મોંઘી મોજ (બ્રાન્ડેડ આઈટમ્સ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ગ્રાહક હંમેશા જાણીતી અને બ્રાન્ડેડ કંપનીની જ વસ્તુઓ ખરીદે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: ગ્રાહક પોતાની જરૂરિયાત અને બજેટ મુજબ બ્રાન્ડેડ કે સામાન્ય એમ બંને પ્રકારની વસ્તુઓ ખરીદે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્રાહકનો નિર્ણય = ખિસ્સું + જરૂરિયાત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સાપ્તાહિક બજારમાં એક જ પ્રકારની વસ્તુઓ માટે ઘણી દુકાનો હોવાથી હરીફાઈ થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ દુકાનો = વધુ હરીફાઈ = ગ્રાહકને ફાયદો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ખેડૂત પોતાનો માલ સીધો જ ગ્રાહકને વેચે તો તેને વધુ નફો મળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વચ્ચેના વેપારી નીકળી જાય તો ખેડૂતને સીધો ફાયદો થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "મહોલ્લા બજારના વેપારીઓ ગ્રાહકોને ઉધાર પર માલ આપતા નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: મહોલ્લા બજારના વેપારીઓ ગ્રાહક સાથેના અંગત સંબંધોને કારણે ઉધાર પર માલ આપે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહોલ્લો = પરિચય + ઉધારની સુવિધા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ભારતમાં ખેતીવાડી ઉત્પન્ન બજાર સમિતિ (APMC) ની વ્યવસ્થા અસ્તિત્વમાં નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: ભારતમાં ખેડૂતોના હિત માટે APMC ની મજબૂત વ્યવસ્થા છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાતના દરેક તાલુકા/જિલ્લામાં માર્કેટિંગ યાર્ડ (APMC) હોય જ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "જથ્થાબંધ બજારમાં વસ્તુઓ મોટા જથ્થામાં વેચાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જથ્થાબંધ = બલ્ક ક્વોન્ટિટી (મોટો જથ્થો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "બજારના કારણે રોજગારીની તકો ઊભી થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બજાર = આર્થિક પ્રવૃત્તિ + રોજગાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ઓનલાઇન ખરીદીમાં છેતરપિંડી થવાની સંભાવના હોતી નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: સાવચેતી ન રાખવામાં આવે તો ઓનલાઇન ખરીદીમાં છેતરપિંડી થઈ શકે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓનલાઇન શોપિંગ = સગવડ + સાવચેતી જરૂરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ગ્રાહકે હંમેશા વસ્તુ ખરીદતી વખતે પાકું બિલ માંગવું જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બિલ = ખરીદીનો પાકો પુરાવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સાપ્તાહિક બજારમાં કુટુંબના સભ્યો જ કામ કરતા હોવાથી મજૂરી ખર્ચ બચે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાનું બજાર = પારિવારિક મદદ + ઓછો ખર્ચ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ખરીદનાર અને વેચનાર વચ્ચેની કડી એટલે વચેટિયાઓ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વચેટિયા = ખેડૂત અને ગ્રાહક વચ્ચેનો સેતુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "માર્કેટિંગ યાર્ડમાં વેપારીઓએ માલના ભાવ જાતે જ નક્કી કરવાના હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: માર્કેટિંગ યાર્ડમાં ભાવ હરાજી દ્વારા નક્કી કરવામાં આવે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાર્ડમાં ભાવ = હરાજીની પ્રક્રિયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "દરેક પ્રકારની વસ્તુઓ માટે અલગ-અલગ બજાર વ્યવસ્થા હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અલગ વસ્તુ = અલગ બજાર (દા.ત. અનાજ માટે યાર્ડ, કપડાં માટે મોલ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ડિજિટલ પેમેન્ટથી બજારમાં રોકડ વ્યવહારમાં ઘટાડો થયો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: UPI/કાર્ડ = કેશલેસ બજાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "બજારમાં સમાનતા જોવા મળે છે, નાના અને મોટા વેપારીઓ સરખો જ નફો કમાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: મોટા વેપારીઓ વધુ રોકાણ કરીને વધુ નફો કમાય છે, જ્યારે નાના વેપારીઓનો નફો ઓછો હોય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટું રોકાણ = વધુ નફો, નાનું રોકાણ = ઓછો નફો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "મોલમાં વસ્તુઓ પર કિંમત લખેલી હોય છે, તેથી ત્યાં ભાવતાલ કરી શકાતો નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોલ = ફિક્સ્ડ પ્રાઇસ (ભાવતાલ નહીં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ગ્રાહકને લલચાવવા માટે બજારમાં સેલ (Sale) નું આયોજન કરવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેલ = આકર્ષક કિંમત + વધુ વેચાણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "શાકભાજીના વેપારી હંમેશા જથ્થાબંધ બજારમાંથી જ માલ લાવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાકભાજી માર્કેટ = રિટેલર માટેનો સ્ત્રોત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "બજારમાં વસ્તુની ગુણવત્તા ચકાસવી એ ગ્રાહકની ફરજ નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: વસ્તુની ગુણવત્તા અને એક્સપાયરી ડેટ ચકાસવી એ જાગૃત ગ્રાહકની ફરજ છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાગૃત ગ્રાહક = ગુણવત્તાની ચકાસણી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "સાપ્તાહિક બજારમાં વસ્તુઓના ભાવતાલ કરી શકાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાપ્તાહિક બજાર = ભાવતાલ કરવાની છૂટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "ગ્રાહક સુરક્ષા કાયદો ગ્રાહકોના અધિકારોનું રક્ષણ કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાયદો = ગ્રાહકનું હથિયાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "મોટા વેપારીઓ ખેડૂતો પાસેથી સીધો માલ ખરીદીને સંગ્રહખોરી કરી શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંગ્રહખોરી = ભાવ વધારવાની કૃત્રિમ રીત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "ઓનલાઇન શોપિંગમાં વસ્તુ જોયા વગર જ ખરીદવી પડે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓનલાઇન = ફોટા જોઈને પસંદગી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "વસ્તુના ઉત્પાદનથી ગ્રાહક સુધી પહોંચાડવાની પ્રક્રિયાને 'બજારની સાંકળ' કહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉત્પાદક -> વેપારી -> ગ્રાહક = બજાર સાંકળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "મોટા મોલમાં મધ્યમ વર્ગના લોકો જ વધુ ખરીદી કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: મોલમાં વસ્તુઓ મોંઘી હોવાથી મુખ્યત્વે ઉચ્ચ વર્ગના લોકો વધુ ખરીદી કરતા જોવા મળે છે, જોકે હવે દરેક વર્ગના લોકો મુલાકાત લે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોલ = લક્ઝરી ખરીદી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "માર્કેટિંગ યાર્ડમાં ખેડૂતોને રાત્રિ રોકાણ અને ભોજનની સુવિધા પણ મળી શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: APMC = ખેડૂત લક્ષી સુવિધાઓનું કેન્દ્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "બજારમાં વસ્તુની કિંમત માંગ અને પુરવઠાના આધારે નક્કી થતી નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (કારણ: બજારમાં કિંમત હંમેશા માંગ અને પુરવઠાના સમતુલનથી નક્કી થાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ માંગ + ઓછો પુરવઠો = ઊંચો ભાવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "જાહેરાતો દ્વારા ગ્રાહકોને વસ્તુ વિશે માહિતી મળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાહેરાત = વસ્તુની ઓળખ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "છૂટક વેપારી વસ્તુઓના નાના-નાના પેકેટ બનાવીને ગ્રાહકને આપે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છૂટક વેપારી = ગ્રાહકની જરૂરિયાત મુજબનું માપ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "બજાર વ્યવસ્થામાં ગ્રાહક રાજા ગણાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્રાહક = બજારનો કેન્દ્રબિંદુ (કિંગ).</p></div>"
+    }
+  ]
+}
