@@ -255,3 +255,86 @@ var Std7_SS_MatchPairs = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "વનવાસી, વિચરતી જાતિ અને સ્થાનિક સમુદાય",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) ખોખર જનજાતિ, (2) લંઘા અને અર્ગુન, (3) બલોચ \nવિભાગ B: (A) મુલતાન અને સિંધ, (B) પંજાબ, (C) ઉત્તર-પશ્ચિમ ભારત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A, (3) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ખોખર-પંજાબ' (KP) અને 'બલોચ-ઉત્તર પશ્ચિમ' (B-NW) - આ રીતે દિશા અને રાજ્ય યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) ગડ્ડી ગડરિયો, (2) ચેરો જનજાતિ, (3) મુંડા અને સંથાલ \nવિભાગ B: (A) બિહાર અને ઝારખંડ, (B) પશ્ચિમ હિમાલય, (C) ઓડિશા અને બંગાળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A, (3) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ગડ્ડી' એટલે ઠંડી (હિમાલય), 'ચેરો' એટલે બિહારનો ઘેરો, અને 'સંથાલ' એટલે બંગાળનો ભાલ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) કોળી અને બેરાદ, (2) મારવાર, (3) ભીલ \nવિભાગ B: (A) દક્ષિણ ભારત, (B) ગુજરાત અને મધ્ય ભારત, (C) કર્ણાટક અને મહારાષ્ટ્રના ડુંગરાળ વિસ્તારો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - A, (3) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ભીલ-ગુજરાત' કાયમી યાદ રાખો અને 'કોળી-મહારાષ્ટ્ર/કર્ણાટક' ના ડુંગરા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) ગઢ, (2) ચોર્યાસી, (3) બારહોત \nવિભાગ B: (A) 84 ગામોનો સમૂહ, (B) 12 ગામોનો સમૂહ, (C) ગોંડ રાજ્યનો વહીવટી એકમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - A, (3) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગઢ > ચોર્યાસી (84) > બારહોત (12). આ ગણિત 84 થી 12 તરફ ઉતરતા ક્રમમાં યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) રાણી દુર્ગાવતી, (2) સંગ્રામશાહ, (3) દલપત \nવિભાગ B: (A) ગોંડ રાજા, (B) ચંદેલ રાજપૂત રાજાની પુત્રી, (C) સંગ્રામશાહનો પુત્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A, (3) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સંગ્રામશાહ પિતા -> દલપત પુત્ર -> દુર્ગાવતી પુત્રવધૂ. આ ફેમિલી ટ્રી યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) અહોમ લોકો, (2) પાઈક, (3) બુરંજી \nવિભાગ B: (A) ફરજિયાત કામ કરનાર, (B) મ્યાનમારથી આવી અસમમાં વસ્યા, (C) ઐતિહાસિક કૃતિઓ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A, (3) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અહોમ = અસમ, પાઈક = પરાણે કામ (ફરજિયાત), અને બુરંજી એટલે 'બુક' (ઐતિહાસિક પુસ્તક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) વણઝારા, (2) તાંડા, (3) સ્થળાંતરીય ખેતી \nવિભાગ B: (A) પોદુ, (B) વણઝારાઓનો સમૂહ, (C) સૌથી અગત્યની વિચરતી જાતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - B, (3) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'વણઝારા-તાંડા' જોડી ફેમસ છે અને ખેતી જે 'સ્થળાંતર' કરે તેને 'પોદુ' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) અકબરના સેનાપતિ માનસિંહ, (2) અહોમ રાજ્યની સ્થાપના, (3) ગઢ કટંગાના હાથીઓ \nવિભાગ B: (A) ઈ.સ. 1228, (B) ચેરો જાતિ પર હુમલો, (C) વેચાણ દ્વારા પુષ્કળ ધન મેળવ્યું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A, (3) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): માનસિંહ-ચેરો (MC) અને અહોમની સ્થાપના 1228 (બાર-અઠ્ઠાવીસ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) કમાલખાં ગખ્ખર, (2) અકબરનામું, (3) ખેલ \nવિભાગ B: (A) ગોંડ રાજ્યોનો ઉલ્લેખ, (B) અહોમ સમાજનું કુળ, (C) મનસબદાર બનાવ્યા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - A, (3) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કમાલખાં મનસબદાર (KM) અને અહોમનો 'ખેલ' એટલે કે તેમનું 'કુળ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) ડાંગ દરબાર, (2) હોળી, (3) આદિવાસી સમૂહ \nવિભાગ B: (A) કુટુંબ કે રક્તના સંબંધથી જોડાયેલ, (B) ડાંગના આદિવાસીઓનો તહેવાર, (C) માર્ચ મહિનામાં યોજાતો ઉત્સવ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - C, (3) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ડાંગ-દરબાર' ગુજરાતનું ગૌરવ અને 'આદિવાસી' એટલે રક્તના સંબંધનું ગ્રુપ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) અલાઉદ્દીન ખલજી, (2) જહાંગીર, (3) મુઘલ સેનાપતિ આસિફખાન \nવિભાગ B: (A) ગઢ કટંગા પર હુમલો, (B) વણઝારાનો ઉપયોગ અનાજ લાવવા કર્યો, (C) વણઝારાના કાર્યોની નોંધ પોથીમાં કરી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - C, (3) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અલાઉદ્દીને વણઝારાને 'બજાર' માટે વાપર્યા અને જહાંગીરે તેની ડાયરી (નોંધ) માં લખ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) સ્થાયી ખેતી, (2) શિકારી અને સંગ્રાહક, (3) પશુપાલક વિચરતી જાતિ \nવિભાગ B: (A) જંગલની પેદાશો એકઠી કરવી, (B) એક જ જગ્યાએ રહી ખેતી કરવી, (C) ઘેટાં-બકરા અને ગાય-ભેંસ પાળવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A, (3) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સ્થાયી = એક જગ્યા, સંગ્રાહક = જંગલની વસ્તુ ભેગી કરવી, પશુપાલક = ઢોર-ઢાંખર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) શિબ સિંઘ, (2) ગઢ કટંગા, (3) બ્રહ્મપુત્રા નદી \nવિભાગ B: (A) અહોમ રાજ્યનો વિસ્તાર, (B) અહોમ રાજા (1714-1744), (C) 70,000 ગામડાં ધરાવતું ગોંડ રાજ્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - C, (3) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શિબ સિંઘ (SS) અહોમ રાજા અને બ્રહ્મપુત્રા એટલે અસમની શાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) અહોમ ભાષા, (2) સંસ્કૃત ભાષા, (3) બ્રહ્મપુત્રા ખીણ \nવિભાગ B: (A) બુરંજીનું પ્રથમ આમાં લેખન થયું, (B) અહોમ લોકોનું રહેઠાણ, (C) બુરંજીનું આમાં પણ અનુવાદ થયું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - C, (3) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભાષામાં પહેલા અહોમ અને પછી સંસ્કૃત - આ ક્રમ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: \nવિભાગ A: (1) સ્થળાંતરિત ખેતીનું બીજું નામ, (2) અહોમ સમાજની વિશેષતા, (3) ગોંડ લોકોની ખેતી \nવિભાગ B: (A) ઝૂમ ખેતી, (B) સ્થળાંતરિત ખેતી, (C) કલાકારોને દાન આપવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - C, (3) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ઝૂમ' બરાબર 'સ્થળાંતર' (જગ્યા બદલવી) અને ગોંડ લોકો જંગલમાં ખેતી બદલે.</p></div>"
+    }
+  ]
+}
