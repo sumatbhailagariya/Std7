@@ -2993,3 +2993,161 @@ var Std7_SS_TrueFalse = {
     }
   ]
 }
+,
+"16": {
+  "chapterName": "પ્રકરણ 16",
+  "chapterTitle": "જાતિગત ભિન્નતા",
+  "questionType": "ખરાં ખોટાં જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ભારતીય સમાજમાં છોકરા અને છોકરીઓ વચ્ચે ઉછેરમાં કોઈ જ ભેદભાવ જોવા મળતો નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. ભારત જેવા દેશમાં કેટલાક વિસ્તારોમાં આજે પણ છોકરા-છોકરીઓના ઉછેરમાં અસમાનતા કે ભેદભાવ જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સમાનતા' આદર્શ સ્થિતિ છે, પણ વાસ્તવમાં 'ભેદભાવ' (Difference) અસ્તિત્વમાં છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "છોકરીઓને ભણાવવામાં અને આગળ વધારવામાં હવે સમાજમાં જાગૃતિ આવી રહી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. સરકારના પ્રયત્નો અને શિક્ષણના વ્યાપને લીધે વાલીઓમાં જાગૃતિ આવી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'શિક્ષણ' વધે તો 'જાગૃતિ' (Awareness) વધે જ - આ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "મહિલાઓ દ્વારા કરવામાં આવતા ઘરકામનું કોઈ મૂલ્ય કે ગણના કરવામાં આવતી નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. ઘરકામ કરવાથી કોઈ નાણાકીય આવક થતી ન હોવાથી તેને આર્થિક રીતે ગણવામાં આવતું નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઘરકામ' = બિનઆર્થિક પ્રવૃત્તિ, એટલે જ તેનું મૂલ્ય અંકાય નહિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ભારતનાં પ્રથમ મહિલા રાષ્ટ્રપતિ પ્રતિભા સિંહ પાટીલ હતાં.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. પ્રતિભાસિંહ પાટીલ ભારતના પ્રથમ મહિલા રાષ્ટ્રપતિ બનવાનું ગૌરવ ધરાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાષ્ટ્રપતિ = 'પ્રતિભા' (Pratibha) - નામ જ યાદ રાખવાનું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ભારતનાં પ્રથમ મહિલા વડાપ્રધાન સુષ્મા સ્વરાજ હતાં.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. ભારતનાં પ્રથમ મહિલા વડાપ્રધાન 'ઇન્દિરા ગાંધી' હતાં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પીએમ (PM) = ઇન્દિરા ગાંધી, વિદેશ મંત્રી = સુષ્મા સ્વરાજ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "છોકરા-છોકરીઓના લિંગ પ્રમાણમાં તફાવત ઓછો કરવા સરકારે કન્યા કેળવણીને પ્રોત્સાહન આપ્યું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. 'બેટી બચાવો, બેટી પઢાવો' જેવી યોજનાઓ આ માટે જ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'શિક્ષણ' એ 'ભેદભાવ' મટાડવાની જડીબુટ્ટી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ભારતમાં દર 1000 પુરુષોએ સ્ત્રીઓની સંખ્યા 1000 થી વધુ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. ભારતમાં મોટાભાગના રાજ્યોમાં દર 1000 પુરુષોએ સ્ત્રીઓની સંખ્યા ઓછી જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લિંગ પ્રમાણ (Sex Ratio) ભારતમાં મોટે ભાગે સ્ત્રીઓનું 'ઓછું' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "બાળલગ્ન એ સામાજિક કુરિવાજ નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. બાળલગ્ન એ એક ગંભીર સામાજિક કુરિવાજ છે, જેનાથી કન્યાના સ્વાસ્થ્ય અને ભણતર પર માઠી અસર થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળલગ્ન = કુરિવાજ (Social Evil). જે કાયદા વિરુદ્ધ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સ્પેસ ક્ષેત્રે (અંતરિક્ષ) મહિલાઓએ કોઈ સિદ્ધિ હાંસલ કરી નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કલ્પના ચાવલા અને સુનિતા વિલિયમ્સ જેવી ભારતીય મૂળની મહિલાઓએ અવકાશ ક્ષેત્રે નામના મેળવી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કલ્પના' અને 'સુનિતા' = સ્પેસ ક્વીન્સ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "કન્યાઓને રક્ષણ અને શિક્ષણ આપવા માટે સરકારે 'બેટી બચાવો, બેટી પઢાવો' અભિયાન ચલાવ્યું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. આ અભિયાન દ્વારા દીકરીઓના જન્મદરને સુધારવા અને તેમને શિક્ષિત કરવાનો પ્રયાસ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દીકરીને બચાવો અને ભણાવો = BBBP (Beti Bachao Beti Padhao).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ભારત દેશમાં પ્રથમ મહિલા વિદેશ મંત્રી સુષ્મા સ્વરાજ હતાં.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. સુષ્મા સ્વરાજ ભારત દેશના પ્રથમ મહિલા વિદેશ મંત્રી બન્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સુષ્મા' એ 'સ્વદેશ' માટે 'વિદેશ' મંત્રી હતાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "રમતગમત ક્ષેત્રે છોકરીઓ માટે કોઈ તક ઉપલબ્ધ હોતી નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. રમતગમત ક્ષેત્રે આજે છોકરીઓ દેશ-વિદેશમાં અનેક મેડલ મેળવી નામ રોશન કરી રહી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રમતગમત = મેરી કોમ, પી.વી. સિંધુ, મિતાલી રાજ - આ બધાં ઉદાહરણ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ગુજરાત સરકાર દ્વારા કન્યા કેળવણી રથયાત્રા કાઢવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. કન્યાઓમાં શિક્ષણનું પ્રમાણ વધે તે માટે ગુજરાત સરકાર આ રથયાત્રા યોજે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રથયાત્રા = લોકજાગૃતિ માટેનું મોટું માધ્યમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "પહેલાના સમયમાં છોકરીઓને પ્રાથમિક શિક્ષણ પૂર્ણ થાય તે પહેલાં જ શાળામાંથી ઉઠાડી લેવામાં આવતી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. આર્થિક પરિસ્થિતિ અને સામાજિક માન્યતાઓને કારણે આવું થતું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂની માન્યતા = કન્યા શિક્ષણનો અભાવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ભારતીય બંધારણમાં સ્ત્રી અને પુરુષને સમાન અધિકારો આપવામાં આવ્યા નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. ભારતીય બંધારણમાં જાતિગત ભેદભાવ વગર દરેકને સમાન હકો અને તકો આપવામાં આવી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંધારણ = સમાનતા (Equality), એમાં કોઈ ભેદભાવ નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "લતા મંગેશકરને 'સ્વર સામ્રાજ્ઞી' તરીકે ઓળખવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. લતા મંગેશકરે ગાયન ક્ષેત્રે અદ્વિતીય પ્રદાન કર્યું છે અને હજારો ગીતો ગાયાં છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લતાજી = મીઠો 'સ્વર', એટલે 'સ્વર સામ્રાજ્ઞી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "છોકરીઓને ઘરમાં કામ કરવામાંથી મુક્તિ આપવામાં આવે છે જ્યારે છોકરાઓને કામ કરાવવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. સામાન્ય રીતે સમાજમાં છોકરીઓને નાનપણથી જ ઘરકામમાં જોતરવામાં આવે છે, જ્યારે છોકરાઓને આવી ફરજ પાડવામાં આવતી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસોડું = દીકરી, બહારનું કામ = દીકરો - આ રૂઢિચુસ્તતા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વસ્તી ગણતરી દર 10 વર્ષે કરવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. છેલ્લે 2011 માં વસ્તી ગણતરી થઈ હતી અને ત્યારબાદ 2021 માં થવાની હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વસ્તી ગણતરી = દશકો (10 વર્ષ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "સ્ત્રીઓને પુરુષો જેટલું જ વેતન સમાન કામ માટે આપવામાં આવે છે, તેમાં કોઈ ભેદભાવ નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. અનેક જગ્યાએ અસંગઠિત ક્ષેત્રોમાં સમાન કામ હોવા છતાં સ્ત્રીઓને પુરુષો કરતાં ઓછું વેતન આપવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કામ સમાન, પણ વેતન (Salary) માં સ્ત્રીઓ સાથે ઘણીવાર અન્યાય થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ભારતમાં સૌથી ઓછી સાક્ષરતા ધરાવતું રાજ્ય કેરળ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. ભારતનું 'કેરળ' રાજ્ય સૌથી વધુ (Highest) સાક્ષરતા ધરાવતું રાજ્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેરળ = એજ્યુકેશન હબ (વધારે ભણેલા લોકો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "આઝાદી સમયે સ્ત્રીઓની સ્થિતિ સુધારવા સમાજ સુધારકોએ મોટા પાયે આંદોલન કર્યા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. રાજા રામમોહનરાય, દયાનંદ સરસ્વતી જેવા સુધારકોએ સ્ત્રી હક માટે કામ કર્યું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાજ સુધારકો = સ્ત્રીઓના સાચા મિત્રો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ડ્રાઈવિંગ કરવું એ માત્ર પુરુષોનું જ કામ ગણાય છે, સ્ત્રીઓ તે કરી શકતી નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. આજે સ્ત્રીઓ બસ, રિક્ષા, ટ્રેન અને વિમાન પણ ચલાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટેકનોલોજી અને ડ્રાઈવિંગમાં હવે કોઈ જેન્ડર ગેપ નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "કન્યાઓને ભણાવવા માટે સાયકલની વ્યવસ્થા ગુજરાત સરકાર દ્વારા કરવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. 'સરસ્વતી સાધના યોજના' અંતર્ગત કન્યાઓને સાયકલ આપવામાં આવે છે જેથી તેઓ દૂર ભણવા જઈ શકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાયકલ = દીકરીઓની પાંખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "છોકરીઓને ઘરની બહાર એકલા જવા દેવા બાબતે વાલીઓ હંમેશા નિશ્ચિંત હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. સુરક્ષાના કારણોસર અને સામાજિક ડરને લીધે વાલીઓ છોકરીઓને એકલી મોકલતા અચકાતા હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુરક્ષા (Security) ની ચિંતા હજુ પણ સમાજમાં છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ગૃહિણીનું કામ આર્થિક વળતર આપતું હોવાથી તે ખૂબ જ મહત્વનું મનાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. ગૃહિણીનું કામ કોઈ આર્થિક વળતર (પૈસા) આપતું નથી, તેથી જ તેને સમાજમાં ઓછું મહત્વ અપાય છે, જે ખોટું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કામ મોટું છે, પણ વળતર ઝીરો (0) એટલે ગણના થતી નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "વર્ષ 2011 ની વસ્તી ગણતરી મુજબ સ્ત્રી અને પુરુષના દરમાં મોટો તફાવત હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. સ્ત્રીઓની સંખ્યા પુરુષોની સરખામણીએ ઘણી ઓછી નોંધાઈ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2011 નો ડેટા = ભેદભાવની સાક્ષી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "છોકરા-છોકરીઓ વચ્ચે રમતગમતમાં કોઈ ભેદભાવ રાખવામાં આવતો નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. ઘણીવાર છોકરાઓને મેદાનની રમતો અને છોકરીઓને ઘરની રમતો (ઢીંગલી-ઘર) આપવાની માનસિકતા હજી જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રમકડાં પણ જેન્ડર મુજબ વહેંચાય છે, જે ભેદભાવ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "છોકરીઓને સૈન્ય અને પોલીસમાં જોડાવાની મનાઈ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. આજે ભારત સરકાર મહિલાઓને લશ્કર (Army) અને પોલીસમાં ભરતી થવા માટે પ્રોત્સાહન આપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવે બોર્ડર હોય કે પોલીસ સ્ટેશન, મહિલાઓ પણ રક્ષક છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "આપણા દેશમાં સ્ત્રીઓ અને પુરુષોનું પ્રમાણ સમાન કરવા માટે 'બેટી બચાવો' અભિયાન શરૂ કરાયું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. કન્યા ભ્રૂણ હત્યા અટકાવવા અને સ્ત્રી જન્મ વધારવા આ અભિયાન છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બેટી બચેગી તો હી સમાનતા આયેગી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "રાજકીય ક્ષેત્રે સ્ત્રીઓને હવે અનામત બેઠકો આપવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. સ્થાનિક સ્વરાજ્યની સંસ્થાઓમાં મહિલાઓ માટે 33% કે 50% બેઠકો અનામત રાખવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અનામત (Reservation) = સ્ત્રી સશક્તિકરણની સીડી.</p></div>"
+    }
+  ]
+}
