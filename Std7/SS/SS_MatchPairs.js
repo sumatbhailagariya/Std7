@@ -406,3 +406,86 @@ var Std7_SS_MatchPairs = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "પ્રાદેશિક સંસ્કૃતિનું ઘડતર",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) મલયાલમ, (2) બંગાળી, (3) ગુજરાતી, (4) મણિપુરી<br>વિભાગ 'બ': (A) ગુજરાત, (B) મણિપુર, (C) કેરળ, (D) પશ્ચિમ બંગાળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-D), (3-A), (4-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કેરળની મલાઈ' (કેરળ-મલયાલમ) અને 'બંગાળનો બંગલો' (બંગાળી) યાદ રાખો, બાકીના રાજ્યના નામ પરથી જ ભાષા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) કથક, (2) કથકલી, (3) મણિપુરી, (4) ભરતનાટ્યમ<br>વિભાગ 'બ': (A) મણિપુર, (B) તમિલનાડુ, (C) ઉત્તર ભારત, (D) કેરળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-D), (3-A), (4-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ભરત તમિલ છે' (ભરતનાટ્યમ-તમિલનાડુ) અને 'કલી કેરળની' (કથકલી-કેરળ) યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) કુચીપુડી, (2) બિહુ, (3) ઓડિસી, (4) પોંગલ<br>વિભાગ 'બ': (A) ઓડિશા, (B) આસામ, (C) આંધ્રપ્રદેશ, (D) તમિલનાડુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-B), (3-A), (4-D)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આંધળી કુચી' (આંધ્રપ્રદેશ-કુચીપુડી) અને 'આસામની વહુ/બિહુ' યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) નરસિંહ મહેતા, (2) મીરાંબાઈ, (3) ભાલણ, (4) પ્રેમાનંદ<br>વિભાગ 'બ': (A) આખ્યાનના પિતા, (B) ઉત્તમ આખ્યાનકાર, (C) આદિ કવિ, (D) કૃષ્ણ ભક્તિના પદો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-D), (3-A), (4-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નરસિંહ 'આદિ' છે, ભાલણ 'પિતા' છે અને પ્રેમાનંદ 'ઉત્તમ' માણ ભટ્ટ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) જગન્નાથ રથયાત્રા, (2) લોહરી, (3) ઓણમ, (4) ચેટીચંડ<br>વિભાગ 'બ': (A) પંજાબ, (B) કેરળ, (C) પુરી (ઓડિશા), (D) સિંધી ભાઈ-બહેનો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-A), (3-B), (4-D)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જગન્નાથ પુરી' ખાય, 'પંજાબમાં લોહી/લોહરી' ઉકળે અને 'ઓણમ કેરળ' માં મનાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) લઘુચિત્રો, (2) કાંગડા શૈલી, (3) બસોહલી શૈલી, (4) રાજસ્થાની શૈલી<br>વિભાગ 'બ': (A) હિમાચલ પ્રદેશ, (B) વાદળી અને લીલો રંગ, (C) હળવા રંગોનો પ્રયોગ, (D) નાના કદના ચિત્રો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-D), (2-C), (3-A), (4-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'લઘુ' એટલે નાનું, 'કાંગડા' એટલે હળવું (ઠંડુ) અને 'બસોહલી' હિમાચલની શાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) અનંતવર્મન, (2) વાજિદ અલી શાહ, (3) ભાનુદત્ત, (4) હેમચંદ્રાચાર્ય<br>વિભાગ 'બ': (A) લખનૌના નવાબ, (B) ગંગ વંશના રાજા, (C) સિદ્ધહેમશબ્દાનુશાસન, (D) રસમંજરી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-D), (4-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હેમચંદ્રાચાર્યે 'સિદ્ધ' કર્યું, અનંતવર્મન 'ગંગા' (ગંગ વંશ) જેવો પવિત્ર અને વાજિદ 'નવાબ' હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) હોળી, (2) પોંગલ, (3) બિહુ, (4) રથયાત્રા<br>વિભાગ 'બ': (A) અષાઢ સુદ બીજ, (B) ફાગણ સુદ પૂનમ, (C) થાઈ માસ (જાન્યુઆરી), (D) વર્ષમાં ત્રણ વાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-C), (3-D), (4-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અષાઢી બીજે રથ' નીકળે અને 'ફાગણી પૂનમે હોળી' પ્રગટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) પારસીઓનો તહેવાર, (2) સિંધીઓનો તહેવાર, (3) મુસ્લિમોનો તહેવાર, (4) ખ્રિસ્તીઓનો તહેવાર<br>વિભાગ 'બ': (A) નાતાલ, (B) પતેતી, (C) ચેટીચંડ, (D) ઈદ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-C), (3-D), (4-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પા-પ' (પારસી-પતેતી) અને 'સિ-ચ' (સિંધી-ચેટીચંડ) યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) રાસલીલા, (2) મોહિનીઅટ્ટમ, (3) સત્તરિયા, (4) લઘુચિત્રકલા<br>વિભાગ 'બ': (A) મુગલ કાળ, (B) આસામ, (C) ઉત્તર પ્રદેશ, (D) કેરળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-D), (3-B), (4-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મોહિની' કેરળની સુંદર કન્યા અને 'સત્તરિયા' આસામનો સથવારો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) નરસિંહ મહેતા, (2) મીરાંબાઈ, (3) દયારામ, (4) અખો<br>વિભાગ 'બ': (A) ગરબી, (B) છપ્પા, (C) પ્રભાતિયાં, (D) પદો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-D), (3-A), (4-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'દયાની ગરબી' અને 'અખાના છપ્પા' ગુજરાતી સાહિત્યના પાયા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) લય અને તાલ, (2) અષ્ટપદી, (3) નૃત્યની મૂર્તિ, (4) મુખવટો<br>વિભાગ 'બ': (A) કથકલી, (B) કથક, (C) ઓડિસી, (D) જયદેવ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-D), (3-C), (4-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કથકલી' માં ફેસ (મુખવટો) મેઈન છે, અને 'જયદેવે' અષ્ટપદી ગાઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) મણિપુરી નૃત્ય, (2) મોહિનીઅટ્ટમ, (3) લૈ હરોબા, (4) પુરી<br>વિભાગ 'બ': (A) ઓડિશા, (B) મણિપુરનો ઉત્સવ, (C) વિષ્ણુ ભક્તિ, (D) કેરળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-D), (3-B), (4-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મણિપુરીમાં શ્રીકૃષ્ણ (વિષ્ણુ) ની રાસલીલા મુખ્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) વલ્લભી, (2) અણહિલવાડ પાટણ, (3) પુરી, (4) જેસલમેર<br>વિભાગ 'બ': (A) રાજસ્થાન (ચિત્રકલા), (B) વિદ્યાપીઠ, (C) સોલંકી કાળનું કેન્દ્ર, (D) રથયાત્રા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-C), (3-D), (4-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વલ્લભીમાં ભણવાનું (વિદ્યાપીઠ) અને પાટણમાં પાટવી કુંવર (સોલંકી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ': (1) સુફીવાદ, (2) પીર, (3) દરગાહ, (4) ખાનકાહ<br>વિભાગ 'બ': (A) સુફી સંતોનું નિવાસસ્થાન, (B) ઇસ્લામિક મર્યાદાવાળો વિચાર, (C) માર્ગદર્શક/ગુરુ, (D) સંતની કબર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-C), (3-D), (4-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પીર' એટલે માર્ગ બતાવનાર ગુરુ અને 'ખાણ' (ખાનકાહ) માં સંતો રહે.</p></div>"
+    }
+  ]
+}
