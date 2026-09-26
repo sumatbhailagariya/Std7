@@ -187,3 +187,71 @@ var Std7_SS_MatchPairs = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "મધ્યયુગીન સ્થાપત્યો, શહેરો, વેપાર અને કારીગરો",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ':<br>1. મોઢેરાનું સૂર્યમંદિર<br>2. રાણીની વાવ<br>3. રુદ્ર મહાલય<br>4. ઉપરકોટનો કિલ્લો<br><br>વિભાગ 'બ':<br>A. સિદ્ધપુર<br>B. જૂનાગઢ<br>C. પાટણ<br>D. મહેસાણા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-D, 2-C, 3-A, 4-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'રાણી પાટણમાં, રુદ્ર સિદ્ધપુરમાં અને ઉપરકોટ જૂનાગઢમાં' - આ વાક્ય યાદ રાખો એટલે સ્થાપત્યના સ્થળ ક્યારેય ન ભૂલાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ':<br>1. સોમનાથ મંદિર<br>2. તાજમહેલ<br>3. લાલ કિલ્લો<br>4. કોણાર્કનું સૂર્યમંદિર<br><br>વિભાગ 'બ':<br>A. આગ્રા<br>B. દિલ્હી<br>C. ઓડિશા<br>D. વેરાવળ (પ્રભાસ પાટણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-D, 2-A, 3-B, 4-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાલ કિલ્લો 'દિલ્હી' (રાજધાની) માં અને તાજમહેલ 'આગ્રા' માં છે, આ બેમાં કન્ફ્યુઝન ન થવા દેવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ':<br>1. હુમાયુનો મકબરો<br>2. આગ્રાનો કિલ્લો<br>3. ફતેહપુર સિક્રી<br>4. વિજયસ્તંભ<br><br>વિભાગ 'બ':<br>A. અકબર<br>B. રાણા કુંભા<br>C. હમીદા બાનુ<br>D. અકબર (રાજધાની તરીકે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-D, 4-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હુમાયુના મકબરા માટે તેની પત્ની 'હમીદા' અને વિજય મેળવનાર 'કુંભા' એ વિજયસ્તંભ બનાવ્યો એમ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ':<br>1. સિદ્ધહેમશબ્દાનુશાસન<br>2. ગીત ગોવિંદ<br>3. હિતોપદેશ<br>4. પદ્માવત<br><br>વિભાગ 'બ':<br>A. જયદેવ<br>B. નારાયણ પંડિત<br>C. મલિક મુહમ્મદ જાયસી<br>D. હેમચંદ્રાચાર્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-D, 2-A, 3-B, 4-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સિદ્ધ' નામમાં જ 'હેમ' (હેમચંદ્રાચાર્ય) છુપાયેલું છે. 'જય' બોલો 'ગોવિંદ' ની (જયદેવ - ગીત ગોવિંદ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ':<br>1. પાટણ<br>2. સુરત<br>3. અમદાવાદ<br>4. હમ્પી<br><br>વિભાગ 'બ':<br>A. જરીકામ માટે જાણીતું શહેર<br>B. પટોળા માટે પ્રખ્યાત<br>C. વિજયનગરની રાજધાની<br>D. હોજ-એ-કુતુબ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-D, 4-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુરત 'સોનાની મૂરત' અને 'જરી' માટે, પાટણ 'પટોળા' માટે - આ ગુજરાતના ગૌરવ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ':<br>1. કાલિકા માતાનું મંદિર<br>2. શેત્રુંજય જૈન મંદિરો<br>3. પાલિતાણા<br>4. મોઢેરાનું સૂર્યમંદિર<br><br>વિભાગ 'બ':<br>A. પાવાગઢ<br>B. ભાવનગર<br>C. પાલિતાણા (તળેટી)<br>D. ભીમદેવ પ્રથમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B, 3-C, 4-D</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પ' થી પાવાગઢ અને 'પ' થી પાલિતાણા - ભાવનગર જિલ્લામાં શેત્રુંજય પર્વત પર જૈન દેરાસરો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ':<br>1. અડી-કડીની વાવ<br>2. સીદી સૈયદની જાળી<br>3. અડાલજની વાવ<br>4. હીરા ભાગોળ<br><br>વિભાગ 'બ':<br>A. અમદાવાદ<br>B. ગાંધીનગર (નજીક)<br>C. ડભોઈ<br>D. જૂનાગઢ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-D, 2-A, 3-B, 4-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અડી-કડી' જૂનાગઢમાં 'ઉપરકોટ' પાસે છે અને 'સીદી સૈયદ' તો અમદાવાદની ઓળખ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ':<br>1. ભાષ્ય<br>2. કાવ્યપ્રકાશ<br>3. પૃથ્વીરાજ રાસો<br>4. તુઘલખનામા<br><br>વિભાગ 'બ':<br>A. રામાનુજાચાર્ય<br>B. મમ્મટ<br>C. ચંદબરદાઈ<br>D. અમીર ખુશરો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-A, 2-B, 3-C, 4-D</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચંદ' એ 'પૃથ્વી' ની ગાથા લખી અને 'રામાનુજ' એ 'ભાષ્ય' રચ્યું - આ રીતે યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ':<br>1. રથ મંદિર<br>2. સુવર્ણ મંદિર<br>3. ઢાઈ દિન કા ઝોંપડા<br>4. બુલંદ દરવાજો<br><br>વિભાગ 'બ':<br>A. અમૃતસર<br>B. અજમેર<br>C. કોણાર્ક<br>D. ફતેહપુર સિક્રી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-B, 4-D</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઢાઈ દિન કા ઝોંપડા 'અજમેર' માં (કિનારે) અને બુલંદ દરવાજો 'અકબર' ના સિક્રીમાં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ':<br>1. મધ્યયુગીન ચિત્રકલા<br>2. સંગીત રત્નાકર<br>3. સંગીત પારિજાત<br>4. તાનસેન<br><br>વિભાગ 'બ':<br>A. અકબરનો નવરત્ન<br>B. પંડિત સારંગદેવ<br>C. પંડિત અહોબલ<br>D. ગુલશન ચિત્રાવલી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-D, 2-B, 3-C, 4-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'રત્ન' (સંગીત રત્નાકર) સાંભળીને 'સારંગ' (સારંગદેવ) ખુશ થયા એમ લિંક કરો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ':<br>1. બંગાળ<br>2. ગુજરાત<br>3. કેરળ<br>4. મહારાષ્ટ્ર<br><br>વિભાગ 'બ':<br>A. ગરબા<br>B. કથકલી<br>C. લાવણી<br>D. કાંથા ભરતકામ (સાંસ્કૃતિક સંદર્ભ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-D, 2-A, 3-B, 4-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરબા તો આપણું ગુજરાત, લાવણી મહારાષ્ટ્ર અને કથકલી કેરળ - આ તો આવડવું જ જોઈએ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ':<br>1. શાહજહાં<br>2. અકબર<br>3. જહાંગીર<br>4. કુતબુદ્દીન ઐબક<br><br>વિભાગ 'બ':<br>A. કુતબ મિનાર (શરૂઆત)<br>B. ચિત્રકલાનો વિકાસ<br>C. સ્થાપત્યનો સુવર્ણયુગ<br>D. મનસબદારી પ્રથા / સિક્રી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-D, 3-B, 4-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાહજહાં = મહેલો (સ્થાપત્ય), જહાંગીર = ચિત્રકલા. આ બંને વારંવાર પૂછાય છે!</p></div>"
+    }
+  ]
+}
