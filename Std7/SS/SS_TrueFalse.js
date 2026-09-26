@@ -3151,3 +3151,161 @@ var Std7_SS_TrueFalse = {
     }
   ]
 }
+,
+"17": {
+  "chapterName": "પ્રકરણ 17",
+  "chapterTitle": "સંચાર માધ્યમ અને જાહેરાત",
+  "questionType": "ખરાં ખોટાં જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "સંચાર માધ્યમોને કારણે આખું વિશ્વ એક વૈશ્વિક ગ્રામ (Global Village) બની ગયું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સંચાર એટલે માહિતીનું આદાન-પ્રદાન, જેણે દુનિયાને નાની (નજીક) બનાવી દીધી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "પ્રાચીન સમયમાં સંદેશો મોકલવા માટે ઢોલ વગાડવામાં આવતો ન હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે પ્રાચીન સમયમાં ઢોલ વગાડીને કે ધુમાડો કરીને પણ સંદેશો મોકલવામાં આવતો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જૂના સમયમાં અવાજ (ઢોલ) અને નિશાની (ધુમાડો) એ જ 'WhatsApp' હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ભારતમાં આધુનિક ટપાલ સેવા ઈ.સ. ૧૮૫૪ માં શરૂ થઈ હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1854 - ડેલહાઉસીના સમયમાં રેલવે અને ટપાલ બંને 'ટ્રેક' પર આવ્યા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ટેલિગ્રામ (તાર) ની શોધ ઈ.સ. ૧૮૫૦ માં કરવામાં આવી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતせる સરની શોર્ટકટ ટ્રીક (NJ Classes): તાર (Telegram) એટલે ટૂંકો સંદેશો, જેની શરૂઆત 1850માં થઈ હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ભારતમાં ટેલિગ્રામની સેવા ૧૩ જુલાઈ, ૨૦૧૩ ના રોજ બંધ કરવામાં આવી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 2013 માં 'તાર' તૂટી ગયો (સેવા બંધ થઈ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પુસ્તકો જ્ઞાનનો ભંડાર છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પુસ્તકો એક પેઢીનું જ્ઞાન બીજી પેઢી સુધી પહોંચાડવાનું શ્રેષ્ઠ કામ કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વર્તમાનપત્રો લોકશાહીના ચોથા સ્તંભ તરીકે ઓળખાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લોકશાહીના 4 પાયા: ધારાસભા, કારોબારી, ન્યાયતંત્ર અને 'મીડિયા' (વર્તમાનપત્ર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "રેડિયો એ દ્રશ્ય-શ્રાવ્ય પ્રકારનું સંચાર માધ્યમ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે રેડિયો એ માત્ર 'શ્રાવ્ય' (સાંભળી શકાય તેવું) માધ્યમ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રેડિયોમાં 'ચિત્ર' ના હોય, ફક્ત 'અવાજ' હોય એટલે તે માત્ર શ્રાવ્ય કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "રેડિયો પર એફ.એમ. (FM) નું પૂરું નામ 'Frequency Modulation' છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): FM = Frequency Modulation, જે રેડિયો તરંગોની ટેકનોલોજી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ભારતમાં રેડિયોનું પ્રથમ પ્રસારણ ખાનગી કંપનીએ કર્યું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મુંબઈ અને કોલકાતામાં ખાનગી કંપનીએ રેડિયોની શરૂઆત કરી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ટેલિવિઝન એ દુનિયાનું સૌથી મોટું સંચાર માધ્યમ નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે ટેલિવિઝન એ આજના સમયનું સૌથી લોકપ્રિય અને મોટું દ્રશ્ય-શ્રાવ્ય સંચાર માધ્યમ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): TV જોનારા લોકોની સંખ્યા સૌથી વધારે છે, એટલે તે સૌથી મોટું માધ્યમ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સિનેમા પણ શિક્ષણ અને મનોરંજનનું એક લોકપ્રિય સાધન છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પિક્ચર (Movie) માંથી પણ શીખવા મળે અને મજા પણ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "આજના સમયમાં ઈન્ટરનેટ વગર જીવન કલ્પવું મુશ્કેલ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઈન્ટરનેટ = દુનિયાની લાઈફલાઈન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "મોબાઈલ ફોન દ્વારા હવે રેલવેની ટિકિટ બુક કરાવી શકાતી નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે મોબાઈલ ફોન દ્વારા ઓનલાઈન ટિકિટ બુકિંગ ખૂબ જ સરળતાથી થઈ શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ઓનલાઈન બધું જ શક્ય છે' - આ મોબાઈલ યુગનો મંત્ર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "કૃત્રિમ ઉપગ્રહ (Satellite) સંચાર માધ્યમ તરીકે ખૂબ ઉપયોગી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સેટેલાઈટ એટલે આકાશમાં રાખેલો આપણો મેસેન્જર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "દરેક વસ્તુની ગુણવત્તા તપાસીને જ ખરીદવી જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જાહેરાતમાં અંજાઈ ન જવું, ગુણવત્તામાં માપવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સંચાર માધ્યમોનો ઉપયોગ હંમેશા વિવેકપૂર્ણ કરવો જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કોઈપણ વસ્તુનો અતિરેક નુકસાનકારક છે, માટે 'વિવેકપૂર્ણ' ઉપયોગ જરૂરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "જાહેરાતો દ્વારા ગ્રાહકને વસ્તુની સંપૂર્ણ માહિતી મળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જાહેરાતનું કામ જ ગ્રાહકને વસ્તુ વિશે 'જાણકાર' બનાવવાનું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વધુ પડતા ટીવી જોવાથી આંખોને નુકસાન થતું નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે સતત ટીવી કે મોબાઈલ જોવાથી આંખો અને સ્વાસ્થ્ય પર માઠી અસર પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વધુ પડતી સ્ક્રિન = આંખોમાં પેઈન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "જાહેરાતનો મુખ્ય હેતુ વેચાણ વધારવાનો હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'દેખાય તે વેચાય' - આ જાહેરાતનો મૂળ મંત્ર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "લોકશાહીમાં જાહેરાત દ્વારા સરકાર તેની કામગીરી લોકો સુધી પહોંચાડે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સરકારની યોજનાઓ લોકો સુધી પહોંચાડવા જાહેરાત (Media) એક બ્રિજ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "મોબાઈલ ફોનમાં ઈન્ટરનેટ દ્વારા દુનિયાની કોઈપણ માહિતી મેળવી શકાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મોબાઈલ + નેટ = જ્ઞાનનો ગેટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ભારતનો પ્રથમ ઉપગ્રહ 'આર્યભટ્ટ' હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્રથમ ઉપગ્રહ = પ્રથમ ગણિતશાસ્ત્રી 'આર્યભટ્ટ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "જાહેરાતમાં આવતી દરેક બાબત હંમેશા સાચી જ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે ઘણીવાર જાહેરાતો આકર્ષક બનાવવા માટે અતિશયોક્તિભરી કે ખોટી પણ હોઈ શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'બધું સોનું હોય એ ચળકે એ જરૂરી નથી' - જાહેરાતમાં છેતરાવું નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "આર્થિક બાબતોની જાણકારી માટે વર્તમાનપત્રો ઉપયોગી નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે વર્તમાનપત્રોમાં શેરબજાર અને આર્થિક સમાચારોની વિગતવાર માહિતી હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમાચારપત્ર એ આખા વિશ્વનું પ્રતિબિંબ છે, જેમાં બધી જ વિગતો હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "સામાજિક જાગૃતિ માટે જાહેરાતનો ઉપયોગ નકામો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે 'બેટી બચાવો', 'સ્વચ્છતા અભિયાન' જેવી સામાજિક જાગૃતિ જાહેરાતો દ્વારા જ ફેલાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જાહેરાત માત્ર નફો કરવા નહીં, પણ સમાજ સુધારવા પણ વપરાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "કુરિયર સેવા એ ટપાલ સેવાનું જ એક આધુનિક સ્વરૂપ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ટપાલ ધીમી હતી, કુરિયર તેને ફાસ્ટ બનાવી દે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "મોબાઈલ ફોનનો ઉપયોગ ડ્રાઈવિંગ કરતી વખતે કરવો જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે ડ્રાઈવિંગ વખતે મોબાઈલ વાપરવો એ જોખમી છે અને અકસ્માત સર્જી શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મોબાઈલ અને ડ્રાઈવિંગ - બંને એકસાથે જીવલેણ બની શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વોટ્સએપ (WhatsApp) એ સોશિયલ મીડિયાનું એક સાધન છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સોશિયલ એટલે સામાજિક સંપર્ક વધારતું સાધન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "જાહેરાત પાછળ મોટો ખર્ચ કરવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કંપનીઓ પોતાનું વેચાણ વધારવા કરોડોનો ખર્ચ કરે છે જે અંતે ગ્રાહક પાસેથી જ વસૂલાય છે.</p></div>"
+    }
+  ]
+}
