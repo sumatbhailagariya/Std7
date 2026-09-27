@@ -1068,3 +1068,86 @@ var Std7_SS_MatchPairs = {
     }
   ]
 }
+,
+"16": {
+  "chapterName": "પ્રકરણ 16",
+  "chapterTitle": "જાતિગત ભિન્નતા",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ':<br>1. ભારતના પ્રથમ મહિલા રાષ્ટ્રપતિ<br>2. ભારતના પ્રથમ મહિલા વડાપ્રધાન<br>3. ભારતના પ્રથમ મહિલા વિદેશ મંત્રી<br><br>વિભાગ 'બ':<br>A. ઈન્દિરા ગાંધી<br>B. સુષમા સ્વરાજ<br>C. પ્રતિભાસિંહ પાટીલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-A), (3-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>યાદ રાખો: 'રાષ્ટ્ર'ના 'પ્રતિભા'શાળી (પ્રતિભાસિંહ), 'ગાંધી' પરિવારના વડા (ઈન્દિરા), અને 'સ્વરાજ' માટે વિદેશ (સુષમા).</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ':<br>1. લતા મંગેશકર<br>2. કલ્પના ચાવલા<br>3. બચેન્દ્રી પાલ<br><br>વિભાગ 'બ':<br>A. પ્રથમ મહિલા અવકાશયાત્રી<br>B. પ્રથમ મહિલા પર્વતારોહક<br>C. સ્વર સામ્રાજ્ઞી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-A), (3-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>લતા એટલે 'સૂર', કલ્પના 'આકાશ'માં ઉડી (અવકાશ), અને 'પાલ' પરથી પર્વત (પર્વતારોહક) યાદ રાખો.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ':<br>1. દીકરી જન્મે ત્યારે<br>2. દીકરો જન્મે ત્યારે<br>3. મતાધિકાર માટેની ઉંમર<br><br>વિભાગ 'બ':<br>A. પેંડા વહેંચાય છે<br>B. 18 વર્ષ<br>C. ક્યાંક ગોળ-ધાણા વહેંચાય છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-A), (3-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>દીકરી 'ગ'ળી (ગોળ-ધાણા), દીકરો 'પ'સંદ (પેંડા), અને વોટ માટે '18' વર્ષનું લાયસન્સ!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ':<br>1. ગૃહિણીનું કામ<br>2. પુરુષનું કામ<br>3. સરકારી નોકરીમાં મહિલાઓ<br><br>વિભાગ 'બ':<br>A. કમાણી કરવી<br>B. ઘરનું વ્યવસ્થાપન<br>C. વધતું જતું પ્રમાણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>ગૃહિણી એટલે 'ઘર'ની મેનેજર, પુરુષ એટલે 'પૈસા' (પરંપરાગત), અને અત્યારે નોકરીમાં બહેનો 'વધતી' જાય છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ':<br>1. સાક્ષરતાનો દર ઓછો હોય<br>2. શિક્ષણના સમાન અધિકાર<br>3. સ્ત્રી-પુરુષ સમાનતા<br><br>વિભાગ 'બ':<br>A. આર.ટી.ઈ. (RTE)<br>B. બંધારણીય જોગવાઈ<br>C. રૂઢિચુસ્તતા અને પૂર્વગ્રહ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-A), (3-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>ઓછી ભણતર = જૂની રૂઢિ, શિક્ષણનો હક = RTE (Education), અને સમાનતા = બંધારણની ગેરંટી.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ':<br>1. દીકરીને શિક્ષણમાં સહાય<br>2. કુપોષણ મુક્ત ભારત<br>3. જાતિ પ્રમાણની જાળવણી<br><br>વિભાગ 'બ':<br>A. બેટી બચાવો, બેટી પઢાવો<br>B. સરકારી યોજનાઓ<br>C. મધ્યાહ્ન ભોજન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-A), (2-C), (3-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>શિક્ષણ-દીકરી = બેટી પઢાવો, પોષણ = ભોજન, અને જાતિ પ્રમાણ = સરકારની સુરક્ષા.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ':<br>1. રમતગમત ક્ષેત્રે<br>2. રાજકારણ ક્ષેત્રે<br>3. સંગીત ક્ષેત્રે<br><br>વિભાગ 'બ':<br>A. સરીતા ગાયકવાડ<br>B. લતા મંગેશકર<br>C. પ્રતિભાસિંહ પાટીલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-A), (2-C), (3-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>રમત એટલે દોડવીર સરીતા, રાજકારણ એટલે પાટીલ મેડમ, અને સંગીત એટલે લતા દીદી.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ':<br>1. પ્રથમ વસ્તી ગણતરી (ભારતમાં)<br>2. આધુનિક સમયમાં વસ્તી ગણતરી દર<br>3. આઝાદી પછીની પ્રથમ વસ્તી ગણતરી<br><br>વિભાગ 'બ':<br>A. 10 વર્ષે<br>B. ઈ.સ. 1881<br>C. ઈ.સ. 1951",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>શરૂઆત 1881 માં, આઝાદી 1947 પછી તરત 1951 માં, અને હવે દર 10 વર્ષે 'એકડો' લાગે (Census).</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ':<br>1. ઘરના નાના કામો<br>2. સાયકલ ચલાવવી<br>3. રસોઈ કામ<br><br>વિભાગ 'બ':<br>A. સ્ત્રીઓની વિશેષતા મનાય છે<br>B. કૌશલ્યનો વિકાસ<br>C. છોકરા-છોકરીમાં ભેદભાવ જોવા મળે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-B), (3-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>ઘરકામમાં ભેદભાવ (C), સાયકલ એ શીખવાનું કામ (B), રસોઈ જૂની માન્યતા મુજબ સ્ત્રીકામ (A).</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ':<br>1. જાતિગત ભિન્નતા એટલે<br>2. પંચાયતી રાજમાં મહિલા અનામત<br>3. લોકશાહીમાં સમાનતા<br><br>વિભાગ 'બ':<br>A. 33% થી 50% બેઠકો<br>B. છોકરા-છોકરી વચ્ચેનો તફાવત<br>C. બંધારણીય અધિકાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>ભિન્નતા એટલે 'તફાવત', પંચાયત એટલે 'અનામત બેઠકો', અને લોકશાહી એટલે 'બધા સમાન'.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ':<br>1. સુષમા સ્વરાજ<br>2. કલ્પના ચાવલા<br>3. ઈન્દિરા ગાંધી<br><br>વિભાગ 'બ':<br>A. પ્રથમ મહિલા વડાપ્રધાન<br>B. સૌથી નાની વયના હરિયાણાના કેબિનેટ મંત્રી<br>C. અંતરિક્ષ યાત્રી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-C), (3-A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>સુષમાજી હરિયાણાથી (મંત્રી), કલ્પના તારામાં (અંતરિક્ષ), ઈન્દિરા વડાપ્રધાનમાં 'નંબર 1'.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ':<br>1. મહિલા સશક્તિકરણ<br>2. કન્યા કેળવણી<br>3. શ્રમ અને મહેનતાણું<br><br>વિભાગ 'બ':<br>A. આર્થિક રીતે પગભર બનાવવું<br>B. સમાન કામ, સમાન વેતન<br>C. દીકરીઓને ભણાવવી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-A), (2-C), (3-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>સશક્તિકરણ એટલે 'આર્થિક મજબૂતી', કેળવણી એટલે 'ભણાવવું', અને મહેનતાણું એટલે 'પૈસા/વેતન'.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ':<br>1. ગુજરાતની રમતવીર મહિલા<br>2. માઉન્ટ એવરેસ્ટ સર કરનાર પ્રથમ મહિલા<br>3. પૂર્વ વિદેશ મંત્રી<br><br>વિભાગ 'બ':<br>A. બચેન્દ્રી પાલ<br>B. સરીતા ગાયકવાડ<br>C. સુષમા સ્વરાજ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>ગુજરાતની સરીતા (દોડવીર), એવરેસ્ટ એટલે 'પાલ' (બચેન્દ્રી), અને વિદેશી બાબતો એટલે સુષમા.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ':<br>1. દૂધ પીતી કરવી (જૂનો રિવાજ)<br>2. ગ્રામીણ મહિલાઓ<br>3. શહેરી મહિલાઓ<br><br>વિભાગ 'બ':<br>A. પશુપાલન અને ખેતીમાં મદદ<br>B. સામાજિક કુરિવાજ<br>C. વિવિધ વ્યાવસાયિક ક્ષેત્રે જોડાણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-B), (2-A), (3-C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>દૂધ પીતી = ખરાબ રિવાજ, ગામડું = ખેતી, શહેર = નોકરી/વ્યવસાય.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>વિભાગ 'અ':<br>1. પ્રતિભાસિંહ પાટીલ (રાજ્ય)<br>2. લતા મંગેશકર (ક્ષેત્ર)<br>3. સરકારી પ્રયત્નો<br><br>વિભાગ 'બ':<br>A. સંગીત<br>B. કન્યા કેળવણી રથયાત્રા<br>C. રાજસ્થાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1-C), (2-A), (3-B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>પાટીલ મેડમ રાજસ્થાનના, લતા મંગેશકર ગાયિકા, અને સરકાર શિક્ષણ માટે રથ (રથયાત્રા) ફેરવે.</div>"
+    }
+  ]
+}
