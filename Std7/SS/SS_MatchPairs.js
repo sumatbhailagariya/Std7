@@ -821,3 +821,86 @@ var Std7_SS_MatchPairs = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "આપત્તિ અને વ્યવસ્થાપન",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. આગાહી કરી શકાય તેવી આપત્તિ <br>2. આગાહી ન કરી શકાય તેવી આપત્તિ <br><br>વિભાગ 'બ':<br>(A) ભૂકંપ <br>(B) પૂર <br>(C) હુલ્લડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) પૂર <br>2 - (A) ભૂકંપ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂર-વાવાઝોડું જાણી શકાય, ભૂકંપ-સુનામી અચાનક આવી જાય! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. કુદરતી આપત્તિ <br>2. માનવસર્જિત આપત્તિ <br><br>વિભાગ 'બ':<br>(A) આગ <br>(B) દુષ્કાળ <br>(C) રિક્ટર સ્કેલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) દુષ્કાળ <br>2 - (A) આગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુદરત આપે તે કુદરતી (દુષ્કાળ), માણસની ભૂલ તે માનવસર્જિત (આગ)! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. વાવાઝોડું <br>2. સુનામી <br><br>વિભાગ 'બ':<br>(A) સમુદ્રના તળિયે થતો ભૂકંપ <br>(B) વાતાવરણમાં હવાનું દબાણ <br>(C) જંગલમાં લાગતી આગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) વાતાવરણમાં હવાનું દબાણ <br>2 - (A) સમુદ્રના તળિયે થતો ભૂકંપ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વા' એટલે વાતાવરણ અને 'સુનામી' એટલે સમુદ્રનો સ્વામી! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. પૂર <br>2. દુષ્કાળ <br><br>વિભાગ 'બ':<br>(A) વરસાદની અછત <br>(B) નદીમાં આવતો પાણીનો રેલમછેલ <br>(C) પૃથ્વીનું ધ્રુજવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) નદીમાં આવતો પાણીનો રેલમછેલ <br>2 - (A) વરસાદની અછત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂર એટલે વધુ પાણી, દુષ્કાળ એટલે પાણીની તાણી! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. દાવાનળ <br>2. ભૂકંપ <br><br>વિભાગ 'બ':<br>(A) પૃથ્વીની સપાટીનું કંપન <br>(B) જંગલોમાં લાગતી આગ <br>(C) સમુદ્રના મોજાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) જંગલોમાં લાગતી આગ <br>2 - (A) પૃથ્વીની સપાટીનું કંપન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'દાવા' એટલે જંગલની જવાળા, 'ભૂકંપ' એટલે ધરતીની ધ્રુજારી માળા! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. રિક્ટર સ્કેલ <br>2. રેડિયો-ટીવી <br><br>વિભાગ 'બ':<br>(A) ચેતવણી મેળવવાના સાધનો <br>(B) ભૂકંપની તીવ્રતા માપવાનું એકમ <br>(C) પૂરનું પાણી માપવાનું સાધન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) ભૂકંપની તીવ્રતા માપવાનું એકમ <br>2 - (A) ચેતવણી મેળવવાના સાધનો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રિક્ટરથી તીવ્રતા મપાય, રેડિયોથી સમાચાર સંભળાય! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. ઔદ્યોગિક અકસ્માત <br>2. હુલ્લડ <br><br>વિભાગ 'બ':<br>(A) માનવસર્જિત આપત્તિ <br>(B) કુદરતી આપત્તિ <br>(C) જ્વાળામુખી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (A) માનવસર્જિત આપત્તિ <br>2 - (A) માનવસર્જિત આપત્તિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફેક્ટરી અને ઝઘડા બંને માણસ કરે એટલે 'માનવસર્જિત'! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. સુનામી સમયે <br>2. પૂર સમયે <br><br>વિભાગ 'બ':<br>(A) ઊંચાણવાળા સ્થળે જવું <br>(B) દરિયાકિનારાથી દૂર જવું <br>(C) નદીના પટમાં રહેવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) દરિયાકિનારાથી દૂર જવું <br>2 - (A) ઊંચાણવાળા સ્થળે જવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુનામીમાં દરિયો છોડો, પૂરમાં ઊંચાઈ પકડો! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. ભૂકંપ સમયે <br>2. વાવાઝોડા સમયે <br><br>વિભાગ 'બ':<br>(A) બારી-બારણાં બંધ કરવા <br>(B) પાટલી નીચે બેસી જવું <br>(C) ઝાડ નીચે ઊભા રહેવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (B) પાટલી નીચે બેસી જવું <br>2 - (A) બારી-બારણાં બંધ કરવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધ્રુજારીમાં બેન્ચનો સહારો, પવનમાં બારી બંધનો નજારો! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. ભૂકંપ <br>2. પૂર <br><br>વિભાગ 'બ':<br>(A) આગાહી શક્ય નથી <br>(B) આગાહી શક્ય છે <br>(C) માનવસર્જિત છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (A) આગાહી શક્ય નથી <br>2 - (B) આગાહી શક્ય છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૂકંપ 'અનપેક્ષિત', પૂર 'અપેક્ષિત'! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. સુનામી <br>2. વાવાઝોડું <br><br>વિભાગ 'બ':<br>(A) જાપાનીઝ શબ્દ <br>(B) ચક્રવાત <br>(C) લાવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (A) જાપાનીઝ શબ્દ <br>2 - (B) ચક્રવાત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સુનામી' જાપાનથી આવ્યો, 'વાવાઝોડું' ચક્રવાત લાવ્યો! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. દુષ્કાળથી બચવા <br>2. પૂરથી બચવા <br><br>વિભાગ 'બ':<br>(A) વૃક્ષારોપણ કરવું <br>(B) બંધો બાંધવા <br>(C) વીજળીના થાંભલા પાસે રહેવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (A) વૃક્ષારોપણ કરવું <br>2 - (B) બંધો બાંધવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરસાદ લાવવા વૃક્ષારોપણ, પાણી રોકવા બંધનું આયોજન! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. રિક્ટર સ્કેલ વધે તો <br>2. રિક્ટર સ્કેલ ઘટે તો <br><br>વિભાગ 'બ':<br>(A) વિનાશ વધુ થાય <br>(B) ધ્રુજારી ઓછી અનુભવાય <br>(C) વરસાદ વધુ આવે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (A) વિનાશ વધુ થાય <br>2 - (B) ધ્રુજારી ઓછી અનુભવાય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમ રિક્ટરનો આંકડો મોટો, તેમ તબાહીનો ફોટો મોટો! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. પૂર બાદ <br>2. ભૂકંપ બાદ <br><br>વિભાગ 'બ':<br>(A) ઉકાળેલું પાણી પીવું <br>(B) કાટમાળ નીચે દબાયેલાને બચાવવા <br>(C) લિફ્ટનો ઉપયોગ કરવો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (A) ઉકાળેલું પાણી પીવું <br>2 - (B) કાટમાળ નીચે દબાયેલાને બચાવવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂર પછી રોગચાળો ટાળો, ભૂકંપ પછી જીવ બચાવો! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે જોડો:<br>1. આપત્તિ વ્યવસ્થાપન <br>2. જ્વાળામુખી <br><br>વિભાગ 'બ':<br>(A) આપત્તિ પૂર્વેની તૈયારી <br>(B) કુદરતી આપત્તિ <br>(C) માનવસર્જિત ભૂલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - (A) આપત્તિ પૂર્વેની તૈયારી <br>2 - (B) કુદરતી આપત્તિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેનેજમેન્ટ એટલે અગાઉથી તૈયારી, જ્વાળામુખી છે કુદરતની ન્યારી! (NJ Classes)</p></div>"
+    }
+  ]
+}
