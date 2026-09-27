@@ -904,3 +904,71 @@ var Std7_SS_MatchPairs = {
     }
   ]
 }
+,
+"13": {
+  "chapterName": "પ્રકરણ 13",
+  "chapterTitle": "આપત્તિ વ્યવસ્થાપન",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ':<br>1. કુદરતી આપત્તિ<br>2. માનવસર્જિત આપત્તિ<br><br>વિભાગ 'બ':<br>A. હુલ્લડ<br>B. સુનામી<br>C. પર્વતારોહણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) કુદરત દ્વારા આવે તે 'કુદરતી' (જેમ કે પાણીથી આવતી સુનામી) અને માણસો દ્વારા થાય તે 'માનવસર્જિત' (જેમ કે હુલ્લડ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ':<br>1. આગાહી કરી શકાય તેવી આપત્તિ<br>2. આગાહી ન કરી શકાય તેવી આપત્તિ<br><br>વિભાગ 'બ':<br>A. ભૂકંપ<br>B. વાવાઝોડું<br>C. આગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) આકાશમાં પવન જોઈને વાવાઝોડાની ખબર પડે (આગાહી), પણ જમીન ક્યારે ધ્રૂજશે તે ખબર ન પડે (ભૂકંપ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ':<br>1. સુનામી<br>2. દુષ્કાળ<br><br>વિભાગ 'બ':<br>A. જળસંકટ<br>B. સમુદ્રના મોજાં<br>C. પવનની ગતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) સુનામી એટલે 'સમુદ્ર' અને દુષ્કાળ એટલે 'પાણીની અછત' (જળસંકટ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ':<br>1. વાવાઝોડાનું અન્ય નામ<br>2. જાપાનમાં વાવાઝોડું<br><br>વિભાગ 'બ':<br>A. ટાયફૂન<br>B. ચક્રવાત<br>C. ધરતીકંપ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ભારતમાં ગોળ ગોળ ફરે તે 'ચક્ર' (ચક્રવાત) અને જાપાનના લોકો ફાસ્ટ હોય એટલે 'ટાયફૂન'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ':<br>1. પૂર દરમિયાન<br>2. પૂર બાદ<br><br>વિભાગ 'બ':<br>A. પાણી ઉકાળીને પીવું<br>B. ઊંચાણવાળા વિસ્તારમાં જવું<br>C. નદીમાં નાહવા જવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) પૂર આવે ત્યારે જીવ બચાવવા 'ઊંચાઈ' પર દોડો, અને પૂર ગયા પછી રોગચાળો ન ફેલાય એટલે પાણી 'ઉકાળો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ':<br>1. ભૂકંપ સમયે શું કરવું?<br>2. ભૂકંપ સમયે શું ન કરવું?<br><br>વિભાગ 'બ':<br>A. પાટલી કે બેન્ચ નીચે બેસી જવું<br>B. ગભરાઈને બૂમાબૂમ કરવી<br>C. મોબાઈલ વાપરવો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ધરતી ધ્રૂજે ત્યારે માથું બચાવવા 'બેન્ચ' નીચે સંતાવું, પણ 'બૂમાબૂમ' કરીને અફરાતફરી ન કરવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ':<br>1. સુનામીની ઉત્પત્તિ<br>2. વાવાઝોડાની અસરો<br><br>વિભાગ 'બ':<br>A. ભારે વરસાદ અને પવન<br>B. સમુદ્રતળનો ભૂકંપ<br>C. જંગલમાં આગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) 'સુ' એટલે સાગર (સમુદ્ર) નો ભૂકંપ, અને વાવાઝોડું એટલે 'વા' (પવન) નો વેગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ':<br>1. અમેરિકામાં ચક્રવાત<br>2. હિંદ મહાસાગરમાં ચક્રવાત<br><br>વિભાગ 'બ':<br>A. ચક્રવાત<br>B. હરિકેન<br>C. સુનામી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) અમેરિકા 'H'urry (હરિકેન) માં હોય છે, જ્યારે આપણે (ભારત/હિંદ મહાસાગર) તેને 'ચક્ર' જેવું કહીએ છીએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ':<br>1. દુષ્કાળ અટકાવવાના ઉપાય<br>2. સુનામી સમયે સાવચેતી<br><br>વિભાગ 'બ':<br>A. વૃક્ષારોપણ કરવું<br>B. દરિયાકિનારાથી દૂર જવું<br>C. પહાડ પર ચઢવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) વરસાદ લાવવો હોય તો 'વૃક્ષ' વાવો (દુષ્કાળ નિવારણ), અને મોજાંથી બચવું હોય તો 'કિનારો' છોડો (સુનામી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ':<br>1. માનવસર્જિત દુર્ઘટના<br>2. કુદરતી પ્રકોપ<br><br>વિભાગ 'બ':<br>A. જ્વાળામુખી<br>B. ઔદ્યોગિક અકસ્માત<br>C. રમતગમત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ફેક્ટરી કે ઉદ્યોગ માણસ બનાવે એટલે 'ઔદ્યોગિક' માનવસર્જિત છે, જ્યારે જમીનમાંથી નીકળતો લાવા 'કુદરતી' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ':<br>1. વાવાઝોડા પહેલા<br>2. વાવાઝોડા દરમિયાન<br><br>વિભાગ 'બ':<br>A. બારી-બારણાં બંધ કરવા<br>B. રેડિયો પર સમાચાર સાંભળવા<br>C. માછીમારી કરવા જવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) પવન ફૂંકાય તે પહેલા 'ન્યૂઝ' જાણો, અને જ્યારે પવન ફૂંકાય ત્યારે 'બારી' બંધ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ':<br>1. બોમ્બ વિસ્ફોટ<br>2. દાવાનળ<br><br>વિભાગ 'બ':<br>A. જંગલની આગ<br>B. આતંકવાદી પ્રવૃત્તિ<br>C. દરિયાઈ તોફાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) 'બોમ્બ' માણસ ફોડે (માનવસર્જિત), 'દાવાનળ' એટલે વનમાં લાગેલી 'નળ' જેવી આગ (જંગલની આગ).</p></div>"
+    }
+  ]
+}
