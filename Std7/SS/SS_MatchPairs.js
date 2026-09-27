@@ -572,3 +572,86 @@ var Std7_SS_MatchPairs = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "પૃથ્વીની આંતરિક રચના અને ભૂમિસ્વરૂપો",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: <br> (1) શિયાલ (Si-Al) <br> (2) સીમા (Si-Ma) <br> (3) નિફે (Ni-Fe) <br><br> વિભાગ 'બ': <br> (A) નિકલ અને લોખંડ <br> (B) સિલિકા અને એલ્યુમિના <br> (C) સિલિકા અને મેગ્નેશિયમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - C, (3) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નામમાં જ જવાબ છે! Si+Al = શિયાલ, Si+Ma = સીમા, Ni+Fe = નિફે. બસ સ્પેલિંગ યાદ રાખો! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ખડકોના પ્રકાર અને તેના ઉદાહરણ જોડો: <br> (1) આંતરિક અગ્નિકૃત ખડક <br> (2) બાહ્ય અગ્નિકૃત ખડક <br> (3) પ્રસ્તર (જળકૃત) ખડક <br><br> વિભાગ 'બ': <br> (A) બેસાલ્ટ <br> (B) રેતાળ પથ્થર <br> (C) ગ્રેનાઈટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - A, (3) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્રેનાઈટ જમીનની 'અંદર' (આંતરિક) હોય, બેસાલ્ટ જમીનની 'બહાર' (બાહ્ય) હોય અને રેતીના 'થર' (પ્રસ્તર) હોય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "નદી દ્વારા બનતા ભૂમિસ્વરૂપો જોડો: <br> (1) નદીનો વળાંક <br> (2) નદીનું મુખ ત્રિકોણ <br> (3) નદીના કાંપના મેદાન <br><br> વિભાગ 'બ': <br> (A) ડેલ્ટા <br> (B) સર્પાકાર માર્ગ <br> (C) પૂરના મેદાનો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A, (3) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નદી સાપની જેમ ચાલે એટલે 'સર્પાકાર' અને દરિયા પાસે ત્રિકોણ બનાવે એટલે 'ડેલ્ટા'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સમુદ્રના મોજાંના કાર્યો જોડો: <br> (1) સમુદ્રી ગુફા <br> (2) સમુદ્રી કમાન <br> (3) સ્ટેક (Stark) <br><br> વિભાગ 'બ': <br> (A) માત્ર છત બાકી રહેવી <br> (B) માત્ર દીવાલ બાકી રહેવી <br> (C) ખડકમાં પોલાણ થવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - A, (3) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાણું પડે તો 'ગુફા', છત વધે તો 'કમાન' (દરવાજો) અને થાંભલો (દીવાલ) વધે તો 'સ્ટેક'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પવનના કાર્યો અને ભૂમિસ્વરૂપો જોડો: <br> (1) રણદ્વીપ (Mushroom Rock) <br> (2) ઢૂવા (Sand Dunes) <br> (3) લોએસ (Loess) <br><br> વિભાગ 'બ': <br> (A) માટીના કણોનું વિશાળ નિક્ષેપ <br> (B) છત્રક આકારના ખડક <br> (C) રેતીના ટેકરા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - C, (3) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બિલાડીનો ટોપ એટલે 'છત્રક', રેતીનો ઢગલો એટલે 'ઢૂવા'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ભૂસ્તરીય ઘટનાઓ જોડો: <br> (1) ભૂકંપ કેન્દ્ર <br> (2) નિર્ગમન કેન્દ્ર <br> (3) જ્વાળામુખી <br><br> વિભાગ 'બ': <br> (A) સપાટી પરનું સૌથી નજીકનું સ્થળ <br> (B) પૃથ્વીના કવચમાં પડેલું છિદ્ર <br> (C) જે સ્થળે ધ્રુજારી ઉત્પન્ન થાય છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - A, (3) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કેન્દ્ર' માંથી ધ્રુજારી શરૂ થાય અને સપાટી પર બહાર (Exit) આવે તે 'નિર્ગમન' (Epicenter). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ખડકોના રૂપાંતરણ જોડો: <br> (1) ચીકણી માટી <br> (2) ચૂનાના પથ્થર <br> (3) ગ્રેનાઈટ <br><br> વિભાગ 'બ': <br> (A) આરસપહાણ (Marble) <br> (B) સ્લેટ <br> (C) મસાલા પીસવા માટેનો પથ્થર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A, (3) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માટીમાંથી 'સ્લેટ' બને, ચૂનામાંથી 'આરસ' બને. યાદ રાખજો, જે સફેદ હોય તે આરસ! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "હિમનદીના ભૂમિસ્વરૂપો જોડો: <br> (1) હિમનદી <br> (2) હિમનદીના સરોવર <br> (3) હિમસ્તર (Moraines) <br><br> વિભાગ 'બ': <br> (A) પર્વતોના કોતરોમાં પાણી ભરાવું <br> (B) બરફની નદી <br> (C) હિમનદી દ્વારા લાવેલ પદાર્થોનું નિક્ષેપણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A, (3) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હિમ એટલે બરફ, નદી એટલે વહેણ. હિમનદી જે કાંપ ઠાલવે તેને 'ડ્રમલિન' કે 'હિમસ્તર' કહેવાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પૃથ્વીના પડની જાડાઈ અને સ્તર જોડો: <br> (1) પૃથ્વીનું સૌથી ઉપરનું પડ <br> (2) મેન્ટલ (Mantle) <br> (3) આંતરિક ભૂગર્ભ (Core) <br><br> વિભાગ 'બ': <br> (A) 2900 કિમી સુધીની ઊંડાઈ <br> (B) આશરે 3500 કિમી ત્રિજ્યા <br> (C) આશરે 35 કિમી સુધીની જાડાઈ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - A, (3) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 35 (ઉપર) -> 2900 (વચ્ચે) -> 3500 (કેન્દ્ર). નાનું -> મોટું -> સૌથી મોટું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "જળસ્વરૂપો અને પ્રક્રિયા જોડો: <br> (1) જળધોધ <br> (2) નળાકાર સરોવર <br> (3) પૂરના મેદાનો <br><br> વિભાગ 'બ': <br> (A) નદીના વળાંકો કપાઈ જવાથી બને <br> (B) નદી કિનારે કાંપ જમા થવાથી બને <br> (C) નદીનું પાણી કઠણ ખડક પરથી નીચે પડે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - A, (3) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધોધ એટલે પાણીનું પડવું, નળાકાર એટલે વળાંક છૂટો પડવો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "પરિભાષા અને અર્થ જોડો: <br> (1) મિશ્રણ (Lithospheric plates) <br> (2) લિથોસ્ફિયર <br> (3) ખડક ચક્ર <br><br> વિભાગ 'બ': <br> (A) ખડકોનું એક સ્વરૂપમાંથી બીજામાં પરિવર્તન <br> (B) પૃથ્વીના મૃદાવરણની પ્લેટો <br> (C) ભૂકવચ જે પથ્થરનું બનેલું છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - C, (3) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લિથો એટલે પથ્થર, સાયકલ/ચક્ર એટલે ગોળ ફરતું પરિવર્તન! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સમુદ્ર કિનારાના સ્વરૂપો જોડો: <br> (1) સમુદ્ર પુલિન (Beach) <br> (2) સમુદ્ર કિનારો <br> (3) સી-ક્લિફ (Sea Cliff) <br><br> વિભાગ 'બ': <br> (A) સમુદ્રના મોજાં દ્વારા નિક્ષેપણ <br> (B) ઊભો પથ્થર વાળો કિનારો <br> (C) જળ અને જમીનનું મિલન સ્થળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - C, (3) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બીચ (Beach) એટલે જ્યાં મોજાં રેતી લાવે, ક્લિફ (Cliff) એટલે એકદમ સીધું ચઢાણ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ખડકોની ઉપયોગિતા જોડો: <br> (1) લાલ કિલ્લો <br> (2) તાજમહાલ <br> (3) રસ્તા બનાવવામાં <br><br> વિભાગ 'બ': <br> (A) આરસપહાણ <br> (B) નકર ખડકો / પથ્થરો <br> (C) લાલ રેતાળ પથ્થર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - A, (3) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાલ કિલ્લો છે તો 'લાલ' પથ્થર જ હોય અને તાજમહાલ તો 'સફેદ આરસ' માટે ફેમસ છે જ! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "પૃથ્વીની આંતરિક રચનાના તત્વો જોડો: <br> (1) મેગ્મા <br> (2) લાવા <br> (3) જીવાવશેષ <br><br> વિભાગ 'બ': <br> (A) ખડકોના સ્તરોમાં દબાયેલા મૃત વનસ્પતિ-પ્રાણીના અવશેષ <br> (B) પૃથ્વીની અંદર રહેલો પીગળેલો રસ <br> (C) જ્વાળામુખી ફાટતા સપાટી પર આવતો રસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - C, (3) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેગ્મા 'મ' એટલે માં (અંદર) હોય, લાવા બહાર નીકળે! જીવ + અવશેષ = જીવાવશેષ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ભૂસ્વરૂપો અને તેના મુખ્ય કારકો જોડો: <br> (1) હિમનદી <br> (2) પવન <br> (3) સમુદ્રના મોજાં <br><br> વિભાગ 'બ': <br> (A) રણ પ્રદેશમાં ઘસારણ <br> (B) હિમસ્તરનું નિર્માણ <br> (C) સમુદ્રી ગુફાનું નિર્માણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A, (3) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બરફ હોય ત્યાં હિમનદી, રેતી હોય ત્યાં પવન અને દરિયો હોય ત્યાં મોજાં! (NJ Classes)</p></div>"
+    }
+  ]
+}
