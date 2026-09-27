@@ -738,3 +738,86 @@ var Std7_SS_MatchPairs = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "પર્યાવરણના ઘટકો અને આંતરસંબંધો",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A ને વિભાગ B સાથે જોડો: <br> 1. મૃદાવરણ <br> 2. જલાવરણ <br> 3. વાતાવરણ <br> 4. જીવાવરણ <br><br> વિભાગ B: <hr> A. પૃથ્વીની ચારેબાજુ વીંટળાયેલું હવાનું આવરણ <br> B. પૃથ્વી પરનો પાણીનો વિસ્તાર <br> C. પૃથ્વીનો ઉપરનો પોપડો (ખડકો અને માટી) <br> D. સજીવ સૃષ્ટિ ધરાવતો ભાગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-B, 3-A, 4-D</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મૃદ' એટલે માટી (પોપડો), 'જલ' એટલે પાણી, 'વાત' એટલે હવા અને 'જીવ' એટલે સજીવ. નામ પરથી જ કામ યાદ રહી જશે! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વાતાવરણના વાયુઓનું પ્રમાણ જોડો: <br> 1. નાઈટ્રોજન <br> 2. ઓક્સિજન <br> 3. આર્ગોન <br> 4. કાર્બન ડાયોક્સાઈડ <br><br> વિભાગ B: <hr> A. 20.94% <br> B. 78.03% <br> C. 0.03% <br> D. 0.94%",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-D, 4-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NOAC (નાઈટ્રોજન, ઓક્સિજન, આર્ગોન, CO2) ક્રમમાં યાદ રાખો - 78, 21, 0.9, 0.03. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "મહાસાગરોની લાક્ષણિકતાઓ જોડો: <br> 1. પેસિફિક મહાસાગર <br> 2. એટલાન્ટિક મહાસાગર <br> 3. હિંદ મહાસાગર <br> 4. આર્કટિક મહાસાગર <br><br> વિભાગ B: <hr> A. 'S' આકારનો મહાસાગર <br> B. સૌથી મોટો અને ઊંડો મહાસાગર <br> C. પૃથ્વીના ઉત્તર ધ્રુવ પાસેનો મહાસાગર <br> D. એક દેશના નામ પરથી પાડવામાં આવેલું નામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-D, 4-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P (Pacific) = Profound (ઊંડો), A (Atlantic) = 'S' Shape, I (Indian) = India, Arctic = ઉત્તર ધ્રુવ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ભરતી-ઓટના પ્રકાર અને કારણો જોડો: <br> 1. ભરતી <br> 2. ઓટ <br> 3. અમાસ અને પૂનમ <br> 4. ભરતી-ઓટનું મુખ્ય કારણ <br><br> વિભાગ B: <hr> A. સમુદ્રના પાણીનું નીચે ઉતરવું <br> B. સૂર્ય અને ચંદ્રનું ગુરુત્વાકર્ષણ બળ <br> C. સમુદ્રના પાણીનું ઉપર ચડવું <br> D. મોટી (મહત્તમ) ભરતી આવે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-D, 4-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ભરતી' માં પાણી ભરાય (ચડે), 'ઓટ' માં પાણી ઓછું થાય (ઉતરે). પૂર્ણિમા એટલે પૂરો ચંદ્ર, પૂરી તાકાત, મોટી ભરતી! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પ્રદૂષણ અને તેના સ્ત્રોતો જોડો: <br> 1. ભૂમિ પ્રદૂષણ <br> 2. જળ પ્રદૂષણ <br> 3. હવા પ્રદૂષણ <br> 4. ધ્વનિ પ્રદૂષણ <br><br> વિભાગ B: <hr> A. વાહનોનો ધુમાડો <br> B. ઘોંઘાટ (લાઉડ સ્પીકર) <br> C. રાસાયણિક ખાતરો અને પ્લાસ્ટિક <br> D. ગટરનું પાણી અને ઔદ્યોગિક કચરો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-D, 3-A, 4-B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૂમિ = જમીન (પ્લાસ્ટિક), જળ = પાણી (ગટર), હવા = ધુમાડો, ધ્વનિ = અવાજ (ઘોંઘાટ). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પર્યાવરણના ઘટકો જોડો: <br> 1. કુદરતી ઘટક (જૈવિક) <br> 2. કુદરતી ઘટક (અજૈવિક) <br> 3. માનવ નિર્મિત ઘટક <br> 4. માનવ પોતે <br><br> વિભાગ B: <hr> A. પર્વતો અને મેદાનો <br> B. ઉદ્યોગો અને પુલ <br> C. વનસ્પતિ અને પ્રાણીઓ <br> D. સામાજિક અને આર્થિક પ્રવૃત્તિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-A, 3-B, 4-D</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૈવિક = જીવ હોય તે, અજૈવિક = જીવ વગરનું કુદરતી, માનવ નિર્મિત = માણસે બનાવેલું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સમુદ્રી પ્રવાહો અને તાપમાન જોડો: <br> 1. ગરમ પ્રવાહો <br> 2. ઠંડા પ્રવાહો <br> 3. પ્રવાહો ઉદભવવાનું કારણ <br> 4. પ્રવાહોની ગતિ <br><br> વિભાગ B: <hr> A. ધ્રુવો તરફથી વિષુવવૃત્ત તરફ <br> B. વિષુવવૃત્તથી ધ્રુવો તરફ <br> C. પૃથ્વીનું પરિભ્રમણ અને પવન <br> D. ચોક્કસ દિશામાં વહેતો જલજથ્થો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-C, 4-D</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમ ક્યાં હોય? વિષુવવૃત્ત પર. ઠંડુ ક્યાં હોય? ધ્રુવો પર. પ્રવાહ હંમેશા પોતાની પ્રકૃતિ સાથે પ્રવાસ કરે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "પર્યાવરણ રક્ષણના ઉપાયો અને અસરો જોડો: <br> 1. વૃક્ષારોપણ <br> 2. પ્લાસ્ટિકનો મર્યાદિત ઉપયોગ <br> 3. અવાજ પ્રદૂષણ નિવારણ <br> 4. જળ સંરક્ષણ <br><br> વિભાગ B: <hr> A. ભૂમિ પ્રદૂષણ ઘટે <br> B. હવા શુદ્ધ થાય <br> C. ભવિષ્ય માટે પાણીની બચત <br> D. માનસિક સ્વાસ્થ્ય જળવાય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-D, 4-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વૃક્ષ = શુદ્ધ હવા' અને 'શાંતિ = માનસિક સુખ' આ કીવર્ડ્સ યાદ રાખો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પ્રદૂષણની અસરો જોડો: <br> 1. જમીન પ્રદૂષણ <br> 2. પાણી પ્રદૂષણ <br> 3. અવાજ પ્રદૂષણ <br> 4. હવા પ્રદૂષણ <br><br> વિભાગ B: <hr> A. શ્વાસની બીમારી <br> B. બહેરાશ આવવી <br> C. કોલેરા અને ટાઈફોઈડ <br> D. ફળદ્રુપતામાં ઘટાડો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-D, 2-C, 3-B, 4-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવા નાક માટે (શ્વાસ), પાણી પેટ માટે (કોલેરા), અવાજ કાન માટે (બહેરાશ) નુકસાનકારક છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિશ્વના મહાસાગરોનું કદ જોડો: <br> 1. સૌથી મોટો <br> 2. બીજા નંબરનો <br> 3. ત્રીજા નંબરનો <br> 4. સૌથી નાનો <br><br> વિભાગ B: <hr> A. હિંદ મહાસાગર <br> B. પેસિફિક મહાસાગર <br> C. આર્કટિક મહાસાગર <br> D. એટલાન્ટિક મહાસાગર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-D, 3-A, 4-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: PAIA યાદ રાખો: Pacific, Atlantic, Indian, Arctic. (કદ મુજબ ઉતરતો ક્રમ). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "પર્યાવરણના ઘટકો વચ્ચેના સંબંધો જોડો: <br> 1. માનવ અને વાતાવરણ <br> 2. માનવ અને મૃદાવરણ <br> 3. માનવ અને જલાવરણ <br> 4. સજીવ અને સજીવ <br><br> વિભાગ B: <hr> A. ખેતી અને ખનીજ મેળવવા <br> B. શુદ્ધ હવા અને વરસાદ <br> C. આહાર કડી (Food Chain) <br> D. પીવા માટે અને સિંચાઈ માટે પાણી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-D, 4-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે આવરણ છે તેની સાથે જોડાયેલી જરૂરિયાત શોધો. મૃદા-ખેતી, જલ-પીવું, વાત-હવા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "પ્રદૂષણ નિયંત્રણના સૂત્રો જોડો: <br> 1. હવા પ્રદૂષણ <br> 2. જળ પ્રદૂષણ <br> 3. ભૂમિ પ્રદૂષણ <br> 4. ધ્વનિ પ્રદૂષણ <br><br> વિભાગ B: <hr> A. પાણીનો કરકસરભર્યો ઉપયોગ <br> B. વાહનોનું પી.યુ.સી. (PUC) <br> C. બિનજરૂરી હોર્ન ન વગાડવા <br> D. જમીનમાં કચરો ન ફેંકવો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-D, 4-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: PUC હંમેશા ધુમાડા (હવા) માટે હોય અને હોર્ન હંમેશા અવાજ (ધ્વનિ) માટે હોય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "મૃદાવરણના ઘટકો જોડો: <br> 1. ખડકો <br> 2. માટી <br> 3. ખનીજો <br> 4. ખેતી <br><br> વિભાગ B: <hr> A. પોષણ અને પાક <br> B. પૃથ્વીના પેટાળની સંપત્તિ <br> C. મૃદાવરણનો મુખ્ય ભાગ <br> D. વનસ્પતિ માટેનો આધાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-C, 2-D, 3-B, 4-A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખનીજ જમીનની અંદર (પેટાળ) હોય અને ખેતી માટી પર (પાક) થાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "જલાવરણની વહેંચણી જોડો: <br> 1. મહાસાગરો (ખારું પાણી) <br> 2. હિમનદીઓ અને બરફ <br> 3. ભૂમિગત જળ <br> 4. નદીઓ અને સરોવરો <br><br> વિભાગ B: <hr> A. જમીનની નીચે રહેલું પાણી <br> B. આશરે 97% પાણી <br> C. પીવાલાયક મીઠા પાણીનો સ્ત્રોત <br> D. ધ્રુવ પ્રદેશોમાં જોવા મળે છે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-D, 3-A, 4-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દુનિયામાં સૌથી વધુ ખારું પાણી છે (97%). બરફ હંમેશા ધ્રુવો પર જ હોય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વાતાવરણની અસરો જોડો: <br> 1. અવાજનું પ્રસરણ <br> 2. સૂર્યના પારજાંબલી કિરણો <br> 3. આકાશનો વાદળી રંગ <br> 4. રેડિયો પ્રસારણ <br><br> વિભાગ B: <hr> A. ઓઝોન વાયુ <br> B. માધ્યમ તરીકે હવા <br> C. આયનોસ્ફિયર (આયનાવરણ) <br> D. રજકણો દ્વારા પ્રકાશનું વિખેરણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1-B, 2-A, 3-D, 4-C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓઝોન = છત્રી (રક્ષણ), રજકણો = રંગ (વાદળી), આયનાવરણ = રેડિયો ટાવર. (NJ Classes)</p></div>"
+    }
+  ]
+}
