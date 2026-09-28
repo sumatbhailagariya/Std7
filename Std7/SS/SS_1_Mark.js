@@ -1321,3 +1321,161 @@ var Std7_SS_1_Mark = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "પ્રાદેશિક સંસ્કૃતિનું ઘડતર",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ભારતમાં કઈ નવમી સદીમાં સ્થાપવામાં આવેલ મહોદયપુરમનું ચેર રાજ્ય હાલના કયા રાજ્યનો ભાગ હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નવમી સદીમાં સ્થાપવામાં આવેલ મહોદયપુરમનું ચેર રાજ્ય હાલના કેરળ રાજ્યનો એક ભાગ હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો: 'કેરળમાં ચેર' - બંનેમાં 'ર' અક્ષર કોમન છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "મલયાલમ ભાષા કઈ લિપિમાં લખાયેલી પ્રથમ સાહિત્યિક કૃતિઓ તરીકે ઓળખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મલયાલમ ભાષામાં લખાયેલી પ્રથમ સાહિત્યિક કૃતિઓ 12મી સદીની આસપાસ સંસ્કૃતમાંથી સીધી રીતે પ્રભાવિત થઈ હોવાનું જણાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મલયાલમનો 'મ' અને સંસ્કૃતનો 'સ' - માતૃભાષા સંસ્કૃતમાંથી જન્મી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કયો ગ્રંથ મલયાલમ ભાષામાં મણિપ્રવાલમ્ શૈલીમાં લખાયેલો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 14મી સદીમાં વ્યાકરણ અને કાવ્યશાસ્ત્ર પર લખાયેલો ‘લીલાતિલકમ’ ગ્રંથ મણિપ્રવાલમ્ શૈલીમાં લખાયેલો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'લીલા' એ 'મણિ' સાથે રમે છે (લીલાતિલકમ - મણિપ્રવાલમ્). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જગન્નાથ શબ્દનો અર્થ શું થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જગન્નાથ શબ્દનો અર્થ ‘જગતનો નાથ’ (વિશ્વનો માલિક) થાય છે, જે વિષ્ણુ ભગવાનનો પર્યાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જગત + નાથ = જગન્નાથ (સંધિ વિગ્રહ યાદ રાખો). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ઓડિશાના પૂરી ખાતે આવેલું જગન્નાથ મંદિર કોણે બંધાવ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 12મી સદીમાં ગંગવંશના રાજા અનંતવર્મન દ્વારા જગન્નાથ મંદિરનું નિર્માણ કરાવવામાં આવ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જગન્નાથની પૂરી ખાવા માટે 'અનંત' લાઈન લાગે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "હોળીનો તહેવાર કેટલા દિવસનો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હોળીનો તહેવાર ભારતભરમાં ઉજવાય છે, પરંતુ તે બે દિવસનો તહેવાર છે: પહેલો દિવસ હોળી અને બીજો દિવસ ધુળેટી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હોળી + ધુળેટી = 2 દિવસ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "બરસાનામાં રમાતી હોળી કયા નામે ઓળખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉત્તર પ્રદેશના બરસાનામાં ઉજવાતી હોળી 'લઠ્ઠમાર હોળી' તરીકે જાણીતી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બરસાનાની ગોપીઓ 'લઠ્ઠ' (લાકડી) મારે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "લોહરીનો તહેવાર કયા રાજ્યના લોકો ઉજવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લોહરીનો તહેવાર મુખ્યત્વે પંજાબ, હરિયાણા અને દિલ્હીના શિખ સમુદાયના લોકો ઉજવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોહરી પંજાબીઓની શાન છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પોંગલ કયા રાજ્યનો મુખ્ય તહેવાર છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પોંગલ તમિલનાડુ રાજ્યનો મુખ્ય તહેવાર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોંગલ - તમિલનાડુ (P-T યાદ રાખો). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ઓણમ તહેવારમાં કઈ સ્પર્ધા મુખ્ય આકર્ષણનું કેન્દ્ર હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓણમ તહેવારમાં નૌકા સ્પર્ધા (વલ્લમકાલી) મુખ્ય આકર્ષણનું કેન્દ્ર હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓણમ એટલે 'બોટ રેસ' (નૌકા સ્પર્ધા). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વૈશાખી તહેવાર ક્યારે ઉજવવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વૈશાખી તહેવાર દર વર્ષે 13મી એપ્રિલે ઉજવવામાં આવે છે, જે પંજાબમાં પાક લણણીનો ઉત્સવ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '13મી એપ્રિલ' - પાક તૈયાર તો ભાંગડા તૈયાર! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "પારસીઓનો મુખ્ય તહેવાર કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પારસીઓનો મુખ્ય તહેવાર 'પતેતી' (નવરોઝ) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પથી પતેતી અને પથી પારસી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ગુજરાતમાં રથયાત્રા ક્યારે નીકળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુજરાતમાં અષાઢી બીજના દિવસે જગન્નાથજીની રથયાત્રા નીકળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અષાઢી બીજ = રથયાત્રાની મોજ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "તરણેતરનો મેળો કયા જિલ્લામાં ભરાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તરણેતરનો મેળો સુરેન્દ્રનગર જિલ્લામાં ભરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તરણેતરનો 'ત' અને સુરેન્દ્રનગરનો છેલ્લો 'ર'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વૌઠાનો મેળો કયા પ્રાણીઓના વેચાણ માટે જાણીતો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વૌઠાનો મેળો ગધેડાઓની લે-વેચ માટે જાણીતો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વૌઠામાં ગધેડા વેચાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "કથક શબ્દ કયા શબ્દ પરથી ઉતરી આવ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કથક શબ્દ ‘કથા’ પરથી ઉતરી આવ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કથન કરે સો કથક કહાવે'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "કથકલી કયા રાજ્યની નૃત્ય પરંપરા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કથકલી કેરળ રાજ્યની નૃત્ય પરંપરા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેરળની 'કળી' (કથકલી). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "મણિપુરી નૃત્યના મુખ્ય કેટલા પ્રકારો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મણિપુરી નૃત્યના મુખ્ય બે પ્રકાર છે: (1) લાસ્ય અને (2) તાંડવ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મણિપુરી = LT (L-લાસ્ય, T-તાંડવ). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ભરતનાટ્યમ કયા રાજ્યનું પ્રસિદ્ધ નૃત્ય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભરતનાટ્યમ તમિલનાડુ રાજ્યનું પ્રસિદ્ધ નૃત્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ભરત' મિલાપ 'તમિલનાડુ'માં થયો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "કુચિપુડી નૃત્યનો ઉદ્ભવ કયા રાજ્યમાં થયો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કુચિપુડી નૃત્યનો ઉદ્ભવ આંધ્રપ્રદેશના કુચિપુડી નામના ગામમાં થયો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આંધળા માણસે 'કાચી પૂડી' ખાધી (આંધ્રપ્રદેશ - કુચિપુડી). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "બીહુ નૃત્ય કયા રાજ્ય સાથે સંકળાયેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બીહુ નૃત્ય અસમ (આસામ) રાજ્ય સાથે સંકળાયેલું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આસામની 'બહુ' (બીહુ). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "લઘુચિત્રો (Miniature Paintings) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લઘુચિત્રો એટલે કાપડ કે કાગળ પર પાણીના રંગોથી તૈયાર કરવામાં આવેલ નાના કદના ચિત્રો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લઘુ એટલે નાનું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "કાંગડા શૈલીના ચિત્રોનો મુખ્ય વિષય કયો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાંગડા શૈલીના ચિત્રોનો મુખ્ય વિષય ભગવાન શ્રીકૃષ્ણ અને ભક્તિ પરંપરા હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાંગડા ચિત્રોમાં કૃષ્ણ પ્રેમ જોવા મળે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "પાલિયા (Memorial Stones) કોની યાદમાં બાંધવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાલિયા યુદ્ધમાં શહીદ થયેલા વીરોની યાદમાં તેમની બહાદુરીના પ્રતીક તરીકે બાંધવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાલિયા = પાળેલું વચન (વીરોની યાદ). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "કયા કવિને ગુજરાતી ભાષાના આદિકવિ માનવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નરસિંહ મહેતાને ગુજરાતી ભાષાના આદિકવિ માનવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નરસિંહ - ગુજરાતના આદિ ભગવાન જેવા કવિ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "મીરાંબાઈએ કોને કેન્દ્રમાં રાખીને પદોની રચના કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મીરાંબાઈએ ભગવાન શ્રીકૃષ્ણને કેન્દ્રમાં રાખીને પદોની રચના કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીરાંના હૈયે ગિરધર ગોપાલ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "આખ્યાન શિરોમણી તરીકે કોણ ઓળખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કવિ પ્રેમાનંદ આખ્યાન શિરોમણી તરીકે ઓળખાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રેમથી આખ્યાન ગાય તે 'પ્રેમાનંદ'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "દયારામે ગુજરાતી સાહિત્યમાં કયો નવો વળાંક આપ્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દયારામે ગરબીઓની રચના કરીને ગુજરાતી સાહિત્યમાં ભક્તિનો નવો વળાંક આપ્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દયારામની ગરબી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "અર્વાચીન ગુજરાતી સાહિત્યની શરૂઆત કોનાથી થઈ ગણાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અર્વાચીન ગુજરાતી સાહિત્યની શરૂઆત કવિ નર્મદથી થઈ ગણાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નર્મદ = નવો યુગ (અર્વાચીન). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "ઓડિશાની રથયાત્રામાં કયા ત્રણ રથો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓડિશાની રથયાત્રામાં ભગવાન જગન્નાથ, બલભદ્ર (સુભદ્રાના ભાઈ) અને સુભદ્રાના રથ હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જગન્નાથ + ભાઈ + બહેન. (NJ Classes)</p></div>"
+    }
+  ]
+}
