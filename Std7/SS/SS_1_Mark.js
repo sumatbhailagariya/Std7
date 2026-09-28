@@ -955,3 +955,211 @@ var Std7_SS_1_Mark = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "આદિવાસી, વિચરતી જાતિઓ અને સ્થાનિક સમુદાયો",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "જનજાતિઓ કોને કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે સમાજો જ્ઞાતિ આધારિત કડક નિયમો પાળતા નહોતા અને જેઓ પોતાની આગવી સંસ્કૃતિ ધરાવતા હતા, તેવા સમૂહોને જનજાતિઓ કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જન' એટલે માણસો અને 'જાતિ' એટલે જે સમાજના નિયમોથી અલગ પોતાની મસ્તીમાં રહે તે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "૧૩મી અને ૧૪મી સદી દરમિયાન પંજાબમાં કઈ જનજાતિઓ મુખ્ય હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પંજાબમાં ખોખર જનજાતિ અને ગખ્ખર જનજાતિ મુખ્ય હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંજાબમાં 'ખ' અને 'ગ' (ખોખર અને ગખ્ખર) યાદ રાખવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "અકબરે કયા ગખ્ખર નેતાને મનસબદાર બનાવ્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અકબરે ગખ્ખર જનજાતિના નેતા કમાલખાન ગખ્ખરને મનસબદાર બનાવ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અકબરનો 'ક' અને કમાલખાનનો 'ક' - બંને મોટા માણસો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "મુલ્તાન અને સિંધમાં કઈ જનજાતિઓનું આધિપત્ય હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુલ્તાન અને સિંધમાં લંઘા અને અરઘુન જનજાતિઓનું આધિપત્ય હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુલ્તાનનો 'લ' એટલે લંઘા અને અરઘુન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ભારતના ઉત્તર-પશ્ચિમ ભાગમાં કઈ શક્તિશાળી જનજાતિ રહેતી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતના ઉત્તર-પશ્ચિમ ભાગમાં બલોચ જનજાતિ સૌથી શક્તિશાળી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પશ્ચિમમાં 'બ' (બલોચ) બળવાન હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પશ્ચિમ હિમાલયમાં કઈ જનજાતિ વસતી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પશ્ચિમ હિમાલયમાં 'ગડ્ડી' નામની ગાડરિયા જનજાતિ વસતી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હિમાલયમાં ઠંડી એટલે ગાદલાં જેવા ઊનવાળા 'ગડ્ડી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ભારતના ઉત્તર-પૂર્વ ભાગમાં કઈ જનજાતિઓનું વર્ચસ્વ હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉત્તર-પૂર્વમાં નાગા, અહોમ, મિઝો અને અન્ય જનજાતિઓનું વર્ચસ્વ હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેવન સિસ્ટર્સ રાજ્યો એટલે નાગા અને અહોમનો વિસ્તાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "બિહાર અને ઝારખંડના વિસ્તારોમાં ૧૨મી સદી સુધી કોનું શાસન હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બિહાર અને ઝારખંડમાં ૧૨મી સદી સુધી 'ચેર' સરદારોનું શાસન હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બિહારના લોકો 'ચેર' (ખુરશી) જેવી સત્તા પર હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "અકબરના સેનાપતિ રાજા માનસિંહે ચેર જાતિ પર ક્યારે હુમલો કર્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાજા માનસિંહે ઈ.સ. ૧૫૯૧ માં ચેર જાતિ પર હુમલો કરી તેને પરાજિત કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માનસિંહે 1591 માં 'ચેર' (ખુરશી) ખેંચી લીધી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ઓડિશા અને બંગાળમાં કઈ મહત્વની જનજાતિઓ રહેતી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓડિશા અને બંગાળમાં મુંડા અને સંથાલ નામની મહત્વની જનજાતિઓ રહેતી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂર્વ ભારતમાં 'મુંડા-સંથાલ' ની જોડી યાદ રાખવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ગુજરાત અને મહારાષ્ટ્રના ડુંગરાળ વિસ્તારોમાં કઈ જનજાતિઓ વસતી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુજરાત અને મહારાષ્ટ્રના ડુંગરાળ વિસ્તારોમાં કોળી, બેરાદ અને અન્ય જનજાતિઓ વસતી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાતના કોળી અને મહારાષ્ટ્રના બેરાદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "દક્ષિણ ભારતમાં કઈ જનજાતિઓ વસતી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દક્ષિણ ભારતમાં કોરાગા, વેતર, મારવાર અને અન્ય જનજાતિઓ વસતી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દક્ષિણના નામો થોડા અઘરા પણ 'વેતર' અને 'મારવાર' મુખ્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "પશ્ચિમ અને મધ્ય ભારતમાં કઈ સૌથી મોટી જનજાતિ ફેલાયેલી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પશ્ચિમ અને મધ્ય ભારતમાં ભીલ જનજાતિ સૌથી મોટી અને મહત્વની હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારતની સૌથી મોટી જનજાતિ એટલે 'ભીલ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વર્તમાન છત્તીસગઢ, મધ્યપ્રદેશ અને મહારાષ્ટ્રમાં કઈ જનજાતિ વસે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ રાજ્યોમાં મુખ્યત્વે 'ગોંડ' લોકોની મોટી વસ્તી વસે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મધ્ય ભારતનો ગઢ એટલે 'ગોંડ' જાતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિચરતી કે વિમુક્ત જાતિઓ કોને કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે જાતિઓ પોતાના પશુઓ સાથે એક જગ્યાએથી બીજી જગ્યાએ સતત ફરતી રહેતી હોય તેને વિચરતી કે વિમુક્ત જાતિઓ કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વિચરતી' એટલે વિચરણ કરનાર (ફરતી રહેતી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "બંજારો કોણ હતા?",
+      "answer": "<div style='background-color:#f0f8ff; font-family:inherit; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બંજારો એ ભારતની સૌથી મહત્વની વિચરતી જાતિ હતી, જે મુખ્યત્વે વેપાર અને માલસામાનની હેરફેર સાથે જોડાયેલી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંજારા એટલે બજારમાં માલ પહોંચાડનારા 'વ્યાપારી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "બંજારોના સમૂહને શું કહેવામાં આવતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બંજારોના સમૂહને 'ટાંડું' કહેવામાં આવતું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંજારોનું 'ટાંડું' યાદ રાખવું (ટાંડું એટલે આખો કાફલો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "કયા મુગલ બાદશાહે બંજારો દ્વારા અનાજ લાવવા-લઈ જવાનો ઉલ્લેખ કર્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુગલ બાદશાહ જહાંગીરે પોતાના સંસ્મરણોમાં બંજારો દ્વારા બળદો પર અનાજ લાદીને શહેરોમાં વેચવાના કાર્યનો ઉલ્લેખ કર્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જહાંગીરે 'જગ' જોયું અને બંજારોનું કામ નોંધ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "કઈ જનજાતિ ખેતીમાં 'સ્થળાંતરિત ખેતી' (ઝૂમ ખેતી) કરતી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગોંડ જનજાતિના લોકો જંગલોમાં ઝાડ કાપીને જમીન સાફ કરી ત્યાં ખેતી (સ્થળાંતરિત ખેતી) કરતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોંડ = જંગલના રાજા અને ઝૂમ ખેતીના માસ્ટર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ગોંડ રાજ્યમાં વહીવટી એકમ 'ચોર્યાસી' એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગોંડ રાજ્યમાં દરેક ગઢ ૮૪ ગામોના એક એકમમાં વહેંચાયેલો હતો, જેને 'ચોર્યાસી' કહેવામાં આવતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચોર્યાસી = 84 ગામોનો સમૂહ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ગોંડ રાજ્યમાં 'બારહોત' એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'ચોર્યાસી' ને પેટા એકમમાં વહેંચવામાં આવતું જે ૧૨-૧૨ ગામોના બનેલા હતા, તેને 'બારહોત' કહેવાતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બાર' એટલે 12, એટલે બારહોત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "ગઢ કટંગાના ગોંડ રાજા અમનદાસે કઈ પદવી ધારણ કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગઢ કટંગાના ગોંડ રાજા અમનદાસે 'સંગ્રામશાહ' ની પદવી ધારણ કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અમન જોઈએ તો 'સંગ્રામ' કરવો પડે - સંગ્રામશાહ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "રાણી દુર્ગાવતી કોણ હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાણી દુર્ગાવતી મહોબાના ચંદેલ રાજપૂત રાજાની પુત્રી અને દલપતશાહના વિધવા પત્ની હતા, જેમણે ગઢ કટંગા પર કુશળ શાસન કર્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દુર્ગાવતી એટલે ગોંડ સામ્રાજ્યની વીરાંગના.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ગઢ કટંગા રાજ્ય શાના વેપાર દ્વારા પુષ્કળ ધન કમાયું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગઢ કટંગા રાજ્ય હાથીઓના પકડવા અને તેના વેપાર દ્વારા પુષ્કળ ધન કમાયું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગઢ કટંગા = હાથીઓનું વેચાણ કેન્દ્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "અહોમ લોકો ક્યાંથી આવીને બ્રહ્મપુત્ર નદીના ખીણ વિસ્તારમાં વસ્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અહોમ લોકો ૧૩મી સદીમાં હાલના મ્યાનમારથી આવીને બ્રહ્મપુત્ર નદીના ખીણ વિસ્તારમાં વસ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અહોમ આવ્યા 'મ્યાનમાર' થી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "અહોમ રાજ્યમાં જે લોકો પાસે બળજબરીથી કામ લેવાતું તેને શું કહેવાતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અહોમ રાજ્યમાં જે લોકો પાસે રાજ્ય માટે બળજબરીથી કામ લેવાતું તેમને 'પાઇક' કહેવામાં આવતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પાઇક' એટલે પૈસા વગર (બળજબરીથી) કામ કરનાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "અહોમ સમાજના કુળને શું કહેવામાં આવતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અહોમ સમાજ કુળોમાં વહેંચાયેલો હતો, જેને 'ખેલ' કહેવામાં આવતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુળની વચ્ચે 'ખેલ' રમાય - એટલે ખેલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "અહોમ રાજા શિવસિંહના સમયમાં કયો ધર્મ મુખ્ય બન્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાજા શિવસિંહ (૧૭૧૪-૧૭૪૪) ના સમયમાં હિન્દુ ધર્મ ત્યાંનો મુખ્ય ધર્મ બન્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિવ એટલે જ હિન્દુ ધર્મનું પ્રતીક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "અહોમ સાહિત્યની કઈ ઐતિહાસિક કૃતિઓને પહેલા અહોમ ભાષામાં અને પછી આસામીમાં લખવામાં આવી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'બુરંજી' નામની ઐતિહાસિક કૃતિઓને પહેલા અહોમ અને પછી આસામી ભાષામાં લખવામાં આવી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બુરંજી = બુક (ઈતિહાસની ચોપડી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "ગરાસિયા કયા વિસ્તારમાં વસતી જનજાતિ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગરાસિયા જનજાતિ મુખ્યત્વે રાજસ્થાન અને ગુજરાતના સરહદી વિસ્તારોમાં વસતી જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરાસિયા એટલે ગુજરાત-રાજસ્થાનના પહાડી રત્નો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "જનજાતિઓના લોકોની આજીવિકા મુખ્યત્વે શાના પર આધારિત હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જનજાતિઓના લોકોની આજીવિકા ખેતી, પશુપાલન અને જંગલની પેદાશોના સંગ્રહ પર આધારિત હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રકૃતિના ખોળે એટલે ખેતી અને પશુપાલન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "મુગલ સૈન્યે આસફખાનના નેતૃત્વમાં ગઢ કટંગા પર ક્યારે હુમલો કર્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુગલ સૈન્યે ઈ.સ. ૧૫૬૫ માં આસફખાનના નેતૃત્વમાં ગઢ કટંગા પર હુમલો કર્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1565 માં ગઢ કટંગામાં આસફખાનનો આતંક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "અહોમ સમાજ કયા પ્રકારનો સમાજ હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અહોમ સમાજ એક અત્યંત સુસંસ્કૃત સમાજ હતો, જેમાં કવિઓ અને વિદ્વાનોને જમીન દાનમાં આપવામાં આવતી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અહોમ = અદભૂત અને સુસંસ્કૃત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "વિચરતી જાતિના લોકો કઈ ચીજવસ્તુઓનું વેચાણ કરતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તેઓ દૂધ, ઘી, ઊન, ઘાસ વગેરે ચીજવસ્તુઓ ખેડૂતોને આપી બદલામાં અનાજ, કપડાં અને વાસણો મેળવતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આપ-લે પદ્ધતિ (વસ્તુ વિનિમય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "સ્થળાંતરિત ખેતી કોને કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જંગલોના વૃક્ષો કાપી તેને સળગાવીને જમીન સાફ કરી ત્યાં જે ખેતી કરવામાં આવે તેને સ્થળાંતરિત કે ઝૂમ ખેતી કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જગ્યા બદલાવીને થતી ખેતી એટલે 'સ્થળાંતરિત'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "ગઢ કટંગાના પતન પછી કયા રાજ્યો શક્તિશાળી બન્યા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગઢ કટંગાના પતન પછી બુંદેલા અને મરાઠાઓના આક્રમણ સામે ગોંડ રાજ્યો નબળા પડ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોંડ ગયા, બુંદેલા અને મરાઠા આવ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "અહોમ રાજાઓએ કયા સાધનનો ઉપયોગ કરીને નવું રાજ્ય સ્થાપ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અહોમ રાજાઓએ 'ભૂઈયા' (જમીનદાર) ની જૂની રાજકીય વ્યવસ્થાને બદલીને નવું રાજ્ય સ્થાપ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૂઈયાને હટાવ્યા અને અહોમ આવ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "અહોમ લોકોએ ૧૬૬૦ સુધીમાં શું બનાવવાની ક્ષમતા મેળવી લીધી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અહોમ લોકોએ ૧૬૬૦ સુધીમાં ઉચ્ચ ગુણવત્તાવાળા દારૂગોળો અને તોપો બનાવવાની ક્ષમતા મેળવી લીધી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અહોમ = એડવાન્સ ટેકનોલોજી (દારૂગોળો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "ચેર જનજાતિ પર કોના સમયમાં મુગલોએ વિજય મેળવ્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઔરંગઝેબના સમયમાં મુગલ સેનાએ ચેર જાતિના ઘણા કિલ્લાઓ કબજે કરી તેમના પર વિજય મેળવ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શરૂઆત માનસિંહ (અકબર) અને અંત ઔરંગઝેબ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "બંજારો ભારતની અર્થવ્યવસ્થા માટે શા માટે મહત્વના હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બંજારો અનાજ અને અન્ય ચીજવસ્તુઓની દેશના એક ભાગથી બીજા ભાગમાં હેરફેર કરવા માટે એક મહત્વની કડી સમાન હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંજારો = પ્રાચીન ભારતના 'લોજિસ્ટિક્સ કિંગ'.</p></div>"
+    }
+  ]
+}
