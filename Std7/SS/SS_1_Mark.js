@@ -1163,3 +1163,161 @@ var Std7_SS_1_Mark = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "ભક્તિયુગ : ધાર્મિક સમુદાયો અને વિચારો",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ભક્તિ આંદોલનના મુખ્ય હેતુઓ શું હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભક્તિ આંદોલનનો મુખ્ય હેતુ લોકો માટે ધર્મના સરળ દ્વાર ખોલવા, ઈશ્વર પ્રત્યે અનુરાગ પેદા કરવો અને સમાજમાં રહેલા ઊંચ-નીચના ભેદભાવ દૂર કરવાનો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભક્તિ એટલે 'ભેદભાવ ભૂલી ભગવાન પાસે જવું'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "દક્ષિણ ભારતમાં કયા બે પ્રકારના સંતોએ ભક્તિ આંદોલનનો પ્રચાર કર્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દક્ષિણ ભારતમાં 'આલવાર' (વૈષ્ણવ સંતો) અને 'નાયનાર' (શૈવ સંતો) એમ બે પ્રકારના સંતોએ ભક્તિ આંદોલનનો પ્રચાર કર્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિવ એટલે 'નયન' (નાયનાર) અને વિષ્ણુ એટલે 'આલવાર'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "આદિ શંકરાચાર્યનો જન્મ ક્યાં થયો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આદિ શંકરાચાર્યનો જન્મ દક્ષિણ ભારતના કેરલ રાજ્યના 'કાલડી' મુકામે થયો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શંકર ભગવાનની 'કાલ' પર જીત - કાલડી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "શ્રી રામાનુજાચાર્યનો જન્મ કયા સ્થળે થયો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શ્રી રામાનુજાચાર્યનો જન્મ દક્ષિણ ભારતના 'પેરૂમલતુર' ગામે થયો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રામની 'પેરૂમલ' જેવી ભક્તિ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ઉત્તર ભારતમાં ભક્તિ આંદોલનની શરૂઆત કોણે કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉત્તર ભારતમાં ભક્તિ આંદોલનની શરૂઆત સંત રામાનંદે કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉત્તરમાં 'રામ'નું 'આનંદ' - રામાનંદ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કબીરના કાવ્યસંગ્રહનું નામ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંત કબીરના કાવ્યસંગ્રહનું નામ 'બીજક' છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કબીરના વિચારોનું 'બીજ' એટલે 'બીજક'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "શિખ ધર્મના સ્થાપક કોણ હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શિખ ધર્મના સ્થાપક ગુરુ નાનક હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિખ ધર્મના 'નાયક' એટલે 'નાનક'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "શિખ ધર્મનો પવિત્ર ગ્રંથ કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શિખ ધર્મનો પવિત્ર ગ્રંથ 'ગુરુ ગ્રંથ સાહિબ' છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુરુની વાણી એ જ મોટો ગ્રંથ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "બંગાળમાં હરિબોલનો મંત્ર કોણે ગુંજતો કર્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બંગાળમાં ચૈતન્ય મહાપ્રભુએ હરિબોલનો મંત્ર ગુંજતો કર્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચૈતન્યએ બંગાળમાં ચેતના જગાડી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ગુજરાતના કયા સંતને 'આદિ કવિ' તરીકે ઓળખવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નરસિંહ મહેતાને ગુજરાતના 'આદિ કવિ' તરીકે ઓળખવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાતના ભક્તિ સાહિત્યની શરૂઆત કરનાર નરસિંહ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "નરસિંહ મહેતાનું કયું પદ ગાંધીજીને અતિપ્રિય હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નરસિંહ મહેતાનું 'વૈષ્ણવ જન તો તેને રે કહીએ...' પદ ગાંધીજીને અતિપ્રિય હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વૈષ્ણવ જન = ગાંધીજીનું ફેવરિટ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "મીરાંબાઈ કોના ભક્ત હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મીરાંબાઈ ભગવાન શ્રીકૃષ્ણ (ગિરિધર ગોપાલ) ના પરમ ભક્ત હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીરાં અને કૃષ્ણ - અતૂટ પ્રેમ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સંત તુલસીદાસે કયા પ્રખ્યાત ગ્રંથોની રચના કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંત તુલસીદાસે 'રામચરિતમાનસ' અને 'વિનય પત્રિકા' જેવા ગ્રંથોની રચના કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તુલસીના રામ માનસમાં વસે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "સુરદાસ કોના શિષ્ય હતા અને તેમણે કયા ગ્રંથની રચના કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુરદાસ વલ્લભાચાર્યના શિષ્ય હતા અને તેમણે 'સુરસાગર' ગ્રંથની રચના કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુરદાસનો સુર = સુરસાગર. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "મહારાષ્ટ્રમાં ભક્તિ આંદોલનનું મુખ્ય કેન્દ્ર કયું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહારાષ્ટ્રમાં ભક્તિ આંદોલનનું મુખ્ય કેન્દ્ર પંઢરપુરનું 'વિઠોબા મંદિર' હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહારાષ્ટ્ર એટલે પંઢરપુરની વારી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "જ્ઞાનેશ્વરે મહારાષ્ટ્રમાં કયા પાયા નાખ્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્ઞાનેશ્વરે માત્ર 15 વર્ષની ઉંમરે ભગવદ્ ગીતા પરની ટીકા 'જ્ઞાનેશ્વરી' લખી મહારાષ્ટ્રમાં ભક્તિ આંદોલનના પાયા નાખ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્ઞાનેશ્વરનું જ્ઞાન = જ્ઞાનેશ્વરી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સંત તુકારામના કયા કાવ્યો ખૂબ જાણીતા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંત તુકારામના 'અભંગો' ખૂબ જ જાણીતા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'તુ'કારામના 'અ'ભંગો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ભારતમાં સુફી મત ફેલાવનાર મુખ્ય ચાર પરંપરાઓ કઈ હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતમાં સુફી મતમાં ચાર મુખ્ય પરંપરાઓ હતી: ૧. ચિશ્તી, ૨. સુહરાવર્દી, ૩. કાદરી અને ૪. નક્ષબંદી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચિ-સુ-કા-ન (ચિશ્તી, સુહરાવર્દી, કાદરી, નક્ષબંદી). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "અજમેરમાં ચિશ્તી પરંપરાની સ્થાપના કોણે કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અજમેરમાં પ્રસિદ્ધ સુફી સંત મોઈનુદ્દીન ચિશ્તીએ ચિશ્તી પરંપરાની સ્થાપના કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અજમેરના સંત = મોઈનુદ્દીન ચિશ્તી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વીરશૈવ સંપ્રદાયના સ્થાપક કોણ હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વીરશૈવ સંપ્રદાયના સ્થાપક બસવન્ના અને તેમના સાથીદારો (અલ્લામા પ્રભુ અને અક્કમહાદેવી) હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વીર' બસવન્ના. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "સુફી સંતોના નિવાસસ્થાનને શું કહેવામાં આવતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુફી સંતોના નિવાસસ્થાનને 'ખાનકાહ' કહેવામાં આવતું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખાનકાહ = સુફી આશ્રમ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "મીરાંબાઈએ કોની પાસેથી દીક્ષા લીધી હોવાનું મનાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મીરાંબાઈએ સંત રૈદાસ (રોહિદાસ) ને પોતાના ગુરુ માની તેમની પાસેથી દીક્ષા લીધી હોવાનું મનાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીરાંના ગુરુ રૈદાસ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "મહારાષ્ટ્રના કયા સંતે ઊંચ-નીચના અને નાત-જાતના ભેદભાવનો સખત વિરોધ કર્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહારાષ્ટ્રના સંત એકનાથે ઊંચ-નીચના અને નાત-જાતના ભેદભાવનો સખત વિરોધ કર્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એકનાથ માને બધા 'એક' સમાન. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ગુરુ નાનકના શિષ્યો કયા નામે ઓળખાયા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુરુ નાનકના શિષ્યો 'શિખ' (Sikh) ના નામે ઓળખાયા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિષ્ય માંથી બન્યું શિખ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "દક્ષિણ ભારતમાં શૈવ સંતોની સંખ્યા કેટલી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દક્ષિણ ભારતમાં શૈવ સંતો (નાયનાર) ની કુલ સંખ્યા 63 હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાયનાર = 63. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "દક્ષિણ ભારતમાં વૈષ્ણવ સંતોની સંખ્યા કેટલી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દક્ષિણ ભારતમાં વૈષ્ણવ સંતો (આલવાર) ની કુલ સંખ્યા 12 હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આલવાર = 12. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "નરસિંહ મહેતાનો જન્મ ક્યાં થયો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નરસિંહ મહેતાનો જન્મ ભાવનગર જિલ્લાના 'તળાજા' ગામમાં થયો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તળાજામાં જન્મ અને જૂનાગઢમાં કર્મ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "સુફી આંદોલન એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મધ્યકાળમાં ભારતની ધાર્મિક સામાજિક માન્યતાઓમાં ઈસ્લામના ચિંતનશીલ વિચારોને 'સુફી આંદોલન' કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈસ્લામનું ભક્તિ આંદોલન એટલે સુફી આંદોલન. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "મીરાંબાઈનો જન્મ ક્યાં થયો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મીરાંબાઈનો જન્મ રાજસ્થાનના મેડતાના 'કુડકી' ગામમાં થયો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેડતાની રાજકુમારી મીરાં. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "લંગર (પ્રસાદ/ભોજન) પ્રથા કોણે શરૂ કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શિખ ધર્મના સ્થાપક ગુરુ નાનકે લંગર (સાંઝ ભોજન) પ્રથાની શરૂઆત કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાથે બેસીને જમવું એ જ લંગર. (NJ Classes)</p></div>"
+    }
+  ]
+}
