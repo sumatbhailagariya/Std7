@@ -489,3 +489,211 @@ var Std7_SS_1_Mark = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "મુગલ સામ્રાજ્ય",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ભારતમાં મુગલ સામ્રાજ્યની સ્થાપના કોણે કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતમાં મુગલ સામ્રાજ્યની સ્થાપના ઈ.સ. 1526 માં બાબરે કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બા' થી બાબર અને 'બા' થી પાયો (બુનિયાદ) નાખનાર યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "પાણીપતનું પ્રથમ યુદ્ધ કોની કોની વચ્ચે થયું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાણીપતનું પ્રથમ યુદ્ધ બાબર અને ઇબ્રાહિમ લોદી વચ્ચે થયું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાન-બા-લો (પાણીપત - બાબર - લોદી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "બાબરે યુદ્ધમાં કયા નવા શસ્ત્રનો ઉપયોગ કરીને વિજય મેળવ્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાબરે પાણીપતના પ્રથમ યુદ્ધમાં તોપનો ઉપયોગ કરીને વિજય મેળવ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'તોપ' નો 'ત' અને બાબરની 'તાકાત' નો 'ત'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "હુમાયુનો અર્થ શું થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હુમાયુનો અર્થ 'નસીબદાર' થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હુમાયુ નામમાં 'હૂમ' એટલે કે હૂંફ અને નસીબ રહેલું છે તેમ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "હુમાયુને હરાવીને દિલ્હી પર કયા શાસકે સૂરવંશની સ્થાપના કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શેરશાહ સૂરીએ હુમાયુને હરાવીને દિલ્હી પર સૂરવંશની સ્થાપના કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સિંહ (શેર) જેવો રાજા જેણે મુગલોને હરાવ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "શેરશાહ સૂરીએ કયા પ્રખ્યાત રાજમાર્ગનું પુનઃનિર્માણ કરાવ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શેરશાહ સૂરીએ 'ગ્રાન્ડ ટ્રંક રોડ' (GT Road) નું પુનઃનિર્માણ કરાવ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: GT Road = 'Great' કામ કરનાર 'Sher'shah.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "અકબર કઈ ઉંમરે દિલ્હીનો ગાદીપતિ બન્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અકબર માત્ર 14 વર્ષની વયે દિલ્હીનો ગાદીપતિ બન્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અ'કબર અને સૌથી 'અ'લ્પ વય (14 વર્ષ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "પાણીપતનું બીજું યુદ્ધ ક્યારે અને કોની વચ્ચે થયું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાણીપતનું બીજું યુદ્ધ ઈ.સ. 1556 માં અકબર અને હેમુ વચ્ચે થયું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 15'56' - અકબર vs હેમુ (AH-56).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "અકબરે ફતેહપુર સીકરીને પોતાની રાજધાની બનાવી ત્યાં કયા દરવાજાનું નિર્માણ કરાવ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અકબરે ફતેહપુર સીકરીમાં 'બુલંદ દરવાજો' બંધાવ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ફ'તેહ (વિજય) થાય તો જ દરવાજો 'બુલંદ' હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "અકબરે કયા નવા ધર્મની સ્થાપના કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અકબરે 'દીન-એ-ઈલાહી' નામના સંપ્રદાયની સ્થાપના કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અકબરનો ઉદાર ધર્મ = દીન-એ-ઈલાહી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "મહારાણા પ્રતાપ કયા રાજ્યના શાસક હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહારાણા પ્રતાપ મેવાડના પ્રતાપી રાજવી હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેવાડના 'મા' અને 'મ'હારાણા પ્રતાપ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "હલ્દીઘાટીનું યુદ્ધ કોની કોની વચ્ચે થયું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હલ્દીઘાટીનું યુદ્ધ અકબર અને મહારાણા પ્રતાપ વચ્ચે થયું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હલ્દીઘાટી = અકબર vs પ્રતાપ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "મહારાણા પ્રતાપના ઘોડાનું નામ શું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહારાણા પ્રતાપના ઘોડાનું નામ 'ચેતક' હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેનો વેગ વીજળી જેવો તે 'ચેતક'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "જહાંગીરની પત્નીનું નામ શું હતું, જે ખૂબ જ ચતુર અને પ્રતિભાશાળી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જહાંગીરની પત્નીનું નામ 'નૂરજહાં' હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જહાંગીર અને નૂરજહાં - બંને નામમાં 'જહાં' આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "મુગલ શાસકોમાં કોને 'સ્થાપત્યનો રાજકુમાર' કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શાહજહાંને 'સ્થાપત્યનો રાજકુમાર' કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાહજહાં = સ્થાપત્ય (બંનેમાં 'શ' સમાન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "શાહજહાંએ પોતાની પત્ની મુમતાઝ મહેલની યાદમાં કયું સ્થાપત્ય બંધાવ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શાહજહાંએ આગરામાં 'તાજમહેલ' બંધાવ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુમતાઝની યાદમાં 'તાજ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "કયા મુગલ શાસકને 'ઝિંદા પીર' તરીકે ઓળખવામાં આવતો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઔરંગઝેબને તેની સાદગીને કારણે 'ઝિંદા પીર' કહેવામાં આવતો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઔરંગઝેબ = સાદું જીવન, ઝિંદા પીર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "છત્રપતિ શિવાજી મહારાજનો જન્મ ક્યારે અને કયા કિલ્લામાં થયો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શિવાજી મહારાજનો જન્મ ઈ.સ. 1627 માં મહારાષ્ટ્રના શિવનેરી કિલ્લામાં થયો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'શિ'વાજી - 'શિ'વનેરી કિલ્લો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "શિવાજી મહારાજનું રાજ્યારોહણ ક્યાં થયું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શિવાજી મહારાજનું રાજ્યારોહણ ઈ.સ. 1674 માં રાયગઢના કિલ્લામાં થયું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજા બન્યા એટલે 'રાય'ગઢ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "મુગલ વહીવટીતંત્રમાં સેનાના વડાને શું કહેવામાં આવતું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુગલ વહીવટીતંત્રમાં સેનાના વડાને 'મીરબક્ષ' કહેવામાં આવતું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મીરબક્ષ એટલે મિલિટરી બક્ષ (વડો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "અકબરના સમયમાં મહેસૂલી વ્યવસ્થાનો વડો કોણ હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અકબરના સમયમાં મહેસૂલી વ્યવસ્થાનો વડો રાજા તોડરમલ હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહેસૂલ 'તોડ'વા (ઉઘરાવવા) માટે 'તોડ'રમલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "મુગલ કાળની મહેસૂલી પ્રથા કયા નામે ઓળખાતી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુગલ કાળની મહેસૂલી પ્રથા 'મનસબદારી' પ્રથા તરીકે ઓળખાતી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મનસબ એટલે પદ અને તેની વ્યવસ્થા એટલે મનસબદારી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "અકબરે કયા શીખ ગુરુ માટે અમૃતસરમાં જમીન દાનમાં આપી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અકબરે ચોથા શીખ ગુરુ રામદાસજી માટે જમીન દાનમાં આપી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'રામ'નું નામ લઈને 'દાન' આપ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "બાબરે કઈ ભાષામાં પોતાની આત્મકથા લખી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાબરે તુર્કી ભાષામાં 'તુઝુક-એ-બાબરી' (બાબરનામા) લખી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તુર્કિસ્તાનથી આવ્યો એટલે તુર્કી ભાષા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "અબુલ ફઝલે કયો પ્રખ્યાત ગ્રંથ લખ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અબુલ ફઝલે 'અકબરનામા' નામનો પ્રખ્યાત ગ્રંથ લખ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અ - અ (અબુલ ફઝલ - અકબરનામા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "મુગલ કાળમાં કયા શાસકનો સમય 'ચિત્રકળાનો સુવર્ણયુગ' ગણાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જહાંગીરનો સમય 'ચિત્રકળાનો સુવર્ણયુગ' ગણાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જહાંગીર પોતે ચિત્રકાર હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "શિવાજી મહારાજના માતા અને પિતાનું નામ શું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શિવાજીના માતાનું નામ જીજાબાઈ અને પિતાનું નામ શાહજી ભોંસલે હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીજાબાઈ (માતા) અને શાહજી (પિતા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "શિવાજી મહારાજના ગુરુનું નામ શું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શિવાજી મહારાજના ગુરુનું નામ સમર્થ રામદાસ હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રામદાસ - જેમને કારણે શિવાજી રામરાજ્ય લાવ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "દિલ્હીનો લાલ કિલ્લો કોણે બંધાવ્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દિલ્હીનો લાલ કિલ્લો શાહજહાંએ બંધાવ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાહજહાં = મોટા બાંધકામોનો શોખીન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "મુગલ સામ્રાજ્યનો અંતિમ શાસક કોણ હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુગલ સામ્રાજ્યનો અંતિમ શાસક બહાદુરશાહ ઝફર હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઝફર (સફર પૂરો થયો મુગલોનો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "હુમાયુ કયા શહેરમાં પુસ્તકાલયના પગથિયાં ઉતરતી વખતે પડી જવાથી મૃત્યુ પામ્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હુમાયુ દિલ્હી પાસે 'દીનપનાહ' નગરના પુસ્તકાલયમાં પડી જવાથી મૃત્યુ પામ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પુસ્તકાલયનો શોખીન હુમાયુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "બૈરમખાન કોનો રક્ષક હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બૈરમખાન અકબરનો રક્ષક અને માર્ગદર્શક હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અકબર બાળક હતો ત્યારે બૈરમખાન તેની ઢાલ હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "શેરશાહ સૂરીએ કયા નવા સિક્કાનું ચલણ શરૂ કર્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શેરશાહ સૂરીએ ચાંદીનો 'રૂપિયો' ચલણમાં લાવ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રૂપિયો = શેરશાહ (આજે પણ આપણે વાપરીએ છીએ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "રાણા સંગા કયા વિસ્તારના રાજા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાણા સંગા મેવાડના વીર શાસક હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેવાડના મહારાણાઓની પરંપરા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "અકબરના દરબારના 'નવરત્નો' માં સૌથી પ્રખ્યાત ગાયક કોણ હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અકબરના દરબારમાં પ્રખ્યાત ગાયક તાનસેન હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાનસેન - સુરનો રાજા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "શિવાજી મહારાજના મંત્રીમંડળને શું કહેવામાં આવતું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શિવાજી મહારાજના મંત્રીમંડળને 'અષ્ટપ્રધાન મંડળ' કહેવામાં આવતું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અષ્ટ એટલે 8 મંત્રીઓનું જૂથ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "ઔરંગઝેબે કયા ધર્મગુરુને કેદ કર્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઔરંગઝેબે શીખોના નવમા ગુરુ તેગબહાદુરને કેદ કર્યા હતા અને શહીદ કર્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નવમા ગુરુ = તેગબહાદુર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "મુગલ સમયમાં ગ્રામીણ વહીવટના વડાને શું કહેતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુગલ સમયમાં ગ્રામીણ વહીવટના વડાને 'મુકાદમ' અથવા 'પટેલ' કહેવામાં આવતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગામનો મુખી = મુકાદમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "અકબરના સમયમાં હિન્દુ શાસક કોણ હતો જેણે તેની સામે સંઘર્ષ કર્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહારાણા પ્રતાપે અકબર સામે આજીવન સંઘર્ષ કર્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અકબર vs પ્રતાપ - વીરતાનો સંગ્રામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "મુગલ કાળમાં કઈ ભાષા રાજ્યભાષા હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુગલ કાળમાં 'ફારસી' ભાષા રાજ્યભાષા (વહીવટી ભાષા) હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુગલ = ફારસી.</p></div>"
+    }
+  ]
+}
