@@ -2028,3 +2028,186 @@ var Std7_SS_1_Mark = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "વાતાવરણની સજીવો પર અસરો",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વાતાવરણ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વીની ચારે બાજુ વીંટળાઈને આવેલા હવાના આવરણને 'વાતાવરણ' કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાતાવરણ = વાત (હવા) + આવરણ. પૃથ્વીનું હવાનું કવર એટલે વાતાવરણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વાતાવરણ પૃથ્વીની સપાટીથી આશરે કેટલા કિલોમીટર સુધી વિસ્તરેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાતાવરણ પૃથ્વીની સપાટીથી આશરે 1600 કિલોમીટરની ઊંચાઈ સુધી વિસ્તરેલું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: '1600' - પૃથ્વીથી ઉપર આકાશમાં 1600 કિમી સુધી હવાનું રાજ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વાતાવરણમાં નાઇટ્રોજન વાયુનું પ્રમાણ કેટલા ટકા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાતાવરણમાં નાઇટ્રોજન વાયુનું પ્રમાણ આશરે 78.03% છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાઇટ્રોજન સૌથી મોટો ભાઈ (78%) જે હવાના મોટાભાગના ભાગમાં રહે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વાતાવરણમાં ઓક્સિજન વાયુનું પ્રમાણ કેટલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાતાવરણમાં ઓક્સિજન વાયુનું પ્રમાણ આશરે 20.99% (લગભગ 21%) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રાણવાયુ ઓક્સિજન = 21% (એકવીસ એટલે કે 'એક' 'વીસ' - જીવવા માટે મુખ્ય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વાતાવરણમાં કાર્બન ડાયોક્સાઇડ વાયુનું પ્રમાણ કેટલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાતાવરણમાં કાર્બન ડાયોક્સાઇડ વાયુનું પ્રમાણ 0.03% છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: CO2 ખૂબ ઓછો છતાં ગરમ છે - માત્ર 'ત્રણ પૈસા' જેટલો (0.03%).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ઓક્સિજન વાયુ હવામાં આશરે કેટલી ઊંચાઈ સુધી જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓક્સિજન વાયુ આશરે 110 કિલોમીટરની ઊંચાઈ સુધી જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓક્સિજનની સદી (100) ઉપર 10 રન વધારે = 110 કિમી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વાતાવરણના સ્તરોને કયા આધારે વહેંચવામાં આવ્યા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તાપમાન અને વાયુઓની સંરચનામાં થતા ફેરફારના આધારે વાતાવરણને ચાર પેટા વિભાગોમાં વહેંચવામાં આવ્યું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'તાપ અને હવા' બદલાય એટલે સ્તર બદલાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ક્ષોભ આવરણ (Troposphere) કોને કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વીની સપાટીથી શરૂ થતા વાતાવરણના પ્રથમ આવરણને 'ક્ષોભ આવરણ' કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્ષોભ એટલે પહેલું ડગલું - પૃથ્વીની સૌથી નજીકનું સ્તર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિષુવવૃત્ત પર ક્ષોભ આવરણ આશરે કેટલી ઊંચાઈ સુધી વિસ્તરેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિષુવવૃત્ત પર ક્ષોભ આવરણ આશરે 16 કિલોમીટરની ઊંચાઈ સુધી વિસ્તરેલું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિષુવવૃત્ત (વધારે ગરમી) = વધારે ઊંચાઈ (16 કિમી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ઋતુઓ, વાદળો, વરસાદ અને ચક્રવાત કયા આવરણમાં અનુભવાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઋતુઓ, વાદળો, વરસાદ અને ચક્રવાત જેવી હવામાનની ઘટનાઓ 'ક્ષોભ આવરણ' માં અનુભવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે આવરણમાં સજીવો રહે છે, ત્યાં જ બધું 'હવામાન' હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ક્ષોભસીમા (Tropopause) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ક્ષોભ આવરણ જે ઊંચાઈએ પહોંચતા તાપમાન ઘટતું અટકી જાય, તે સીમાને 'ક્ષોભસીમા' કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સીમા = બોર્ડર. જ્યાં ક્ષોભ આવરણ પૂરું થાય તે ક્ષોભસીમા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સમતાપ આવરણ (Stratosphere) ક્યાં સુધી વિસ્તરેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ક્ષોભસીમાથી ઉપર આશરે 50 કિલોમીટરની ઊંચાઈ સુધીના સ્તરને 'સમતાપ આવરણ' કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સમ' એટલે સમાન. 50 સુધી બધું શાંત અને સમાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "જેટ વિમાનો કયા આવરણમાં ઓછા અવરોધ સાથે ઝડપથી ઊડી શકે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જેટ વિમાનો 'સમતાપ આવરણ' માં ઓછા અવરોધ સાથે ઝડપથી ઊડી શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિમાનને 'શાંત' અને 'પાતળી' હવા ગમે, જે સમતાપ આવરણમાં મળે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ઓઝોન વાયુનું પ્રમાણ કયા આવરણમાં વધુ જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમતાપ આવરણમાં આશરે 15 થી 35 કિમીની ઊંચાઈએ ઓઝોન વાયુનું પ્રમાણ વધુ જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓઝોન = પૃથ્વીની છત્રી, જે બીજા નંબરે એટલે કે સમતાપ આવરણમાં છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ઓઝોન વાયુનું મુખ્ય કાર્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓઝોન વાયુ સૂર્યના અત્યંત ગરમ પારજાંબલી કિરણો (Ultra Violet rays) નું શોષણ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓઝોન એ સૂર્યના ઝેરી કિરણોને પૃથ્વી પર આવતા રોકતી 'ગળણી' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "મધ્યાવરણ (Mesosphere) ની મર્યાદા શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમતાપ આવરણની ઉપર આશરે 80 કિલોમીટરની ઊંચાઈ સુધીના વાતાવરણના ભાગને 'મધ્યાવરણ' કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મધ્ય એટલે વચ્ચે - 50 થી 80 કિમીની વચ્ચેનો ભાગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "બાહ્યાવરણ (Thermosphere/Exosphere) કોને કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મધ્યાવરણની ઉપર 80 કિમીથી શરૂ થતા વાતાવરણના ભાગને 'બાહ્યાવરણ' કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાહ્ય એટલે સૌથી બહારનું સ્તર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "રેડિયો તરંગોનું પરાવર્તન કયા આવરણના કારણે થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રેડિયો તરંગોનું પરાવર્તન બાહ્યાવરણના પેટા વિભાગ 'આયનાવરણ' (Ionosphere) દ્વારા થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આયના' એટલે અરીસો. જે રેડિયો કિરણોને પાછા અરીસાની જેમ ધકેલે તે આયનાવરણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "હવામાન (Weather) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હવામાન એટલે વાતાવરણની ટૂંકા ગાળાની (દૈનિક) સરેરાશ પરિસ્થિતિ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવામાન એટલે પળ પળમાં બદલાતું - સવારનું અલગ, સાંજનું અલગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "આબોહવા (Climate) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કોઈપણ પ્રદેશની 35 કે તેથી વધુ વર્ષોની સરેરાશ હવામાનની સ્થિતિને 'આબોહવા' કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આબોહવા = લાંબો સમય (35+ વર્ષ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "તાપમાન માપવા માટે કયા સાધનનો ઉપયોગ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તાપમાન માપવા માટે 'થર્મોમીટર' નો ઉપયોગ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમી (તાવ) હોય કે હવા, માપવા માટે 'થર્મોમીટર' જ જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વાતાવરણનું દબાણ સૌથી વધુ ક્યાં હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાતાવરણનું દબાણ સૌથી વધુ 'સમુદ્ર સપાટી' પર હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેમ નીચે જાવ તેમ દબાણ વધે - સમુદ્ર સપાટી સૌથી નીચે ગણાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "પવન એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વીની આજુબાજુ વીંટળાઈને આવેલી ગતિશીલ હવાને 'પવન' કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવા જ્યારે દોડે (ગતિ કરે) ત્યારે તે પવન બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "કાયમી પવનોના પ્રકારો કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાયમી પવનોના મુખ્ય ત્રણ પ્રકાર છે: (1) વ્યાપારી પવનો, (2) પશ્ચિમીયા પવનો અને (3) ધ્રુવીય પવનો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વ્યા-પ-ધ્રુ' (વ્યાપારી, પશ્ચિમીયા, ધ્રુવીય) - આ કાયમી પવનોની ત્રિપુટી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ભારતમાં કયા પવનો મોસમી પવનો તરીકે ઓળખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતમાં ઉનાળાના નૈઋત્યના પવનો અને શિયાળાના ઈશાન કોણીય પવનો મોસમી પવનો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નૈઋત્ય એટલે વરસાદ લાવનારા 'મોસમી' પવનો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "દૈનિક કે સ્થાનિક પવનોના ઉદાહરણો આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દરિયાઈ-જમીન લહેરો, પર્વત-ખીણની લહેરો, 'લૂ' (Loo) અને શીતલહેર એ દૈનિક પવનો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'લૂ' એટલે ઉનાળાની બપોરે વાતા ગરમ પવન - આ સ્થાનિક પવન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ભેજ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમુદ્રો અને જળાશયોમાંથી પાણીનું બાષ્પીભવન થતા જે વરાળ બને છે, તેને 'ભેજ' કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવામાં છુપાયેલું પાણી એટલે ભેજ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ઘનીભવન કોને કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભેજ ઠરવાની ક્રિયાને 'ઘનીભવન' કહે છે, જેના કારણે વાદળો, વરસાદ, ઝાકળ વગેરે બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરાળનું ઠરીને પાછું પાણી બનવું એટલે 'ઘનીભવન'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વાતાવરણમાં સૌથી હલકો વાયુ કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાતાવરણમાં હાઈડ્રોજન અને હિલિયમ સૌથી હલકા વાયુઓ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાઈડ્રોજન-હિલિયમ એટલે ગેસના ફુગ્ગામાં ભરાતા હલકા વાયુઓ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "ઉંચાઈ પર જતાં હવામાનમાં શું ફેરફાર થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જેમ જેમ પૃથ્વીની સપાટીથી ઊંચે જઈએ તેમ તેમ હવા પાતળી થતી જાય છે અને તાપમાન ઘટતું જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઊંચાઈ વધી (+) = તાપમાન ઘટ્યું (-). પર્વતો પર હંમેશા ઠંડી હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "વાતાવરણના કયા આવરણમાં તાપમાન વધવાની સાથે વધે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાહ્યાવરણ (Thermosphere) માં ઊંચાઈ વધવાની સાથે તાપમાન વધતું જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: થર્મો (Thermo) = ગરમી. બાહ્યાવરણમાં ખૂબ ગરમી હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "પૃથ્વી પર ઉર્જાનો મુખ્ય સ્ત્રોત કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વી પર ઉર્જાનો મુખ્ય સ્ત્રોત 'સૂર્ય' છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂરજ દાદા = પૃથ્વીના પાવર હાઉસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "ભારત જેવા ખેતીપ્રધાન દેશ માટે આબોહવાનું શું મહત્વ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આબોહવા ખેતીના પાક, સમય અને પદ્ધતિ નક્કી કરવામાં ખૂબ જ મહત્વનો ભાગ ભજવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેવો વરસાદ અને તાપ, એવો પાક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "વાતાવરણમાં ધૂળના રજકણોનું કાર્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રજકણો સૂર્યપ્રકાશનું પ્રકીર્ણન કરે છે, જેનાથી સૂર્યોદય વખતે એકાએક અજવાળું કે સૂર્યાસ્ત વખતે એકાએક અંધારું થતું નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રજકણો એટલે પ્રકાશ ફેલાવનારા નાના 'મિરર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "કયો વાયુ સજીવોમાં નાઇટ્રોજનની પૂર્તિ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હવામાં રહેલો નાઇટ્રોજન વાયુ જમીન દ્વારા વનસ્પતિમાં અને ત્યારબાદ ખોરાક દ્વારા સજીવોમાં પહોંચે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાયરેક્ટ શ્વાસથી નહીં, પણ ખોરાકથી નાઇટ્રોજન મળે છે.</p></div>"
+    }
+  ]
+}
