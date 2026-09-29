@@ -2211,3 +2211,161 @@ var Std7_SS_1_Mark = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "આપત્તિ વ્યવસ્થાપન",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "આપત્તિના મુખ્ય કેટલા પ્રકારો છે અને કયા કયા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આપત્તિના મુખ્ય બે પ્રકારો છે: (1) કુદરતી આપત્તિઓ અને (2) માનવસર્જિત આપત્તિઓ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કુમા' યાદ રાખો - કુ એટલે કુદરતી, મા એટલે માનવસર્જિત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "કુદરતી આપત્તિઓના ઉદાહરણો આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભૂકંપ, જ્વાળામુખી, દુષ્કાળ, દાવાનળ, પૂર, સુનામી અને વાવાઝોડું એ કુદરતી આપત્તિઓ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે કુદરત દ્વારા થાય જેમાં માણસનો હાથ ન હોય તે કુદરતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "માનવસર્જિત આપત્તિઓના ઉદાહરણો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આગ, ઔદ્યોગિક અકસ્માત, બોમ્બ વિસ્ફોટ અને હુલ્લડ એ માનવસર્જિત આપત્તિઓ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માનવની ભૂલ કે તોફાનથી સર્જાતી મુશ્કેલી એટલે માનવસર્જિત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ભૂકંપ કોને કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વીના પેટાળમાં થતી ભૂગર્ભિક હિલચાલને કારણે પૃથ્વીની સપાટીનો નબળો ભાગા અચાનક વેગથી ધ્રુજી ઊઠે તેને ભૂકંપ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃથ્વીનું 'ધ્રુજવું' એટલે 'ભૂકંપ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ભૂકંપ કેન્દ્ર (Focus) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વીના જે ભાગમાંથી ભૂકંપના મોજાં ઉત્પન્ન થાય છે, તેને ભૂકંપ કેન્દ્ર કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યાંથી ભૂકંપની શરૂઆત થાય તે 'કેન્દ્ર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ભૂકંપ નિર્ગમન કેન્દ્ર (Epicenter) કોને કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભૂકંપ કેન્દ્રથી પૃથ્વીની સપાટી પરના સૌથી નજીકના સ્થળ કે કેન્દ્રને 'ભૂકંપ નિર્ગમન કેન્દ્ર' કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સપાટી પરનું સૌથી નજીકનું બિંદુ = નિર્ગમન કેન્દ્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ભૂકંપની તીવ્રતા કયા એકમમાં મપાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભૂકંપની તીવ્રતા 'રિક્ટર સ્કેલ' (Richter Scale) એકમમાં માપવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તીવ્રતા માપવા માટે 'રિક્ટર' દાદાને યાદ કરવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "કઈ આપત્તિની આગાહી કરવી શક્ય નથી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભૂકંપ જેવી આપત્તિની ચોક્કસ આગાહી કરવી અત્યાર સુધી શક્ય નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃથ્વી ક્યારે ધ્રુજશે એ કોઈ કહી શકતું નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વાવાઝોડું એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાતાવરણમાં હવાના દબાણમાં સર્જાતી અસમતુલાને કારણે ઉદ્ભવતા પ્રચંડ વેગીલા પવનને વાવાઝોડું (ચક્રવાત) કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવાનું તોફાન = વાવાઝોડું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ભારતના કયા કિનારાના વિસ્તારોમાં વાવાઝોડાની અસર વધુ જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતના પૂર્વ તટ અને ગુજરાતના કચ્છ તથા સૌરાષ્ટ્રના કિનારે વાવાઝોડાની ભારે અસર જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરિયાકિનારો + પવન = વાવાઝોડાનો ખતરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સુનામી (Tsunami) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમુદ્રના તળિયે થતા ભૂકંપ કે જ્વાળામુખી વિસ્ફોટથી ઉદ્ભવતા ખૂબ ઊંચા અને વિનાશક મોજાંને સુનામી કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમુદ્રમાં આવતો ભૂકંપ એટલે 'સુનામી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સુનામી કઈ ભાષાનો શબ્દ છે અને તેનો અર્થ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુનામી જાપાનીઝ ભાષાનો શબ્દ છે, જેનો અર્થ 'વિનાશક મોજાં' કે 'બંદર પર આવતા મોજાં' થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જાપાન' માં સુનામી વધુ આવે એટલે શબ્દ પણ ત્યાંનો જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "પૂર એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એકાએક આવતા પાણીના વિપુલ પ્રવાહને 'પૂર' કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નદીની ક્ષમતા બહારનું પાણી = પૂર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "દુષ્કાળની પરિસ્થિતિ ક્યારે સર્જાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે વરસાદ બિલકુલ ન પડે અથવા બહુ ઓછો પડે ત્યારે અનાજ અને પાણીની ભારે અછત સર્જાય છે, તેને દુષ્કાળ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી નથી = દુષ્કાળ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "દાવાનળ કોને કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જંગલોમાં વૃક્ષોના પરસ્પર ઘર્ષણ, આકાશમાંથી પડતી વીજળી કે માનવીય કારણોસર લાગતી આગને દાવાનળ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જંગલની આગ = દાવાનળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "તીડ પ્રકોપ (Locust) કેવી આપત્તિ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તીડ એ જૈવિક આપત્તિ છે, જે ખેતીના પાકને ભારે નુકસાન પહોંચાડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીવજંતુથી થતું નુકસાન એટલે 'જૈવિક' આપત્તિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ગુજરાતમાં જોવા મળતી મુખ્ય તીડની જાતિઓ કઈ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુજરાતમાં મુખ્યત્વે 'રણ તીડ' (Desert Locust) અને 'સ્થળાંતરિત તીડ' એમ બે જાતિઓ જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રણ પ્રદેશમાંથી આવતા હોવાથી 'રણ તીડ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "તીડને કયા નામે ઓળખવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તીડને 'ઘોડા' તરીકે પણ ઓળખવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તીડ ઠેકડા મારે એટલે 'ઘોડા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ભૂકંપ દરમિયાન ક્યાં આશ્રય લેવો સુરક્ષિત છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભૂકંપ દરમિયાન શાળામાં હોવ તો બેન્ચ નીચે બેસી જવું જોઈએ અને ઘરમાં હોવ તો મજબૂત ટેબલ નીચે આશ્રય લેવો જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માથાનો બચાવ પહેલા - ટેબલ નીચે પહોંચી જાઓ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વાવાઝોડાની આગાહી કઈ સંસ્થા કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાવાઝોડાની આગાહી ભારત સરકારનો હવામાન વિભાગ (IMD) કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હવામાન એટલે આગાહી કરનાર વિભાગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "દુષ્કાળથી બચવા માટેનો શ્રેષ્ઠ ઉપાય કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દુષ્કાળથી બચવા વધુમાં વધુ વૃક્ષો વાવવા અને વરસાદી પાણીનો સંગ્રહ કરવો એ શ્રેષ્ઠ ઉપાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વૃક્ષો વાવો, વરસાદ લાવો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "પૂર દરમિયાન પીવા માટે કેવા પાણીનો ઉપયોગ કરવો જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૂર દરમિયાન પાણી ઉકાળીને અથવા ક્લોરિનયુક્ત શુદ્ધ પાણીનો જ ઉપયોગ કરવો જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગંદુ પાણી = બીમારી, ઉકાળેલું પાણી = આઝાદી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "સુનામી આવવાની સંભાવના હોય ત્યારે દરિયાકિનારે રહેતા લોકોએ શું કરવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુનામીની સૂચના મળતા જ દરિયાકિનારો છોડીને ઊંચાઈવાળા સલામત સ્થળે ખસી જવું જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી નીચે આવે તો આપણે 'ઊંચે' જવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "આપત્તિની સૌથી વધુ માઠી અસર કોના પર થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આપત્તિની સૌથી વધુ માઠી અસર ગરીબ માણસો અને જરૂરિયાતમંદ લોકો પર થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આર્થિક નબળા લોકો વધુ મુશ્કેલીમાં મુકાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ભૂકંપ પછી શું ન કરવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભૂકંપ પછી લિફ્ટનો ઉપયોગ ન કરવો જોઈએ અને ગભરાઈને બૂમાબૂમ ન કરવી જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લિફ્ટ અટકી શકે, સીડી વાપરો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "તીડના ઉપદ્રવને રોકવા કયા પગલાં લેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખેતીવાડી વિભાગની સૂચના મુજબ ખાસ પ્રકારની દવાઓનો છંટકાવ કરીને તીડના ઉપદ્રવને રોકવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તીડ માટે 'દવાનો ડોઝ' જરૂરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "આપત્તિ વ્યવસ્થાપનનો મુખ્ય હેતુ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આપત્તિથી થતા જાનમાલના નુકસાનને ઘટાડવું અને લોકોને બચાવવા તે આપત્તિ વ્યવસ્થાપનનો મુખ્ય હેતુ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યવસ્થાપન એટલે 'પૂર્વ તૈયારી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "સુનામી આવતા પહેલા દરિયામાં કેવા ફેરફારો થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુનામી આવતા પહેલા દરિયાનું પાણી અચાનક કિનારેથી પાછું હટી જાય છે અને અજીબ અવાજો સંભળાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીનું પાછું હટવું એ મોટી આફતની નિશાની છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વાવાઝોડા પછી કઈ સાવચેતી રાખવી જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લટકતા કે તૂટેલા વીજળીના વાયરોથી દૂર રહેવું અને તંત્ર દ્વારા સૂચના મળ્યા પછી જ ઘરે પરત ફરવું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાવચેતી એ જ સલામતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "તીડના ટોળાં એક દિવસમાં કેટલું અંતર કાપી શકે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તીડના ટોળાં પવનની દિશામાં એક દિવસમાં 150 કિલોમીટર સુધીનું અંતર કાપી શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પવનની ઝડપે તીડની મુસાફરી.</p></div>"
+    }
+  ]
+}
