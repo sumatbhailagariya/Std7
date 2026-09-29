@@ -2735,3 +2735,161 @@ var Std7_SS_1_Mark = {
     }
   ]
 }
+,
+"15": {
+  "chapterName": "પ્રકરણ 15",
+  "chapterTitle": "રાજ્ય સરકાર",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "રાજ્ય સરકારના મુખ્ય ત્રણ અંગો કયા કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાજ્ય સરકારના મુખ્ય ત્રણ અંગો ધારાસભા, કારોબારી અને ન્યાયતંત્ર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો 'ધા-કા-ન્યા' (ધારાસભા, કારોબારી, ન્યાયતંત્ર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "રાજ્યની ધારાસભાના નીચલા ગૃહને શું કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાજ્યની ધારાસભાના નીચલા ગૃહને 'વિધાનસભા' કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નીચે એટલે વિધાનસભા (સાદું ઘર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "રાજ્યની ધારાસભાના ઉપલા ગૃહને શું કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાજ્યની ધારાસભાના ઉપલા ગૃહને 'વિધાનપરિષદ' કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉપર એટલે પરિષદ (મોટું પદ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ગુજરાતની વિધાનસભામાં કુલ કેટલી બેઠકો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુજરાતની વિધાનસભામાં કુલ 182 બેઠકો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 182 એટલે સ્ટેચ્યુ ઓફ યુનિટીની ઊંચાઈ જેટલી સંખ્યા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ગુજરાતની વિધાનસભા ક્યાં આવેલી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુજરાતની વિધાનસભા ગાંધીનગર ખાતે આવેલી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાટનગર = વિધાનસભાનું સરનામું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ગુજરાતની વિધાનસભાના ભવનનું નામ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુજરાતની વિધાનસભાના ભવનનું નામ 'વિઠ્ઠલભાઈ પટેલ ભવન' છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરદાર પટેલના ભાઈ વિઠ્ઠલભાઈના નામ પરથી યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિધાનસભાના સભ્યને શું કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિધાનસભાના સભ્યને વિધાનસભ્ય અથવા ધારાસભ્ય (MLA) કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: MLA = Member of Legislative Assembly.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ધારાસભ્ય બનવા માટે કેટલી ઉંમર હોવી જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધારાસભ્ય બનવા માટે ઉમેદવારની ઉંમર 25 વર્ષ કે તેથી વધુ હોવી જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 25 વર્ષ = ધારાસભ્ય બનવાનો પાસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિધાનસભાની મુદત કેટલા વર્ષની હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિધાનસભાની મુદત સામાન્ય રીતે 5 વર્ષની હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંચવર્ષીય એટલે 5 વર્ષ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિધાનસભાના અધ્યક્ષની વરણી કોણ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિધાનસભાના ચૂંટાયેલા સભ્યો પોતાનામાંથી જ અધ્યક્ષની વરણી કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સભ્યોમાંથી એક મોનિટર એટલે અધ્યક્ષ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "રાજ્યના બંધારણીય વડા કોણ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાજ્યના બંધારણીય વડા 'રાજ્યપાલ' (Governor) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેશના રાષ્ટ્રપતિ, રાજ્યના રાજ્યપાલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "રાજ્યપાલની નિમણૂક કોણ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાજ્યપાલની નિમણૂક રાષ્ટ્રપતિ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાષ્ટ્રપતિ = નિમણૂક કરનાર સુપર બોસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "મુખ્યમંત્રીની નિમણૂક કોણ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મુખ્યમંત્રીની નિમણૂક રાજ્યપાલ કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજ્યપાલ જ બહુમતી પક્ષના નેતાને CM બનાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "રાજ્ય કારોબારીના વાસ્તવિક વડા કોણ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાજ્ય કારોબારીના વાસ્તવિક વડા મુખ્યમંત્રી હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સત્તાના ખરા રથચાલક એટલે મુખ્યમંત્રી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ખરડો કાયદો ક્યારે બને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે ખરડા પર રાજ્યપાલ સહી કરે ત્યારે તે ખરડો કાયદો બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજ્યપાલની સહી = કાયદાની મંજૂરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "રાજ્યનું મંત્રીમંડળ કોને જવાબદાર હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાજ્યનું મંત્રીમંડળ વિધાનસભાને જવાબદાર હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મંત્રીઓનો જવાબ વિધાનસભાના દરબારમાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "આરોગ્ય એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આરોગ્ય એટલે શારીરિક, માનસિક, સામાજિક અને આધ્યાત્મિક ક્ષેમકુશળતા (સુખાકારી).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માત્ર રોગ ન હોવો તે જ નહીં પણ સંપૂર્ણ સુખાકારી એટલે આરોગ્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "WHO નું પૂરું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> WHO નું પૂરું નામ 'World Health Organization' (વિશ્વ આરોગ્ય સંસ્થા) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: WHO = દુનિયાનું ડોક્ટર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "સરકાર દ્વારા ચલાવવામાં આવતી 108 સેવા શાના માટે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 108 સેવા એ તાત્કાલિક સારવાર અને એમ્બ્યુલન્સ સેવા માટે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇમરજન્સી હેલ્પલાઇન 108.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "PHC નું પૂરું નામ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> PHC નું પૂરું નામ 'Primary Health Centre' (પ્રાથમિક આરોગ્ય કેન્દ્ર) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P - Primary, H - Health, C - Centre.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ભારતના દરેક નાગરિકને આરોગ્યની સેવાઓ મળી રહે તે માટે કઈ યોજના અમલમાં છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતના દરેક નાગરિકને આરોગ્યની સેવાઓ માટે 'આયુષ્માન ભારત યોજના' (PMJAY) અમલમાં છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આયુષ્માન ભારત = દરેકનું મફત નિદાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "મુખ્યમંત્રી અમૃતમ (MA) યોજનાનો લાભ કોને મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુજરાત રાજ્યના મધ્યમ અને ગરીબ વર્ગના પરિવારોને ગંભીર બીમારીઓના સારવાર માટે MA યોજનાનો લાભ મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: MA કાર્ડ = આરોગ્યનું રક્ષણકવચ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "કઈ સેવાનો હેતુ પ્રસૂતાને સુરક્ષિત ઘરે પહોંચાડવાનો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'ખિલખિલાટ ડ્રોપ બેક' સેવાનો હેતુ પ્રસૂતા અને નવજાત શિશુને સુરક્ષિત ઘરે પહોંચાડવાનો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળક હસે ખિલખિલાટ, ઘરે પહોંચાડે ખિલખિલાટ ગાડી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વિશ્વ આરોગ્ય દિન ક્યારે ઉજવવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિશ્વ આરોગ્ય દિન 7 એપ્રિલના રોજ ઉજવવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 7મી એપ્રિલ = હેલ્થ ડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ધારાસભાનું કાર્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધારાસભાનું મુખ્ય કાર્ય કાયદા બનાવવાનું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધારા એટલે કાયદો, સભા એટલે બનાવનાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "કારોબારીનું કાર્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કારોબારીનું મુખ્ય કાર્ય ધારાસભાએ બનાવેલા કાયદાઓનો અમલ કરવાનું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કારોબારી = કાયદાનો અમલ કરાવનાર એન્જિન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ન્યાયતંત્રનું કાર્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ન્યાયતંત્રનું કાર્ય કાયદાનો ભંગ કરનારને સજા કરવાનું અને ન્યાય આપવાનું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ન્યાય એટલે અદાલત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "રાજ્યપાલ બનવા માટે લઘુત્તમ ઉંમર કેટલી હોવી જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાજ્યપાલ બનવા માટે ભારતીય નાગરિકની ઉંમર 35 વર્ષ કે તેથી વધુ હોવી જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધારાસભ્ય 25, રાજ્યપાલ 35.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વિધાનસભામાં પ્રશ્નોત્તરી સમયે કોને ઉદ્દેશીને પ્રશ્નો પૂછવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિધાનસભામાં પ્રશ્નોત્તરી સમયે 'અધ્યક્ષ' (Speaker) ને ઉદ્દેશીને પ્રશ્નો પૂછવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બધું જ કામ 'માનનીય અધ્યક્ષશ્રી' દ્વારા થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "રાજ્યની કારોબારીમાં કોનો કોનો સમાવેશ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાજ્યની કારોબારીમાં રાજ્યપાલ, મુખ્યમંત્રી અને મંત્રીમંડળનો સમાવેશ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કારોબારી = રાજ્યપાલ + CM + મંત્રીઓ.</p></div>"
+    }
+  ]
+}
