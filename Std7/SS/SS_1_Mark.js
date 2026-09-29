@@ -1845,3 +1845,186 @@ var Std7_SS_1_Mark = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "પર્યાવરણના ઘટકો અને આંતરસંબંધો",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "પર્યાવરણ શબ્દ કયા બે શબ્દોનો બનેલો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પર્યાવરણ શબ્દ 'પરિ' (ચારેબાજુ) અને 'આવરણ' (પડ) એમ બે શબ્દોનો બનેલો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિ = આજુબાજુ + આવરણ = પડ એટલે કે આપણી આસપાસનું પડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "પર્યાવરણના મુખ્ય કેટલા ઘટકો છે? કયા-કયા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પર્યાવરણના મુખ્ય ચાર ઘટકો છે: ૧. મૃદાવરણ ૨. જલાવરણ ૩. વાતાવરણ અને ૪. જીવાવરણ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મૃ-જ-વા-જી' (મૃદાવરણ, જલાવરણ, વાતાવરણ, જીવાવરણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "મૃદાવરણ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વીના ઉપરના ઘન પોપડાને ‘મૃદાવરણ’ કહેવામાં આવે છે, જે માટી અને ખડકો જેવા ઘન પદાર્થોનું બનેલું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મૃદા' એટલે માટી, માટે માટીનું બનેલું આવરણ એટલે મૃદાવરણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જલાવરણ કોને કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વીની સપાટીનો નીચાણવાળો ભાગ જે પાણીથી ઘેરાયેલો છે, તેને 'જલાવરણ' કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જલ = પાણી, પૃથ્વી પર જ્યાં પાણી છે તે જલાવરણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વાતાવરણ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વીની ચારેબાજુ વીંટળાઈને આવેલા હવાના આવરણને ‘વાતાવરણ’ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાત = હવા, પૃથ્વીની આસપાસ હવાનું આવરણ એટલે વાતાવરણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "જીવાવરણમાં કોનો સમાવેશ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વી પરના મૃદાવરણ, જલાવરણ અને વાતાવરણના જે ભાગમાં જીવસૃષ્ટિ વ્યાપેલી છે તેને 'જીવાવરણ' કહે છે, જેમાં વનસ્પતિ, પ્રાણીઓ અને જીવજંતુઓનો સમાવેશ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીવ = જીવસૃષ્ટિ, જ્યાં સજીવો જીવી શકે તે જીવાવરણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પર્યાવરણના મુખ્ય કેટલા પ્રકાર છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પર્યાવરણના મુખ્ય બે પ્રકાર છે: ૧. કુદરતી પર્યાવરણ અને ૨. માનવસર્જિત પર્યાવરણ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુદરતી (બનાવેલ નથી) + માનવસર્જિત (માનવે બનાવેલ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "કુદરતી પર્યાવરણના જૈવિક ઘટકોમાં કોનો સમાવેશ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કુદરતી પર્યાવરણના જૈવિક ઘટકોમાં વનસ્પતિ સૃષ્ટિ, પ્રાણી સૃષ્ટિ અને સૂક્ષ્મ જીવજંતુઓનો સમાવેશ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૈવિક = જેમાં જીવ છે તેવા ઘટકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પર્યાવરણના અજૈવિક ઘટકો કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભૂમિ, જળ અને હવા એ પર્યાવરણના અજૈવિક ઘટકો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અજૈવિક = નિર્જીવ વસ્તુઓ (જમીન, પાણી, હવા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "માનવનિર્મિત પર્યાવરણને બીજા કયા નામે ઓળખવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માનવનિર્મિત પર્યાવરણને ‘સાંસ્કૃતિક પર્યાવરણ’ તરીકે પણ ઓળખવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માનવ જે સંસ્કૃતિ અને સુવિધા બનાવે તે સાંસ્કૃતિક પર્યાવરણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "પૃથ્વીની સપાટી પર પાણી કેટલા ટકા વિસ્તાર રોકે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વીની સપાટી પર પાણી આશરે ૭૧% (71%) વિસ્તાર રોકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 71% પાણી + 29% જમીન = 100% પૃથ્વી સપાટી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "પૃથ્વી પરના કુલ પાણીના જથ્થામાંથી કેટલું પાણી મહાસાગરોમાં રહેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વી પરના કુલ પાણીના જથ્થામાંથી આશરે ૯૭.૩% (97.3%) પાણી મહાસાગરોમાં રહેલું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટાભાગનું પાણી ખારું છે (97.3%).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "પૃથ્વી પરના મુખ્ય ચાર મહાસાગરોનાં નામ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વી પરના મુખ્ય ચાર મહાસાગરો: ૧. પેસિફિક ૨. એટલાન્ટિક ૩. હિંદ અને ૪. આર્કટિક મહાસાગર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: PAIA (Pacific, Atlantic, Indian, Arctic).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ભરતી અને ઓટ કોને કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમુદ્રના પાણીના સ્તરનું સમયાંતરે ઊંચે ચઢવું તેને ‘ભરતી’ અને નીચે ઊતરવું તેને ‘ઓટ’ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી ઉપર આવે તો ભરતી, પાણી પાછું જાય તો ઓટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ભરતી-ઓટ વચ્ચેનો સમયગાળો આશરે કેટલો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બે ભરતી કે બે ઓટ વચ્ચેનો સમયગાળો આશરે ૧૨ કલાક અને ૨૫ મિનિટ જેટલો હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દિવસમાં બે વાર (12:25 ના અંતરે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સમુદ્રમાં ભરતી-ઓટ આવવાનું મુખ્ય કારણ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૂર્ય અને ચંદ્રના ગુરુત્વાકર્ષણ બળના કારણે સમુદ્રમાં ભરતી-ઓટ આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્ય + ચંદ્રનું આકર્ષણ = ભરતી-ઓટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "કયા દિવસોએ સૌથી મોટી ભરતી આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અમાસ અને પૂનમના દિવસે સૂર્ય, પૃથ્વી અને ચંદ્ર એક જ સીધી રેખામાં આવતા હોવાથી મોટી ભરતી આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૂનમ અને અમાસે સૂર્ય-ચંદ્રની શક્તિ ભેગી થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "મહાસાગરીય પ્રવાહના મુખ્ય કેટલા પ્રકાર છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહાસાગરીય પ્રવાહના મુખ્ય બે પ્રકાર છે: ૧. ગરમ પ્રવાહ અને ૨. ઠંડા પ્રવાહ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણીની ગરમી મુજબ - ગરમ અને ઠંડું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "પર્યાવરણનું પ્રદૂષણ ફેલાવનારા પદાર્થોને શું કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પર્યાવરણને દૂષિત કરતા પદાર્થોને ‘પ્રદૂષકો’ (Pollutants) કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રદૂષણ કરનાર = પ્રદૂષકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ભૂમિ (જમીન) પ્રદૂષણ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જમીનની ગુણવત્તામાં કે તેના પોષક ઘટકોમાં થતા ફેરફારને 'ભૂમિ પ્રદૂષણ' કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જમીન ખરાબ થવી = ભૂમિ પ્રદૂષણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "પ્લાસ્ટિકનો વપરાશ કયા પ્રદૂષણ માટે મુખ્યત્વે જવાબદાર છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્લાસ્ટિક જમીનમાં ભળતું નથી, તેથી તે મુખ્યત્વે ભૂમિ (જમીન) પ્રદૂષણ માટે જવાબદાર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્લાસ્ટિક કોહવાતું નથી, જમીન બગાડે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "જળ પ્રદૂષણ અટકાવવાનો એક મુખ્ય ઉપાય જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉદ્યોગોના દૂષિત પાણીને શુદ્ધિકરણની પ્રક્રિયા કર્યા બાદ જ જળાશયોમાં છોડવું જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શુદ્ધિકરણ (Filter) પછી જ નિકાલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "હવાનું પ્રદૂષણ કોને કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હવામાં રહેલા હાનિકારક વાયુઓ અને રજકણોના વધારાને 'હવાનું પ્રદૂષણ' કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધુમાડો + ઝેરી વાયુ = હવાનું પ્રદૂષણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "હવા પ્રદૂષણ માટે જવાબદાર કોઈ બે વાયુઓના નામ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નાઈટ્રોજન ઓક્સાઈડ અને કાર્બન મોનોક્સાઈડ (અથવા સલ્ફર ડાયોક્સાઈડ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાહનો અને ફેક્ટરીમાંથી નીકળતા ઝેરી વાયુઓ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ધ્વનિ પ્રદૂષણ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બિનજરૂરી, વધુ પડતો અને અસહ્ય અવાજ એટલે 'ધ્વનિ પ્રદૂષણ' (ઘોંઘાટ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અસહ્ય અવાજ = ઘોંઘાટ = ધ્વનિ પ્રદૂષણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ઘોંઘાટથી માણસ પર કઈ વિપરીત અસર થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘોંઘાટને કારણે માણસમાં બહેરાશ આવવી, માનસિક સ્વાસ્થ્ય બગડવું અને સ્વભાવ ચીડિયો બનવો જેવી અસરો થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અવાજ વધે તો શાંતિ ઘટે (ચીડિયો સ્વભાવ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ધ્વનિ પ્રદૂષણ અટકાવવા માટે શાળા-હોસ્પિટલ પાસે શું મૂકવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શાળા અને હોસ્પિટલ જેવા સ્થળો પાસે ‘સાઇલન્સ પ્લીઝ’ કે ‘નો હોર્ન’ ના બોર્ડ લગાવવા જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાંત વિસ્તાર (Silent Zone).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "સમુદ્રના પાણીમાં ક્ષારનું પ્રમાણ કેમ વધારે હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નદીઓ પૃથ્વી પરથી ક્ષારો વહાવીને સમુદ્રમાં ઠાલવે છે અને સમુદ્રનું પાણી સતત વરાળ બને છે પણ ક્ષાર નીચે રહી જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાણી ઉડી જાય, ક્ષાર રહી જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "પીવાલાયક મીઠા પાણીનો મુખ્ય સ્ત્રોત કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પીવાલાયક મીઠા પાણીનો મુખ્ય સ્ત્રોત વરસાદ (વૃષ્ટિ) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આકાશમાંથી આવતું પાણી જ મીઠું હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "પૃથ્વી પરના કયા મહાસાગરમાં સૌથી ઊંડી ખાઈઓ આવેલી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પેસિફિક મહાસાગરમાં ૧૦ થી ૧૧ કિમી જેટલી ઊંડી ખાઈઓ આવેલી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૌથી મોટો અને ઊંડો મહાસાગર = પેસિફિક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "માનવી પર્યાવરણમાં ફેરફાર શા માટે કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માનવી પોતાની જરૂરિયાતો સંતોષવા માટે પર્યાવરણમાં ફેરફાર કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જરૂરિયાત = પરિવર્તન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "કયા પ્રદૂષણને કારણે મશીનો અને વાહનો ઘોંઘાટ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મશીનો અને વાહનોના વધુ પડતા અવાજને કારણે ‘ધ્વનિ પ્રદૂષણ’ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મશીનનો અવાજ = ધ્વનિ પ્રદૂષણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "રેડિયોએક્ટિવ પ્રદૂષણ કઈ રીતે ફેલાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પરમાણુ પરીક્ષણો અને કિરણોત્સર્ગી પદાર્થોના ઉપયોગથી રેડિયોએક્ટિવ પ્રદૂષણ ફેલાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરમાણુ શક્તિ = ખતરનાક કિરણો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "જમીન પ્રદૂષણ અટકાવવા ખેતીમાં શેનો ઉપયોગ ટાળવો જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જમીન પ્રદૂષણ અટકાવવા ખેતીમાં રાસાયણિક ખાતરો અને જંતુનાશકોનો વધુ પડતો ઉપયોગ ટાળવો જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેમિકલ ઓછું, કુદરતી ખાતર વધુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "પ્રદૂષણ અટકાવવા માટે નાગરિકની પ્રાથમિક ફરજ કઈ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પર્યાવરણની જાળવણી માટે જાગૃત બનવું અને કચરાનો યોગ્ય નિકાલ કરવો એ નાગરિકની પ્રાથમિક ફરજ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાગૃત નાગરિક, સુરક્ષિત પર્યાવરણ.</p></div>"
+    }
+  ]
+}
