@@ -3051,3 +3051,211 @@ var Std7_SS_1_Mark = {
     }
   ]
 }
+,
+"17": {
+  "chapterName": "પ્રકરણ 17",
+  "chapterTitle": "સંચાર માધ્યમ અને જાહેરાત",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "સંચાર એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક સ્થળેથી બીજા સ્થળે માહિતી અથવા સંદેશો મોકલવાની કે પ્રાપ્ત કરવાની વિસ્તૃત પ્રક્રિયાને સંચાર કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સંચાર = સંદેશાનો 'ચાર' (ચારે બાજુ) પ્રસાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "પ્રાચીન સમયમાં સંદેશો પહોંચાડવા માટે કયાં સાધનોનો ઉપયોગ થતો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રાચીન સમયમાં ઢોલ વગાડીને, ધુમાડો કરીને, ઝંડા લહેરાવીને કે કબૂતર જેવા પક્ષીઓ દ્વારા સંદેશા પહોંચાડવામાં આવતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્રાચીન = પક્ષી (કબૂતર) અને પ્રાકૃતિક સંકેતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ભારતમાં આધુનિક ટપાલ સેવાની શરૂઆત ક્યારે થઈ હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતમાં આધુનિક ટપાલ સેવાની શરૂઆત ઈ.સ. 1854માં થઈ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1854 - 'ટપાલ' આવી 'ચોપન' (54) માં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ટેલિગ્રામ (તાર) ની શોધ ક્યારે થઈ હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટેલિગ્રામ (તાર) ની શોધ ઈ.સ. 1850માં થઈ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ટપાલ (1854) પહેલા તાર (1850) આવ્યો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ભારતમાં ટેલિગ્રામ (તાર) સેવા ક્યારે બંધ કરવામાં આવી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતમાં ટેલિગ્રામ સેવા 13 જુલાઈ, 2013ના રોજ બંધ કરવામાં આવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 13-7-13: તારનો 'તેરમો' (અંત) થયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પુસ્તકોને શું કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પુસ્તકોને 'જ્ઞાનના ભંડાર' અને 'માણસના મિત્ર' કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પુસ્તક = પાકો મિત્ર + જ્ઞાનનો ભંડાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વર્તમાનપત્રો દ્વારા આપણને કઈ માહિતી મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વર્તમાનપત્રો દ્વારા આપણને દુનિયાના ખૂણેખૂણે બનતી ઘટનાઓ, જાહેરાતો, શ્રદ્ધાંજલિ અને વિશેષ દિવસોની માહિતી મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વર્તમાનપત્ર = દુનિયાની ડેઈલી ડાયરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "રેડિયોની શોધ કોણે કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રેડિયોની શોધ ઈટલીના ગુગ્લીએલ્મો માર્કોનીએ કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રેડિયો ન વાગે તો 'કોણી' (માર્કોની) મારવી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ભારતમાં રેડિયો પરથી પહેલું પ્રસારણ ક્યાંથી થયું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતમાં રેડિયો પરથી પહેલું પ્રસારણ ઈ.સ. 1923માં મુંબઈ અને કોલકાતાના ખાનગી સ્ટેશનો પરથી થયું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1923 - મુંબઈ-કોલકાતામાં રેડિયોનો મેસેજ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "રેડિયો કયા પ્રકારનું માધ્યમ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રેડિયો એ 'શ્રાવ્ય' (સાંભળી શકાય તેવું) પ્રકારનું સંચાર માધ્યમ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રેડિયો = માત્ર સાંભળવાનો (શ્રાવ્ય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "દુનિયામાં સૌથી વધુ ચલચિત્રો (ફિલ્મો) કયા દેશમાં બને છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દુનિયામાં સૌથી વધુ ચલચિત્રો ભારત દેશમાં બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ફિલ્મોમાં ભારત નંબર 1.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ટેલિવિઝન (TV) ની શોધ કોણે કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટેલિવિઝનની શોધ જોન લોગી બેયર્ડે કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બેયર્ડ - જેણે બનાવ્યું ટીવી બોર્ડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ભારતમાં ટેલિવિઝન પ્રસારણ કેન્દ્રનો પ્રારંભ ક્યારે થયો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતમાં ટેલિવિઝન પ્રસારણ કેન્દ્રનો પ્રારંભ 15 સપ્ટેમ્બર, 1959માં દિલ્હી ખાતે થયો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 1959 - દિલ્હીમાં ટીવીનો સિક્કો જામ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "મોબાઈલ ફોન દ્વારા કઈ કઈ સુવિધાઓ મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોબાઈલ ફોન દ્વારા વાતચીત ઉપરાંત ઘડિયાળ, કેલ્ક્યુલેટર, રેડિયો, કેમેરો, ઈન્ટરનેટ અને રેલવે-ટિકિટ બુકિંગ જેવી સુવિધાઓ મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મોબાઈલ = હાથમાં આખું વિશ્વ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "કુત્રિમ ઉપગ્રહ (Satellite) નો ઉપયોગ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કુત્રિમ ઉપગ્રહનો ઉપયોગ સંચાર માટે, હવામાનની જાણકારી માટે અને પૃથ્વીના પેટાળમાં રહેલા સંસાધનોની શોધ માટે થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઉપગ્રહ = આકાશમાં બેઠેલો જાસૂસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સંચાર માધ્યમોના વધુ પડતા ઉપયોગથી કયું જોખમ રહેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંચાર માધ્યમોના વધુ પડતા ઉપયોગથી શારીરિક માનસિક સ્વાસ્થ્ય બગડે છે અને સામાજિક સંબંધોમાં અંતર આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વધુ પડતો ઉપયોગ = શરીર અને સંબંધોનો ભોગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "જાહેરાતના માધ્યમો કયા કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભીંતચિત્રો, રેડિયો, ટેલિવિઝન, સામાયિકો, વર્તમાનપત્રો, ઈન્ટરનેટ અને મોબાઈલ ફોન એ જાહેરાતના મુખ્ય માધ્યમો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યાં નજર પહોંચે, ત્યાં જાહેરાત પહોંચે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "જાહેરાતનો મુખ્ય ઉદ્દેશ્ય શું હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જાહેરાતનો મુખ્ય ઉદ્દેશ્ય ગ્રાહકોને વસ્તુની માહિતી આપીને તેને ખરીદવા માટે આકર્ષવાનો હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જાહેરાત = વસ્તુ વેચવાની કળા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "લોકશાહીમાં સંચાર માધ્યમોનું શું મહત્વ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લોકશાહીમાં સંચાર માધ્યમો સરકારની કામગીરી પર દેખરેખ રાખે છે અને લોકો સુધી સાચી માહિતી પહોંચાડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સંચાર માધ્યમ = લોકશાહીનો ચોથો સ્તંભ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સામાજિક જાગૃતિ માટેની કોઈ એક જાહેરાતનું ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'બેટી બચાવો, બેટી પઢાવો' અથવા 'સ્વચ્છ ભારત અભિયાન' એ સામાજિક જાગૃતિ માટેની જાહેરાતો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સામાજિક જાહેરાત = સમાજનું ભલું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "જાહેરાતનો સૌથી મોટો ફાયદો શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જાહેરાત દ્વારા ગ્રાહકને વસ્તુની ગુણવત્તા અને તેની કિંમતની ચકાસણી કરવાની તક મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જાહેરાત = ગ્રાહકની જાણકારી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વધુ પડતી જાહેરાતોની નકારાત્મક અસર શું થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘણીવાર જાહેરાતો જોઈને ગ્રાહક દેખાદેખીમાં બિનજરૂરી વસ્તુઓ ખરીદે છે અને છેતરાઈ જાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જાહેરાત + દેખાદેખી = બિનજરૂરી ખર્ચ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "સિનેમા (ચલચિત્ર) દ્વારા કયા પ્રકારનું શિક્ષણ મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સિનેમા દ્વારા સામાજિક અને સાંસ્કૃતિક બાબતોનું શિક્ષણ તેમજ મનોરંજન મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સિનેમા = મનોરંજન + સામાજિક બોધ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "વોકી-ટોકીનો ઉપયોગ કોણ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વોકી-ટોકીનો ઉપયોગ મુખ્યત્વે પોલીસ અને લશ્કરના જવાનો એકબીજા સાથે સંપર્ક કરવા માટે કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પોલીસની શાન, વોકી-ટોકીથી થાય કામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ટેલિગ્રામના બે પ્રકાર કયા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટેલિગ્રામના બે પ્રકાર હતા: 1. સાદો તાર અને 2. એક્સપ્રેસ તાર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સાદો અને એક્સપ્રેસ (ઝડપી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ઈ-મેઈલ (E-mail) એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઈ-મેઈલ એટલે ઈલેક્ટ્રોનિક માધ્યમથી મોકલવામાં આવતો પત્ર કે સંદેશો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): E-mail = Electronic Mail.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ઈન્ટરનેટને કારણે દુનિયા કેવી બની ગઈ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઈન્ટરનેટને કારણે આખી દુનિયા એક 'વૈશ્વિક ગામ' (Global Village) બની ગઈ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઈન્ટરનેટ = દુનિયા મુઠ્ઠીમાં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "પર્સનલ સંચારનું સાધન કયું ગણાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોબાઈલ ફોન અને પત્ર એ વ્યક્તિગત (પર્સનલ) સંચારના સાધનો ગણાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પર્સનલ = વન-ટુ-વન વાતચીત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "જાહેર ખબર (Advertising) ના ખર્ચને કોણ ભોગવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંતે તો જાહેરાતનો તમામ ખર્ચ ગ્રાહકે વસ્તુની કિંમતમાં ચૂકવવો પડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ખર્ચ કંપની કરે, ભોગવે ગ્રાહક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "ભારતનો પ્રથમ ઉપગ્રહ કયો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતનો પ્રથમ કુત્રિમ ઉપગ્રહ 'આર્યભટ્ટ' હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પહેલો સિતારો = આર્યભટ્ટ પ્યારો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "કયા માધ્યમ દ્વારા શ્રવણશક્તિ અને દ્રશ્યશક્તિ બંનેનો ઉપયોગ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટેલિવિઝન અને સિનેમા જેવા દ્રશ્ય-શ્રાવ્ય માધ્યમોમાં શ્રવણ અને દ્રશ્ય બંને શક્તિનો ઉપયોગ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દ્રશ્ય-શ્રાવ્ય = જુઓ + સાંભળો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "જાહેરાતમાં આવતી અસત્ય માહિતીથી શું થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જાહેરાતમાં આવતી અસત્ય માહિતીથી ગ્રાહક છેતરાય છે અને તેને આર્થિક નુકસાન થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ખોટી જાહેરાત = ગ્રાહકની પાયમાલી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "વર્તમાન સમયમાં સંદેશો મોકલવા માટે સૌથી ઝડપી સાધન કયું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વર્તમાન સમયમાં સંદેશો મોકલવા માટે 'ઈન્ટરનેટ' અને 'મોબાઈલ ફોન' સૌથી ઝડપી સાધનો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઈન્ટરનેટ = વીજળી જેવી ઝડપ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "પ્રસાર ભારતી શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રસાર ભારતી એ ભારતનું સ્વાયત્ત જાહેર પ્રસારણ નિગમ છે, જેની નીચે આકાશવાણી અને દૂરદર્શન આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આકાશવાણી + દૂરદર્શન = પ્રસાર ભારતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "જાહેરાત અને લોકશાહી વચ્ચે કેવો સંબંધ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જાહેરાત દ્વારા સરકાર પોતાની યોજનાઓ અને કામગીરીની માહિતી પ્રજા સુધી પહોંચાડે છે, જે લોકશાહીને મજબૂત બનાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જાહેરાત = સરકાર અને પ્રજા વચ્ચેનો સેતુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "સંચાર માધ્યમમાં આચારસંહિતા કેમ જરૂરી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંચાર માધ્યમો દ્વારા ખોટી માહિતી ન ફેલાય અને નૈતિકતા જળવાય તે માટે આચારસંહિતા જરૂરી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આચારસંહિતા = મર્યાદા અને નિયમો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "ટેલિવિઝનનું જૂનું નામ શું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતમાં ટેલિવિઝનનું જૂનું નામ 'દૂરદર્શન' (DD) તરીકે વધુ ઓળખાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દૂરદર્શન = દૂરથી દર્શન કરાવતું સાધન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "ઈન્ટરનેટ દ્વારા કઈ બેંકિંગ સેવા સુલભ બની છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઈન્ટરનેટ દ્વારા 'ઓનલાઈન બેંકિંગ' અને 'મોબાઈલ બેંકિંગ' સેવા સુલભ બની છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બેંક હવે ગજવામાં (મોબાઈલમાં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "સૌથી સસ્તું સંચાર માધ્યમ કયું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'પોસ્ટકાર્ડ' એ સૌથી સસ્તું અને સરળ સંચાર માધ્યમ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પોસ્ટકાર્ડ = ગરીબનો પત્રકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "જાહેરાતનો સામાજિક ગેરફાયદો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જાહેરાતને કારણે લોકોમાં દેખાદેખીની સંસ્કૃતિ વધે છે અને આર્થિક ખેંચતાણ અનુભવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ખોટો દંભ અને ખર્ચો વધે.</p></div>"
+    }
+  ]
+}
