@@ -3259,3 +3259,161 @@ var Std7_SS_1_Mark = {
     }
   ]
 }
+,
+"18": {
+  "chapterName": "પ્રકરણ 18",
+  "chapterTitle": "બજાર",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "બજાર એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યાં ચીજવસ્તુઓનું વેચાણ કરનાર અને ખરીદનાર ભેગા થતા હોય તેવા સ્થળને બજાર કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બજાર = લેનાર + વેચનાર (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ગ્રાહક કોને કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે વ્યક્તિ નાણાં આપીને વસ્તુ કે સેવા ખરીદે તેને ગ્રાહક કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૈસા આપીને 'ગ્રાહક' બનો, મફતમાં નહીં. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "મહોલ્લા બજારની સૌથી મોટી ખાસિયત કઈ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહોલ્લા બજારની ખાસિયત એ છે કે તે આપણી ઘરની આસપાસ હોય છે અને જરૂરિયાતના સમયે વસ્તુઓ મળી રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહોલ્લા = ઘરની બાજુમાં. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સાપ્તાહિક બજારને બીજા કયા નામે ઓળખવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાપ્તાહિક બજારને 'ગુજરી' અથવા 'હાટ' ના નામે ઓળખવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાત વારે ભરાય તે સાપ્તાહિક અથવા હાટ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સાપ્તાહિક બજારમાં વસ્તુઓ સસ્તી કેમ મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કારણ કે ત્યાં દુકાનનું ભાડું, વીજળી બિલ કે કર્મચારીઓનો પગાર જેવો ખર્ચ હોતો નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓછો ખર્ચ = સસ્તી વસ્તુ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "નિયંત્રિત બજાર (APMC) ની સ્થાપના શા માટે કરવામાં આવી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખેડૂતોની ખેતપેદાશોના વેચાણમાં થતા શોષણને અટકાવવા માટે નિયંત્રિત બજારની સ્થાપના કરવામાં આવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: APMC = ખેડૂતનું રક્ષણ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "જથ્થાબંધ બજાર કોને કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે બજારમાં વેપારીઓ મોટા જથ્થામાં માલની ખરીદી અને વેચાણ કરે તેને જથ્થાબંધ બજાર કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જથ્થાબંધ = મોટો લોટ (Bulk). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "છૂટક વેપારી કોને કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે વેપારી જથ્થાબંધ વેપારી પાસેથી માલ ખરીદીને ગ્રાહકોને તેમની જરૂરિયાત મુજબ વેચે તેને છૂટક વેપારી કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેલ્લી કડી એટલે છૂટક વેપારી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ઓનલાઇન બજારનો સૌથી મોટો ફાયદો શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓનલાઇન બજારમાં ઘરે બેઠા વસ્તુ મંગાવી શકાય છે અને સમયની બચત થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઓનલાઇન = ક્લિક પર ખરીદી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ખેતીવાડી ઉત્પન્ન બજાર સમિતિને ટૂંકમાં કયા નામે ઓળખાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખેતીવાડી ઉત્પન્ન બજાર સમિતિને ટૂંકમાં APMC (Agricultural Produce Market Committee) તરીકે ઓળખાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: APMC = માર્કેટ યાર્ડ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ગ્રાહક સુરક્ષા અધિનિયમ ક્યારે અમલમાં આવ્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારત સરકારે ગ્રાહક સુરક્ષા અધિનિયમ ઈ.સ. 1986 માં અમલમાં મૂક્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1986 = ગ્રાહકનો કાયદો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ISI માર્કો કઈ વસ્તુઓ પર જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ISI માર્કો ઘરવપરાશની અને વીજળીથી ચાલતી વસ્તુઓ પર જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ISI = ઇલેક્ટ્રિક કરંટ (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સોના-ચાંદીના દાગીના પર કયો માર્કો હોવો જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સોના-ચાંદીના દાગીના પર 'હોલમાર્ક' (Hallmark) નો માર્કો હોવો જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દાગીના = હોલમાર્ક. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ખાદ્ય પદાર્થો પર કયો માર્કો લગાવવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખાદ્ય પદાર્થો પર FSSAI (એફ.એસ.એસ.એ.આઈ.) નો માર્કો લગાવવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: FSSAI = ફૂડ સેફ્ટી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ખેતીવાડી પેદાશો માટે કયો માર્કો વપરાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખેતીવાડી પેદાશો માટે 'એગમાર્ક' (AGMARK) નો માર્કો વપરાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: AG = Agriculture = ખેતી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "શાકાહારી ખાદ્ય સામગ્રી પર કયા રંગનું નિશાન હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શાકાહારી ખાદ્ય સામગ્રી પર 'લીલા' રંગનું નિશાન (ટપકું) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેજ = ગ્રીન. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "માંસાહારી ખાદ્ય સામગ્રી પર કયા રંગનું નિશાન હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માંસાહારી ખાદ્ય સામગ્રી પર 'લાલ' રંગનું નિશાન (ટપકું) હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નોન-વેજ = રેડ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિશ્વ ગ્રાહક અધિકાર દિન ક્યારે ઉજવવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિશ્વ ગ્રાહક અધિકાર દિન '15 માર્ચ' ના રોજ ઉજવવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 15 માર્ચ = વર્લ્ડ કન્ઝ્યુમર ડે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "રાષ્ટ્રીય ગ્રાહક અધિકાર દિન ક્યારે ઉજવાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાષ્ટ્રીય ગ્રાહક અધિકાર દિન '24 ડિસેમ્બર' ના રોજ ઉજવવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 24 ડિસેમ્બર = ઇન્ડિયન કન્ઝ્યુમર ડે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ગ્રાહકની ફરજ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગ્રાહકે હંમેશા વસ્તુ ખરીદતી વખતે પાકું બિલ લેવાનો આગ્રહ રાખવો જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બિલ લો, સુરક્ષિત રહો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "બજારના પ્રકારો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહોલ્લા બજાર, સાપ્તાહિક બજાર, શોપિંગ કોમ્પ્લેક્સ, મોલ, ઓનલાઇન બજાર અને નિયંત્રિત બજાર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગામથી મોલ સુધીના બધા બજાર. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "શોપિંગ મોલ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એક જ મકાનમાં અલગ અલગ માળ પર વિવિધ પ્રકારની વસ્તુઓ વેચાતી હોય તેવી મોટી દુકાનોને મોલ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોલ = બધું એક જ છત નીચે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ખેડૂત પોતાની ખેતપેદાશો ક્યાં વેચે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખેડૂત પોતાની ખેતપેદાશો માર્કેટ યાર્ડ (APMC) માં વેચે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેડૂતનું વેચાણ કેન્દ્ર = માર્કેટ યાર્ડ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ગ્રાહક જાગૃતિનો મુખ્ય ઉદ્દેશ્ય શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગ્રાહકોનું વેપારીઓ દ્વારા થતું શોષણ અટકાવવું અને ગ્રાહકોને તેમના હકોથી માહિતગાર કરવા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાગો ગ્રાહક જાગો! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "બજારની સમાનતા એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નાના વેપારીઓ અને મોટા વેપારીઓ બંનેને વેચાણની સમાન તકો મળે તેને બજારની સમાનતા કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાનો-મોટો વેપારી એકસમાન. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ગ્રાહકને કયા કયા અધિકારો મળેલા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પસંદગી કરવાનો, માહિતી મેળવવાનો, સુરક્ષાનો અને ફરિયાદ નિવારણનો અધિકાર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્રાહકના 'પાવર' (Power) એટલે અધિકારો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વસ્તુ પર છાપેલી કિંમતને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વસ્તુ પર છાપેલી મહત્તમ કિંમતને MRP (Maximum Retail Price) કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: MRP થી વધુ કિંમત ન અપાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "વેપારી કોણ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉત્પાદક અને ગ્રાહક વચ્ચેની કડીરૂપ જે વ્યક્તિ વસ્તુઓનું વેચાણ કરે તેને વેપારી કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વેપારી = વચેટિયો (કડી). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ગ્રાહકોએ વસ્તુ ખરીદતી વખતે શું જોવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વસ્તુની કિંમત, વજન, એક્સપાયરી ડેટ (અંતિમ તારીખ) અને ક્વોલિટી માર્કો (ISI/AGMARK) જોવા જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચેક કરો પછી જ લો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "Woolmark માર્કો કઈ વસ્તુ પર હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Woolmark માર્કો ઊન (Wool) ના કપડાં અને તેની બનાવટો પર હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Wool = ઊન. (NJ Classes)</p></div>"
+    }
+  ]
+}
