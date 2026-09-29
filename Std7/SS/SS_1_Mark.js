@@ -2369,3 +2369,161 @@ var Std7_SS_1_Mark = {
     }
   ]
 }
+,
+"13": {
+  "chapterName": "પ્રકરણ 13",
+  "chapterTitle": "સંસાધનોનું જતન અને સંરક્ષણ",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "સંસાધન એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વી પર મળતા અને માનવીને ઉપયોગમાં આવતા કુદરતી પદાર્થોને 'સંસાધન' કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંસાધન = કુદરત + માનવીની જરૂરિયાત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "નવીનીકરણીય (પુનઃપ્રાપ્ય) સંસાધનો કોને કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે સંસાધનો પોતાની મેળે જ ચોક્કસ સમયમાં વપરાયેલા હિસ્સાની પૂર્તિ કરે છે અથવા અખૂટ હોય તેને નવીનીકરણીય સંસાધનો કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નવીનીકરણીય = જે ક્યારેય 'નવી' (નવું) બનાવવું ન પડે, કુદરત જાતે આપે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "અનવીનીકરણીય (પુનઃઅપ્રાપ્ય) સંસાધનો એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે સંસાધનો એકવાર વપરાયા પછી ફરી ઉપયોગમાં લઈ શકાતા નથી કે તેને ફરી બનાવી શકાતા નથી તેને અનવીનીકરણીય સંસાધનો કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અનવીનીકરણીય = એકવાર વપરાયું, એટલે પૂરું (જેમ કે પેટ્રોલ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ભૂમિ સંસાધનમાં 'જમીન' એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વીના ઉપરના પડને, જેમાં વનસ્પતિ ઉગે છે તેને આપણે જમીન કહીએ છીએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જમીન = વનસ્પતિનું ઘર (પૃથ્વીનું ઉપરનું પડ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "જમીન ધોવાણ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વહેતા પાણી અને પવન દ્વારા જમીનના ઉપરના કણોનું એક જગ્યાએથી બીજી જગ્યાએ ઘસડાઈ જવું તેને જમીન ધોવાણ કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધોવાણ = પાણી કે પવન દ્વારા જમીનનું 'શિફ્ટિંગ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "જમીન સંરક્ષણ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જમીન ધોવાણને રોકીને જમીનની ગુણવત્તા જાળવવી એટલે જમીન સંરક્ષણ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંરક્ષણ = બચાવ (ધોવાણ અટકાવવું + ગુણવત્તા જાળવવી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "જળ સંસાધનનો મુખ્ય સ્ત્રોત કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વી પર જળ સંસાધનનો મુખ્ય સ્ત્રોત 'વૃષ્ટિ' (વરસાદ) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જળનો રાજા = વરસાદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "પૃથ્વી પર પીવાલાયક પાણીનું પ્રમાણ કેટલા ટકા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વી પર કુલ પાણીના જથ્થામાંથી માત્ર અંદાજે 3% જેટલું જ પાણી પીવાલાયક છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 100 માંથી માત્ર 3 જ કામના (પીવા માટે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વન્યજીવ સંસાધનમાં ભારતનું કયું પ્રાણી વિશ્વમાં અજોડ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એશિયાઈ સિંહ માત્ર ગુજરાતના ગીરના જંગલોમાં જ જોવા મળે છે, જે વિશ્વમાં અજોડ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એશિયાઈ સિંહ = ગીરની શાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "રણ પ્રદેશની મુખ્ય લાક્ષણિકતા શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રણ પ્રદેશની મુખ્ય લાક્ષણિકતા ઓછો વરસાદ, પાણીની અછત અને વિષમ તાપમાન છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રણ = પાણી નથી + ગરમી/ઠંડી વધુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સહારાનું રણ કેવા પ્રકારનું રણ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સહારાનું રણ એ વિશ્વનું સૌથી મોટું 'ગરમ' રણ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સહારા = ગરમાગરમ મોટું રણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "લડાખનું રણ કેવા પ્રકારનું રણ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લડાખ એ ભારતનું 'ઠંડું' રણ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લડાખ = બરફ જેવું ઠંડું રણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ખડકોના નાના-મોટા ટુકડા, કાંકરા અને માટીની રજને શું કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખડકોના નાના-મોટા ટુકડા, કાંકરા અને માટીની રજને 'રેગોલિથ' કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પથ્થર + માટીનું મિશ્રણ = રેગોલિથ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વૃક્ષારોપણથી કયો ફાયદો થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વૃક્ષારોપણથી જમીનનું ધોવાણ અટકે છે અને વાતાવરણ શુદ્ધ બને છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વૃક્ષો = જમીનના રક્ષક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ગુજરાતના કયા જિલ્લામાં રણ આવેલું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુજરાતના 'કચ્છ' જિલ્લામાં રણ આવેલું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કચ્છડો બારે માસ (કચ્છનું રણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "પૃષ્ઠીય જળના સ્ત્રોતો કયા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નદીઓ, સરોવરો, તળાવો અને ઝરણાં એ પૃષ્ઠીય જળના મુખ્ય સ્ત્રોતો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃષ્ઠીય = પૃથ્વીની સપાટી પર દેખાતું પાણી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ખનીજ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વીના પેટાળમાં ચાલતી જૈવિક અને અજૈવિક ક્રિયાઓને કારણે બનેલા ચોક્કસ રાસાયણિક બંધારણ ધરાવતા પદાર્થોને ખનીજ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃથ્વીના પેટાળનો ખજાનો = ખનીજ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "કયા પ્રકારની ખેતીથી જમીનનું ધોવાણ ઘટે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પર્વતીય ક્ષેત્રોમાં સીડીદાર ખેતી (Step Farming) કરવાથી જમીનનું ધોવાણ ઘટે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પગથિયાં જેવી ખેતી = ઓછું ધોવાણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "જંગલો આપણને કઈ રીતે ઉપયોગી છે? (કોઈ એક ઉપયોગ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જંગલો આપણને ઈમારતી લાકડું, બળતણ અને વિવિધ ઔષધિઓ પૂરી પાડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જંગલ = કુદરતી ફેક્ટરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વન્યજીવોના સંરક્ષણ માટે સરકાર શું બનાવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વન્યજીવોના સંરક્ષણ માટે સરકાર અભયારણ્યો, રાષ્ટ્રીય ઉદ્યાનો અને જૈવ-આરક્ષિત ક્ષેત્રો બનાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુરક્ષિત ઘર = અભયારણ્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "કચ્છના રણના કયા પક્ષીઓ જાણીતા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કચ્છના રણમાં જોવા મળતા 'સુરખાબ' (Flamingo) પક્ષીઓ ખૂબ જ જાણીતા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કચ્છ + ગુલાબી પક્ષી = સુરખાબ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "લડાખમાં કયા બૌદ્ધ મઠો આવેલા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લડાખમાં હેમિસ, થિકસે અને શે જેવા પ્રખ્યાત બૌદ્ધ મઠો આવેલા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લડાખના મઠ = 'હેમિસ' યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "રણમાં વનસ્પતિ કેવી હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રણમાં કાંટાળી વનસ્પતિ (થોર, બાવળ, બોરડી) જોવા મળે છે જે ઓછા પાણીમાં ટકી શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રણની વનસ્પતિ = કાંટાવાળી અને જબરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "જળ એ કેવું સંસાધન છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જળ એ મર્યાદિત કુદરતી સંસાધન છે, જેના વિના જીવન શક્ય નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જળ એ જ જીવન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "લડાખમાં કયા પ્રાણીનું દૂધ અને પનીર વપરાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લડાખમાં 'યાક' નામના પ્રાણીના દૂધમાંથી પનીર બનાવવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લડાખ = યાકનું દૂધ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "સંસાધનોનું સંરક્ષણ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંસાધનોનો વિવેકપૂર્ણ અને કરકસરભર્યો ઉપયોગ કરવો એટલે સંસાધનોનું સંરક્ષણ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંરક્ષણ = કરકસર + વિવેકબુદ્ધિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "સૌર ઊર્જા એ કેવું સંસાધન છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૌર ઊર્જા એ નવીનીકરણીય (અખૂટ) સંસાધન છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્ય ક્યારેય ખૂટે નહીં = અખૂટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "જળતંગી એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વધતી જતી વસ્તી અને વપરાશને કારણે પાણીની જે અછત સર્જાય છે તેને જળતંગી કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જળતંગી = પાણીની શોર્ટેજ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "વન્યજીવોના વિનાશનું મુખ્ય કારણ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જંગલોનો વિનાશ અને માનવીય દખલગીરી એ વન્યજીવોના વિનાશનું મુખ્ય કારણ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જંગલ ગયા, એટલે જીવ ગયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "કયા રણને 'સફેદ રણ' તરીકે ઓળખવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કચ્છના મોટા રણને 'સફેદ રણ' તરીકે ઓળખવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નમક (મીઠું) = સફેદ રણ.</p></div>"
+    }
+  ]
+}
