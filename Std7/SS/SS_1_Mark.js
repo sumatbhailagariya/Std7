@@ -2527,3 +2527,211 @@ var Std7_SS_1_Mark = {
     }
   ]
 }
+,
+"14": {
+  "chapterName": "પ્રકરણ 14",
+  "chapterTitle": "લોકશાહીમાં સમાનતા",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "લોકશાહીમાં સૌથી મહત્ત્વનું પાસું કયું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લોકશાહીમાં સૌથી મહત્ત્વનું પાસું 'સમાનતા' છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોકશાહીનો પાયો = સમાનતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિશ્વનું સૌથી મોટું લેખિત બંધારણ કયા દેશનું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિશ્વનું સૌથી મોટું લેખિત બંધારણ ભારત દેશનું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટું દેશ + મોટું બંધારણ = ભારત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "બંધારણમાં સમાનતાનો અધિકાર એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૌને સમાન અધિકાર અને સૌને સમાન તક એટલે સમાનતાનો અધિકાર.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાન અધિકાર = સમાન તક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ભારતમાં કેટલા વર્ષની ઉંમરે મતાધિકાર મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતમાં 18 વર્ષ કે તેથી વધુ ઉંમરના દરેક નાગરિકને મતાધિકાર મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વોટિંગ માટે 'અઢાર' વર્ષ તૈયાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ચૂંટણીમાં કોણ મતદાન કરી શકે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે નાગરિકનું નામ મતદાર યાદીમાં નોંધાયેલું હોય તે તમામ મતદાન કરી શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદીમાં નામ + 18 વર્ષ = મતદાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "બાળ મજૂરી એ શાનો ભંગ ગણાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાળ મજૂરી એ શિક્ષણ મેળવવાના અધિકારનો ભંગ ગણાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કામ નહીં, પણ ભણતર એ બાળકનો હક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "કેટલા વર્ષથી ઓછી ઉંમરના બાળકને મજૂરીએ રાખવો એ ગુનો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 14 વર્ષથી ઓછી ઉંમરના બાળકને મજૂરીએ રાખવો એ કાયદાકીય ગુનો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 14 થી નાના, કામમાં મના.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ભારતીય બંધારણે કયા પ્રકારની સમાનતા આપી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતીય બંધારણે ધર્મ, ભાષા, જાતિ કે જન્મસ્થળના ભેદભાવ વગર સૌને સમાનતા આપી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈ પણ ભેદભાવ વગર 'સર્વ સમાન'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "દરેક બાળકને કયા પ્રકારના શિક્ષણનો અધિકાર છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દરેક બાળકને મફત, ફરજિયાત અને સાર્વત્રિક ભણવાનો અધિકાર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મફત + ફરજિયાત = RTE.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સૌપ્રથમ મધ્યાહન ભોજનની યોજના કયા રાજ્યમાં શરૂ થઈ હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૌપ્રથમ મધ્યાહન ભોજનની યોજના તમિલનાડુ રાજ્યમાં શરૂ થઈ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલું ભોજન = તમિલનાડુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "લોકશાહીમાં કોને ભગવાન માનવામાં આવે છે (મતદારના સંદર્ભમાં)?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લોકશાહીમાં 'મતદાર' ને સૌથી મહત્વનો અને સર્વોપરી માનવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોકશાહીનું એન્જિન = મતદાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "શિક્ષણ મેળવવો એ બાળકનો કેવો અધિકાર છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શિક્ષણ મેળવવો એ બાળકનો બંધારણીય અને મૂળભૂત અધિકાર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભણવું એ 'હક' છે, 'ઉપકાર' નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સમાનતાના ભંગ બદલ કઈ જોગવાઈ કરવામાં આવી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમાનતાના ભંગ બદલ કાયદાકીય સજા કે દંડની જોગવાઈ કરવામાં આવી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિયમ તોડો = સજા ભોગવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ભારતમાં મતાધિકાર માટે કઈ પદ્ધતિ અપનાવવામાં આવી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતમાં 'સાર્વત્રિક પુખ્તવય મતાધિકાર' પદ્ધતિ અપનાવવામાં આવી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૌને વોટ = સાર્વત્રિક પુખ્તવય મતાધિકાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સ્ત્રી અને પુરુષને સમાન કામ માટે કેવું વેતન મળવું જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્ત્રી અને પુરુષને સમાન કામ માટે સમાન વેતન મળવું જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરખું કામ = સરખો પગાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "લોકશાહીમાં સમાનતાનો અર્થ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લોકશાહીમાં સમાનતા એટલે કાયદાની નજરમાં સૌ સમાન અને સૌને સરખા રક્ષણની ખાતરી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાયદો + રક્ષણ = બધા માટે સમાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "બાળ મજૂરી અટકાવવા માટેનો કાયદો કયા વર્ષથી અમલી બન્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાળ મજૂરી અટકાવવા માટેનો મુખ્ય કાયદો 1986 (Child Labour Act) અને ત્યારબાદના સુધારા મુજબ અમલી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળકો કામ પર નહીં, સ્કૂલ પર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ભારતના બંધારણના ઘડવૈયા કોણ હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતના બંધારણના મુખ્ય ઘડવૈયા ડો. બાબાસાહેબ આંબેડકર હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બંધારણના શિલ્પી = ડો. બી. આર. આંબેડકર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "લોકશાહી દેશમાં સરકારની રચના કોણ કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લોકશાહી દેશમાં સરકારની રચના લોકોના મતો દ્વારા કરવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોકોનું, લોકો માટે અને લોકો દ્વારા શાસન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સમાજમાં સમાનતા લાવવા માટે શું અનિવાર્ય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમાજમાં સમાનતા લાવવા માટે શિક્ષણ અને જાગૃતિ અનિવાર્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભણશે ભારત, તો વધશે સમાનતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "કયા પ્રકારના ભેદભાવ સમાનતાના માર્ગમાં અવરોધરૂપ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્ઞાતિ, ધર્મ, લિંગ અને આર્થિક અસમાનતાના ભેદભાવો સમાનતાના માર્ગમાં અવરોધરૂપ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભેદભાવ = સમાનતાનો દુશ્મન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "જાતિગત ભિન્નતા એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્ત્રી અને પુરુષ વચ્ચે કરવામાં આવતો સામાજિક કે શારીરિક ભેદભાવ એટલે જાતિગત ભિન્નતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છોકરો-છોકરી એક સમાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "બંધારણ મુજબ અસ્પૃશ્યતાનું નિવારણ કેવી રીતે કરવામાં આવ્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બંધારણની કલમ 17 મુજબ અસ્પૃશ્યતા નાબૂદ કરવામાં આવી છે અને તેનો આચરણ શિક્ષાપાત્ર ગુનો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કલમ 17 = અસ્પૃશ્યતા ખતમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ભારતીય લોકશાહીમાં મત આપવો એ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતીય લોકશાહીમાં મત આપવો એ નાગરિકનો અધિકાર અને પવિત્ર ફરજ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મત = આપણી તાકાત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ખાનગી શાળાઓમાં ગરીબ બાળકો માટે કેટલી ટકા અનામત બેઠકો હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> RTE કાયદા મુજબ ખાનગી શાળાઓમાં ગરીબ બાળકો માટે 25% બેઠકો અનામત રાખવાની જોગવાઈ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: RTE = પચ્ચીસ ટકા ફી માફી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "નાના બાળકોને હોટલ કે લારી પર કામ રાખવા એ કયા અધિકારનું હનન છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તે બાળકના શિક્ષણ મેળવવાના અને શોષણ વિરોધી અધિકારનું હનન છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળમજૂરી = અધિકારની ચોરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "દેશના વિકાસમાં કોની સમાન ભાગીદારી જરૂરી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દેશના વિકાસમાં સ્ત્રી અને પુરુષ બંનેની સમાન ભાગીદારી જરૂરી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ત્રી + પુરુષ = દેશનો વિકાસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "સાર્વત્રિક પુખ્તવય મતાધિકારમાં કઈ બાબતને મહત્વ આપવામાં આવ્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તેમાં 'એક વ્યક્તિ, એક મત' ના સિદ્ધાંતને મહત્વ આપવામાં આવ્યું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 1 વ્યક્તિ = 1 વોટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "દરેક નાગરિકને પોતાનો ધર્મ પાળવાની છૂટ આપવી એ કઈ સમાનતા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દરેક નાગરિકને પોતાનો ધર્મ પાળવાની છૂટ આપવી એ 'ધાર્મિક સમાનતા' છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધર્મની આઝાદી = ધાર્મિક સમાનતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "ગામના કૂવેથી પાણી ભરવા બાબતે ભેદભાવ રાખવો એ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગામના કૂવેથી પાણી ભરવા બાબતે ભેદભાવ રાખવો એ સામાજિક અસમાનતા અને કાયદાનું ઉલ્લંઘન છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જાહેર સ્થળો સૌના માટે સમાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "સમાનતા એટલે શું? (ટુંકી વ્યાખ્યા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમાનતા એટલે કોઈપણ જાતના ભેદભાવ વગર સૌને સમાન દરજ્જો અને તક આપવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભેદભાવ વગરનો દરજ્જો = સમાનતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "ભારત કેવો દેશ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારત એક વિશાળ લોકશાહી અને બિનસાંપ્રદાયિક દેશ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લોકશાહી + બિનસાંપ્રદાયિક = ભારત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "લોકશાહીમાં સમાનતા શા માટે જરૂરી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લોકશાહીમાં વ્યક્તિની ગરિમા જાળવવા અને સામાજિક ન્યાય માટે સમાનતા જરૂરી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરિમા + ન્યાય = સમાનતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "ભારતીય બંધારણમાં શિક્ષણનો અધિકાર કયા વર્ષના બાળકોને અપાયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 6 થી 14 વર્ષના તમામ બાળકોને શિક્ષણનો અધિકાર અપાયો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 6 થી 14 = ફ્રી એજ્યુકેશન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "દિવ્યાંગો માટે સરકાર કઈ સુવિધા પૂરી પાડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દિવ્યાંગો માટે સરકાર અનામત બેઠકો, સાધનો અને વિશેષ શૈક્ષણિક સવલતો પૂરી પાડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દિવ્યાંગોને વિશેષ સપોર્ટ = સમાનતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "મતાધિકારમાં કયા પ્રકારની સમાનતા જોવા મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મતાધિકારમાં આર્થિક કે સામાજિક સ્તરને ધ્યાનમાં લીધા વગર રાજકીય સમાનતા જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અમીર હોય કે ગરીબ, વોટની કિંમત સરખી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "બાળકને મજૂરીએ રાખવો એ શા માટે ગુનો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કારણ કે તે બાળકના વિકાસમાં અવરોધક છે અને કાયદાકીય રીતે પ્રતિબંધિત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળકનું કામ ભણવાનું, મજૂરીનું નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "સ્ત્રી ભ્રૂણ હત્યા એ શાનું ઉદાહરણ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્ત્રી ભ્રૂણ હત્યા એ ગંભીર જાતિગત અસમાનતા અને કાનૂની ગુનો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બેટી બચાવો = સમાનતા લાવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "કાયદાની નજરમાં સૌ કેવા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાયદાની નજરમાં સૌ નાગરિકો સમાન છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાયદો અંધ છે એટલે કે તે ભેદભાવ કરતો નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "ભારતનું સંચાલન કયા પુસ્તક મુજબ થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતનું સંચાલન 'ભારતના બંધારણ' મુજબ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેશની ગાઈડબુક = બંધારણ.</p></div>"
+    }
+  ]
+}
