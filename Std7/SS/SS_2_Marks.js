@@ -114,3 +114,61 @@ var Std7_SS_2_Marks = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "મુઘલ સામ્રાજ્ય",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "મુઘલ સામ્રાજ્યની સ્થાપના કોણે અને ક્યારે કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભારતમાં મુઘલ સામ્રાજ્યની સ્થાપના ઈ.સ. 1526 માં બાબરે કરી હતી. તેણે પાણીપતના પ્રથમ યુદ્ધમાં ઈબ્રાહિમ લોદીને હરાવીને દિલ્હીમાં મુઘલ શાસનનો પાયો નાખ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘બાપ’ (BAP) - બાબરે ૧૫૨૬ માં પાણીપત જીતીને પાયો નાખ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "શેરશાહ સૂરીને ઇતિહાસમાં એક સુધારક શાસક તરીકે કેમ યાદ કરવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શેરશાહ સૂરીએ અનેક સુધારા કર્યા હતા, જેમ કે: (1) તેણે નવી ટપાલ વ્યવસ્થા શરૂ કરી, (2) વેપારીઓ અને યાત્રાળુઓ માટે ધર્મશાળાઓ બંધાવી, અને (3) રૂપિયાનું ચલણ શરૂ કર્યું. આથી તેને સુધારક શાસક માનવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શેરશાહ = સડક, સિક્કા અને સુધારાનો શહેનશાહ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "અકબરની ધાર્મિક નીતિ વિશે ટૂંકમાં જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અકબર બિનસાંપ્રદાયિક રાજા હતો. તેણે બધા ધર્મોના ઉત્તમ તત્વોને એકઠા કરીને 'દીન-એ-ઈલાહી' નામના સંપ્રદાયની સ્થાપના કરી હતી. તેણે હિન્દુઓ પ્રત્યે ઉદાર નીતિ અપનાવી જઝિયા વેરો નાબૂદ કર્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અકબર એટલે 'ઉદાર' - દીન-એ-ઈલાહી અને જઝિયા મુક્તિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પાણીપતનું બીજું યુદ્ધ કોની કોની વચ્ચે થયું હતું? તેનું શું પરિણામ આવ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઈ.સ. 1556 માં પાણીપતનું બીજું યુદ્ધ અકબર અને હેમુ વચ્ચે થયું હતું. આ યુદ્ધમાં અકબરનો વિજય થયો અને ભારતમાં મુઘલ સત્તા વધુ મજબૂત બની.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ૧૫૫૬: અકબર vs હેમુ (અકબર જીત્યો!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "મહારાણા પ્રતાપ અને અકબર વચ્ચે કયું પ્રસિદ્ધ યુદ્ધ થયું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મેવાડના પ્રતાપી રાજા મહારાણા પ્રતાપ અને અકબર વચ્ચે 'હલ્દીઘાટીનું યુદ્ધ' થયું હતું. જેમાં મહારાણા પ્રતાપે હાર માન્યા વગર જંગલોમાં રહીને પણ સંઘર્ષ ચાલુ રાખ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્રતાપ-અકબર = હલ્દીઘાટી (ચેતક ઘોડાની વીરતા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "શાહજહાંને 'મહેલોનો બાંધનાર' કેમ કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શાહજહાં સ્થાપત્યનો પ્રેમી હતો. તેણે આગ્રામાં વિશ્વપ્રસિદ્ધ 'તાજમહાલ', મોતી મસ્જિદ અને દિલ્હીમાં પ્રસિદ્ધ 'લાલ કિલ્લો' બંધાવ્યો હતો. આ ભવ્ય બાંધકામોને કારણે તેને મહેલોનો બાંધનાર કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શાહજહાં = સ્થાપત્યનો સુવર્ણકાળ (તાજમહાલ + લાલ કિલ્લો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "મુઘલ વહીવટીતંત્રમાં 'મનસબદારી' પ્રથા એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'મનસબ' એટલે પદ અને 'મનસબદાર' એટલે પદ ધરાવનાર અધિકારી. આ પ્રથા સૈન્ય અને મહેસૂલ સાથે જોડાયેલી હતી. મનસબદારને તેની શ્રેણી મુજબ લશ્કર રાખવું પડતું અને તે વિસ્તારનો વહીવટ કરવો પડતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મનસબ = હોદ્દો/પદ. અકબરે શરૂ કરેલી લશ્કરી વ્યવસ્થા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "છત્રપતિ શિવાજી મહારાજ વિશે ટૂંકમાં માહિતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> છત્રપતિ શિવાજી મહારાજ મરાઠા સામ્રાજ્યના સ્થાપક અને મહાન દેશભક્ત હતા. તેમણે મુઘલ સમ્રાટ ઔરંગઝેબ સામે લાંબો સમય સંઘર્ષ કર્યો હતો. તેઓ તેમની 'ગેરિલા યુદ્ધ' (છૂપો હુમલો) પદ્ધતિ માટે જાણીતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શિવાજી = મરાઠા કેસરી + ગેરિલા યુદ્ધ પદ્ધતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "મુઘલ કાલિન મહેસૂલી વ્યવસ્થાના વડા કોણ હતા? તેમણે કઈ પદ્ધતિ અમલમાં મૂકી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અકબરના સમયમાં મહેસૂલી વ્યવસ્થાના વડા રાજા ટોડરમલ હતા. તેમણે મહેસૂલ ઉઘરાવવા માટે 'ઝબ્તી' પદ્ધતિ અમલમાં મૂકી હતી, જે ખેતીની જમીનની માપણી પર આધારિત હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મહેસૂલ = ટોડરમલ (નાણામંત્રી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "મુઘલ સામ્રાજ્યના પતન માટે કયા મુખ્ય કારણો જવાબદાર હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઔરંગઝેબના અવસાન (1707) પછીના મુઘલ શાસકો નિર્બળ હતા. આંતરિક વિખવાદો, મરાઠાઓના ઉદય અને નાદિરશાહ જેવા વિદેશી આક્રમણોને કારણે મુઘલ સામ્રાજ્યનું પતન થયું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઔરંગઝેબ પછી 'નિર્બળ વારસદારો' = સામ્રાજ્યનો અંત.</p></div>"
+    }
+  ]
+}
