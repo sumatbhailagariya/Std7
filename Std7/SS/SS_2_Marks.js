@@ -636,3 +636,61 @@ var Std7_SS_2_Marks = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "આપત્તિ વ્યવસ્થાપન",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "આપત્તિ એટલે શું? તેના મુખ્ય પ્રકારો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આપત્તિ એટલે અચાનક આવતી એવી કુદરતી કે માનવસર્જિત હોનારત, જે જાન-માલનું ભારે નુકસાન કરે છે. આપત્તિના મુખ્ય બે પ્રકાર છે: (૧) કુદરતી આપત્તિઓ (દા.ત. ભૂકંપ, પૂર) અને (૨) માનવસર્જિત આપત્તિઓ (દા.ત. આગ, હુલ્લડ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આપત્તિ = 'આ'ચાનક આવતી 'આ'ફત. કુદરત આપે તે કુદરતી અને માણસ લાવે તે માનવસર્જિત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "કુદરતી આપત્તિઓના નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કુદરતી આપત્તિઓમાં મુખ્યત્વે ભૂકંપ, જ્વાળામુખી, દુષ્કાળ, દાવાનળ, પૂર, સુનામી અને વાવાઝોડાનો સમાવેશ થાય છે. આ આપત્તિઓ પર માનવીનું કોઈ નિયંત્રણ હોતું નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): યાદ રાખો: ભૂકંપ, પૂર અને વાવાઝોડું - જે કુદરતની છે મોટી જોગવાઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "માનવસર્જિત આપત્તિઓ કઈ કઈ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માનવીની ભૂલ, બેદરકારી કે ઈરાદાપૂર્વક કરવામાં આવેલા કાર્યોથી સર્જાતી આપત્તિઓને માનવસર્જિત આપત્તિઓ કહે છે. તેમાં આગ, ઔદ્યોગિક અકસ્માત, બોમ્બ વિસ્ફોટ અને હુલ્લડનો સમાવેશ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): માણસની ભૂલ + મોટું નુકસાન = માનવસર્જિત (આગ, વિસ્ફોટ, હુલ્લડ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ભૂકંપ સમયે કઈ સાવચેતી રાખવી જોઈએ? (કોઈપણ બે મુદ્દા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (૧) જો તમે શાળામાં હોવ તો પાટલી કે ટેબલની નીચે બેસી જવું જોઈએ. (૨) વીજળીના થાંભલા અને તારથી દૂર રહેવું જોઈએ જેથી શોર્ટ સર્કિટથી બચી શકાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભૂકંપમાં 'ટેબલ નીચે' સુરક્ષા અને 'થાંભલાથી' છેટું રહેવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વાવાઝોડું એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાતાવરણમાં હવાના દબાણમાં સર્જાતી અસમતુલાને કારણે ઉદ્ભવતા વિનાશકારી તોફાની પવનોને 'વાવાઝોડું' કે 'ચક્રવાત' કહેવામાં આવે છે. ભારતના દરિયા કિનારે તેની અસર વધુ જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અતિ વેગીલા પવન = વાવાઝોડું. (હવાનું દબાણ બદલાય, તોફાન સર્જાય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પૂર આવવાના મુખ્ય કારણો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૂર આવવાના મુખ્ય બે કારણો છે: (૧) ચોમાસામાં નદીના ઉપરવાસમાં એકસાથે ખૂબ ભારે વરસાદ પડવો. (૨) નદી પરનો કોઈ મોટો બંધ (ડેમ) તૂટી જવો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પૂર = વધુ વરસાદ + બંધનું તૂટવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સુનામી એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમુદ્ર કે મહાસાગરના તળિયે થતા ભૂકંપ, જ્વાળામુખી સ્ફોટથી અથવા સમુદ્રના તળિયે થતા ભૂસ્ખલનથી પેદા થતા વિનાશક મોજાંને 'સુનામી' કહે છે. આ મોજાં ખૂબ ઊંચા અને લાંબી લંબાઈના હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમુદ્રનું તોફાન = સુનામી. (તળિયે ભૂકંપ, કિનારે આફત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "દુષ્કાળથી બચવાના ઉપાયો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (૧) પાણીનો કરકસરપૂર્વક ઉપયોગ કરવો અને ટપક સિંચાઈ પદ્ધતિ અપનાવવી. (૨) વરસાદી પાણીના સંગ્રહ માટે ચેકડેમ અને ખેત-તલાવડીઓ બનાવવી જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાણીનો સંગ્રહ અને કરકસર, દુષ્કાળ સામે મોટું હથિયાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "દાવાનળ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જંગલોમાં વૃક્ષોના પરસ્પર ઘર્ષણ અથવા આકાશમાંથી પડતી વીજળીને કારણે કે અન્ય કોઈ કારણસર લાગતી આગને 'દાવાનળ' કહે છે. તેનાથી વન્ય સંપત્તિને ભારે નુકસાન થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દાવાનળ = જંગલની જ્વાળા (વૃક્ષોનું ઘર્ષણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "આપત્તિ સમયે કઈ બાબતો ધ્યાનમાં રાખવી જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (૧) અફવાઓથી દૂર રહેવું અને સરકારી તંત્ર દ્વારા અપાતી સૂચનાઓનું ચુસ્ત પાલન કરવું. (૨) બચાવ કામગીરીમાં મદદરૂપ થવું અને ગભરાટ ફેલાવવો નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'અફવા' છોડો, 'સૂચના' માનો – આપત્તિમાં આ જ છે સાચું જ્ઞાન.</p></div>"
+    }
+  ]
+}
