@@ -578,3 +578,61 @@ var Std7_SS_2_Marks = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "વાતાવરણની સજીવો પર અસરો",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વાતાવરણમાં આવેલા મુખ્ય વાયુઓ અને તેમનું પ્રમાણ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાતાવરણમાં નાઇટ્રોજન આશરે 78%, ઓક્સિજન આશરે 21%, અને આર્ગોન 0.93% જોવા મળે છે. આ ઉપરાંત કાર્બન ડાયોક્સાઇડ 0.03% અને બાકીના અન્ય વાયુઓ 0.01% જેટલા પ્રમાણમાં આવેલા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘ના-ઓ-આ-કા’ (નાઈટ્રોજન 78, ઓક્સિજન 21, આર્ગોન 0.9, કાર્બન 0.03) - આ ક્રમ યાદ રાખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ક્ષોભ આવરણ (Troposphere) ની મુખ્ય લાક્ષણિકતાઓ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વીને વીંટળાઈને આવેલા વાતાવરણના પ્રથમ આવરણને ક્ષોભ આવરણ કહે છે. વિષુવવૃત્ત પર તે આશરે 16 કિમી ઊંચાઈ સુધી ફેલાયેલું છે. આ આવરણમાં ઋતુઓ મુજબ ફેરફાર થાય છે અને હવાના તોફાનો, અવાજના મોજાં અને વાદળોની રચના આ જ આવરણમાં થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘ક્ષોભ એટલે તોફાન’ - પૃથ્વીની સૌથી નજીકનું તોફાની (વાદળ, વરસાદ વાળું) આવરણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ઓઝોન વાયુનું મહત્ત્વ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઓઝોન વાયુ સૂર્યના અત્યંત ગરમ પારજાંબલી (Ultra Violet) કિરણોનું શોષણ કરે છે. આ રીતે તે પૃથ્વી પરના સજીવોને સૂર્યની પ્રચંડ ગરમીથી બચાવે છે. તે મુખ્યત્વે સમતાપ આવરણના નીચેના ભાગમાં વધુ પ્રમાણમાં જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘ઓઝોન = પૃથ્વીનું સનસ્ક્રીન’ જે ઝેરી યુવી કિરણોથી આપણું રક્ષણ કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "હવામાન અને આબોહવા વચ્ચેનો મુખ્ય તફાવત શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હવામાન એ વાતાવરણની ટૂંકા ગાળાની (સવાર, બપોર કે સાંજની) સ્થિતિ છે, જે ગમે ત્યારે બદલાઈ શકે છે. જ્યારે આબોહવા એ કોઈપણ પ્રદેશની 35 કે તેથી વધુ વર્ષોની સરેરાશ હવામાનની સ્થિતિ છે, જે લાંબા ગાળાની હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હવામાન ‘પલ પલ’ બદલાય, આબોહવા ‘વર્ષો’ સુધી ઠેરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સમતાપ આવરણ (Stratosphere) જેટ વિમાનના ઉડ્ડયન માટે કેમ અનુકૂળ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમતાપ આવરણમાં હવા અત્યંત પાતળી અને સ્વચ્છ હોય છે. અહીં વાદળો, વરસાદ કે હવાની વિક્ષેપ હોતી નથી. હવાની આ શાંત સ્થિતિને કારણે જેટ વિમાનો ઓછા અવરોધ સાથે ઝડપથી ઉડી શકે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘સમતાપ = સમાન તાપ + સપાટ રસ્તો’ એટલે કે પ્લેન માટે બેસ્ટ એરવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પવનોના મુખ્ય ત્રણ પ્રકારો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વીની સપાટી પર વહેતા પવનોને ત્રણ મુખ્ય પ્રકારમાં વહેંચવામાં આવે છે: (1) કાયમી પવનો (વ્યાપારી પવનો), (2) મોસમી પવનો (ઋતુ પ્રમાણે બદલાતા), અને (3) દૈનિક કે સ્થાનિક પવનો (દરિયાઈ-જમીન લહેર અને લૂ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘કા-મો-સ્થા’ (કાયમી, મોસમી, સ્થાનિક) પવનોના ત્રણ સગા ભાઈઓ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વાતાવરણનું દબાણ એટલે શું? તે ક્યાં સૌથી વધુ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૃથ્વીની આસપાસ હવાના સ્તરો પોતાનું વજન ધરાવે છે. હવાના આ વિશાળ સ્તરના વજનને ‘વાતાવરણનું દબાણ’ કહેવામાં આવે છે. સમુદ્ર સપાટી પર વાતાવરણનું દબાણ સૌથી વધુ હોય છે અને ઊંચાઈ પર જતાં તે ઘટે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘હવા = વજન = દબાણ’. સમુદ્ર પર સૌથી વધુ ભાર (Pressure).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ભેજ (Humidity) એટલે શું? વરસાદ કેવી રીતે પડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમુદ્રો અને જળાશયોના પાણીનું બાષ્પીભવન થતાં જે વરાળ બને છે તેને ‘ભેજ’ કહે છે. આ ભેજ આકાશમાં જઈ ઠરે (ઘનીભવન થાય) ત્યારે વાદળાં બને છે અને તેમાંથી પાણીના ટીપાં સ્વરૂપે પૃથ્વી પર પડે તેને વરસાદ કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગરમી -> વરાળ (ભેજ) -> વાદળ -> વરસાદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "આયનાવરણ અને બાહ્યાવરણનું મહત્વ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આયનાવરણમાંથી રેડિયો તરંગોનું પરાવર્તન થાય છે, જેના લીધે રેડિયો અને ટીવી પ્રસારણ શક્ય બને છે. આયનાવરણની ઉપરના ભાગને બાહ્યાવરણ કહે છે, જ્યાં હવા અત્યંત પાતળી હોય છે અને હલકા વાયુઓ (હાઈડ્રોજન, હિલિયમ) જોવા મળે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આયનાવરણ = ‘રેડિયો અને ટીવીનો અરીસો’ (Reflection).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સ્થાનિક પવનોમાં ‘લૂ’ (Loo) વિશે માહિતી આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઉનાળામાં ઉત્તર ભારતના મેદાની પ્રદેશોમાં બપોરના સમયે ફૂંકાતા અતિશય ગરમ અને સૂકા પવનોને ‘લૂ’ કહેવામાં આવે છે. આ પવનો સ્વાસ્થ્ય માટે હાનિકારક હોય છે અને તેનાથી લૂ લાગવાની (Heat stroke) શક્યતા રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘લૂ = ગરમ લૂંટારો’ જે ઉનાળામાં શરીરનું પાણી સોષી લે છે.</p></div>"
+    }
+  ]
+}
