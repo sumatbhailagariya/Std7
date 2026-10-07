@@ -605,3 +605,261 @@ var Std7_Gujarati_MCQs = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "રાનમાં",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘રાનમાં’ કાવ્યના કવિનું નામ શું છે?\n(A) ધ્રુવ ભટ્ટ\n(B) નર્મદ\n(C) દલપતરામ\n(D) ઝવેરચંદ મેઘાણી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ધ્રુવ ભટ્ટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>‘રાન’ (જંગલ) માં ‘ધ્રુવ’ (અટલ) જેવો વરસાદ પડ્યો. રાન = ધ્રુવ ભટ્ટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘રાનમાં’ કાવ્યનો સાહિત્ય પ્રકાર જણાવો.\n(A) ભક્તિગીત\n(B) પ્રકૃતિગીત\n(C) લોકગીત\n(D) શૌર્યગીત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પ્રકૃતિગીત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>રાન એટલે જંગલ અને જંગલ એ પ્રકૃતિનો ભાગ છે, માટે આ ‘પ્રકૃતિગીત’ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "‘રાન’ શબ્દનો અર્થ શું થાય છે?\n(A) ખેતર\n(B) નદી\n(C) જંગલ\n(D) આકાશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) જંગલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ગામડામાં સીમ કે જંગલને ‘રાન’ કહેવાય. રાન = વન/જંગલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ક્યાં ચોમાસું ગાજે છે?\n(A) વાડમાં\n(B) રાનમાં\n(C) છાપરા પર\n(D) નદીમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) રાનમાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>કાવ્યની પ્રથમ પંક્તિ યાદ કરો: ‘ક્યાંક ચોમાસું ગાજે છે રાનમાં’.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વરસાદને કારણે ક્યાં લીલાશ ઊતરી આવશે?\n(A) નદીમાં\n(B) આકાશમાં\n(C) મેદાનમાં\n(D) ડુંગરમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) મેદાનમાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>કાવ્ય પંક્તિ: ‘વાડ પરે સૂતેલી સઘળી લીલાશ હવે ઊતરશે મેદાનમાં’.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વરસાદની મોસમમાં આકાશમાં શું દેખાશે?\n(A) વાદળ\n(B) સૂરજ\n(C) ઉતરતું આકાશ\n(D) તારા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ઉતરતું આકાશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>જ્યારે ધોધમાર વરસાદ પડે ત્યારે વાદળાં નીચા આવે છે, જેને કવિ ‘આકાશ નીચે ઉતરવું’ કહે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "‘વાછંટ’ એટલે શું?\n(A) પવન સાથે ઉડતા વરસાદના ટીપાં\n(B) જોરદાર પવન\n(C) નદીનું પૂર\n(D) બરફના ગોળા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) પવન સાથે ઉડતા વરસાદના ટીપાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>બારી ખુલ્લી હોય અને જે છાંટા પવન સાથે અંદર આવે તેને ‘વાછંટ’ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વરસાદ પડતા શું સંદેશો મળે છે?\n(A) ગરમી વધશે\n(B) ચોમાસું બેસી ગયું છે\n(C) ઠંડી વધશે\n(D) દુકાળ પડશે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ચોમાસું બેસી ગયું છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>કાવ્ય મુજબ, ‘વાછંટ’ જ સંદેશો આપે છે કે ચોમાસું વિધિવત શરૂ થઈ ગયું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "‘નેવું’ શબ્દનો અર્થ શો થાય છે?\n(A) નવ્વાણું (99)\n(B) ઘરના છાપરાનો છેડો\n(C) નવી વસ્તુ\n(D) નદીનો કિનારો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઘરના છાપરાનો છેડો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>છાપરા પરથી પાણી જ્યાંથી નીચે પડે તે ભાગને ‘નેવા’ અથવા ‘નેવું’ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વરસાદમાં કોને ગાવાનું મન થાય છે?\n(A) માત્ર પક્ષીઓને\n(B) માત્ર પહાડને\n(C) માત્ર ઝરણાને\n(D) પ્રકૃતિના દરેક તત્ત્વને (પહાડ, નેવું, દડદડતા ટીપાં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) પ્રકૃતિના દરેક તત્ત્વને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>કાવ્યમાં ઉલ્લેખ છે કે પહાડને, નેવાને અને પાનને પણ ગાવાનું મન થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "‘ગહેકવું’ શબ્દનો અર્થ શું થાય?\n(A) રડવું\n(B) પક્ષીઓનું આનંદમાં બોલવું\n(C) શાંત રહેવું\n(D) ગુસ્સે થવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પક્ષીઓનું આનંદમાં બોલવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>મોર ટહુકો કરે કે ગહેકે, એટલે કે આનંદમાં બોલે તેને ‘ગહેકવું’ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વરસાદમાં ભીંજાવાનો આનંદ કોણ માણે છે?\n(A) લેખક\n(B) કવિ\n(C) ગાયક\n(D) ચિત્રકાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) કવિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>કાવ્યના અંતમાં કવિ પોતાને થતા આનંદની વાત કરે છે: ‘મને પણ થાય...’</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "‘લીલાશ’ શબ્દમાં કયો પ્રત્યય છે?\n(A) લીલા\n(B) આશ\n(C) શ\n(D) લ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) આશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>લીલું + આશ = લીલાશ. ભાવવાચક સંજ્ઞા બનાવવા ‘આશ’ પ્રત્યય લાગે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "કવિએ કયા પક્ષીનો ઉલ્લેખ કાવ્યમાં ટહુકા તરીકે કર્યો છે?\n(A) કોયલ\n(B) ચકલી\n(C) મોર\n(D) પોપટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) મોર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>વરસાદમાં મોર જ ‘ટહુકો’ અને ‘ગહેકે’ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "‘વાદળ’ શબ્દનો સમાનાર્થી શબ્દ આપો.\n(A) પવન\n(B) મેઘ\n(C) ધરા\n(D) અંબર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મેઘ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>વાદળ એટલે મેઘ, જલદ, વારિદ. (મેઘરાજા વરસાદ લાવે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "‘ચોમાસું’ શબ્દની સાચી જોડણી કઈ છે?\n(A) ચૌમાસુ\n(B) ચોમાસુ\n(C) ચોમાસું\n(D) ચૌમાસું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ચોમાસું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ચોમાસું શબ્દમાં ‘સુ’ ઉપર અનુસ્વાર (મીંડું) ફરજિયાત આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "કાવ્યમાં ‘પાન’ શબ્દનો અર્થ શો થાય?\n(A) પર્ણ\n(B) પીણું\n(C) વન\n(D) આભ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) પર્ણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>વૃક્ષના પાંદડાને પર્ણ કહેવાય. પાન = પર્ણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "‘ઘેરાયેલો વાદળ’ માટે કવિએ કયો શબ્દ વાપર્યો છે?\n(A) ધોધમાર\n(B) મુશળધાર\n(C) ઘેરાતું\n(D) ઘેરાયેલું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ઘેરાતું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>આકાશ ઘેરાય ત્યારે જ વરસાદ પડે. ઘેરાતું આકાશ = વાદળથી ભરેલું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વરસાદ સાથે કયું સાધન જોડાયેલું છે?\n(A) છત્રી\n(B) પંખો\n(C) તાપણું\n(D) બ્લેન્કેટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) છત્રી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>સામાન્ય બુદ્ધિનો પ્રશ્ન છે, પણ વરસાદના ચેપ્ટરમાં છત્રી અને રેઈનકોટ મુખ્ય સાધન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ધ્રુવ ભટ્ટનું જન્મસ્થળ કયું છે?\n(A) ભાવનગર જિલ્લાનું નિંગાળા\n(B) અમદાવાદ\n(C) વડોદરા\n(D) સુરત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ભાવનગર જિલ્લાનું નિંગાળા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>કવિ પરિચયમાં પ્રથમ લીટીમાં જ આ માહિતી હોય છે. ધ્રુવ ભટ્ટ = ભાવનગર (નિંગાળા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "‘મુશળધાર’ એટલે કેવો વરસાદ?\n(A) ખૂબ જ ધીમો\n(B) મધ્યમ\n(C) સાંબેલા જેવી ધાર વાળો (ખૂબ જ ધોધમાર)\n(D) માત્ર ટીપાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સાંબેલા જેવી ધાર વાળો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>મુશળ એટલે સાંબેલું. તેની ધાર જેવો જાડો વરસાદ એટલે મુશળધાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "‘રાનમાં’ કાવ્યમાં કઈ ઋતુનું વર્ણન છે?\n(A) શિયાળો\n(B) ઉનાળો\n(C) વર્ષા (ચોમાસું)\n(D) વસંત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) વર્ષા (ચોમાસું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>વાદળ, ગાજવીજ અને વરસાદ એટલે વર્ષા ઋતુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "કવિના મતે વરસાદમાં કોણ સંદેશવાહક બને છે?\n(A) ટપાલી\n(B) વાછંટ\n(C) પવન\n(D) સૂરજ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વાછંટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>‘ભીંજાતા વાયરાઓ વૈશે સંદેશા કે ચોમાસું ધારધાર બેઠું’ - પંક્તિ મુજબ ભીંજાયેલા પવન/વાછંટ સંદેશ આપે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "‘ગિરિમાળા’ શબ્દનો અર્થ શું થાય?\n(A) નદીઓની હારમાળા\n(B) પર્વતોની હારમાળા\n(C) ફૂલોનો હાર\n(D) જંગલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પર્વતોની હારમાળા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ગિરિ એટલે પર્વત અને માળા એટલે લાઈન/હાર. ગિરિમાળા = પર્વતોની હારમાળા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વરસાદમાં નીચેનામાંથી કોને આનંદ નથી થતો?\n(A) બાળકને\n(B) મોરને\n(C) કોરા રણને\n(D) ખેડૂતને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) કોરા રણને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>વરસાદ રાન (જંગલ) માં પડે છે, રણમાં પાણીની અછત હોય છે, આ કાવ્ય જંગલના વર્ણન પર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "‘સૂતેલી સઘળી લીલાશ’ એટલે શું?\n(A) સૂઈ ગયેલી ગાયો\n(B) સુકાઈ ગયેલી જમીન\n(C) ઉનાળાને કારણે કરમાયેલી વનસ્પતિ\n(D) વરસાદનું પાણી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ઉનાળાને કારણે કરમાયેલી વનસ્પતિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ઉનાળામાં બધું સૂકું હોય, પણ વરસાદ આવતા જ એ ‘જાગી’ જાય અને લીલુંછમ થઈ જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ધ્રુવ ભટ્ટે કઈ જાણીતી નવલકથા લખી છે?\n(A) સરસ્વતીચંદ્ર\n(B) અકૂપાર\n(C) માનવીની ભવાઈ\n(D) સત્યના પ્રયોગો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) અકૂપાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>‘અકૂપાર’, ‘સમુદ્રાન્તિકે’, ‘તત્ત્વમસિ’ ધ્રુવ ભટ્ટની લોકપ્રિય કૃતિઓ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "‘પાય’ એટલે શું?\n(A) પગ\n(B) હાથ\n(C) માથું\n(D) કાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) પગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>પાય = પદ = ચરણ = પગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "‘દડદડવું’ એટલે શું?\n(A) ધીમેથી વહેવું\n(B) ગબડવું અથવા જોરથી નીચે પડવું\n(C) ઉડવું\n(D) તરવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ગબડવું અથવા જોરથી નીચે પડવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>નેવા પરથી પાણી કેવી રીતે પડે? દડદડતું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "‘રાનમાં’ કાવ્યમાં કયા મહિનાની વાત છે?\n(A) અષાઢ\n(B) શ્રાવણ\n(C) કારતક\n(D) ચૈત્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) અષાઢ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ચોમાસાની શરૂઆત સામાન્ય રીતે અષાઢ મહિનાથી થાય છે, જ્યારે ગાજવીજ સાથે વરસાદ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "નીચેનામાંથી કયો શબ્દ ‘આકાશ’ નો પર્યાય નથી?\n(A) ગગન\n(B) નભ\n(C) પૃથ્વી\n(D) વ્યોમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) પૃથ્વી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ગગન, નભ, વ્યોમ એટલે આકાશ; જ્યારે પૃથ્વી એટલે જમીન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "‘ચોમાસું ધારધાર બેઠું’ એટલે શું?\n(A) ચોમાસું પૂરું થયું\n(B) ચોમાસું જોરશોરથી શરૂ થયું\n(C) હજી ચોમાસું વાર છે\n(D) વરસાદ નથી પડતો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ચોમાસું જોરશોરથી શરૂ થયું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ધારધાર એટલે મજબૂત રીતે અથવા સ્થિર રીતે શરૂઆત થવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "‘વાડ’ પર શું સૂતેલું છે?\n(A) સાપ\n(B) લીલાશ\n(C) પક્ષી\n(D) સૂર્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) લીલાશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>કવિતામાં લીલાશને ‘વાડ પર સૂતેલી’ કહી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "‘તાડ’ અને ‘રાન’ કેવા શબ્દો છે?\n(A) વિરોધી\n(B) સમાન પ્રાસવાળા\n(C) જોડાક્ષર\n(D) તત્સમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સમાન પ્રાસવાળા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>જે શબ્દોના છેલ્લા અક્ષરો સરખા ઉચ્ચારવાળા હોય તેને ‘પ્રાસ’ (Rhyming words) કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "‘સંદેશા’ શબ્દનું એકવચન શું થાય?\n(A) સંધિ\n(B) સંદેશ\n(C) સમાચાર\n(D) પત્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સંદેશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>સંદેશ = 1, સંદેશા = 1 થી વધારે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "વરસાદમાં ઘરના કયા ભાગમાંથી પાણી પડે છે?\n(A) બારી\n(B) બારણું\n(C) નેવું\n(D) દીવાલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) નેવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>‘દડદડતું નેવેથી પાણી’ - છાપરાનો છેડો એટલે નેવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "નીચેનામાંથી કયું જોડકું સાચું છે?\n(A) સૂરજ - રાત\n(B) રાન - જંગલ\n(C) પાણી - પથ્થર\n(D) આકાશ - જમીન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) રાન - જંગલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>રાન અને જંગલ બંને એકબીજાના સમાનાર્થી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "ધ્રુવ ભટ્ટે નીચેનામાંથી કયું ક્ષેત્ર ગજવ્યું છે?\n(A) રમતગમત\n(B) રાજકારણ\n(C) સાહિત્ય\n(D) અવકાશ વિજ્ઞાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સાહિત્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>કવિ અને લેખક હંમેશા સાહિત્ય ક્ષેત્ર સાથે સંકળાયેલા હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "‘મોર’ નો સમાનાર્થી શબ્દ જણાવો.\n(A) મયુર\n(B) હંસ\n(C) કોયલ\n(D) કાગડો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) મયુર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>સંસ્કૃતમાં અને શુદ્ધ ગુજરાતીમાં મોરને ‘મયુર’ કહેવામાં આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "વરસાદથી કોને ‘ટહુકો’ કરવાનું મન થાય છે?\n(A) કવિને\n(B) પથ્થરને\n(C) લાકડાને\n(D) સૂર્યને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) કવિને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>કાવ્ય પંક્તિ: ‘થાય છે મનેય કે લઉં ટહુકો કરી...’ એટલે કે કવિને પક્ષી બનીને બોલવું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 41",
+      "question": "‘વાછંટ’ ની અસર ક્યાં જોવા મળે છે?\n(A) માત્ર બહાર\n(B) મકાનની અંદર\n(C) આકાશમાં\n(D) પાતાળમાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મકાનની અંદર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>વાછંટ એટલે જ એવા ટીપાં જે પવનની મદદથી ઘરમાં ઘૂસી જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 42",
+      "question": "કવિના મતે વરસાદમાં કોણ ગાશે?\n(A) પાન\n(B) પહાડ\n(C) ધોધ\n(D) આપેલ તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) આપેલ તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>વરસાદમાં આખી પ્રકૃતિ સંગીતમય બની જાય છે, પહાડ અને પાન પણ ગાવા લાગે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 43",
+      "question": "વરસાદમાં કયું દ્રશ્ય દેખાય છે?\n(A) ધૂળની ડમરી\n(B) આકાશ નીચે ઉતરવું\n(C) બરફવર્ષા\n(D) સૂરજમુખી ખીલવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) આકાશ નીચે ઉતરવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>જ્યારે ધોધમાર વરસાદ પડે ત્યારે લાગે કે જાણે આકાશ પૃથ્વી પર ઉતરી આવ્યું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 44",
+      "question": "નીચેનામાંથી કયો શબ્દ ‘જંગલ’ નો અર્થ નથી?\n(A) રાન\n(B) વન\n(C) અરણ્ય\n(D) સાગર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) સાગર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>સાગર એટલે દરિયો, જ્યારે બાકીના ત્રણ જંગલના અર્થ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 45",
+      "question": "‘ઉતરશે મેદાનમાં’ એટલે શું?\n(A) મેદાનમાં રમત રમાશે\n(B) વરસાદને કારણે હરિયાળી મેદાનમાં આવશે\n(C) લોકો મેદાનમાં આવશે\n(D) સૂર્ય મેદાનમાં આવશે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વરસાદને કારણે હરિયાળી મેદાનમાં આવશે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>લીલાશ ઉતરી આવશે મેદાનમાં - એટલે કે બધે ઘાસ ઉગી નીકળશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 46",
+      "question": "‘ઘર’ માટે કયો શબ્દ વપરાયો છે?\n(A) નેવું\n(B) મકાન\n(C) ઝૂંપડી\n(D) મહેલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મકાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>કાવ્યમાં ‘મકાન’ શબ્દનો ઉપયોગ થયો છે: ‘ઘટનામાં જે ડુંગરને થાય, થાય નેવેથી દડદડતા મકાનને’.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 47",
+      "question": "‘ટહુકો’ કોણ કરે છે?\n(A) કાગડો\n(B) કોયલ અને મોર\n(C) કુતરો\n(D) બિલાડી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) કોયલ અને મોર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>મીઠા અવાજમાં પક્ષી બોલે તેને ટહુકો કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 48",
+      "question": "‘ધોધમાર’ શબ્દનો સમાસ ઓળખાવો. (સામાન્ય જ્ઞાન)\n(A) ઉપપદ\n(B) દ્વન્દ્વ\n(C) કર્મધારય\n(D) તત્પુરુષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) કર્મધારય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ધોધ જેવી ધાર. વિશેષણ-વિશેષ્યનો સંબંધ એટલે કર્મધારય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 49",
+      "question": "ધ્રુવ ભટ્ટ કઈ સંસ્થા સાથે જોડાયેલા છે?\n(A) ગુજરાત વિદ્યાપીઠ\n(B) ગાયત્રી પરિવાર\n(C) લાયન્સ ક્લબ\n(D) શિશુવિહાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) શિશુવિહાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>તેઓ ભાવનગરની ‘શિશુવિહાર’ સંસ્થામાં કાર્યરત હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 50",
+      "question": "‘ગહેકવું’ શબ્દનો વિરોધી શબ્દ કયો હોઈ શકે?\n(A) ટહુકવું\n(B) મૌન રહેવું\n(C) બોલવું\n(D) ગાજવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મૌન રહેવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ગહેકવું એટલે અવાજ કરવો, તો મૌન એટલે શાંતિ.</p></div>"
+    }
+  ]
+}
