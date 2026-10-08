@@ -1021,3 +1021,341 @@ var Std7_Gujarati_MCQs = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "જીવન પાથેય",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘જીવન પાથેય’ પાઠના લેખક કોણ છે?",
+      "options": [
+        "A. પન્નાલાલ પટેલ",
+        "B. કાકાસાહેબ કાલેલકર",
+        "C. જ્યોતિન્દ્ર દવે",
+        "D. ઈશ્વર પેટલીકર"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. કાકાસાહેબ કાલેલકર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘જીવન’ જીવવાની સાચી રીત હંમેશા ઘરના ‘કાકા’ કે વડીલો શીખવે છે, એટલે જીવન પાથેય ના લેખક કાકાસાહેબ કાલેલકર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘જીવન પાથેય’ પાઠનો સાહિત્ય પ્રકાર જણાવો.",
+      "options": [
+        "A. નવલિકા",
+        "B. નિબંધ",
+        "C. આત્મકથાખંડ",
+        "D. લોકકથા"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. આત્મકથાખંડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લેખક જ્યારે પોતાના ‘જીવન’ ના કોઈ પ્રસંગની ‘કથા’ કહે ત્યારે તેને ‘આત્મકથાખંડ’ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કાકાસાહેબ કાલેલકરનું પૂરું નામ શું છે?",
+      "options": [
+        "A. દત્તાત્રેય બાલકૃષ્ણ કાલેલકર",
+        "B. ગણેશ વાસુદેવ કાલેલકર",
+        "C. પાંડુરંગ શાસ્ત્રી કાલેલકર",
+        "D. વિઠ્ઠલદાસ બાલકૃષ્ણ કાલેલકર"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. દત્તાત્રેય બાલકૃષ્ણ કાલેલકર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘દત્તાત્રેય’ ભગવાનના ત્રણ મોઢા હોય, તેમ લેખકના નામમાં પણ ત્રણ શબ્દો (દત્તાત્રેય બાલકૃષ્ણ કાલેલકર) મુખ્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "લેખકને નાનપણમાં કોની સાથે રહેવાનું થયું હતું?",
+      "options": [
+        "A. દાદા સાથે",
+        "B. પિતાજી સાથે",
+        "C. કાકા સાથે",
+        "D. મામા સાથે"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પિતાજી સાથે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આ પાઠમાં પિતા-પુત્રના સંવાદ દ્વારા જ બોધ મળે છે, એટલે પિતાજી સાથે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "લેખક પિતાજી પાસે કઈ ભણવાની જીદ કરતા હતા?",
+      "options": [
+        "A. ડોક્ટર",
+        "B. આર્ટ્સ",
+        "C. એન્જિનિયરિંગ",
+        "D. વકીલાત"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. એન્જિનિયરિંગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લેખકને એન્જિનિયરિંગમાં ‘ઉપરની કમાણી’ (લાંચ) દેખાતી હતી, એટલે તે ભણવાની જીદ કરી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "લેખકના મતે કયા ક્ષેત્રમાં લાંચ લઈને પૈસાદાર થવાની વધુ તક હતી?",
+      "options": [
+        "A. ખેતીમાં",
+        "B. શિક્ષકમાં",
+        "C. એન્જિનિયરિંગ (બાંધકામ)",
+        "D. સાહિત્યમાં"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. એન્જિનિયરિંગ (બાંધકામ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બાંધકામ ક્ષેત્રે કોન્ટ્રાક્ટમાં કમિશન મળે તેવી લેખકની માન્યતા હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "લેખકના પિતાજી કયા સ્થળે ‘ટ્રેઝરી ઓફિસર’ તરીકે કામ કરતા હતા?",
+      "options": [
+        "A. પુણે",
+        "B. બેલગામ",
+        "C. સાંગલી",
+        "D. કોલ્હાપુર"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. સાંગલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સાંગલીના પિતાજી અને ત્યાંથી પુણે જવાની વાત પાઠમાં મુખ્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "લેખકે પિતાજીને કઈ ખોટી સલાહ આપી હતી?",
+      "options": [
+        "A. મકાન વેચવાની",
+        "B. લાંચ લેવાની",
+        "C. પ્રોમિસરી નોટો સસ્તા ભાવે ખરીદવાની",
+        "D. નોકરી છોડવાની"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. પ્રોમિસરી નોટો સસ્તા ભાવે ખરીદવાની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘પ્રોમિસરી નોટ’ શબ્દ યાદ રાખવો, જેનો લેખકે ખોટો ઉપયોગ કરવાનું પિતાને સૂચવ્યું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "લેખકની સલાહ સાંભળીને પિતાજીએ શું કર્યું?",
+      "options": [
+        "A. ગુસ્સો કર્યો",
+        "B. ચૂપ રહ્યા",
+        "C. ગંભીર થઈ ગયા અને ઠપકો આપ્યો",
+        "D. હસી પડ્યા"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ગંભીર થઈ ગયા અને ઠપકો આપ્યો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સાચા પિતા હંમેશા સંતાનને ખોટા રસ્તે જતાં ગંભીરતાથી રોકે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "લેખકને પિતાજીના ઠપકા પછી ક્યાં ‘જીવન પાથેય’ મળ્યું?",
+      "options": [
+        "A. નિશાળમાં",
+        "B. ટ્રેનમાં",
+        "C. ખેતરમાં",
+        "D. પુસ્તકાલયમાં"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ટ્રેનમાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સાંગલીથી પુણે જતી ટ્રેન લેખક માટે જીવનનું નવું પ્રકરણ બની ગઈ હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "‘પાથેય’ શબ્દનો અર્થ શું થાય?",
+      "options": [
+        "A. રસ્તો",
+        "B. મુસાફરી દરમિયાનનું ભાથું / માર્ગદર્શન",
+        "C. જીવનના સાથી",
+        "D. વિજ્ઞાનનો પાઠ"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. મુસાફરી દરમિયાનનું ભાથું / માર્ગદર્શન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘પંથ’ એટલે રસ્તો અને ‘પાથેય’ એટલે રસ્તામાં કામ આવે તેવી વસ્તુ કે જ્ઞાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "લેખક ભણવા માટે ક્યાં જવાના હતા?",
+      "options": [
+        "A. મુંબઈ",
+        "B. અમદાવાદ",
+        "C. પુણે",
+        "D. નાગપુર"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. પુણે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સાંગલીથી પુણે જતી ગાડી લેખકના જીવનની દિશા બદલી નાખે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "લેખકના પિતાએ તેને કયા કોલેજમાં જવા દીધો?",
+      "options": [
+        "A. મેડિકલ કોલેજ",
+        "B. ફર્ગ્યુસન કોલેજ",
+        "C. આર્ટ્સ કોલેજ",
+        "D. સાયન્સ કોલેજ"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. આર્ટ્સ કોલેજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઈજનેરી (Engineering) ના બદલે લેખકને પિતાએ બી.એ. (B.A.) એટલે કે આર્ટ્સમાં જવા સહમતી આપી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "પિતાજીના કયા શબ્દો લેખકના કાનમાં ગુંજતા હતા?",
+      "options": [
+        "A. તું ખૂબ ભણજે",
+        "B. દત્તુ, મેં નહોતું ધાર્યું કે તારામાં આવી અધમતા હશે",
+        "C. તું એન્જિનિયર બનીશ",
+        "D. તારે ઘરે પાછા જવું પડશે"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. દત્તુ, મેં નહોતું ધાર્યું કે તારામાં આવી અધમતા હશે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘અધમતા’ શબ્દ પિતાજીના હૃદયની વેદના અને લેખકની ભૂલ બંને દર્શાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "લેખકનું હુલામણું નામ શું હતું?",
+      "options": [
+        "A. બબલુ",
+        "B. દત્તુ",
+        "C. કાકા",
+        "D. નાનુ"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. દત્તુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દત્તાત્રેય પરથી ‘દત્તુ’ નામ પડ્યું છે, જે તેના પિતા વહાલથી બોલાવતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "પિતાજી કઈ નોટોના ભાવ ઘટશે એવી ગણતરી લેખકને સમજાવતા હતા?",
+      "options": [
+        "A. 100 રૂપિયાની નોટ",
+        "B. પ્રોમિસરી નોટ",
+        "C. ચલણી નોટ",
+        "D. સ્ટેમ્પ પેપર"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. પ્રોમિસરી નોટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આખું પ્રકરણ આ ‘પ્રોમિસરી નોટ’ ના ખોટા વ્યવહારની સલાહ પર આધારિત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "‘ઉમેદ’ શબ્દનો અર્થ શું થાય?",
+      "options": [
+        "A. આશા / ઈચ્છા",
+        "B. નિરાશા",
+        "C. ડર",
+        "D. સફળતા"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. આશા / ઈચ્છા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આપણે કહીએ છીએ ને કે ‘ઉમેદવાર’ - એટલે કે જે આશા રાખીને ઊભો હોય તે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "લેખકના કેટલા ભાઈઓ ગ્રેજ્યુએટ થયા હતા?",
+      "options": [
+        "A. એક પણ નહીં",
+        "B. બધા જ",
+        "C. માત્ર બે",
+        "D. પાંચ"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. એક પણ નહીં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લેખક સિવાયના તેમના ભાઈઓ પરીક્ષાઓમાં નાપાસ થતા, તેથી પિતાજી હતાશ હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "પિતાજીના કયા સ્વભાવને લીધે લેખક ડરતા હતા?",
+      "options": [
+        "A. કડક શિસ્ત",
+        "B. માયાળુ",
+        "C. ગુસ્સો",
+        "D. આળસુ"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. કડક શિસ્ત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પિતાજીની કડકાઈ અને પ્રામાણિકતા જ લેખકને સાચો રસ્તો બતાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ગાંધીજીએ કાકાસાહેબ કાલેલકરને કયું બિરુદ આપ્યું હતું?",
+      "options": [
+        "A. રાષ્ટ્રપિતા",
+        "B. લોકમાન્ય",
+        "C. સવાઈ ગુજરાતી",
+        "D. કવિવર"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. સવાઈ ગુજરાતી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મહારાષ્ટ્રીયન હોવા છતાં ગુજરાતીમાં ઉત્તમ લેખન માટે બાપુએ તેમને ‘સવાઈ ગુજરાતી’ કહ્યા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "‘શરમ’ નો વિરોધી શબ્દ જણાવો.",
+      "options": [
+        "A. લાજ",
+        "B. બેશરમી",
+        "C. સંકોચ",
+        "D. મર્યાદા"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. બેશરમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આગળ ‘બે’ લગાવવાથી વિરોધી શબ્દ બને છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "લેખક કઈ પરીક્ષા પાસ થયા પછી એન્જિનિયર થવાની ઈચ્છા ધરાવતા હતા?",
+      "options": [
+        "A. એસ.એસ.સી. (S.S.C.)",
+        "B. મેટ્રિક",
+        "C. ઈન્ટર",
+        "D. ગ્રેજ્યુએશન"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. મેટ્રિક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જૂના જમાનામાં ‘મેટ્રિક’ એ સૌથી મોટી ડિગ્રી જેવી ગણાતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "લેખકે શા માટે એન્જિનિયરિંગમાં જવાનું નક્કી કર્યું હતું?",
+      "options": [
+        "A. દેશસેવા કરવા",
+        "B. મકાનો બાંધવા",
+        "C. ટૂંકા રસ્તે અને સહેલાઈથી પૈસા મેળવવા",
+        "D. પિતાની ઈચ્છા હતી એટલે"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. ટૂંકા રસ્તે અને સહેલાઈથી પૈસા મેળવવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘સફેદ કમાણી’ (લાંચ) ની લાલચ લેખકને હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "‘હરામનો પૈસો’ એટલે કેવો પૈસો?",
+      "options": [
+        "A. મહેનતનો",
+        "B. ભેટમાં મળેલો",
+        "C. મહેનત વગરનો કે અનૈતિક રીતે મેળવેલો",
+        "D. વ્યાજખોરીનો"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. મહેનત વગરનો કે અનૈતિક રીતે મેળવેલો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે પૈસા પચાવવા મુશ્કેલ હોય અને ખોટી રીતે આવ્યા હોય તેને હરામનો પૈસો કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "લેખકના પિતા કઈ વાતથી બહુ દુઃખી થયા હતા?",
+      "options": [
+        "A. લેખકની નાપાસ થવાની બીકથી",
+        "B. લેખકની ખોટી ભલામણ (લાંચ) ની વાતથી",
+        "C. કોલેજની ફી ભરવા બાબતે",
+        "D. બીમારીને લીધે"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. લેખકની ખોટી ભલામણ (લાંચ) ની વાતથી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દીકરો જ જ્યારે અધર્મનો રસ્તો બતાવે ત્યારે પિતાને હૃદયમાં ઘા વાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "લેખકે ટ્રેનમાં આખી રાત શું કર્યું?",
+      "options": [
+        "A. વાંચન કર્યું",
+        "B. ઊંઘી ગયા",
+        "C. પિતાજીએ આપેલા બોધનું મનન કર્યું અને પસ્તાવો કર્યો",
+        "D. ગીતો ગાયા"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. પિતાજીએ આપેલા બોધનું મનન કર્યું અને પસ્તાવો કર્યો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સાચો પસ્તાવો જ માણસને બદલી શકે છે, જે લેખકે ટ્રેનમાં કર્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "લેખકે છેવટે શું નિશ્ચય કર્યો?",
+      "options": [
+        "A. નોકરી નહીં કરવાનો",
+        "B. હરામના ધનનો ક્યારેય લોભ નહીં કરવાનો",
+        "C. પુણે નહીં જવાનો",
+        "D. વકીલ બનવાનો"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. હરામના ધનનો ક્યારેય લોભ નહીં કરવાનો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘જીવન પાથેય’ એટલે કે પ્રામાણિકતાનું ભાથું બાંધી લેવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "‘સંસ્કાર’ શબ્દની સાચી જોડણી જણાવો.",
+      "options": [
+        "A. સંસકાર",
+        "B. સંસ્કાર",
+        "C. શંસ્કાર",
+        "D. સંસ્કારે"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. સંસ્કાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘સ’ ની ઉપર અનુસ્વાર અને અડધો ‘સ’ જોડવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "લેખક પુણે કઈ ગાડીમાં બેસીને ગયા હતા?",
+      "options": [
+        "A. બસમાં",
+        "B. રેલગાડીમાં (ટ્રેનમાં)",
+        "C. ઘોડા ગાડીમાં",
+        "D. બળદગાડામાં"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. રેલગાડીમાં (ટ્રેનમાં)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ટ્રેનની મુસાફરી જ લેખકની જીવનની મુસાફરીનો વળાંક હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "પિતાજીના કયા નિર્ણયથી લેખક આભવા થઈ ગયા?",
+      "options": [
+        "A. તેને પુણે મોકલવા માટે",
+        "B. તેને ભણાવવાની ના પાડી એટલે",
+        "C. તેને ક્યારેય લાંચ ન લેવાના સોગંદ ખવડાવ્યા એટલે",
+        "D. પિતાજીએ તેને અધમ કહ્યો એટલે"
+      ],
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D. પિતાજીએ તેને અધમ કહ્યો એટલે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘અધમ’ એટલે સાવ નીચ, આ સાંભળી લેખકને પોતાની ભૂલ સમજાઈ ગઈ.</p></div>"
+    }
+  ]
+}
