@@ -1517,3 +1517,211 @@ var Std7_Gujarati_MCQs = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "બાનો વાડો",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘બાનો વાડો’ પાઠના લેખકનું નામ શું છે?\n(A) રઘુવીર ચૌધરી\n(B) પ્રવીણ દરજી\n(C) ભોળાભાઈ પટેલ\n(D) કિશોરસિંહ સોલંકી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પ્રવીણ દરજી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘દરજી’ વાડામાં બેસીને કપડાં સીવે છે એમ યાદ રાખશો તો લેખકનું નામ ક્યારેય ભુલાશે નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘બાનો વાડો’ સાહિત્યનો કયો પ્રકાર છે?\n(A) વાર્તા\n(B) નિબંધ (લલિત નિબંધ)\n(C) કાવ્ય\n(D) નાટક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) નિબંધ (લલિત નિબંધ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બાના વાડાનું લલિત (સુંદર) વર્ણન છે એટલે આ 'લલિત નિબંધ' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "બાની ઉંમર અત્યારે કેટલી છે?\n(A) ૬૦ વર્ષ\n(B) ૭૦ વર્ષ\n(C) ૭૫ વર્ષ\n(D) ૮૦ વર્ષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ૭૫ વર્ષ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાઠની શરૂઆતમાં જ સ્પષ્ટ લખ્યું છે કે 'બાને હવે પંચોતેર (75) થયા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "બા માટે કયો શબ્દ વાપરવો લેખકને વધુ યોગ્ય લાગે છે?\n(A) ‘બા’\n(B) ‘મા’\n(C) ‘જાજરમાન બા’\n(D) ‘ભોળી બા’",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ‘જાજરમાન બા’</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બાનું વ્યક્તિત્વ પ્રભાવશાળી હતું, તેથી લેખક તેમને ‘જાજરમાન’ કહે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "બાનો જીવનમંત્ર કયો હતો?\n(A) ખાવું, પીવું ને મોજ કરવી\n(B) આરામ કરવો\n(C) નિરંતર કર્મ કરવું\n(D) ભજન કરવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) નિરંતર કર્મ કરવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બા માટે ‘જીવતર’ એટલે ‘કામ’ અને ‘કામ’ એટલે ‘જીવતર’.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "બાના જીવનનું સૌથી નજીકનું પાત્ર કયું હતું?\n(A) લેખક\n(B) પૌત્રો\n(C) પાડોશીઓ\n(D) વાડો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) વાડો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાઠનું શીર્ષક જ ‘બાનો વાડો’ છે, જે બાનો ખરો સાથી હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "લેખકની દ્રષ્ટિએ બા એટલે શું?\n(A) સુખનું ઝરણું\n(B) દુઃખનો પહાડ\n(C) નિરંતર વહેતી નદી\n(D) કોઈ નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) નિરંતર વહેતી નદી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બા ક્યારેય થાક્યા વગર કામ કરતા, જેમ નદી વહેતી રહે તેમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "બાના જીવનમાં કઈ ઘટનાથી ભંગાણ પડ્યું હતું?\n(A) વાડો સુકાઈ ગયો ત્યારે\n(B) દીકરો દૂર ગયો ત્યારે\n(C) બાપુજીનું અવસાન થયું ત્યારે\n(D) માંદગી આવી ત્યારે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) બાપુજીનું અવસાન થયું ત્યારે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પતિના અવસાનથી ઘરનો મુખ્ય સ્તંભ તૂટી પડ્યો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "લેખકને બા માટે કયા શબ્દો વાપરવા ગમે છે?\n(A) કામગરી બા\n(B) નિરંતર કર્મશીલ બા\n(C) પ્રેમાળ બા\n(D) (A) અને (B) બંને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) (A) અને (B) બંને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બા હંમેશા કાર્યરત રહેતા એટલે કામગરી અને કર્મશીલ બંને સાચા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "બાના વાડામાં કયા કયા ફૂલો હતા?\n(A) મોગરો અને ગુલાબ\n(B) ચંપો અને ચમેલી\n(C) રાતરાણી અને કરેણ\n(D) ઉપરના તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) ઉપરના તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બાના વાડામાં વિવિધતા હતી, એટલે લગભગ બધાં જ લોકપ્રિય ફૂલો ત્યાં જોવા મળતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "બા વાડામાં ઔષધીય છોડ તરીકે શું ઉગાડતા હતા?\n(A) તુલસી અને અરડૂસી\n(B) ગળો અને જેઠીમધ\n(C) (A) અને (B) બંને\n(D) લીમડો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) (A) અને (B) બંને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બાનો વાડો એ એક નાનકડું ‘દવાખાનું’ પણ હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "બા કોને વાડાનો એક હિસ્સો ગણતા હતા?\n(A) પોતાને\n(B) પશુ-પક્ષીઓને\n(C) પુસ્તકોને\n(D) રમકડાંને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) પોતાને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બા અને વાડો એકબીજા વગર અધૂરા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "બા કેવી રીતે ફૂલો ચૂંટતા હતા?\n(A) ઉતાવળે\n(B) સવારે વહેલા, એકદમ પવિત્ર થઈને\n(C) સંધ્યાકાળે\n(D) ગમે ત્યારે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સવારે વહેલા, એકદમ પવિત્ર થઈને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પૂજા માટે ફૂલો હંમેશા પવિત્રતાથી અને વહેલી સવારે જ ચૂંટાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "બા પડોશીઓને ફળ અને શાકભાજી કેમ આપતા હતા?\n(A) પૈસા માટે\n(B) તેમને ગમતું ન હતું એટલે\n(C) ઉદાર દિલ હોવાથી અને વહેંચવાના આનંદ માટે\n(D) બગડી જતા હતા એટલે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ઉદાર દિલ હોવાથી અને વહેંચવાના આનંદ માટે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બા માનતા હતા કે વાડો તો સૌ માટે છે, વહેંચવાથી સુખ વધે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વાડામાં શાની માંડવી (માંડવો) બનાવવામાં આવી હતી?\n(A) દૂધી અને કારેલાની\n(B) ભીંડાની\n(C) ગુવારની\n(D) મરચાની",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) દૂધી અને કારેલાની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વેલાવાળા શાકભાજી હંમેશા માંડવા પર ચડે, દૂધી-કારેલા વેલા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "નિબંધમાં બાનો વાડો કોની જેમ લહેરાતો હતો?\n(A) સમુદ્રની જેમ\n(B) ખેતરની જેમ\n(C) ઉપવનની જેમ\n(D) જંગલની જેમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ઉપવનની જેમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બાએ વાડાને એક સુંદર બગીચા કે ઉપવન જેવો બનાવ્યો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "બાનો ‘તડકો-છાંયો’ જોવો એટલે શું?\n(A) ઉનાળો અને ચોમાસું જોવું\n(B) સુખ અને દુઃખ જોવા\n(C) દિવસ અને રાત જોવા\n(D) ગરમી અને ઠંડી અનુભવવી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સુખ અને દુઃખ જોવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આ રૂઢિપ્રયોગ છે - તડકો એટલે દુઃખ અને છાંયો એટલે સુખ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "બાને મન વાડો શું હતો?\n(A) માત્ર જમીનનો ટુકડો\n(B) સમય પસાર કરવાનું સાધન\n(C) દીકરો, સંતાન કે સર્વસ્વ\n(D) ખેતર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) દીકરો, સંતાન કે સર્વસ્વ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બા વાડાના છોડને સંતાનની જેમ ઉછેરતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "બાના ઘરેથી કોણ ખાલી હાથે ન જાય?\n(A) ભિખારી\n(B) કોઈપણ જરૂરિયાતમંદ વ્યક્તિ\n(C) શાકભાજી લેવા આવનાર\n(D) ઉપરના તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) ઉપરના તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બાની ઉદારતા એવી હતી કે કોઈને નિરાશ ન કરતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "બા ફૂલો કોના માટે ઉતારતા હતા?\n(A) વેચવા માટે\n(B) શણગાર માટે\n(C) મંદિરની પૂજા માટે\n(D) હાર બનાવવા માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) મંદિરની પૂજા માટે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બા ધાર્મિક વૃત્તિના હતા, એટલે પૂજા માટે જ ફૂલો ઉતારતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "લેખક ક્યારેય વાડામાં જાય તો બા શું કરે?\n(A) ખીજાય\n(B) તેને શાકભાજી કે ફળ આપે\n(C) તેને કામ સોંપે\n(D) તેને ભણાવે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) તેને શાકભાજી કે ફળ આપે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બાના પ્રેમની અભિવ્યક્તિ એટલે તેમના વાડાની તાજી ભેટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "‘નિરાંત’ શબ્દનો સમાનાર્થી શબ્દ આપો.\n(A) ઉતાવળ\n(B) શાંતિ / ફુરસદ\n(C) અજંપો\n(D) દોડાદોડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) શાંતિ / ફુરસદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘નિરાંત’ એટલે જ્યારે કોઈ ‘ચિંતા’ ન હોય તેવી ‘શાંતિ’.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "બાના વાડામાં કયા ફળનું ઝાડ ન હતું?\n(A) પપૈયા\n(B) જામફળ\n(C) સફરજન\n(D) લીંબુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સફરજન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સફરજન ઠંડા પ્રદેશમાં થાય, બાના વાડામાં દેશી ફળો વધારે હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "‘આફત ઓઢી લેવી’ એટલે શું?\n(A) મુશ્કેલીને સામેથી સ્વીકારવી\n(B) છત્રી ઓઢવી\n(C) ભાગી જવું\n(D) ડરી જવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) મુશ્કેલીને સામેથી સ્વીકારવી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બાએ જીવનમાં ઘણી મુશ્કેલીઓ ધીરજથી સહન કરી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "બાના વાડામાં લીંબુ કેવા આવતા હતા?\n(A) નાના અને મીઠા\n(B) મોટા અને રસદાર (મોસમ જેવડા)\n(C) કડવા\n(D) પીળા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મોટા અને રસદાર (મોસમ જેવડા)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાઠમાં વર્ણન છે કે બાના લીંબુ જોઈને લોકો દંગ રહી જતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "લેખકે બાને ક્યાં શબ્દોથી નવાજ્યા છે?\n(A) કર્મશીલ\n(B) વત્સલ\n(C) ત્યાગી\n(D) ઉપરના તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) ઉપરના તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બામાં આ ત્રણેય ગુણોનો સમન્વય હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "બાના વાડામાં કયું પક્ષી અવાજ કરતું?\n(A) મોર\n(B) કોયલ\n(C) બુલબુલ\n(D) ચકલી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) બુલબુલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાઠમાં 'બુલબુલ' ના મધુર અવાજનો ઉલ્લેખ વાડાના સંદર્ભમાં છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "બાની સ્મૃતિમાં કોણ વસેલું હતું?\n(A) ગામના લોકો\n(B) ખેતર\n(C) સ્વર્ગસ્થ પતિ અને તેમનું ઘર\n(D) શહેર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સ્વર્ગસ્થ પતિ અને તેમનું ઘર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બા હંમેશા તેમના પતિના સ્મરણોમાં રહેતા પણ કામ છોડતા નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "‘વેંત જેવડી બા’ એટલે શું?\n(A) બા ઠીંગણા હતા\n(B) બા બહુ શક્તિશાળી ન હતા\n(C) બાનું કદ નાનું હતું પણ વ્યક્તિત્વ મોટું\n(D) બા નાની ઉંમરના હતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) બાનું કદ નાનું હતું પણ વ્યક્તિત્વ મોટું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કદમાં નાના હોવા છતાં બાએ મોટા પહાડ જેવા દુઃખો વેઠ્યા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "બાને કઈ વસ્તુ પ્રત્યે અત્યંત લગાવ હતો?\n(A) ઘરેણાં\n(B) રસોઈ\n(C) વાડાના છોડ\n(D) ટીવી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) વાડાના છોડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બા છોડ સાથે વાતો કરતા અને તેમની સંભાળ રાખતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "બાનો વાડો કઈ ઋતુમાં ખીલી ઉઠતો?\n(A) શિયાળામાં\n(B) ઉનાળામાં\n(C) ચોમાસામાં\n(D) બારેમાસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) બારેમાસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બાની સતત મહેનતને કારણે વાડો ક્યારેય ખાલી ન દેખાતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "બાના વાડામાં શું મફત મળતું હતું?\n(A) શાકભાજી\n(B) ફૂલ\n(C) ઔષધિઓ\n(D) ઉપરના તમામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) ઉપરના તમામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બા ઉદારતાથી ગામના લોકોને આ બધું જ વિનામૂલ્યે આપતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "લેખકના મતે બા શું છે?\n(A) એક સ્ત્રી\n(B) એક ઘટના\n(C) એક પુસ્તક\n(D) એક યાદ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) એક ઘટના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લેખક કહે છે, 'બા એટલે બા - એક ઘટના'. જેમના જીવનમાંથી ઘણું શીખવા જેવું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "બાનો વાડો ક્યાં આવેલો હતો?\n(A) ઘરની આગળ\n(B) ઘરની પાછળ\n(C) ખેતરમાં\n(D) ગામની બહાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઘરની પાછળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાઠમાં ઉલ્લેખ છે કે ઘરની પાછળના ભાગે બાએ સુંદર વાડો બનાવ્યો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "‘ભદ્ર’ શબ્દનો અર્થ શું થાય?\n(A) ખરાબ\n(B) ડરામણું\n(C) કલ્યાણકારી / મંગળ\n(D) મોટું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) કલ્યાણકારી / મંગળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘ભદ્ર’ એટલે હંમેશા સારું કે શુભ ઈચ્છનાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "બા ક્યારે ઉદાસ થઈ જતા?\n(A) કોઈ મહેમાન આવે ત્યારે\n(B) જ્યારે કોઈ છોડ સુકાઈ જાય ત્યારે\n(C) જ્યારે તેમને ભજન ગાવા ન મળે ત્યારે\n(D) વરસાદ ન પડે ત્યારે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) જ્યારે કોઈ છોડ સુકાઈ જાય ત્યારે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બાના વાડાના છોડ તેમના જીવ જેવા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "લેખક કઈ વાત પર ગર્વ અનુભવે છે?\n(A) પોતાની નોકરી પર\n(B) પોતાના ઘર પર\n(C) પોતાની કર્મશીલ બા પર\n(D) પોતાના ગામ પર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) પોતાની કર્મશીલ બા પર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બાનું જીવતર એ લેખક માટે પ્રેરણાનો સ્ત્રોત હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "બાના વાડામાં શાનાથી વાડ કરી હતી?\n(A) લોખંડની જાળી\n(B) ઈંટોની દીવાલ\n(C) થોર અને એરંડાની\n(D) લાકડાના ડંડા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) થોર અને એરંડાની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગામડામાં કુદરતી વાડ માટે ‘થોર’ નો ઉપયોગ સામાન્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "બા ક્યારેય શાની અપેક્ષા રાખતા ન હતા?\n(A) પ્રેમની\n(B) ફળની\n(C) આરામની\n(D) ભક્તિની",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) આરામની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બા માટે કામ જ આરામ હતો, નવરા બેસવું ગમતું નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "બાના વ્યક્તિત્વને કેવું કહેવામાં આવ્યું છે?\n(A) કડક\n(B) સાદું અને ઉમદા\n(C) આળસુ\n(D) ગંભીર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સાદું અને ઉમદા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બાનું જીવન સાદગીથી ભરેલું પણ વિચારો અને કાર્યો ઉમદા હતા.</p></div>"
+    }
+  ]
+}
