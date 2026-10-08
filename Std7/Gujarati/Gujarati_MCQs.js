@@ -1359,3 +1359,161 @@ var Std7_Gujarati_MCQs = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "માલમ હલેસાં માર (લોકગીત)",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'માલમ હલેસાં માર' સાહિત્યનો પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) લોકગીત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'માલમ હલેસાં માર' એ લોકો દ્વારા ગવાયેલું અને પરંપરાથી ઉતરી આવેલું ગીત છે, માટે તે 'લોકગીત' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "કાવ્યમાં 'માલમ' શબ્દ કોના માટે વપરાયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) વહાણ ચલાવનાર (નાવિક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મ-થી માલમ અને મ-થી મધદરિયે વહાણ હાંકનાર. માલમ એટલે કેપ્ટન અથવા નાવિક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "દિયરને મેણું કોણે માર્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ભાભીએ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દિયર-ભાભીનો મીઠો સંવાદ આ કાવ્યનો મુખ્ય આધાર છે. મેણું હંમેશા નજીકના સંબંધી સુધારવા માટે મારે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ભાભીએ દિયરને કેવો કહ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) આળસનો સરદાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે કામ ચોરી કરે તેને ભાભી 'આળસનો સરદાર' કહીને સંબોધે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "દિયર કયા બંદરે કમાવા જવા ઈચ્છે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) જાવા બંદરે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કાવ્યમાં પંક્તિ છે: 'જાવું છે મારે જાવા બંદરે'. જાવા એટલે કમાણી માટેનું સ્થળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "જાવા બંદરે જવાથી શું પ્રાપ્ત થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) લક્ષ્મી (ધન-સંપત્તિ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ગયે જાવા જે કોઈ જાય, તે લક્ષ્મી લઈને આવે' - જાવા = લક્ષ્મી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "દિયરને કેવી નાર (સ્ત્રી) પરણવી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) પદમણી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પદમણી એટલે સુંદર અને ગુણવાન સ્ત્રી. દિયર સિંહલદ્વીપ જઈને પદમણી નાર પરણવા માંગે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સિંહલદ્વીપ એટલે અત્યારનો કયો દેશ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) શ્રીલંકા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જૂના સમયમાં શ્રીલંકાને સિંહલદ્વીપ તરીકે ઓળખવામાં આવતું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ભાભીએ દિયરને શા માટે મેણું માર્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) તેની આળસ દૂર કરવા અને તેને કમાતો કરવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભાભીનું મેણું કડવું હતું પણ દિયરના ભલા માટે હતું (ઉત્તેજના આપવા માટે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "દિયર કોના જેવો થઈને ઘરમાં બેસી રહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) મોટા ભાઈની કમાણી પર જીવનાર આળસુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ભાઈની કમાણી પર ભાઈ ઘોડલા ખેલવે' - એટલે કે ભાઈના પૈસે જલસા કરવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "કાવ્યમાં 'મે'ણું' શબ્દનો અર્થ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) કડવા વચન અથવા મર્મવચન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મેણું એટલે કોઈને નીચું દેખાડવા કે સુધારવા માટે કહેવાયેલા કડવા શબ્દો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ભાભીની જીભ માટે કયો શબ્દ વપરાયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઝેર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'કેસર ભીની જીભલડી' એવો શબ્દ છે પણ કડવા વેણ હોવાથી તેને 'ઝેર' જેવી ધારદાર ગણાવી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "દિયર કમાઈને પાછો આવે ત્યારે ભાભી તેને કેવી રીતે વધાવે તેમ ઈચ્છે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) મોતીડે પોંખે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પોંખવું એટલે સ્વાગત કરવું. મોતીડે પોંખવા એટલે ખૂબ જ માન-સન્માન સાથે આવકાર આપવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "'ઘોડલા ખેલવા' રૂઢિપ્રયોગનો અર્થ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મોજમજા કરવી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બીજાની કમાણી પર લહેરો કરવી અથવા મોજ કરવી એટલે 'ઘોડલા ખેલવા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "દિયરને શા માટે જીવવું 'સાર' (સાર્થક) લાગે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) જો ભાભીએ મેણું માર્યું હોય તો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભાભીના મેણાને કારણે જ દિયર સુધર્યો, તેથી તે મેણાને આશીર્વાદ માની જીવતર સફળ ગણે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "'બાર પંદર' શબ્દ દ્વારા કાવ્યમાં શું સૂચવાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) સમયગાળો અથવા સંખ્યા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'બાર પંદર માલમ હલેસાં માર' - એટલે કે ઝડપથી વહાણ ચલાવવાની વાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "'મધદરિયે' એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) દરિયાની વચ્ચે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મધ + દરિયો = મધ્ય દરિયો. એટલે કે કિનારાથી ઘણું દૂર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "'લખમી' શબ્દનું શિષ્ટરૂપ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) લક્ષ્મી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): તળપદા શબ્દોમાં 'લક્ષ્મી' ને 'લખમી' કહેવામાં આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "દિયર અને ભાભી વચ્ચે કેવો સંબંધ હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) દિયર અને મોટા ભાઈની પત્ની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભાઈની પત્ની એટલે ભાભી અને પતિનો નાનો ભાઈ એટલે દિયર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "દિયર કઈ બાજુ હલેસાં મારવાનું કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) મધદરિયે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લક્ષ્ય સુધી પહોંચવા માટે મધદરિયે હોડી હંકારવી જરૂરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "'કેસર ભીની' એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઉમંગથી ભરેલી અથવા આનંદિત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અહિંયા ભાભીના શબ્દોને કેસર જેવા કિંમતી અને જાગૃતિ લાવનારા ગણ્યા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "'જાવું છે મારે સિંહલદ્વીપમાં' - અહીં 'નાર' નો અર્થ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) સ્ત્રી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નાર = નારી = સ્ત્રી. પદમણી નાર એટલે સુંદર સ્ત્રી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "દિયરને શા માટે આળસુ કહ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) તે કઈ કામ-ધંધો કરતો નહોતો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે વ્યક્તિ પોતાની આવડતનો ઉપયોગ ન કરે અને બેસી રહે તેને આળસુ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "આ કાવ્યમાંથી આપણને શું બોધ મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પુરુષાર્થ કરવો જોઈએ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મેણું સાંભળીને નાસીપાસ થવાને બદલે મહેનત કરીને આગળ વધવું જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "'સાર્થક' શબ્દનો સમાન અર્થ કાવ્યમાં કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'જીવ્યાનો સાર' એટલે કે જીવનની સાર્થકતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "દિયરને કોની કમાણી પર જલસા કરવાની આદત હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) મોટા ભાઈની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ભાભી કહે છે: ભાઈની કમાણી પર તું જલસા કરે છે.'</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "'હલેસાં મારવા' એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) વહાણ ચલાવવા માટે લાકડાના હાથા ફેરવવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હલેસાં એ હોડી કે વહાણ ચલાવવાનું સાધન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "ભાભીએ દિયરને જે વચન કહ્યા તેને શું કહેવાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) મેણું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મેણું એટલે કોઈનામાં જાગૃતિ લાવવા માટે વપરાતા કઠોર શબ્દો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "સિંહલદ્વીપમાં કયા ફૂલ જેવી સુંદરીની વાત છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પદમણી (કમળ જેવી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'પદમણી' શબ્દ પદ્મ (કમળ) પરથી આવ્યો છે, જે ઉત્તમ સ્ત્રીનું પ્રતીક છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "'ભાભી તમે મેણું માર્યું ને મારી મતિ સુધારી' - અહીં 'મતિ' એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) બુદ્ધિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મતિ એટલે સમજણ અથવા બુદ્ધિ. દિયરને સાચી સમજ આવી ગઈ.</p></div>"
+    }
+  ]
+}
