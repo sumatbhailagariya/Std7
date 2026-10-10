@@ -2174,3 +2174,451 @@ var Std7_Gujarati_MCQs = {
     }
   ]
 }
+,
+"13": {
+  "chapterName": "પ્રકરણ 13",
+  "chapterTitle": "ભમીએ ગુજરાતે : દક્ષિણ ભણી",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘ભમીએ ગુજરાતે : દક્ષિણ ભણી’ પાઠના લેખકનું નામ જણાવો.",
+      "options": {
+        "A": "પન્નાલાલ પટેલ",
+        "B": "ચંદ્રવદન ચી. મહેતા",
+        "C": "જ્યોતીન્દ્ર હ. દવે",
+        "D": "ગુણવંત શાહ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ચંદ્રવદન ચી. મહેતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'દક્ષિણ' નો 'ચ' એટલે 'ચંદ્રવદન' મહેતા! પ્રવાસમાં 'ચંદ્ર' જેવી શીતળતા હોય એમ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘ભમીએ ગુજરાતે : દક્ષિણ ભણી’ પાઠનો સાહિત્ય પ્રકાર કયો છે?",
+      "options": {
+        "A": "નવલકથા",
+        "B": "હાસ્ય નિબંધ",
+        "C": "પ્રવાસ લેખ",
+        "D": "જીવન ચરિત્ર"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) પ્રવાસ લેખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ભમીએ' એટલે ફરવું, અને ફરવાની વાત આવે એટલે તે હંમેશા 'પ્રવાસ લેખ' જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "લેખકે કયા શહેરને 'સોનાની મૂરત' કહ્યું છે?",
+      "options": {
+        "A": "અમદાવાદ",
+        "B": "વડોદરા",
+        "C": "સુરત",
+        "D": "ભરૂચ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) સુરત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સુરત' માં 'સ' અને 'સોનાની મૂરત' માં પણ 'સ' - યાદ રહી ગયું ને!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સુરત શહેર કઈ નદીના કિનારે વસેલું છે?",
+      "options": {
+        "A": "નર્મદા",
+        "B": "તાપી",
+        "C": "મહી",
+        "D": "સાબરમતી"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) તાપી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુરતની 'તાપી' એટલે સૂર્યપુત્રી - દક્ષિણ ગુજરાતની જીવાદોરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "તાપી નદીને કોની પુત્રી કહેવામાં આવે છે?",
+      "options": {
+        "A": "ચંદ્રની",
+        "B": "પવનની",
+        "C": "સૂર્યની",
+        "D": "સાગરની"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) સૂર્યની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સૂર્યપુત્રી તાપી' - આ શબ્દ યાદ રાખશો એટલે ક્યારેય નહિ ભૂલાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કયા કવિએ સુરત માટે 'રડ્યા' હોવાની વાત પાઠમાં આવે છે?",
+      "options": {
+        "A": "નર્મદ",
+        "B": "દલપતરામ",
+        "C": "કાન્ત",
+        "D": "કલાપી"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) નર્મદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નર્મદ' ના આંસુ સુરતની પડતી જોઈને વહ્યા હતા. 'નર્મદ = નરમ દિલનો' એમ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સુરત શહેરમાં કઈ ત્રણ વિદેશી પ્રજા વેપાર માટે આવી હતી?",
+      "options": {
+        "A": "અંગ્રેજ, પોર્ટુગીઝ, મુગલ",
+        "B": "અંગ્રેજ, ફ્રેન્ચ, વલંદા",
+        "C": "ડચ, હબસી, અરબ",
+        "D": "ફ્રેન્ચ, જર્મન, ઇટાલિયન"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) અંગ્રેજ, ફ્રેન્ચ, વલંદા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટ્રીક - 'અફવા' (અ-અંગ્રેજ, ફ-ફ્રેન્ચ, વ-વલંદા). સુરતમાં વેપારની 'અફવા' નહોતી સાચી વાત હતી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "‘મોજશોખ ને ખાણી-પીણી સુરતી લાલા સહેલાણી’ - આ પંક્તિમાં કોનું વર્ણન છે?",
+      "options": {
+        "A": "અમદાવાદીઓનું",
+        "B": "સુરતીઓનું",
+        "C": "કાઠિયાવાડીઓનું",
+        "D": "મહેસાણીઓનું"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) સુરતીઓનું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રશ્નમાં જ 'સુરતી લાલા' શબ્દ છે, એટલે જવાબ સુરતીઓ જ આવે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "બારડોલી સત્યાગ્રહના પ્રણેતા કોણ હતા?",
+      "options": {
+        "A": "ગાંધીજી",
+        "B": "સરદાર વલ્લભભાઈ પટેલ",
+        "C": "જવાહરલાલ નેહરુ",
+        "D": "મહાદેવભાઈ દેસાઈ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) સરદાર વલ્લભભાઈ પટેલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બારડોલી = લોખંડી પુરુષ સરદાર પટેલ. આ ભારતનું થર્મોપોલી છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પાઠમાં ‘ભારતનું થર્મોપોલી’ કોને કહેવામાં આવ્યું છે?",
+      "options": {
+        "A": "સુરતને",
+        "B": "રાંદેરને",
+        "C": "બારડોલીને",
+        "D": "ડુમસને"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) બારડોલીને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બારડોલી સત્યાગ્રહને કારણે તેને વિશ્વના ઇતિહાસના 'થર્મોપોલી' સાથે સરખાવવામાં આવ્યું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સુરત પાસે આવેલું કયું સ્થળ તેના હૂલામણા દરિયાકિનારા માટે જાણીતું છે?",
+      "options": {
+        "A": "હજીરા",
+        "B": "ડુમસ",
+        "C": "ઉભરાટ",
+        "D": "તિથલ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ડુમસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ડ' થી ડુમસ અને 'દ' થી દરિયો. સુરતીઓ રવિવારે ક્યાં જાય? ડુમસ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "તાપીનો સંગમ કયા સ્થળે થાય છે?",
+      "options": {
+        "A": "ભરૂચ પાસે",
+        "B": "ડુમસ પાસે",
+        "C": "હજીરા પાસે",
+        "D": "બારડોલી પાસે"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ડુમસ પાસે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાપી મૈયા ડુમસ પાસે સાગરમાં ડૂબકી મારે છે (સંગમ થાય છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "‘ખમતીધર’ શબ્દનો અર્થ શું થાય?",
+      "options": {
+        "A": "ગરીબ",
+        "B": "સદ્ધર અથવા નસીબદાર",
+        "C": "નબળું",
+        "D": "હિંમત વગરનું"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) સદ્ધર અથવા નસીબદાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેની પાસે બધું 'ખમી' શકે તેવું 'ધર' (ઘર) હોય, એટલે કે જે પૈસે-ટકે સુખી હોય તે 'ખમતીધર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "સુરતની કઈ મીઠાઈ બહુ પ્રખ્યાત છે જેનો ઉલ્લેખ પાઠમાં છે?",
+      "options": {
+        "A": "જલેબી",
+        "B": "પેંડા",
+        "C": "ઘારી",
+        "D": "મેસુબ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) ઘારી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સુરતની ઘારી અને ભૂસાની લારી' - સુરતનું નામ આવે એટલે ઘારી જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "લેખકે સુરતને ‘આગરેલ’ કેમ કહ્યું છે?",
+      "options": {
+        "A": "વધારે ગરમીને કારણે",
+        "B": "1850 ના ભયાનક આગના બનાવને કારણે",
+        "C": "લોકોના ગુસ્સાને કારણે",
+        "D": "ઉદ્યોગોને કારણે"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) 1850 ના ભયાનક આગના બનાવને કારણે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આગરેલ' માં 'આગ' શબ્દ જ જવાબની હિન્ટ આપે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "કવિ નર્મદના સમયમાં સુરતની હાલત કેવી હતી?",
+      "options": {
+        "A": "ખૂબ જ સમૃદ્ધ",
+        "B": "દુર્દશાભરી અને ગરીબ",
+        "C": "વિશ્વનું શ્રેષ્ઠ શહેર",
+        "D": "શાંત અને સુઘડ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) દુર્દશાભરી અને ગરીબ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એટલે જ નર્મદ રડ્યા હતા. 'નર્મદની રડતી સુરત' - સ્થિતિ ખરાબ હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "લેખક પ્રવાસની શરૂઆત ક્યાંથી કરે છે?",
+      "options": {
+        "A": "નર્મદા કિનારેથી",
+        "B": "તાપી કિનારેથી",
+        "C": "સાબરમતી કિનારેથી",
+        "D": "ભરૂચથી"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) તાપી કિનારેથી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દક્ષિણ ગુજરાતનો પ્રવાસ એટલે તાપી મૈયાના આશીર્વાદથી જ શરૂ થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "‘વલંદા’ એટલે કયા દેશના વતની?",
+      "options": {
+        "A": "ફ્રાન્સના",
+        "B": "ઇંગ્લેન્ડના",
+        "C": "હોલેન્ડના (ડચ)",
+        "D": "પોર્ટુગલના"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) હોલેન્ડના (ડચ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વલંદા' એટલે 'ડચ'. ઇતિહાસમાં આ પ્રજા સુરતમાં વેપાર અર્થે આવી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "રાંદેર શહેરની મુલાકાત વખતે લેખક કયા સમયની યાદ અપાવે છે?",
+      "options": {
+        "A": "જ્યારે તે ખૂબ ગરીબ હતું",
+        "B": "જ્યારે તે મોટું વેપારી કેન્દ્ર હતું",
+        "C": "જ્યારે ત્યાં કોઈ રહેતું નહોતું",
+        "D": "આઝાદી પછીના સમયની"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) જ્યારે તે મોટું વેપારી કેન્દ્ર હતું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુરત પહેલા 'રાંદેર' ઝળકતું હતું, તે જૂનું મશહૂર વેપારી મથક હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "પાઠમાં ‘સતપુડા’ ના ડુંગરોનો ઉલ્લેખ કઈ દિશામાં કરવામાં આવ્યો છે?",
+      "options": {
+        "A": "પશ્ચિમમાં",
+        "B": "ઉત્તરમાં",
+        "C": "દક્ષિણમાં",
+        "D": "પૂર્વમાં"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D) પૂર્વમાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નકશો યાદ કરો, ગુજરાતની પૂર્વ સરહદે સાતપુડાની હારમાળા આવેલી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "‘ઘેઘૂર’ શબ્દનો અર્થ શું થાય?",
+      "options": {
+        "A": "છૂટું છવાયું",
+        "B": "ગાઢ અથવા ઘટાદાર",
+        "C": "સૂકું લાલ",
+        "D": "કાંટાળું"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ગાઢ અથવા ઘટાદાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઘેઘૂર વડલો' - જેની ઘટા ખૂબ મોટી હોય તે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "પાઠમાં ‘ભૂતિયો બંગલો’ કયા સ્થળે હોવાનો ઉલ્લેખ છે?",
+      "options": {
+        "A": "સુરત",
+        "B": "રાંદેર",
+        "C": "ડુમસ",
+        "D": "હજીરા"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) ડુમસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડુમસના દરિયાકિનારે ભૂતિયા બંગલાની વાતો જૂની અને જાણીતી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ચંદ્રવદન મહેતાને લોકો કયા હુલામણા નામથી ઓળખે છે?",
+      "options": {
+        "A": "ચ.ચી.મે.",
+        "B": "ચંદ્ર",
+        "C": "મહેતાજી",
+        "D": "દક્ષિણના દીવા"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) ચ.ચી.મે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેમના નામનાં પહેલા અક્ષરો જોડો - ચંદ્રવદન ચીમનલાલ મહેતા = ચ.ચી.મે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "‘પડઘો પડે છે’ એટલે શું?",
+      "options": {
+        "A": "અવાજ સંભળાવો",
+        "B": "પડછાયો પડવો",
+        "C": "પ્રતિધ્વનિ થવો",
+        "D": "વરસાદ પડવો"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) પ્રતિધ્વનિ થવો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આપણે બોલીએ અને સામેથી એ જ અવાજ પાછો આવે તેને 'પડઘો' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "સુરત પર કયા વર્ષમાં લૂંટ થઈ હતી જેનો પાઠમાં ઉલ્લેખ છે?",
+      "options": {
+        "A": "1664",
+        "B": "1857",
+        "C": "1947",
+        "D": "1500"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) 1664</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિવાજી મહારાજે સુરત પર પ્રથમ લૂંટ 1664 માં કરી હતી, જેનો અહીં ઉલ્લેખ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "‘તેલ-તળાવ’ જેવી ઉપમા લેખકે કોને આપી છે?",
+      "options": {
+        "A": "તાપીના પાણીને",
+        "B": "ડુમસના દરિયાને",
+        "C": "સુરતના રસ્તાઓને",
+        "D": "કવિ નર્મદના આંસુને"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ડુમસના દરિયાને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડુમસનો દરિયો શાંત હોય ત્યારે તેલ જેવો ચળકતો લાગે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "નીચેનામાંથી કયો શબ્દ સુરત શહેર માટે વપરાયો નથી?",
+      "options": {
+        "A": "સોનાની મૂરત",
+        "B": "સૂર્યપુત્રીનું શહેર",
+        "C": "સત્યાગ્રહની ભૂમિ",
+        "D": "પિત્તળ નગરી"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> D) પિત્તળ નગરી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુરત 'સોનું' છે, પિત્તળ નહિ! બાકીના ત્રણેય સુરત સાથે જોડાયેલા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "બારડોલીને ‘ભારતનું થર્મોપોલી’ કોણે કહ્યું છે?",
+      "options": {
+        "A": "મહાત્મા ગાંધી",
+        "B": "સરદાર પટેલ",
+        "C": "રવિશંકર મહારાજ",
+        "D": "ચંદ્રવદન મહેતા"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) મહાત્મા ગાંધી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધીજીએ જ બારડોલીના લડાયક મિજાજને જોઈને તેને 'થર્મોપોલી'ની ઉપમા આપી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "લેખક નર્મદા મૈયાના દર્શન કરવા ક્યાં જવાની વાત કરે છે?",
+      "options": {
+        "A": "સુરત",
+        "B": "ભરૂચ",
+        "C": "રાજપીપળા",
+        "D": "વડોદરા"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ભરૂચ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભરૂચ એટલે નર્મદાનો કિનારો. દક્ષિણ ગુજરાતના પ્રવાસમાં સુરત પછી ભરૂચ જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "સુરત શહેરનો ઇતિહાસ કેવો રહ્યો છે?",
+      "options": {
+        "A": "ખૂબ જ શાંત",
+        "B": "ઉથલપાથલ ભરેલો",
+        "C": "નવો સવો",
+        "D": "માત્ર ખેતી આધારિત"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ઉથલપાથલ ભરેલો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠમાં 'ઉથલપાથલ' શબ્દનો પ્રયોગ સુરત માટે વારંવાર થયો છે કારણ કે ત્યાં ઘણી પરદેશી પ્રજાઓ આવી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "‘સહેલાણી’ એટલે શું?",
+      "options": {
+        "A": "દુઃખી માણસ",
+        "B": "મુસાફરી કરનાર અથવા ફરવા નીકળેલ માણસ",
+        "C": "વેપારી",
+        "D": "ખેડૂત"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) મુસાફરી કરનાર અથવા ફરવા નીકળેલ માણસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સહેલ' કરવી એટલે ફરવું, તેના પરથી 'સહેલાણી' એટલે પ્રવાસી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "પાઠમાં ‘સુરત’ ની બાજુમાં કયો કિલ્લો હોવાનું જણાવાયું છે?",
+      "options": {
+        "A": "ચાંપાનેર",
+        "B": "માંડવી",
+        "C": "જૂનાગઢ",
+        "D": "ભુજ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) માંડવી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુરત જિલ્લાનું 'માંડવી' શહેર અને ત્યાંનો ઐતિહાસિક કિલ્લો જાણીતો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "ચંદ્રવદન મહેતાનો જન્મ કયા શહેરમાં થયો હતો?",
+      "options": {
+        "A": "સુરત",
+        "B": "અમદાવાદ",
+        "C": "ભાવનગર",
+        "D": "વડોદરા"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) સુરત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેખક પોતે સુરતી હતા, એટલે જ તેમણે સુરત અને દક્ષિણ ગુજરાતનું આટલું સુંદર વર્ણન કર્યું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "‘ભમીએ ગુજરાતે’ પુસ્તકના લેખક કોણ છે?",
+      "options": {
+        "A": "કાલેલકર",
+        "B": "ચંદ્રવદન મહેતા",
+        "C": "ધૂમકેતુ",
+        "D": "પન્નાલાલ પટેલ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ચંદ્રવદન મહેતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ પાઠ લેખકના 'ભમીએ ગુજરાતે : નર્મદા કાંઠે' અને 'દક્ષિણ ભણી' માંથી લેવામાં આવ્યો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "તાપીનો પ્રવાહ કેવો છે?",
+      "options": {
+        "A": "શાંત",
+        "B": "ધસમસતો અને વળાંકવાળો",
+        "C": "ખૂબ જ ઓછો",
+        "D": "સ્થિર"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) ધસમસતો અને વળાંકવાળો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નદી જ્યારે ડુંગરોમાંથી ઉતરે ત્યારે તે 'ધસમસતી' જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "આ પાઠમાં કઈ ઐતિહાસિક લડાઈનો ઉલ્લેખ છે?",
+      "options": {
+        "A": "પાણીપતનું યુદ્ધ",
+        "B": "કુરુક્ષેત્રનું યુદ્ધ",
+        "C": "થર્મોપોલીનું યુદ્ધ",
+        "D": "પ્લાસીનું યુદ્ધ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) થર્મોપોલીનું યુદ્ધ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્રીસ અને પર્શિયા વચ્ચે થયેલું 'થર્મોપોલી'નું યુદ્ધ બારડોલીના સંદર્ભમાં વપરાયું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "‘નસીબદાર’ માટે પાઠમાં કયો શબ્દ વપરાયો છે?",
+      "options": {
+        "A": "ખમતીધર",
+        "B": "સહેલાણી",
+        "C": "તડકી-છાંયડી",
+        "D": "વલંદા"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) ખમતીધર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખમતીધર એટલે જે નસીબદાર હોય અને આર્થિક રીતે સક્ષમ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "લેખક કયા ડુંગરની હારમાળા જોવાની વાત કરે છે?",
+      "options": {
+        "A": "ગીરના",
+        "B": "સાતપુડાના",
+        "C": "પાવાગઢના",
+        "D": "શેત્રુંજયના"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) સાતપુડાના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દક્ષિણ ગુજરાત અને મહારાષ્ટ્રની બોર્ડર પર સાતપુડાની ગિરિમાળા આવેલી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "સુરતમાં રેલવે કયા વર્ષમાં આવી હતી?",
+      "options": {
+        "A": "1860",
+        "B": "1853",
+        "C": "1900",
+        "D": "1880"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) 1860</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારતમાં 1853 માં આવી, પણ સુરત (ગુજરાત) માં આ પાઠ મુજબ 1860 ની આસપાસનો ઉલ્લેખ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "‘ભમીએ ગુજરાતે’ પાઠમાં કઈ ભાષાના શબ્દોનો વધુ પ્રયોગ થયો છે?",
+      "options": {
+        "A": "કાઠિયાવાડી",
+        "B": "સુરતી-ગુજરાતી",
+        "C": "ચરોતરી",
+        "D": "કચ્છી"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) સુરતી-ગુજરાતી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દક્ષિણ ગુજરાતનો પ્રવાસ હોય તો ભાષા પણ સુરતી લહેકાવાળી જ હોય ને!</p></div>"
+    }
+  ]
+}
