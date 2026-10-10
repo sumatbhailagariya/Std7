@@ -2622,3 +2622,451 @@ var Std7_Gujarati_MCQs = {
     }
   ]
 }
+,
+"14": {
+  "chapterName": "પ્રકરણ 14",
+  "chapterTitle": "આવ, ભાણા આવ!",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘આવ, ભાણા આવ!’ પાઠના લેખકનું નામ શું છે?",
+      "options": {
+        "A": "રઘુવીર ચૌધરી",
+        "B": "શાહબુદ્દીન રાઠોડ",
+        "C": "પન્નાલાલ પટેલ",
+        "D": "ગુણવંત શાહ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) શાહબુદ્દીન રાઠોડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'શાહબુદ્દીન' એટલે હાસ્યની દુનિયાના 'રાઠોડ' રાજા, જેમણે ભાણાને બોલાવ્યો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘આવ, ભાણા આવ!’ પાઠનો સાહિત્ય પ્રકાર જણાવો.",
+      "options": {
+        "A": "નાટક",
+        "B": "લોકકથા",
+        "C": "હાસ્ય કથા (નિબંધ)",
+        "D": "ટૂંકી વાર્તા"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) હાસ્ય કથા (નિબંધ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાહબુદ્દીન રાઠોડ હંમેશા 'હાસ્ય' જ પીરસે, એટલે આ હાસ્ય કથા જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "લેખકને બાળપણમાં કઈ વસ્તુ લેવાની તીવ્ર ઈચ્છા હતી?",
+      "options": {
+        "A": "નવા કપડાં",
+        "B": "નવા જોડા (બૂટ)",
+        "C": "સાઈકલ",
+        "D": "ક્રિકેટનું બેટ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) નવા જોડા (બૂટ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખું પ્રકરણ 'જોડા' (બૂટ) બનાવવાની માથાકૂટ પર આધારિત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "જોડા બનાવવા માટે લેખકને કોની પાસે જવું પડતું હતું?",
+      "options": {
+        "A": "દુદા મામા પાસે",
+        "B": "રામા કાકા પાસે",
+        "C": "સોમાભાઈ પાસે",
+        "D": "હરિભાઈ પાસે"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) દુદા મામા પાસે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'દ' થી જોડાની 'દેરી' અને 'દ' થી 'દુદા મામા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "લેખકના પરિવારમાં નવા જોડા માટે કોની મંજૂરી મેળવવી પડતી હતી?",
+      "options": {
+        "A": "માતાની",
+        "B": "ભાઈની",
+        "C": "અબ્બાની (પિતાની)",
+        "D": "દાદાની"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) અબ્બાની (પિતાની)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘરમાં બજેટ પાસ કરવાનું કામ હંમેશા 'અબ્બા' જ કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "તે સમયે નવા જોડાની કિંમત કેટલી હતી?",
+      "options": {
+        "A": "પાંચ રૂપિયા",
+        "B": "બે રૂપિયા અને બાર આના",
+        "C": "દસ રૂપિયા",
+        "D": "એક રૂપિયો"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) બે રૂપિયા અને બાર આના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બગડો' અને 'બાર' - ૨ રૂપિયા ૧૨ આના યાદ રાખી લેવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "લેખક જ્યારે દુદા મામાની દુકાને પહોંચતા ત્યારે દુદા મામા કયા શબ્દોથી તેમનું સ્વાગત કરતા?",
+      "options": {
+        "A": "કેમ છે ભાણા?",
+        "B": "આવ, ભાણા આવ!",
+        "C": "બેસ, ભાણા બેસ!",
+        "D": "જોડા તૈયાર છે."
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) આવ, ભાણા આવ!</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ જ પાઠનું શીર્ષક છે, જે દુદા મામાનો પ્રેમ અને વિલંબ બંને સૂચવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "દુદા મામા જોડાનું માપ લેવા માટે શાનો ઉપયોગ કરતા?",
+      "options": {
+        "A": "મેઝર ટેપનો",
+        "B": "દોરીનો",
+        "C": "પૂંઠાના કટકા પર પેન્સિલથી લીટી દોરીને",
+        "D": "લોખંડની ફૂટપટ્ટીનો"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) પૂંઠાના કટકા પર પેન્સિલથી લીટી દોરીને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂની પદ્ધતિ: પૂંઠું + પેન્સિલ = પરફેક્ટ માપ (પરમાણું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "લેખકને કયા રંગના જોડા બનાવડાવવાની ઈચ્છા હતી?",
+      "options": {
+        "A": "કાળા",
+        "B": "લાલ ચટાક",
+        "C": "સફેદ",
+        "D": "વાદળી"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) લાલ ચટાક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળપણમાં 'લાલ ચટાક' વસ્તુઓ જ વધારે આકર્ષક લાગે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "દુદા મામા જોડા બનાવવા માટે કયા કારણોસર વિલંબ કરતા?",
+      "options": {
+        "A": "બીમાર હોવાને કારણે",
+        "B": "કામ વધુ હોવાને કારણે",
+        "C": "ચામડું નથી, દોરી નથી જેવા બહાના કાઢીને",
+        "D": "બહારગામ ગયા હોવાને કારણે"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ચામડું નથી, દોરી નથી જેવા બહાના કાઢીને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દુદા મામા એટલે વાયદાના પાક્કા, કામના કાચા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "જોડાનું માપ લેવા માટે વપરાતા સાધનને પાઠમાં શું કહેવાયું છે?",
+      "options": {
+        "A": "પરમાણું",
+        "B": "માપપટ્ટી",
+        "C": "સાધન",
+        "D": "માપદંડ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) પરમાણું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દેશી ભાષામાં માપને 'પરમાણું' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "લેખક જ્યારે અધીરા થઈને દુદા મામા પાસે જતા ત્યારે દુદા મામા તેમને કયા ભગવાનના ભજનમાં પરોવી દેતા?",
+      "options": {
+        "A": "શ્રી કૃષ્ણના",
+        "B": "રામજીના",
+        "C": "હનુમાનજીના",
+        "D": "શંકર ભગવાનના"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) રામજીના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સીતારામ' કહીને દુદા મામા સમય પસાર કરતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "દુદા મામા જોડા સીવવા માટે કઈ શૈલી વાપરતા?",
+      "options": {
+        "A": "ઝડપી શૈલી",
+        "B": "આધુનિક મશીન શૈલી",
+        "C": "વાયદા કરવાની અને ધીમી શૈલી",
+        "D": "સીધી અને સરળ શૈલી"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) વાયદા કરવાની અને ધીમી શૈલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ પાઠનો મુખ્ય વિષય જ દુદા મામાના વાયદા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "પાઠમાં ‘છીંકણી’ શબ્દ કયા સંદર્ભમાં વપરાયો છે?",
+      "options": {
+        "A": "એક પ્રકારનો પદાર્થ",
+        "B": "ચામડાના રંગ તરીકે",
+        "C": "એક ફૂલનું નામ",
+        "D": "એક રમત"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ચામડાના રંગ તરીકે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છીંકણી એટલે ડાર્ક બ્રાઉન (કથ્થઈ) જેવો રંગ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "દુદા મામા લેખકને બૂટ આપવા માટે કયા તહેવારનો વાયદો કરતા?",
+      "options": {
+        "A": "દિવાળી",
+        "B": "જન્માષ્ટમી",
+        "C": "ગણેશ ચતુર્થી",
+        "D": "આપેલ તમામ (સમયે સમયે બદલાતા)"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) આપેલ તમામ (સમયે સમયે બદલાતા)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાયદાબાજ માણસ દરેક તહેવારને બહાનું બનાવી શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "‘આવ, ભાણા આવ!’ પાઠમાં લેખકનું કયું સંવેદન પ્રગટ થાય છે?",
+      "options": {
+        "A": "બાળપણની નિર્દોષતા અને અધીરાઈ",
+        "B": "ગરીબી",
+        "C": "ગુસ્સો",
+        "D": "પસ્તાવો"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) બાળપણની નિર્દોષતા અને અધીરાઈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નવા જોડા માટેની બાળકની ઉત્સુકતા એટલે જ નિર્દોષ અધીરાઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "પરિવારના સભ્યોની બેઠકમાં લેખકની જોડાની માંગણી પર શું નિર્ણય લેવાયો?",
+      "options": {
+        "A": "તુરંત નવા જોડા અપાવવા",
+        "B": "જૂના જોડાને થીગડાં મરાવી ચલાવી લેવું",
+        "C": "જોડા જ ન આપવા",
+        "D": "બજારમાંથી બૂટ ખરીદી લાવવા"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) જૂના જોડાને થીગડાં મરાવી ચલાવી લેવું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મધ્યમ વર્ગમાં વસ્તુ રીપેર કરીને વાપરવાનો રિવાજ પહેલાં વધુ હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "દુદા મામા કયા ગામના હતા અથવા કયા સ્થળે બેસતા?",
+      "options": {
+        "A": "ભાવનગર",
+        "B": "ધારી",
+        "C": "ગારિયાધાર",
+        "D": "અમરેલી"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ગારિયાધાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાહબુદ્દીન રાઠોડની વાર્તાઓ મુખ્યત્વે 'ગારિયાધાર' ના પરિવેશમાં હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "દુદા મામાએ જોડા તૈયાર ન હોવા માટે કયું નવું બહાનું કાઢ્યું હતું?",
+      "options": {
+        "A": "ચામડું ચોરાઈ ગયું છે",
+        "B": "દુકાન બંધ હતી",
+        "C": "ઓઠું (સાચું માપ) ખોવાઈ ગયું છે",
+        "D": "તહેવાર છે એટલે રજા છે"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ઓઠું (સાચું માપ) ખોવાઈ ગયું છે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માપ ખોવાઈ જવું એ દુદા મામાનું બહુ જાણીતું બહાનું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "શાહબુદ્દીન રાઠોડને કયા એવોર્ડથી સન્માનિત કરવામાં આવ્યા છે?",
+      "options": {
+        "A": "પદ્મશ્રી",
+        "B": "ભારત રત્ન",
+        "C": "જ્ઞાનપીઠ",
+        "D": "રણજિતરામ સુવર્ણચંદ્રક"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) પદ્મશ્રી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાષ્ટ્રીય સ્તરે હાસ્ય કલાકાર તરીકે તેમને 'પદ્મશ્રી' મળ્યો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "‘ઉઘાડપગું’ એટલે શું?",
+      "options": {
+        "A": "નવા જોડા પહેરેલા પગ",
+        "B": "પગમાં કંઈ પહેર્યા વગરનું",
+        "C": "મોજાં પહેરેલા પગ",
+        "D": "ગંદા પગ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પગમાં કંઈ પહેર્યા વગરનું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઉઘાડું + પગ = ઉઘાડપગું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "દુદા મામાની દુકાને પહોંચ્યા પછી લેખકની માનસિક સ્થિતિ કેવી હોય?",
+      "options": {
+        "A": "આનંદિત",
+        "B": "શાંત",
+        "C": "આતુર અને અશાંત",
+        "D": "દુઃખી"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) આતુર અને અશાંત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે આપણું કામ અટકેલું હોય ત્યારે આપણે 'આતુર' જ હોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "લેખકને દુદા મામાની દુકાને કેટલા ધક્કા ખાવા પડતા?",
+      "options": {
+        "A": "બે-ત્રણ",
+        "B": "અગણિત",
+        "C": "એક પણ નહીં",
+        "D": "દસ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) અગણિત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાસ્ય કથામાં અતિશયોક્તિ હોય, એટલે ધક્કા ગણી ન શકાય તેટલા હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "‘પરમાણું’ એટલે શું?",
+      "options": {
+        "A": "વિજ્ઞાનનો અણુ",
+        "B": "માપ",
+        "C": "એક પ્રકારનું ફળ",
+        "D": "દુકાનદાર"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) માપ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પગનું પરમાણું એટલે પગનું માપ લેવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "દુદા મામાએ જોડા ક્યારે આપવાનું નક્કી કર્યું હતું (પ્રથમ વખત)?",
+      "options": {
+        "A": "આવતા રવિવારે",
+        "B": "સોમવારે",
+        "C": "શુક્રવારે",
+        "D": "દિવાળીએ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સોમવારે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વારની શરૂઆત સોમવારથી થાય, પણ દુદા મામા માટે તે માત્ર વાયદો જ હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "લેખક જ્યારે જોડા માટે ખીજાય ત્યારે દુદા મામા શું કરતા?",
+      "options": {
+        "A": "સામે ખીજાતા",
+        "B": "પ્રેમથી શાંત પાડી વાતોએ વળગાડતા",
+        "C": "દુકાનમાંથી કાઢી મૂકતા",
+        "D": "રડવા લાગતા"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પ્રેમથી શાંત પાડી વાતોએ વળગાડતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક કુશળ વાયદાબાજ હંમેશા મધુર શબ્દો જ વાપરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "જોડા સીવ્યા પછી તેના પર શું લગાવવામાં આવતું?",
+      "options": {
+        "A": "તેલ",
+        "B": "પાણી",
+        "C": "મીણ અને પોલિશ",
+        "D": "કલર"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) મીણ અને પોલિશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બૂટને ચમકાવવા 'પોલિશ' જોઈએ જ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "‘ભાણો’ એટલે કોણ?",
+      "options": {
+        "A": "ભાઈનો દીકરો",
+        "B": "બહેનનો દીકરો",
+        "C": "કાકાનો દીકરો",
+        "D": "મામાનો દીકરો"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) બહેનનો દીકરો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાણો-મામા નો સબંધ એટલે બહેનનો પુત્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "દુદા મામા લેખકને શું કહેતા?",
+      "options": {
+        "A": "ભાઈજી",
+        "B": "ભાણા",
+        "C": "શેઠ",
+        "D": "બાબુ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ભાણા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટાઈટલ જ છે 'આવ, ભાણા આવ!'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "લેખક જ્યારે જોડા પહેરીને નીકળતા ત્યારે તેમને શું અનુભવાતું?",
+      "options": {
+        "A": "ગર્વ",
+        "B": "થાક",
+        "C": "દુઃખ",
+        "D": "ડર"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ગર્વ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નવા જોડા પહેરીને ચાલવામાં જે વટ પડે એને ગર્વ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "દુદા મામાની દુકાનમાં કયા ભગવાનનો ફોટો હતો (અથવા ઉલ્લેખ હતો)?",
+      "options": {
+        "A": "ગણેશજી",
+        "B": "હનુમાનજી",
+        "C": "રામજી",
+        "D": "કૃષ્ણ ભગવાન"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) રામજી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સીતારામ' અને રામજીની વાતો દુદા મામાની ઓળખ હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "લેખકને નવા જોડા શા માટે જોઈતા હતા?",
+      "options": {
+        "A": "જૂના જોડા ફાટી ગયા હતા",
+        "B": "શોખ માટે",
+        "C": "મિત્રો પાસે હતા એટલે",
+        "D": "લગ્નમાં જવા માટે"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) જૂના જોડા ફાટી ગયા હતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જરૂરિયાત જ નવા જોડાની માંગણીનું કારણ હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "પાઠમાં ‘આના’ એ શાનો એકમ છે?",
+      "options": {
+        "A": "લંબાઈનો",
+        "B": "ચલણનો (પૈસાનો)",
+        "C": "વજનનો",
+        "D": "સમયનો"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ચલણનો (પૈસાનો)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂના જમાનામાં 'આના' ચાલતા (૧૬ આના = ૧ રૂપિયો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "લેખકના મોટા ભાઈનું નામ શું હતું?",
+      "options": {
+        "A": "સોમાભાઈ",
+        "B": "નવાબભાઈ",
+        "C": "હસનભાઈ",
+        "D": "મુસ્તફાભાઈ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) હસનભાઈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠના સંવાદોમાં 'હસનભાઈ' નો ઉલ્લેખ આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "‘નવા જોડા’ પાઠમાં કઈ ઋતુનો વધુ ઉલ્લેખ જોવા મળે છે (તહેવારોના સંદર્ભમાં)?",
+      "options": {
+        "A": "ચોમાસું",
+        "B": "શિયાળો",
+        "C": "ઉનાળો",
+        "D": "વસંત"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ચોમાસું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તહેવારો અને કાદવના સમયમાં બૂટની જરૂર વધુ પડતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "દુદા મામાની દુકાન કયા વિસ્તારમાં હતી?",
+      "options": {
+        "A": "બજારની વચ્ચોવચ",
+        "B": "રેલ્વે સ્ટેશન પાસે",
+        "C": "ગામના પાદરે",
+        "D": "ઘરની પાછળ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ગામના પાદરે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોચીની દુકાન અગાઉના સમયમાં મોટેભાગે ગામના નાકે કે પાદરે રહેતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "‘આવ, ભાણા આવ!’ એ કયા પુસ્તકમાંથી લેવામાં આવ્યો છે?",
+      "options": {
+        "A": "સજ્જન મિત્રો",
+        "B": "હસતા હસતા",
+        "C": "ભોલાદાની દુનિયા",
+        "D": "સજ્જન મિત્રોના સંગાથે"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) સજ્જન મિત્રોના સંગાથે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાહબુદ્દીન રાઠોડનું જાણીતું પુસ્તક એટલે 'સજ્જન મિત્રોના સંગાથે'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "લેખકને દુદા મામા પાસેથી જોડા મેળવવા માટે કુલ કેટલો સમય રાહ જોવી પડી હતી?",
+      "options": {
+        "A": "એક અઠવાડિયું",
+        "B": "એક મહિનો",
+        "C": "ઘણા મહિનાઓ (લગભગ આખું વર્ષ)",
+        "D": "એક દિવસ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ઘણા મહિનાઓ (લગભગ આખું વર્ષ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાયદાઓ પર વાયદા એટલે લાંબો સમય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "પાઠમાં ‘વંશપરંપરાગત’ વ્યવસાય કયો છે?",
+      "options": {
+        "A": "ખેતી",
+        "B": "જોડા સીવવાનો (મોચી કામ)",
+        "C": "વેપાર",
+        "D": "શિક્ષણ"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) જોડા સીવવાનો (મોચી કામ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દુદા મામા વર્ષોથી આ કામ કરતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "‘આવ, ભાણા આવ!’ પાઠમાં કઈ બાબત મુખ્ય છે?",
+      "options": {
+        "A": "ગંભીરતા",
+        "B": "હાસ્ય અને નિર્દોષ આનંદ",
+        "C": "શોક",
+        "D": "ડર"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) હાસ્ય અને નિર્દોષ આનંદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાહબુદ્દીન રાઠોડ એટલે હાસ્યના પર્યાય.</p></div>"
+    }
+  ]
+}
