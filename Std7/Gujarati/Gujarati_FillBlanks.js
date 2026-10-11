@@ -414,3 +414,136 @@ var Std7_Gujarati_FillBlanks = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "પરીક્ષા",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘પરીક્ષા’ પાઠના લેખકનું નામ ________ છે. (પન્નાલાલ પટેલ, ઝવેરચંદ મેઘાણી, ઉમાશંકર જોશી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પન્નાલાલ પટેલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘પરીક્ષા’ પાસ કરવી હોય તો ‘પન્ના’ (પેજ) વાંચવા જ પડે, એટલે પન્નાલાલ પટેલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સૂર્ય ઊગ્યો, ઘઉં-ચણાના મોલ ઉપર ________ છાંટવા લાગ્યો. (રૂપું, સોનું, તાંબું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સોનું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સૂર્યના કિરણો પીળા હોય અને સોનું પણ પીળું હોય, માટે સોનું જ છંટાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પક્ષીઓનું ઝૂંડ વાયરાની પાછળ પડતું હતું અને પાંખોનો ________ વીંઝતું હતું. (પંખો, ફફડાટ, વીંઝણો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વીંઝણો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પક્ષી પાંખ હલાવે તેને જૂના સમયમાં ‘વીંઝણો’ (હાથપંખો) કહેવાતો, તેનાથી યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ગાયને કાઢવા જતાં મહાદેવને ________ ની પરીક્ષામાં મોડું થયું. (વાર્ષિક, એકમ કસોટી, શિષ્યવૃત્તિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શિષ્યવૃત્તિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાઠમાં ભણતરના પૈસા (Scholarship) મેળવવાની વાત છે, એટલે શિષ્યવૃત્તિ જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "શાળાએ જતાં છોકરાઓ ________ ના લચકતા લોંબીઓ લેતા જતા હતા. (બાજરી, જુવાર, ઘઉં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘઉં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શિયાળાની ઋતુમાં ઘઉંનો પાક તૈયાર હોય, તેથી ઘઉંની લચકતી લોંબીઓ યાદ રાખવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "________ ની કચેરીમાંથી ઇન્સ્પેક્ટર પરીક્ષા લેવા આવ્યા હતા. (પોલીસ, વિદ્યાધિકારી, મામલતદાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિદ્યાધિકારી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભણવાની બાબત હોય તો ‘વિદ્યા’ (શિક્ષણ) ના અધિકારી જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "શિષ્યવૃત્તિની પરીક્ષામાં કુલ ________ વિદ્યાર્થીઓ બેસવાના હતા. (પાંચ, સાત, દસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બસ! હવે ‘દસ’ છોકરાઓ જ બાકી છે - એમ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "મહાદેવના મતે પહેલા નંબરે ________ આવશે. (શંકો, મહાદેવ પોતે, ખુશાલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહાદેવ પોતે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વાર્તાનો હીરો હંમેશા પોતે જ જીતશે તેવો વિશ્વાસ રાખે, એટલે મહાદેવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "મહાદેવે ખેતરમાં ________ ને જોઈ. (ગાય, ભેંસ, બકરી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આખા પાઠની ‘મુસીબત’ ગાય જ છે, જે ખેતરમાં પેસી જાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ગાય સૌથી પહેલાં ________ ના ખેતરમાં પેઠી. (શંકર, માસી, નારજી કાકા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માસી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સગાં વહાલાંથી શરૂઆત થાય, એટલે પહેલાં ‘માસી’નું ખેતર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ગાયને કાઢવા માટે મહાદેવે પથ્થર ઉપાડ્યો પણ ગાય તો ________ હતી. (દુબળી, મારકણી, ચરબીભરેલી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચરબીભરેલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગાયે ખેતરમાં બધું ખાઈ લીધું હતું એટલે તે ‘હષ્ટપુષ્ટ’ અથવા ‘ચરબીભરેલી’ લાગતી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "નારજી કાકાનું ખેતર બહુ ________ હતું. (ફળદ્રુપ, નાનું, મોટું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નાનું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નારજી કાકા ગરીબ હતા, ગરીબ પાસે ખેતર ‘નાનું’ જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "મહાદેવે પોતાની પાટી ________ ને આપી. (શંકર, ઇન્સ્પેક્ટર, હેડમાસ્ટર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શંકર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મહાદેવનો ખાસ મિત્ર શંકર હતો, એટલે પાટી મિત્રને જ અપાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "મહાદેવને ઇન્સ્પેક્ટરની આગળ પરીક્ષા આપવા કોણે મોકલ્યો? (શંકર, માસી, હેડમાસ્ટર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હેડમાસ્ટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સ્કૂલમાં સૌથી મોટા સાહેબ ‘હેડમાસ્ટર’ હોય, એટલે એ જ ભલામણ કરી શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ઇન્સ્પેક્ટરે મહાદેવની આંખમાં ________ જોયા. (આંસુ, ડર, માનવતાના અમી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માનવતાના અમી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મહાદેવે ગાયને કાઢી પરોપકાર કર્યો, તેથી તેની આંખમાં ‘માનવતા’ દેખાઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ખુશાલભાઈના ખેતરમાં ગાયને મૂકવી એ મહાદેવને ________ લાગ્યું. (યોગ્ય, અન્યાય, ગૌરવ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અન્યાય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કોઈના ખેતરમાં ગાય મૂકવી એ પાપ છે, અને પાપ એટલે જ અન્યાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "મહાદેવ ________ જેવો રડતો રડતો દોડતો હતો. (વાઘ, ગાય, હરણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હરણ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રડતો હોય પણ ‘ઝડપથી’ દોડતો હોય તેને હંમેશા ‘હરણ’ સાથે સરખાવવામાં આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "મહાદેવની આંખમાં આંસુ નહોતા પણ ________ ની ધારા હતી. (પાણી, લોહી, માનવતા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માનવતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આખો પાઠ મહાદેવની ભલાઈ પર છે, એટલે ‘માનવતા’ શબ્દ જ કી-વર્ડ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ઇન્સ્પેક્ટરે પટાવાળાને કહ્યું : 'આને ________ આપો.' (પાણી, નાસ્તો, પેપર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પેપર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પરીક્ષા આપવા માટે સૌથી પહેલા ‘પેપર’ની જરૂર પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ગાય છેલ્લે ________ ના ખેતરમાં પેઠી હતી. (શંકર, મહાદેવ, ખુશાલભાઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મહાદેવ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લેખકે છેલ્લે મહાદેવની ધીરજની કસોટી કરવા ગાયને એના જ ખેતરમાં મોકલી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "મહાદેવે ગાયને હાંકવા માટે ________ સોટી લીધી. (બાવળની, આંકડાની, લીમડાની)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આંકડાની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ખેતરના શેઢે ‘આંકડા’ના છોડ વધુ હોય, એટલે ત્યાંથી જ સોટી લીધી હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "પાઠમાં 'પરીક્ષા' એટલે માત્ર શાળાની પરીક્ષા નહીં પણ ________ ની પરીક્ષા છે. (ધીરજ, હિંમત, માનવતા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માનવતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મહાદેવે પરીક્ષા છોડીને ગાય કાઢી, એટલે તે તેની માનવતાની કસોટી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "મહાદેવ જ્યારે શાળાએ પહોંચ્યો ત્યારે તે ________ થી લથબથ હતો. (લોહી, પરસેવા, કાદવ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પરસેવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ખૂબ દોડાદોડી કરી હોય એટલે શરીરે ‘પરસેવો’ જ વળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ગાય ________ જેવી ઝડપથી ખેતરમાં ચરતી હતી. (વાઘ, હરણ, તાપણી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તાપણી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાઠમાં ગાય માટે ‘તાપણી’ જેવો શબ્દ વપરાયો છે જે ઝડપ બતાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "મહાદેવના પિતાનું નામ પાઠમાં ________ તરીકે ઉલ્લેખાયું નથી. (નારજી કાકા, ખુશાલભાઈ, હરિશંકર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હરિશંકર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાઠમાં નારજી અને ખુશાલ પાડોશીઓ છે, પણ હરિશંકર નામ ક્યાંય નથી.</p></div>"
+    }
+  ]
+}
