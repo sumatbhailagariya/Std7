@@ -547,3 +547,136 @@ var Std7_Gujarati_FillBlanks = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "બે ખાનાનો પરિગ્રહ",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ગાંધીજીને વાઈસરોયને મળવા ..... જવાનું હતું. (અમદાવાદ, દિલ્હી, મુંબઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દિલ્હી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વાઈસરોય દિલ્હીમાં રહેતા હતા, તેથી ગાંધીજીને ત્યાં જવાનું આમંત્રણ મળ્યું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ગાંધીજીને મળવા બોલાવનાર વાઈસરોયનું નામ ..... હતું. (લોર્ડ કર્ઝન, લોર્ડ માઉન્ટબેટન, લોર્ડ ડેલહાઉસી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/strong> લોર્ડ માઉન્ટબેટન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભારતના છેલ્લા વાઈસરોય 'માઉન્ટબેટન' હતા જેમણે ગાંધીજીને મંત્રણા માટે બોલાવ્યા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ગાંધીજીએ વાઈસરોયને મળવા જવા માટે ..... મુસાફરી કરવાનો આગ્રહ રાખ્યો. (વિમાનની, મોટરની, ટ્રેનની)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ટ્રેનની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગાંધીજી વિલાસિતા ટાળવા માંગતા હતા, માટે વિમાનને બદલે રેલવે પસંદ કરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ગાંધીજીએ ટ્રેનમાં મુસાફરી કરવા માટે ..... ડબ્બો પસંદ કર્યો હતો. (પહેલા વર્ગનો, બીજા વર્ગનો, ત્રીજા વર્ગનો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ત્રીજા વર્ગનો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગાંધીજી હંમેશા સામાન્ય જનતાની જેમ 'Third Class' (ત્રીજા વર્ગ) માં જ મુસાફરી કરતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ગાંધીજીની સાથે આ મુસાફરીમાં તેમની પૌત્રી ..... હતા. (મનુબહેન, સુશીલાબહેન, કસ્તુરબા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મનુબહેન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'બે ખાનાનો પરિગ્રહ' એકમના લેખિકા અને પાત્ર બંને મનુબહેન ગાંધી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "મનુબહેને ગાંધીજીની સગવડ માટે ટ્રેનના ..... ખાના રાખ્યા. (એક, બે, ત્રણ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાઠનું શીર્ષક જ 'બે ખાના' છે, જે મનુબહેને બુક કરાવ્યા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "મનુબહેને એક ખાનામાં સામાન રાખ્યો અને બીજા ખાનામાં ગાંધીજીને ..... માટે વ્યવસ્થા કરી. (સુવા, રસોઈ કરવા, બાપુને લખવા-વાંચવા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાપુને લખવા-વાંચવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મનુબહેને વિચાર્યું કે બાપુને એકાંત અને શાંતિની જરૂર પડશે એટલે બીજું ખાનું રાખ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ગાંધીજી ..... ના યજ્ઞમાં ઝંપલાવ્યા પછી પહેલી વાર વાઈસરોયને મળવા જતા હતા. (નવખલી, ખેડા, બારડોલી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નવખલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાઠની શરૂઆતમાં જ ઉલ્લેખ છે કે આ 1947 ના નવખલીના યજ્ઞ સમયની વાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "જરૂર કરતાં વધારે વાપરવું તેને ગાંધીજી એક પ્રકારની ..... ગણાવતા હતા. (ચોરી, ભૂલ, હિંસા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હિંસા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'વણજોઈતું સંઘરવું' એ ગાંધીજીની દ્રષ્ટિએ માનસિક હિંસા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પટણાથી દિલ્હી જતી ટ્રેન ..... વાગ્યે ઉપડતી હતી. (સવારના ૮:૩૦, રાતના ૯:૩૦, સવારના ૯:૩૦)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સવારના ૯:૩૦</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ટ્રેનનો ફિક્સ ટાઈમ '૯:૩૦' પાઠમાં આપવામાં આવ્યો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "મનુબહેને ગાંધીજીને બીજા ખાનામાં ..... જોયા ત્યારે તેમને પોતાની ભૂલ સમજાઈ. (ઉંઘતા, જમતા, સામાન ગોઠવતા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સામાન ગોઠવતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મનુબહેન જ્યારે બીજા ખાનામાં સામાન ગોઠવતા હતા ત્યારે બાપુએ તેમને બોલાવી ઠપકો આપ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ગાંધીજીએ મનુબહેનને સમજાવ્યું કે લટકતા લોકોને જોઈને તારે ..... ની જરૂર હતી. (ધીરજ, દયા, સમજ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દયા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બહાર લોકો ટ્રેનમાં લટકતા હતા, તે જોઈને બાપુએ મનુબહેનને માનવતાનો પાઠ ભણાવ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ગાંધીજીએ ડબ્બાનું બીજું ખાનું ખાલી કરાવી ..... ને બોલાવ્યા. (પોલીસ, સ્ટેશન માસ્ટર, ટીકીટ ચેકર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્ટેશન માસ્ટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રેલવેની વ્યવસ્થા સ્ટેશન માસ્ટર સંભાળતા હોય, માટે તેમને જ બોલાવ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ગાંધીજીએ સ્ટેશન માસ્ટરને વિનંતી કરી કે વધારાનું ખાનું ..... ને આપી દો. (ગરીબો, લટકતા મુસાફરો, સૈનિકો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લટકતા મુસાફરો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે લોકો જગ્યાના અભાવે બહાર લટકતા હતા, તેમને અંદર લેવા બાપુએ ખાનું ખાલી કર્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "પરિગ્રહ શબ્દનો અર્થ ..... થાય છે. (દાન આપવું, સંગ્રહ કરવો, ત્યાગ કરવો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંગ્રહ કરવો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'પરિગ્રહ' એટલે સંઘરવાની વૃત્તિ. જેની જરૂર નથી તેને ભેગું કરવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ગાંધીજીએ મનુબહેનને આપેલો ઠપકો એમના માટે ..... સમાન હતો. (કેળવણી, સજા, બોજ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કેળવણી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગાંધીજીના ઠપકામાં પણ પ્રેમ અને જીવન જીવવાની સાચી શીખ (કેળવણી) છુપાયેલી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "મનુબહેનને ગાંધીજીના ..... હોવાનું ગૌરવ હતું. (સેવિકા, પૌત્રી, મંત્રી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૌત્રી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મનુબહેન ગાંધીજીના પિતરાઈ ભાઈના પૌત્રી થતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સ્ટેશન માસ્ટરે ગાંધીજીની વાત માની પણ તેમને ..... ની સગવડ આપવાની ઓફર કરી. (બીજી ટ્રેન, નવો ડબ્બો, ખાસ ગાડી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નવો ડબ્બો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સ્ટેશન માસ્ટર ઈચ્છતા હતા કે બાપુની સગવડ પણ જળવાય અને બીજાને ડબ્બો પણ મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "આ એકમનો સાહિત્ય પ્રકાર ..... છે. (નવલકથા, પ્રસંગલેખ, ઉર્મિકાવ્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રસંગલેખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આ પાઠમાં ગાંધીજીના જીવનના એક સત્ય પ્રસંગનું વર્ણન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ગાંધીજી કહેતા કે આ તો ..... પાપ છે. (નાનું, મોટું, છૂપું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોટું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગાંધીજી માટે 'પરિગ્રહ' કે બિનજરૂરી વસ્તુ વાપરવી એ 'મોટું પાપ' હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ગાંધીજીએ મનુબહેનને ..... માંથી બધી વસ્તુઓ કાઢી નાખવા કહ્યું. (બેગ, બીજા ખાના, ખિસ્સા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બીજા ખાના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગાંધીજીએ બેમાંથી એક જ ખાનું રાખ્યું અને બીજું ખાલી કરાવ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "મનુબહેન માટે બાપુના ઠપકાને જીરવવો ..... હતો. (સરળ, અશક્ય, અસહ્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અસહ્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બાપુના પ્રેમાળ છતાં કડક શબ્દો મનુબહેન સહન નહોતા કરી શક્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ગાંધીજીએ કહ્યું, 'તું મારું ..... વધારવા માંગે છે?' (માન, કામ, દુ:ખ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બાપુને એવું લાગ્યું કે મનુબહેને તેમની સગવડ વધારીને તેમનું કામ અને જવાબદારી વધારી દીધી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "સ્ટેશન માસ્ટરનું મોં ..... પડી ગયું. (રાતુંચોળ, ઝંખવાણું, હસતું)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઝંખવાણું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે કોઈની વાત ન સ્વીકારાય અથવા ભૂલ સમજાય ત્યારે 'ઝંખવાણું પડવું' રૂઢિપ્રયોગ વપરાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "આ પ્રસંગમાં ગાંધીજીની કઈ ભાવના દેખાય છે? (સ્વાર્થ, સાદગી, આળસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાદગી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઓછામાં ઓછી વસ્તુમાં ચલાવવું એ સાદગી અને અપરિગ્રહની ભાવના છે.</p></div>"
+    }
+  ]
+}
