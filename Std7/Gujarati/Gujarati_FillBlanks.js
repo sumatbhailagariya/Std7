@@ -971,3 +971,136 @@ var Std7_Gujarati_FillBlanks = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "જીવન પાથેય",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'જીવન પાથેય' પાઠના લેખકનું નામ ............ છે. (કાકાસાહેબ કાલેલકર, જ્યોતીન્દ્ર દવે, પન્નાલાલ પટેલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાકાસાહેબ કાલેલકર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘જીવન’ જીવવાનું ભાથું કોણ આપે? ‘કાકા’ આપે! એટલે કાકાસાહેબ કાલેલકર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "'જીવન પાથેય' સાહિત્યનો ............ પ્રકાર છે. (વાર્તા, આત્મકથાખંડ, નિબંધ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આત્મકથાખંડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લેખકે પોતાના જીવનની સત્ય ઘટના લખી છે, ‘આત્મ’ એટલે પોતાનું - ‘આત્મકથાખંડ’.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કાકાસાહેબ કાલેલકરનું આખું નામ ............ છે. (દત્તાત્રેય બાલકૃષ્ણ કાલેલકર, ગજાનન કાલેલકર, ગોવિંદરામ કાલેલકર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દત્તાત્રેય બાલકૃષ્ણ કાલેલકર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘દ’ થી દત્તાત્રેય અને ‘કા’ થી કાલેલકર - દ.બા.કા. યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "'પાથેય' શબ્દનો અર્થ ............ થાય છે. (રસ્તાનું ભાથું, સાચો માર્ગ, કિંમતી વસ્તુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રસ્તાનું ભાથું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘પથ’ એટલે રસ્તો, પથ પર લઈ જવાનું ભાથું એટલે ‘પાથેય’.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "લેખકના પિતાજી એમને ............ બનાવવા ઈચ્છતા હતા. (વકીલ, એન્જિનિયર, ગ્રેજ્યુએટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગ્રેજ્યુએટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પિતાજીની ઈચ્છા દીકરો મોટો ભણીને ‘ગ્રેજ્યુએટ’ થાય તેવી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "લેખકે એન્જિનિયરિંગમાં જવા પાછળનો હેતુ ............ મેળવવાનો હતો. (લાંચ, માન-પાન, જ્ઞાન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લાંચ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લેખકને ત્યારે લાગતું હતું કે કોન્ટ્રાક્ટર પાસેથી ‘લાંચ’ મળે તો ધનિક થવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "લેખક અને પિતાજી ટ્રેનમાં ............ જઈ રહ્યા હતા. (પુણે, સાંગલી, મુંબઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પુણે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એન્જિનિયરિંગ કોલેજ ‘પુણે’ માં હતી, એટલે તેઓ પુણે જઈ રહ્યા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "લેખકના પિતાજી સાંગલી સ્ટેશને ............ માટે ગયા હતા. (મુસાફરી, પ્રોમિસરી નોટો પર સહી કરવા, સગાવહાલાને મળવા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રોમિસરી નોટો પર સહી કરવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સરકારી પૈસા માટેની ‘નોટો’ પર સહી કરવા પિતાજી સાંગલી ગયા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "લેખકને પોતાની ભૂલ સમજાતા તેમનું ગળું ............ ગયું. (ભરાઈ, સુકાઈ, ગદગદિત થઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભરાઈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે પસ્તાવો થાય ત્યારે લાગણીથી ગળું ‘ભરાઈ’ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પિતાજીએ લેખકને પૂછ્યું, 'દત્તુ, તેં તો આજે ............ કરી!' (કમાલ, અધર્મ, હોંશિયારી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અધર્મ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ખોટી રીતે પૈસા કમાવવાની વાત પિતાજી માટે ‘અધર્મ’ હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "લેખકના પિતાજી ............ જીલ્લાના ટ્રેઝરી ઓફિસર હતા. (સાંગલી, બેલગામ, પુણે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બેલગામ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બેલગામથી સાંગલી અને પછી પુણેની વાત પાઠમાં આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "લેખકે પિતાજીને પ્રોમિસરી નોટો ............ માં ખરીદવાની સલાહ આપી. (સસ્તા ભાવે, બજાર ભાવે, ઊંચા ભાવે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સસ્તા ભાવે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નફો કમાવવા માટે વસ્તુ ‘સસ્તી’ ખરીદવાની લાલચ લેખકે આપી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "'જીવન પાથેય' પાઠ લેખકની કઈ કૃતિમાંથી લેવામાં આવ્યો છે? (હિમાલયનો પ્રવાસ, સ્મરણયાત્રા, રખડવાનો આનંદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્મરણયાત્રા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બાળપણના ‘સ્મરણો’ ની યાત્રા એટલે ‘સ્મરણયાત્રા’.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "લેખકની ............ પિતાજીના આકરા શબ્દો સાંભળીને પીગળી ગઈ. (મમત, કુરુક્ષેત્ર, મુરાદ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મમત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પોતાની વાત પર અડગ રહેવું એટલે ‘મમત’, જે પિતાજીના ઠપકાથી ઉતરી ગઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "'ઉમેદ' શબ્દનો સમાનાર્થી શબ્દ ............ છે. (નિરાશા, આશા, નસીબ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આશા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘ઉમેદવાર’ આપણે કોને કહીએ? જેને જીતવાની ‘આશા’ હોય તેને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "લેખક માને છે કે હરામનું ધન ............ ને જ આપે છે. (સુખ, ધર્મબુદ્ધિ, ગરીબો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધર્મબુદ્ધિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પિતાજીએ કહ્યું હતું કે હરામનું ધન ‘ધર્મબુદ્ધિ’ ને ભ્રષ્ટ કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "લેખકને આખી રાત ............ ન આવી. (ભૂખ, ઊંઘ, તરસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઊંઘ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મનમાં પસ્તાવો હોય ત્યારે માણસને ‘ઊંઘ’ આવતી નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "લેખકના પિતાજીના મનમાં દીકરા માટે ............ હતી. (નફરત, અપાર લાગણી, દયા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અપાર લાગણી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પિતા હંમેશા દીકરા પ્રત્યે ‘લાગણી’ ધરાવે, એટલે જ તેને સાચો માર્ગ બતાવ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "લેખકે ............ શાખામાં જવાનું નક્કી કર્યું હતું. (સિવિલ એન્જિનિયરિંગ, આર્ટ્સ, મેડિકલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સિવિલ એન્જિનિયરિંગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મકાનો અને પુલો બાંધવાનું કામ ‘સિવિલ’ એન્જિનિયર કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "લેખકના મતે ............ માં લાંચ ખૂબ મળે છે. (શિક્ષક, એન્જિનિયર અને વકીલ, ડોક્ટર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> એન્જિનિયર અને વકીલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાઠમાં લેખકે વકીલને ‘મુફત’ (મફત) અને એન્જિનિયરને ‘લાંચ’ સાથે જોડ્યા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "લેખક પોતાની વિચારશ્રેણીને ............ ગણતા હતા. (ખોટી, તેજસ્વી, સામાન્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તેજસ્વી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લેખકને પોતાની યુવાનીમાં આ વિચાર બહુ ‘તેજસ્વી’ એટલે કે હોંશિયારી ભર્યો લાગતો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "'શાખ' શબ્દનો સાચો અર્થ ............ છે. (આબરૂ, ઝાડની ડાળી, સવાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આબરૂ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બજારમાં જેની ‘શાખ’ સારી તેની ઈજ્જત (આબરૂ) સારી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "કાકાસાહેબ કાલેલકરને ગાંધીજીએ ............ નું બિરુદ આપ્યું હતું. (મહાત્મા, સવાઈ ગુજરાતી, લોકનાયક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સવાઈ ગુજરાતી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મૂળ મહારાષ્ટ્રીયન હોવા છતાં ગુજરાતીમાં ઉત્તમ લખ્યું એટલે ‘સવાઈ ગુજરાતી’.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "લેખકના પિતાજીએ લેખકને ............ કહીને બોલાવ્યા. (દત્તુ, કાકા, ભાઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દત્તુ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દત્તાત્રેયનું ટૂંકું નામ ‘દત્તુ’ પાઠમાં વપરાયું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "'ધરપત' શબ્દનો વિરોધી શબ્દ ............ છે. (ધીરજ, ઉતાવળ, અશાંતિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અશાંતિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘ધરપત’ એટલે શાંતિ કે ધીરજ, તેનું વિરોધી ‘અશાંતિ’.</p></div>"
+    }
+  ]
+}
