@@ -1703,3 +1703,161 @@ var Std7_Gujarati_FillBlanks = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "અખબારી નોંધ",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘અખબારી નોંધ’ પાઠના લેખકનું નામ ________ છે. (ડો. ચંદ્રકાંત મહેતા, રઘુવીર ચૌધરી, ભોળાભાઈ પટેલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડો. ચંદ્રકાંત મહેતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'અખબાર' માં 'ચંદ્ર' જેવો પ્રકાશ હોય તેમ યાદ રાખો - ચંદ્રકાંત મહેતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘અખબાર’ શબ્દ મૂળ ________ ભાષાનો શબ્દ છે. (ફારસી, અરબી, સંસ્કૃત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અરબી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અ - અખબાર, અ - અરબી. બંને 'અ' થી શરૂ થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "‘અખબાર’ શબ્દ અરબી ભાષાના ‘________’ શબ્દનું બહુવચન છે. (ખબર, ખબરી, અખબારી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખબર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઘણી બધી 'ખબર' ભેગી થાય એટલે 'અખબાર' બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ગુજરાતી ભાષામાં વપરાતો ‘સમાચાર’ શબ્દ સંસ્કૃત શબ્દ ‘________’ પરથી ઉતરી આવ્યો છે. (સમ્ + આચાર, સમા + ચાર, સમ્ + અચાર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમ્ + આચાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'સમ્' એટલે સરખું અને 'આચાર' એટલે વર્તન/માહિતી - જે સાચી માહિતી આપે તે સમાચાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "અંગ્રેજીમાં ‘સમાચાર’ માટે ________ શબ્દ પ્રચલિત છે. (Paper, News, Notice)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> News</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): NEWS = North, East, West, South. ચારેય દિશાની ખબર એટલે News.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "અખબારી નોંધને અંગ્રેજીમાં ‘________’ કહેવામાં આવે છે. (Press Release, Press Report, News Note)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Press Release</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્રેસમાં મોકલવાની 'નોંધ' એટલે પ્રેસને મુક્ત (Release) કરવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "અખબારી નોંધ આપવા માટે સમાચાર પત્રના ________ ને સંબોધીને વિનંતી પત્ર લખવો પડે છે. (સંપાદક, તંત્રી, લેખક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તંત્રી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અખબારનો 'તારણહાર' અને મુખ્ય વ્યક્તિ એટલે 'તંત્રી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સમાચાર પ્રકાશિત કરવાના વિનંતી પત્રમાં સમાચાર મોકલનારની ________ હોવી જરૂરી છે. (સહી, ફોટો, ઉંમર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સહી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કોઈપણ સત્તાવાર કાગળ સહી (Signature) વગર અધૂરો ગણાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સમાચાર લેખનમાં મુખ્યત્વે ________ પ્રકારના ‘W’ (ડબલ્યુ) થી શરૂ થતા પ્રશ્નો હોય છે. (ચાર, પાંચ, છ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાંચ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 5 W + 1 H નું સૂત્ર સમાચારની દુનિયાનો પાયો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સમાચાર લેખનમાં ‘ક્યારે’ માટે અંગ્રેજીમાં ________ શબ્દ વપરાય છે. (Where, When, Why)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> When</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): When એટલે સમય (Time) અને 'ક્યારે' પણ સમય પૂછે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સમાચાર લેખનમાં ‘ક્યાં’ (સ્થળ) માટે અંગ્રેજીમાં ________ શબ્દ વપરાય છે. (Who, What, Where)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Where</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Where એટલે 'સ્થળ' ની શોધખોળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સમાચાર લેખનમાં ‘કેવી રીતે’ માટે અંગ્રેજીમાં ________ શબ્દ વપરાય છે. (How, Who, Why)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> How</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 5 W ની સાથે એકલો 'H' એટલે 'How' (કેવી રીતે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "કોઈ વ્યક્તિના અવસાન અંગેના સમાચારને ________ કૉલમમાં મૂકવામાં આવે છે. (ધાર્મિક સમાચાર, સાહિત્યિક સમાચાર, અવસાન નોંધ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અવસાન નોંધ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અવસાન એટલે મૃત્યુ, તેથી તેને 'અવસાન નોંધ' (Obituary) માં મુકાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "સમાચાર પત્રમાં દરરોજ આવતા વિવિધ ક્ષેત્રોના સમાચાર માટે અલગ-અલગ ________ હોય છે. (પુસ્તકો, વિભાગો/કોલમ, જાહેરાતો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વિભાગો/કોલમ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વિભાગ એટલે Section. સમાચારને વાંચવાની સરળતા માટે તેને વિભાગોમાં વહેંચવામાં આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "કોઈ સંસ્થાને મળેલા એવોર્ડના સમાચાર ________ વિભાગમાં આવે છે. (ઇનામ વિતરણ/વિવિધ સમાચાર, વ્યાખ્યાન, અવસાન નોંધ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઇનામ વિતરણ/વિવિધ સમાચાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): એવોર્ડ એ એક પ્રકારનું 'ઇનામ' જ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ચંદ્રકાંત મહેતા કઈ યુનિવર્સિટીના ઉપકુલપતિ રહી ચૂક્યા છે? (સૌરાષ્ટ્ર, ગુજરાત, એમ.એસ.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુજરાત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લેખકનો પરિચય યાદ રાખવો: ગુજરાત યુનિવર્સિટી - ચંદ્રકાંત મહેતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "અખબારી નોંધ મોકલતી વખતે સમાચાર પ્રકાશિત કરવાની ________ પણ લખવી જોઈએ. (તારીખ, કિંમત, ઉંમર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તારીખ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો તારીખ ન હોય તો સમાચાર જૂના (વાસી) ગણાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સમાચારની ભાષા ________ હોવી જોઈએ. (જટિલ, સંક્ષિપ્ત અને સ્પષ્ટ, અલંકારિક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંક્ષિપ્ત અને સ્પષ્ટ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમાચાર ઓછા શબ્દોમાં વધુ માહિતી આપે તેવા હોવા જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "સમાચાર પત્રમાં ‘સર્વધર્મ સભા’ ના સમાચાર ________ વિભાગ હેઠળ આવે છે. (ધાર્મિક સમાચાર, શૈક્ષણિક સમાચાર, રમતગમત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધાર્મિક સમાચાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ધર્મ' શબ્દ પ્રશ્નમાં જ છે, એટલે જવાબ ધાર્મિક સમાચાર આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સમાચાર પત્રના જે તે વિભાગના વડાને ________ પણ કહી શકાય. (મંત્રી, સંપાદક, પટાવાળા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સંપાદક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સંપાદક (Editor) જે સમાચારનું સંપાદન કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "‘શ્રદ્ધાંજલિ’ ના સમાચાર ________ નોંધનો ભાગ છે. (અવસાન, લગ્ન, સગાઈ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અવસાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શ્રદ્ધાંજલિ હંમેશા સ્વર્ગસ્થ વ્યક્તિને અપાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વિનંતી પત્રમાં સમાચાર મોકલનાર સંસ્થાનું ________ હોવું જરૂરી છે. (સરનામું, બજેટ, ફોટો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સરનામું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જો સમાચારમાં ભૂલ હોય તો સંપર્ક કરવા માટે સરનામું જરૂરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "લેખક ચંદ્રકાંત મહેતાએ સમાચાર વિશે કયા પુસ્તકમાં માહિતી આપી છે? (અખબારી નોંધ, ગુજરાતી સાહિત્ય, શિક્ષણ પથ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અખબારી નોંધ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આ પાઠનું શીર્ષક જ 'અખબારી નોંધ' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "સમાચાર લેખનમાં ‘શું’ માટે અંગ્રેજીમાં ________ શબ્દ વપરાય છે. (What, Why, Where)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> What</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઘટના 'શું' બની તે જાણવા 'What' વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "સમાચાર લેખનમાં ‘શા માટે’ માટે અંગ્રેજીમાં ________ શબ્દ વપરાય છે. (When, Why, Who)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Why</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Why એટલે કારણ (Reason) પૂછવા માટે વપરાતો શબ્દ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "‘બેસણું’ ની નોંધ કયા વિભાગમાં આવે છે? (અવસાન નોંધ, ધાર્મિક સમાચાર, સાહિત્યિક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અવસાન નોંધ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બેસણું એ અવસાન પછીની વિધિ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "વ્યાખ્યાનના સમાચાર આપવા માટે ________ નું નામ અને વિષય જણાવવો પડે છે. (વક્તા, શ્રોતા, લેખક)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વક્તા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વ્યાખ્યાન આપનારને 'વક્તા' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "અખબારી નોંધના લેખનમાં ________ ની સ્પષ્ટતા હોવી જોઈએ. (ઘટના કે પ્રસંગ, કાલ્પનિક વાર્તા, અફવા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘટના કે પ્રસંગ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અખબાર સત્ય ઘટના પર આધારિત હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "રમતગમતના સમાચાર માટે સમાચાર પત્રમાં ________ વિભાગ હોય છે. (સ્પોર્ટ્સ, કલ્ચરલ, બિઝનેસ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્પોર્ટ્સ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રમતગમત = Sports.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "સમાચાર પત્રો સમાજની ________ ની જાળવણી કરે છે. (જ્ઞાન અને જાગૃતિ, અંધશ્રદ્ધા, અશાંતિ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્ઞાન અને જાગૃતિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમાચાર વાંચવાથી દુનિયાનું જ્ઞાન વધે છે.</p></div>"
+    }
+  ]
+}
