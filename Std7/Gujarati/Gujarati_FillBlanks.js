@@ -2019,3 +2019,161 @@ var Std7_Gujarati_FillBlanks = {
     }
   ]
 }
+,
+"13": {
+  "chapterName": "પ્રકરણ 13",
+  "chapterTitle": "ભમીએ ગુજરાતે : દક્ષિણ ભણી",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘ભમીએ ગુજરાતે : દક્ષિણ ભણી’ પાઠના લેખક _______ છે. (વિનોદ ભટ્ટ, ચંદ્રવદન મહેતા, રઘુવીર ચૌધરી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચંદ્રવદન મહેતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ભમીએ' માં 'મ' છે અને લેખક 'મહેતા' માં પણ 'મ' છે - એમ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘ભમીએ ગુજરાતે : દક્ષિણ ભણી’ પાઠનો સાહિત્ય પ્રકાર _______ છે. (નવલકથા, હાસ્યનિબંધ, પ્રવાસલેખન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પ્રવાસલેખન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ભમવું' એટલે ફરવું, અને ફરવા વિશે લખાયેલ લેખ એટલે 'પ્રવાસલેખન'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "તાપી નદીને _______ ની પુત્રી કહેવામાં આવે છે. (ચંદ્ર, સૂર્ય, પવન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સૂર્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાપીમાં 'તાપ' શબ્દ છે, અને તાપ કોનો હોય? સૂર્યનો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "લેખકે સુરત શહેરને ‘_______ની મુરત’ કહ્યું છે. (ચાંદી, હીરા, સોના)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સોના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સોનાની મુરત સુરત' - આ પ્રાસ (Rhyming) યાદ રાખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "અંગ્રેજોએ સૌથી પહેલી કોઠી કયા શહેરમાં સ્થાપી હતી? (ભરૂચ, સુરત, વલસાડ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુરત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંગ્રેજો દરિયાઈ માર્ગે 'સુરત' ના બંદરે જ પહેલી વાર ઉતર્યા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કવિ નર્મદની આંખમાં સુરતની હાલત જોઈને _______ આવ્યા હતા. (આનંદના આંસુ, ઝેર, પાણી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાણી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠમાં 'રડ્યા હતા' ઉલ્લેખ છે, માટે આંખમાં પાણી આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "લેખક _______ પર્વતમાળાની હાર જોવા ઈચ્છે છે. (હિમાલય, ગિરનાર, સાતપુડા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાતપુડા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દક્ષિણ ગુજરાતમાં સાતપુડાની ગિરીમાળાઓ આવેલી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "બારડોલીને ભારતની _______ કહેવામાં આવે છે. (દિલ્હી, થર્મોપોલી, કાશી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> થર્મોપોલી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બારડોલી' અને 'થર્મોપોલી' બંને શબ્દોમાં 'લી' સમાન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "તાપી નદીનો સંગમ કયા સ્થળની નજીક થાય છે? (હજીરા, ડુમસ, તીથલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડુમસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નદી સાગરમાં 'ડૂબી' જાય એટલે 'ડુમસ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "તાપી નદીને કાંઠે કયો કિલ્લો આવેલો છે? (સાનગઢ, ડભોઈ, અંકલેશ્વર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સોનગઢ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોનગઢ - જે તાપી નદીના કિનારે ટેકરી પર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સુરતના જાણીતા કવિ કોણ હતા? (કલાપી, નર્મદ, અખો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નર્મદ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સુરત' એટલે 'નર્મદ' નગરી - 'મારી હકીકત' યાદ કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "રાજવીર અને અંગ્રેજોની લડાઈમાં કોણે સુરત લૂંટ્યું હતું? (અકબર, અહમદશાહ, શિવાજી મહારાજ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શિવાજી મહારાજ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૧૬૬૪ માં શિવાજીએ સુરત પર ચઢાઈ કરી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સુરત કઈ નદીના મરોડદાર વળાંક પર વસેલું છે? (નર્મદા, તાપી, સાબરમતી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તાપી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુરત શહેર એટલે તાપી નદીનો કિનારો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "લેખક કયા પ્રદેશની વાત કરી રહ્યા છે? (ઉત્તર ગુજરાત, સૌરાષ્ટ્ર, દક્ષિણ ગુજરાત)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દક્ષિણ ગુજરાત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું નામ જ છે 'દક્ષિણ ભણી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "તાપી નદી ક્યાંથી ઉતરીને આવે છે? (ગિરનારથી, સાતપુડાના શિખરોથી, પાવાગઢથી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાતપુડાના શિખરોથી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્યપુત્રી સાતપુડાના પહાડોમાંથી આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સુરતમાં કયા વિદેશીઓ વેપાર માટે આવ્યા નહોતા? (અંગ્રેજો, ડચ, જાપાનીઓ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જાપાનીઓ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠ મુજબ અંગ્રેજ, ડચ અને ફ્રેન્ચ લોકો વચ્ચે સ્પર્ધા હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "સુરતની કઈ વાનગી આખા દેશમાં વખણાય છે? (જલેબી, ઘારી, ફાફડા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘારી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સુરતની ઘારી અને કાશીનું મરણ' - આ કહેવત યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "‘મગદલ્લા’ એ શું છે? (બંદર, પર્વત, નદી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બંદર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુરત પાસે આવેલું જૂનું અને જાણીતું બંદર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "કયા મુગલ બાદશાહે સુરતમાં કિલ્લો બંધાવ્યો હતો? (બાબર, અકબર, હુમાયુ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અકબર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુરતનો કિલ્લો જોવામાં અકબરને બહુ રસ હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વરાછા આગળ શું જોવા મળે છે? (સમુદ્ર, સુરતનો વિસ્તાર, જંગલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુરતનો વિસ્તાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરાછા એ સુરત શહેરનો એક જાણીતો વિસ્તાર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "દક્ષિણ ગુજરાતની બે મુખ્ય નદીઓ કઈ છે? (ગંગા-યમુના, તાપી-નર્મદા, સાબરમતી-મહી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તાપી-નર્મદા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દક્ષિણ ગુજરાતમાં સૌથી મોટી નદીઓ તાપી અને નર્મદા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સુરત શહેર કયા ઉદ્યોગ માટે જાણીતું છે? (ખેતી, હીરા અને કાપડ, માછીમારી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હીરા અને કાપડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સોનાની મુરત' એટલે જ જ્યાં હીરા અને રેશમ (કાપડ) ચમકે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "તાપીના સંગમ સ્થાને કયો દીવાદાંડી વાળો વિસ્તાર છે? (હજીરા, ડુમસ, કતારગામ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> હજીરા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હજીરાના દીવાદાંડી (Lighthouse) ખૂબ પ્રખ્યાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "માણડવી પાસે કયો ઐતિહાસિક કિલ્લો આવેલો છે? (રાણીનો, પારનેરાનો, સોનગઢનો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સોનગઢનો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માંડવી અને સોનગઢ નજીક નજીક છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "‘ભમીએ ગુજરાતે’ લેખમાળા કયા લેખકની છે? (ચંદ્રવદન મહેતા, ઉમાશંકર જોશી, પન્નાલાલ પટેલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચંદ્રવદન મહેતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ‘ચં.ચી. મહેતા’ એટલે કે ચંદ્રવદન ચીમનલાલ મહેતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "સુરત શહેરને શેના કારણે ઘણું નુકસાન વેઠવું પડ્યું હતું? (ભૂકંપ, આગ અને રેલ, દુષ્કાળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આગ અને રેલ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠમાં 'રેલ-ચેલાણી' શબ્દ છે, જે પૂર અને આગ સૂચવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "તાપી નદીના કાંઠે આવેલા જંગલોમાં કયું વૃક્ષ સૌથી વધુ જોવા મળે છે? (આસોપાલવ, વાંસ, નાળિયેરી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાંસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાંગ અને વ્યારા બાજુ વાંસના (Bamboo) જંગલો જાણીતા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "સુરતની બાજુમાં કયું નાનું શહેર આવેલું છે? (ખંભાત, નવસારી, જામનગર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નવસારી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુરતથી દક્ષિણે જતાં પહેલું મોટું શહેર નવસારી આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "લેખકે પાઠમાં કઈ પર્વતમાળાનો ઉલ્લેખ કર્યો છે? (અરવલ્લી, સહ્યાદ્રી, વિંધ્યાચલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સહ્યાદ્રી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દક્ષિણ ગુજરાતની સરહદે સહ્યાદ્રીની હારમાળા આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "સુરતના કાંઠે કયા વહાણો આવતા હતા? (મક્કાના, અમેરિકાના, ઓસ્ટ્રેલિયાના)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મક્કાના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હજ પઢવા માટે મુસ્લિમ શ્રદ્ધાળુઓ સુરત બંદરેથી મક્કા જતા.</p></div>"
+    }
+  ]
+}
