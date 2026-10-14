@@ -2335,3 +2335,136 @@ var Std7_Gujarati_FillBlanks = {
     }
   ]
 }
+,
+"15": {
+  "chapterName": "પ્રકરણ 15",
+  "chapterTitle": "ગ્રામમાતા",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘ગ્રામમાતા’ કાવ્યના કવિનું નામ ________ છે. (કલાપી, દયારામ, ન્હાનાલાલ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કલાપી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગ્રામમાતા' એટલે કે ગામડાની માતા માટે હૃદયમાં 'કલા' (કલાપી) હોવી જોઈએ. સુરસિંહજી તખ્તસિંહજી ગોહિલ એટલે 'કલાપી'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘ગ્રામમાતા’ કાવ્યનો સાહિત્ય પ્રકાર ________ છે. (ભજન, લોકગીત, ખંડકાવ્ય)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખંડકાવ્ય</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાવ્યમાં આખું જીવન નહીં પણ એક પ્રસંગ (ખંડ) વર્ણવાયો છે, તેથી તે 'ખંડકાવ્ય' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ઉગે છે સુરખી ભરી રવિ મૃદુ ________ દિશામાં. (પશ્ચિમ, પૂર્વ, ઉત્તર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પૂર્વ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૂર્ય (રવિ) હંમેશા 'પૂર્વ' માં જ ઉગે - આ સાર્વત્રિક સત્ય યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "આભમાં એક પણ ________ દેખાતી નથી. (વાદળી, વીજળી, ચાંદની)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાદળી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કવિ કહે છે 'નભ સ્વચ્છ સ્વચ્છ દીસે છે', અને સ્વચ્છ નભમાં 'વાદળી' ન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "________ ઋતુનો ઠંડો પવન વહી રહ્યો છે. (ગ્રીષ્મ, શિશિર, વર્ષા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શિશિર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'શી' એટલે શીતળતા (ઠંડી), અને 'શિ' એટલે શિશિર. ઠંડી ઋતુ એટલે શિશિર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વૃદ્ધ માતા અને તાત ________ પાસે બેસીને તાપણું કરી રહ્યા છે. (ખુરશી, સગડી, ચૂલો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સગડી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિયાળામાં ઠંડી ઉડાડવા 'સગડી' જ હાથવગી હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ઘોડેસવાર યુવાનને જોઈને પેલા ________ રમી રહ્યા છે. બાળકો, સૈનિકો, પક્ષીઓ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બાળકો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેતરમાં વૃદ્ધ દંપતી પાસે તેમના 'બાળકો' જ રમે, બીજા કોઈ નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "યુવાને ગ્રામમાતા પાસે ________ માંગ્યું. (દૂધ, જળ, ફળ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જળ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તરસ્યો માણસ સૌથી પહેલા 'જળ' (પાણી) જ માંગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "શેલડીનો રસ કેવો હતો? (ખાટો, મીઠો, કડવો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મીઠો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શેલડીનો ગુણ જ 'મીઠાશ' છે, તેથી રસ મીઠો જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "________ એટલે ધરતીનો રાજા. (ખેડૂત, સૈનિક, નૃપ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નૃપ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નૃપ = રાજા. કાવ્યમાં ઘોડેસવાર વાસ્તવમાં રાજા (નૃપ) હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "બીજી વાર કાપતા શેલડીમાંથી ________ ન નીકળ્યો. (પાણી, રસ, કાપો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજાના મનમાં લોભ જાગ્યો એટલે ધરતી 'રસ'હીન થઈ ગઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "‘રસહીન ધરા થઈ છે, દયાહીન થયો ________.’ (પ્રજા, ભૂપ, ઈશ્વર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભૂપ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૂપ એટલે રાજા. રાજા દયાહીન બને ત્યારે ધરતી રસહીન બને છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "કાવ્યમાં ‘ક્રીડા’ શબ્દનો અર્થ ________ થાય છે. (રમત, ઝઘડો, ઊંઘ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રમત</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળકો મેદાનમાં 'ક્રીડા' (રમત) કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "યુવાન કયા પ્રાણી પર સવાર થઈને આવ્યો હતો? (હાથી, ઘોડો, ઊંટ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઘોડો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અશ્વ' એટલે ઘોડો. કાવ્યમાં અશ્વ પર સવાર યુવાનની વાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ગ્રામમાતાના ખેતરમાં શાનો પાક હતો? (બાજરી, શેલડી, ઘઉં)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શેલડી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રસ કાઢવાની વાત માત્ર 'શેલડી' (શેરડી) માં જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "‘સુરખી’ એટલે ________ લાલાશ. (સવારની, સાંજની, રાતની)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સવારની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સૂર્યોદય' વખતે આકાશમાં જે લાલાશ દેખાય તેને સુરખી કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "કાવ્યમાં ‘તાત’ શબ્દ કોના માટે વપરાયો છે? (માતા, પિતા, પુત્ર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પિતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાતીમાં 'તાત' એટલે પિતા (ખેડૂત પિતા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "યુવાનને ________ લાગી હતી. (ભૂખ, તરસ, ઊંઘ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તરસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યુવાને પાણી અને રસ માંગ્યો, જે 'તરસ' છિપાવવા માટે હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "‘મૃદુ’ શબ્દનો વિરોધી શબ્દ ________ છે. (કોમળ, કઠોર, નરમ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કઠોર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૃદુ એટલે કોમળ, તેનું ઉલટું થાય 'કઠોર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ગ્રામમાતાએ યુવાનને ક્યાં બેસાડ્યો? (ઘરમાં, ચોરામાં, મંડપ/શેલડી પાસે)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મંડપ/શેલડી પાસે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'છાયા મંડપ' નીચે બેસાડીને ગ્રામમાતાએ અતિથિ સત્કાર કર્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "યુવાનના મનમાં ખેડૂતની ________ જોઈને લોભ જાગ્યો. (ગરીબાઈ, સમૃદ્ધિ, સુંદરતા)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમૃદ્ધિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેડૂતની ધરતી આટલો રસ આપે છે, તો કર (ટેક્સ) કેમ ન લેવો? - આવો લોભ જાગ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "રાજાએ ગ્રામમાતા પાસે ________ માંગી. (માફી, સંપત્તિ, જમીન)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માફી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોતાની ભૂલ સમજાયા પછી રાજાએ રડતી માતા પાસે 'માફી' માંગી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "‘પ્યાલું’ શબ્દનો સમાનાર્થી શબ્દ ________ છે. (વાટકો, પવાલું/ગ્લાસ, થાળી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પવાલું/ગ્લાસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાવ્યમાં રસ ભરવા માટે 'પ્યાલું' (ગ્લાસ) વપરાયું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "કાવ્યમાં ‘નભ’ એટલે ________. (પાણી, આકાશ, પૃથ્વી)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આકાશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નભ, આકાશ, ગગન - આ બધા એક જ અર્થ ધરાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "જ્યારે રાજા પસ્તાવો કરે છે, ત્યારે શેલડીમાંથી ફરીથી ________ વહેવા લાગે છે. (રસ, લોહી, ઝેર)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રસ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજાના હૃદયમાં દયા પાછી આવી, એટલે ધરતી ફરીથી 'રસ'મય બની ગઈ.</p></div>"
+    }
+  ]
+}
