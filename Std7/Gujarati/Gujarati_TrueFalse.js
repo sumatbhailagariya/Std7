@@ -289,3 +289,136 @@ var Std7_Gujarati_TrueFalse = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "પરીક્ષા",
+  "questionType": "ખરાં ખોટાં જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'પરીક્ષા' પાઠના લેખકનું નામ પન્નાલાલ પટેલ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) 'પ' થી પરીક્ષા અને 'પ' થી પન્નાલાલ પટેલ - આ રીતે લેખકનું નામ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "આ પાઠમાં લણણીની ઋતુનું વર્ણન કરવામાં આવ્યું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ખેતરમાં મોલ (પાક) તૈયાર હોય ત્યારે 'લણણી'ની ઋતુ ગણાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "મહાદેવ અને તેના મિત્રો પરીક્ષા આપવા માટે બસમાં જતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: તેઓ ચાલીને શાળાએ જતા હતા.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ગામડાની વાર્તા છે, એટલે ચાલતા જ જવાનું હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "શિષ્યવૃત્તિની પરીક્ષામાં કુલ 10 વિદ્યાર્થીઓ બેસવાના હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) 'દસ' - બસ આટલા જ વિદ્યાર્થીઓ વચ્ચે સ્પર્ધા હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "મહાદેવને વિશ્વાસ હતો કે તેનો પહેલો નંબર જ આવશે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) આત્મવિશ્વાસ એ જ મહાદેવની ઓળખ હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ગાય સૌથી પહેલાં મહાદેવના પોતાના જ ખેતરમાં પેઠી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: ગાય સૌથી પહેલાં મહાદેવના માસીના ખેતરમાં પેઠી હતી.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ક્રમ યાદ રાખો: માસી -> કાકા -> નારજીકાકા -> ખુશાલભાઈ -> મહાદેવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "મહાદેવના કાકા સ્વભાવે ખૂબ જ દયાળુ હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: પાઠ મુજબ મહાદેવના કાકા ખારીલા એટલે કે ઈર્ષાળુ સ્વભાવના હતા.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) કાકા = ખારીલા (ઈર્ષાળુ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ગાયને હાંકવા માટે મહાદેવે લાકડાની સોટીનો ઉપયોગ કર્યો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: મહાદેવે ગાયને હાંકવા માટે આંકડાનો એક ડોકો તોડ્યો હતો.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) આંકડાનો ડોકો = દેશી લાકડી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "શાળાએ પહોંચ્યો ત્યારે મહાદેવ પરસેવે રેબઝેબ હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) દોડાદોડી અને ગાય હાંકવાની મહેનતને લીધે પરસેવો થયો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ઈન્સ્પેક્ટરે મહાદેવની આંખમાં આંસુને બદલે માનવતાની સરવાણી જોઈ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) પરીક્ષામાં પાસ થવા કરતાં માનવતામાં પાસ થવું વધુ જરૂરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "મહાદેવને પરીક્ષામાં મોડું થયું હોવા છતાં ઈન્સ્પેક્ટરે તેને બેસવા દીધો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) સત્ય અને પ્રામાણિકતા હંમેશા ફળ આપે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ખુશાલભાઈ પાસે હળ હાંકવા માટે બે બળદ હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: ખુશાલભાઈ પાસે હળ હાંકનાર કોઈ નહોતું, તેઓ બીજાનું હળ માંગીને ખેતી કરતા હતા.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) બિચારા ખુશાલભાઈ પાસે પોતાનું હળ નહોતું, એટલે જ મહાદેવને દયા આવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ગાય ઘઉંના મોલને ચરતી-ચરતી આગળ વધી રહી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) સોના જેવો ઘઉંનો મોલ ગાયને ખૂબ ભાવતો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "શાળાના હેડમાસ્તરે મહાદેવને ઈન્સ્પેક્ટર પાસે મોકલ્યો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) મોડા આવનારનો નિર્ણય મોટા સાહેબ જ લે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ગાયે મહાદેવ પર હુમલો કર્યો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: ગાયે માત્ર તેને મારવાનો ઈરાદો કર્યો હતો પણ માર્યો નહોતો.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ગાયે જોઈ લીધું કે આ છોકરો મજબૂત છે, એટલે તે ભાગી ગઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "મહાદેવના ભાઈનું નામ શંકો હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: શંકો એ મહાદેવનો મિત્ર હતો, ભાઈ નહીં.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) શંકો, વછરાજ વગેરે મહાદેવની 'મિત્ર ટોળકી' હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "મહાદેવની આંખોમાં આંસુ કેમ હતા? કારણ કે તેને પેપર અઘરું લાગતું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: મોડું થવાને કારણે અને ગાય હાંકવાની મથામણને કારણે તે રડતો હતો.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) રડવું અઘરા પેપર માટે નહીં, પણ પ્રામાણિકતાની કસોટી માટે હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "પરીક્ષા વાર્તામાં ગ્રામ્ય જીવનનું આબેહૂબ વર્ણન છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) પન્નાલાલ પટેલ એટલે જ જાનપદી નવલકથાના રાજા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "મહાદેવે પોતાની દફતર (બેગ) તેના મિત્ર શંકાને આપી દીધી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ગાયને કાઢવા માટે હાથ ખાલી કરવા શંકાને દફતર આપ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ગાયને બહાર કાઢવામાં મહાદેવને બહુ સમય ન લાગ્યો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: ગાય એક પછી એક ખેતરોમાં જતી રહી, તેથી ઘણો સમય લાગ્યો.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) એક ખેતરમાંથી બીજામાં... આમ કરતા તો પરીક્ષાનો સમય થઈ ગયો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ઈન્સ્પેક્ટરે મહાદેવને પેપર આપતા કહ્યું - 'જા, તું પાસ છે'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) માનવતાની પરીક્ષામાં પાસ થવું એ મોટી વાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "મહાદેવને મનમાં ડર હતો કે તે નાપાસ થશે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: મહાદેવને પોતાની હોશિયારી પર પૂરો ભરોસો હતો.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) તે તેજસ્વી વિદ્યાર્થી હતો, એટલે ડરવાનું કારણ નહોતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "આ વાર્તામાં 'મોલ' એટલે પૈસાની વાત છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: અહીં 'મોલ' એટલે ખેતરમાં ઉભેલો તૈયાર પાક.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ગામડાની ભાષામાં પાકને 'મોલ' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "સૂર્યની ગતિની સાથે શાળા તરફ જતી છોકરાઓની ગતિ ઘટતી જતી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: સૂર્ય ઉપર આવતા છોકરાઓની ગતિ વધતી જતી હતી.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) મોડું થાય ત્યારે સ્પીડ વધે, ઘટે નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "ગાયને મારવા માટે મહાદેવે માટીના ઢેફાંનો પણ ઉપયોગ કર્યો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) જ્યારે લાકડી ન મળી ત્યારે ઢેફાં માર્યા હતા.</p></div>"
+    }
+  ]
+}
