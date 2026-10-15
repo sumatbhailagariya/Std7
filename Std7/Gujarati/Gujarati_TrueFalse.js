@@ -131,3 +131,161 @@ var Std7_Gujarati_TrueFalse = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "આજની ઘડી રળિયામણી",
+  "questionType": "ખરાં ખોટાં જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘આજની ઘડી રળિયામણી’ કાવ્યના કવિ નરસિંહ મહેતા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગુજરાતી ભક્તિ સાહિત્યમાં 'નરસૈયો' જ હંમેશા 'કૃષ્ણ ભક્તિ' ના શ્રેષ્ઠ પદો લખે છે તે યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "કાવ્યમાં ‘વાહાલાજી’ શબ્દ શ્રીકૃષ્ણ માટે વપરાયો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નરસિંહ મહેતાની રચનાઓમાં 'વહાલાજી' કે 'સ્વામી' એટલે સાક્ષાત ભગવાન શ્રીકૃષ્ણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સખી અન્ય સખીઓને મંડપ બનાવવા માટે સૂકા વાંસ લાવવાનું કહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: સખી ‘આલા-લીલા’ એટલે કે થોડાં સૂકા અને થોડાં લીલા વાંસ વઢાવવાનું કહે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'આલા-લીલા' શબ્દનો અર્થ જ 'ભીના-સૂકા' અથવા 'તરવરાટવાળા' થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "તરિયાતોરણમાં ત્રણ જાતના પાનનો ઉપયોગ થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'તરિયા' એટલે 'ત્રણ' - આસોપાલવ, આંબો અને નાળિયેર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ગંગા-જમનાનાં નીર વહાલાજીના હાથ પખાળવા માટે મંગાવ્યા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: ગંગા-જમનાનાં નીર ભગવાનના ‘ચરણ’ એટલે કે પગ પખાળવા (ધોવા) માટે મંગાવ્યા છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હિન્દુ સંસ્કૃતિમાં અતિથિના ચરણ ધોવાની પરંપરા છે, હાથ નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "‘આજની ઘડી રળિયામણી’ એ એક પ્રાર્થના ગીત છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: આ એક ‘ભક્તિ ગીત’ (ભક્તિપદ) છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નરસિંહ મહેતાના પદો હંમેશા ભક્તિરસથી ભરપૂર હોય છે, તેને ભક્તિગીત કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "આંગણે મોતીડે ચોક પુરાવવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભગવાનના સ્વાગતમાં સામાન્ય રંગો નહીં પણ 'મોતી' જેવા કિંમતી રત્નોથી સાથિયા પૂરવાની વાત કવિએ કરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "નરસિંહ મહેતાના સ્વામીને કાવ્યમાં ‘અતિ મીઠડો’ કહ્યા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કાવ્યની છેલ્લી પંક્તિ યાદ રાખવી: 'મીઠડા થકી થાય મીઠડો...'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "‘રળિયામણી’ શબ્દનો અર્થ ‘ખરાબ’ થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: ‘રળિયામણી’ એટલે સુંદર, આનંદદાયક અથવા મનોહર.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્રસંગ સારો હોય ત્યારે સમય પણ 'રળિયામણો' (સુંદર) જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "કાવ્યમાં ‘સખી’ બીજી સખીઓને શ્રીકૃષ્ણના આવવાના સમાચાર આપે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'સખી' સંબોધન દ્વારા આખું ગીત આગળ વધે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "તરિયાતોરણમાં આસોપાલવ, લીમડો અને આંબાના પાન હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: તરિયાતોરણમાં આસોપાલવ, આંબો અને નાળિયેરના પાન હોય છે; લીમડાના નહીં.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સૂત્ર યાદ રાખો: 'આ-આ-ના' (આસોપાલવ, આંબો, નાળિયેર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વહાલાજીના મંડપ બનાવવા માટે ‘કાળા’ વાંસની જરૂર છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: કાવ્યમાં ‘આલા-લીલા’ એટલે કે લીલાશ પડતા વાંસની વાત છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પવિત્ર કામમાં હંમેશા તાજા અને લીલા વાંસ વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "શ્રીકૃષ્ણની ચાલને કવિએ હાથી જેવી ‘મલપતી’ ચાલ કહી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ગજગતિ' (હાથી જેવી ચાલ) માટે કાવ્યમાં 'મલપતો' શબ્દ વાપર્યો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "કાવ્યમાં ‘નીર’ શબ્દનો અર્થ ‘દૂધ’ થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: ‘નીર’ એટલે પાણી અથવા જળ.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પર્યાયવાચી શબ્દ: નીર = જળ = પાણી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "નરસિંહ મહેતાએ શ્રીકૃષ્ણને ‘નિર્મળ’ કહ્યા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કાવ્યમાં ભગવાન માટે 'દીઠડો' અને 'મીઠડો' જેવા વિશેષણો વપરાયા છે જે તેમની નિર્મળતા દર્શાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "બધી સખીઓ મળીને શ્રીકૃષ્ણના વધામણાં કરવાની તૈયારી કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'સહુ સખીઓ મળીને આવીએ...' પંક્તિ પરથી સ્પષ્ટ થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "કાવ્યમાં ‘ચોક પૂરવા’ એટલે દિવાલ પર ચિત્ર દોરવા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: ‘ચોક પૂરવા’ એટલે આંગણામાં સાથિયા પૂરવા અથવા રંગોળી કરવી.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભારતીય પરંપરામાં સ્વાગત માટે જમીન (ચોક) પર સાથિયા પૂરાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "નાળિયેરના પાનને કાવ્યમાં ‘નારિયેળ’ શબ્દથી ઓળખાવ્યા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું (કાવ્યમાં તળપદા શબ્દ તરીકે નારિયેળ વપરાયું છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'તરિયાતોરણ' ના ત્રણ પાનમાંનું એક એટલે નારિયેળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ભગવાનના ચરણ પખાળવા માટે તાપી નદીનું પાણી મંગાવ્યું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: ગંગા અને જમુના નદીના પવિત્ર જળ મંગાવ્યા છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગંગા-જમના હંમેશા સૌથી પવિત્ર નદીઓ ગણાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "‘આજની ઘડી રળિયામણી’ કાવ્યમાં ભક્તિ અને ઉત્સાહનો ભાવ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે ભગવાન ઘરે આવવાના હોય ત્યારે ભક્તના હૃદયમાં આનંદ અને ભક્તિ જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "કાવ્યમાં ‘મલપતો’ શબ્દ સિંહ માટે વપરાયો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: ‘મલપતો’ શબ્દ શ્રીકૃષ્ણની ઠાઠમાઠ વાળી ચાલ (હાથી જેવી) માટે વપરાયો છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ગજગતિ' એટલે હાથીની ચાલ, જે ભગવાનની ચાલ સાથે સરખાવી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સૌ સખીઓ મંગળ ગીતો ગાવા માટે આમંત્રણ આપે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શુભ પ્રસંગે 'મંગળ ગીતો' ગાવાની વર્ષો જૂની પ્રથા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "નરસિંહ મહેતા જૂનાગઢના વતની હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું (તેમનો જન્મ ભાવનગરના તળાજામાં પણ કર્મભૂમિ જૂનાગઢ હતી.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નરસિંહ મહેતા એટલે 'જૂનાગઢનો ભક્ત' એવું મગજમાં ફિટ કરી દો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "‘ઘડી’ શબ્દનો અર્થ ‘કલાક’ થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: ‘ઘડી’ એટલે પળ અથવા ટૂંકો સમય, અહીં 'પ્રસંગ' ના અર્થમાં છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'આજની ઘડી' એટલે 'આજનો સમય' અથવા 'આજનો પ્રસંગ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "કાવ્યમાં ‘પૂરો પૂરો સોહાગણ’ એટલે સૌભાગ્યવતી સ્ત્રીને સાથિયા પૂરવાનું કહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'સોહાગણ' એટલે જેનો પતિ હયાત હોય તેવી સ્ત્રી, જે મંગળ કાર્યમાં આગળ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "કાવ્યમાં ‘વધામણી’ એટલે ભગવાનના વિદાયની વાત છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: ‘વધામણી’ એટલે શુભ સમાચાર અથવા સ્વાગતની તૈયારી.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'વધામણા' હંમેશા આવતી ખુશીના હોય, જતી ખુશીના નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "નરસિંહ મહેતાને ‘આદિ કવિ’ તરીકે પણ ઓળખવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગુજરાતી સાહિત્યના સૌથી પહેલા મોટા કવિ એટલે 'આદિ કવિ' નરસિંહ મહેતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "કાવ્યમાં ‘બાર’ શબ્દનો અર્થ ‘બારણું’ થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું (તરિયાતોરણ બારે બંધાવીએ - એટલે બારણે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): તોરણ હંમેશા 'બારણે' (બાર) જ બંધાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ભગવાન શ્રીકૃષ્ણ ભક્તોના દુઃખ દૂર કરવા આવી રહ્યા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું (પરક્ષોપરી તે આનંદનો પ્રસંગ છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભગવાનનું આગમન જ દુઃખ હરવા માટે હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "શ્રીકૃષ્ણ ગાયોના ગોવાળ તરીકે આ કાવ્યમાં ઓળખાયા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: આ કાવ્યમાં તેઓ ‘વહાલાજી’, ‘સ્વામી’ અને ‘નરસૈયાના સ્વામી’ તરીકે ઓળખાયા છે, ગાયોના ગોવાળનો ઉલ્લેખ નથી.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કાવ્યમાં જે શબ્દ હોય તેને જ સાચો માનવો, ભલે તે કૃષ્ણના બીજા નામ હોય.</p></div>"
+    }
+  ]
+}
