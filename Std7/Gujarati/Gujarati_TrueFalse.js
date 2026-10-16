@@ -1320,3 +1320,161 @@ var Std7_Gujarati_TrueFalse = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "અખબારી નોંધ",
+  "questionType": "ખરાં ખોટાં જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘અખબાર’ શબ્દ મૂળ અરબી ભાષાનો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અખબાર' અને 'અરબી' બંને 'અ' થી શરૂ થાય છે, એટલે યાદ રાખવું સહેલું છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘અખબાર’ શબ્દ ‘ખબર’ શબ્દનું એકવચન છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: ‘અખબાર’ એ ‘ખબર’ શબ્દનું બહુવચન છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘણી બધી 'ખબર' ભેગી થાય ત્યારે એક 'અખબાર' બને, એટલે તે બહુવચન છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ગુજરાતી ભાષામાં વપરાતો ‘સમાચાર’ શબ્દ સંસ્કૃત ભાષાનો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સ' સમાચારનો અને 'સ' સંસ્કૃતનો - આ રીતે જોડી બનાવી લો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "અંગ્રેજીમાં સમાચાર માટે ‘News’ શબ્દ પ્રચલિત છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NEWS એટલે North, East, West, South - ચારેય દિશાની વિગત. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "અખબારી નોંધને અંગ્રેજીમાં ‘Press Note’ કહેવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાચાર છાપવાનું મશીન એટલે પ્રેસ, અને તેની નોટ એટલે પ્રેસ નોટ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "અખબારી નોંધ મોકલતી વખતે તંત્રીને સંબોધીને વિનંતી પત્ર મોકલવો જરૂરી નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: અખબારી નોંધ મોકલતી વખતે તંત્રીને વિનંતી પત્ર મોકલવો અનિવાર્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈપણ ઓફિસમાં કામ કરાવવા માટે 'વિનંતી પત્ર' તો જોઈએ જ! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સમાચાર પત્રના જે-તે વિભાગના વડાને ‘તંત્રી’ કહેવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાચારના 'તંત્ર'ને ચલાવે તે 'તંત્રી'. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "અખબારી નોંધમાં સમાચાર પ્રકાશિત કરવાની તારીખ જણાવવી જરૂરી નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: સમાચાર કઈ તારીખે છાપવા તે લખવું ખૂબ જ જરૂરી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તારીખ વગરના સમાચાર એ વાસી ખોરાક જેવા છે, તેની કિંમત નથી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "અખબારી નોંધ મોકલનાર વ્યક્તિની સહી હોવી જરૂરી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સહી એ જવાબદારીનું પ્રતીક છે, તેના વગર લખાણ માન્ય ન ગણાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સમાચાર લેખનમાં 5-W અને 1-H પદ્ધતિ ખૂબ જ મહત્વની છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 5-W એટલે What, Who, When, Where, Why અને 1-H એટલે How. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "‘અવસાન નોંધ’ માટેના સમાચાર પત્રમાં અલગ કોલમ રાખવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરેક સમાચારની પોતાની ચોક્કસ જગ્યા (Column) હોય છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "અખબારી નોંધમાં ‘ક્યારે’ (When) એટલે સમય અને તારીખનો ઉલ્લેખ થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'When' એટલે સમય પૂછવો, જે ઘડિયાળ કે કેલેન્ડર બતાવે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "અખબારી નોંધ એટલે માત્ર સરકારી જાહેરાતો જ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: અખબારી નોંધમાં શૈક્ષણિક, ધાર્મિક, સામાજિક અને વ્યક્તિગત એમ અનેક પ્રકારની નોંધો હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાચાર પત્ર એ સમાજનું દર્પણ છે, તેમાં બધું જ સમાયેલું હોય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ધાર્મિક સમાચારની નોંધમાં ઉત્સવ કે પ્રવચનના સમયનો ઉલ્લેખ કરવો જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમય ખબર ન હોય તો શ્રદ્ધાળુઓ ક્યારે પહોંચશે? સમય અનિવાર્ય છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "અખબારી નોંધમાં ‘શા માટે’ (Why) એટલે બનાવનું કારણ સમજાવવું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Why' હંમેશા 'કારણ' (Reason) શોધે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "તંત્રીને મોકલવાના વિનંતી પત્રમાં પત્ર મોકલનારનું સરનામું હોવું જરૂરી નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: મોકલનારનું સરનામું અને સંપર્ક નંબર હોવો જરૂરી છે જેથી જરૂર પડે તંત્રી સંપર્ક કરી શકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'સરનામું' એ પત્રનું ઘર છે, તેના વગર પત્ર અધૂરો છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "‘ઇનામ વિતરણ’ એ શૈક્ષણિક પ્રકારની અખબારી નોંધ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇનામ એ વિદ્યાર્થીના શિક્ષણનું ફળ છે, એટલે તે શૈક્ષણિક ગણાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સમાચાર પત્રો સમાજમાં લોકજાગૃતિ લાવવાનું કાર્ય કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પેપર વાંચવાથી જ આપણને દુનિયામાં શું ચાલે છે તેની ખબર પડે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "અખબારી નોંધમાં ‘કેવી રીતે’ (How) નો અર્થ બનાવની વિગત થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'How' એટલે ક્રિયાની રીત (Process). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "અખબારના માલિકને ‘તંત્રી’ કહેવાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: અખબારના માલિકને ‘પ્રકાશક’ (Publisher) કહેવાય અને સમાચારના સંપાદન કરનારને ‘તંત્રી’ (Editor) કહેવાય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માલિક એટલે પૈસા રોકનાર, તંત્રી એટલે અખબાર ચલાવનાર. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "સમાચાર પત્ર એ લોકશાહીનો ચોથો સ્તંભ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અખબારો પ્રજાનો અવાજ સરકાર સુધી પહોંચાડે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "અખબારી નોંધના વિનંતી પત્રમાં ‘સમાચારની કાપલી’ (Clip) જોડવી જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પુરાવા કે લખાણ સાથે હોય તો તંત્રીને છાપવામાં સરળતા રહે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "અખબારી નોંધમાં સ્થળ (Where) નો ઉલ્લેખ કરવો ફરજિયાત નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: સ્થળ વગર લોકોને ખબર નહીં પડે કે કાર્યક્રમ ક્યાં યોજાવાનો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Where' એટલે સરનામું, જે ખૂબ જ અગત્યનું છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "સમાચારમાં સત્યતા અને ચોકસાઈ હોવી જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાચા સમાચાર એ જ અખબારની વિશ્વસનીયતા છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "અખબારી નોંધ ટૂંકી અને સ્પષ્ટ હોવી જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ પડતું લખાણ લોકો વાંચતા નથી, એટલે 'Short and Sweet' રાખવું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "‘વ્યાખ્યાન’ એ એક પ્રકારની સાહિત્યિક કે શૈક્ષણિક નોંધ હોઈ શકે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યાખ્યાન એટલે લેક્ચર, જે જ્ઞાન વધારે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "સમાચાર પત્રમાં ‘ક્રિકેટના સમાચાર’ એ રમતગમત વિભાગમાં આવે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રમત એટલે Sports, અને ક્રિકેટ એ પ્રખ્યાત રમત છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "અખબારી નોંધ મોકલવા માટે પત્રની નીચે ‘લિખિતન’ (લિ.) લખાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લિખિતન એટલે જેણે આ પત્ર લખ્યો છે તે વ્યક્તિ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "અખબારોમાં આવતા ‘સુવિચાર’ એ અખબારી નોંધ નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુવિચાર એ સુંદર વિચારો છે, તે 'નોંધ' કે 'ઘટના' નથી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "અખબારી નોંધમાં ‘કોણ’ (Who) એટલે ઘટના સાથે જોડાયેલી વ્યક્તિ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Who' હંમેશા વ્યક્તિ વિશે માહિતી માંગે છે. (NJ Classes)</p></div>"
+    }
+  ]
+}
