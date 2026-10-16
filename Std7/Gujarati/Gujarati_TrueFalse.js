@@ -1054,3 +1054,111 @@ var Std7_Gujarati_TrueFalse = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "માલમ મોટા હલેસાં માર",
+  "questionType": "ખરાં ખોટાં જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘માલમ મોટા હલેસાં માર’ એ પ્રકૃતિગીત છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (આ કાવ્યનો પ્રકાર લોકગીત છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘લોકો દ્વારા ગવાયેલું’ એટલે લોકગીત, આમાં નાવિક (માલમ) અને દિયર-ભાભીની વાત છે જે લોકજીવન સાથે જોડાયેલી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ભાભીએ દિયરને ‘આળસનો અવતાર’ કહ્યો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભાભીનું મેણું: ‘દિયર મારો આળસનો અવતાર’ - આ વાક્ય યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "દિયરને કમાણી કરવા માટે સિંહલદ્વીપ જવું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (દિયરને કમાણી કરવા માટે ‘જાવા’ બંદરે જવું છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જાવા = લક્ષ્મી (ધન) મેળવવા, સિંહલદ્વીપ = પદમણી નાર (પત્ની) મેળવવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સિંહલદ્વીપની પદમણી નારને પરણવા દિયરની ઈચ્છા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સિંહલદ્વીપ (શ્રીલંકા) સુંદર સ્ત્રીઓ (પદમણી) માટે કાવ્યમાં પ્રખ્યાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "‘માલમ’ એટલે વહાણ ચલાવનાર નાવિક.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): માલમ = જે માલ-સામાન અને વહાણને ગતિ આપે તે નાવિક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "મોટા ભાઈની કમાણી પર દિયર જલસા કરે છે એવું ભાભી માને છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભાભી કહે છે કે ‘મોટા ભાઈ કમાય અને દિયર ઉડાવે’ – આ જ આળસનું કારણ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "દિયર ભાભીને ‘કેસરભીના’ કહીને સંબોધે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘જીવો જીભલડીની ધાર, હે કેસરભીના ભાભી!’ - અહીં કેસરભીના એટલે ગૃહિણીનું સન્માન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ભાભીએ મેણું માર્યું તેથી દિયર દુઃખી થઈને ઘરેથી ભાગી ગયો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (દિયર ભાગી નથી ગયો, પણ પડકાર સ્વીકારી કમાવા માટે પરદેશ જાય છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મેણું એ દિયર માટે ‘મોટિવેશન’ (પ્રેરણા) બન્યું, નકારાત્મકતા નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "‘મેણું’ શબ્દનો અર્થ ‘વખાણ’ થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (મેણું એટલે કડવા શબ્દો અથવા મર્મવચન.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મેણું હંમેશા હૃદયમાં વાગે અને માણસને બદલવા મજબૂર કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "દિયર ભાભીને લાંબુ આયુષ્ય ઈચ્છે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘જીવો જીભલડીની ધાર’ એટલે કે ભાભીની જીભ (મેણાં) લાંબુ જીવે જેથી અન્યના જીવન પણ સુધરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "જાવા બંદરે ગયેલી વ્યક્તિ ક્યારેય પાછી આવતી નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (લોકવાયકા મુજબ, જાવા ગયેલા પાછા આવે તો લક્ષ્મી (ધન) લઈને જ આવે છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘ગયેલો જાવા પાછો ન આવે, આવે તો બેડો પાર’ – આ પંક્તિમાં સફળતાની વાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "દિયરને પોતાના ભાઈ પ્રત્યે ખૂબ જ અણગમો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કાવ્યમાં ભાઈ પ્રત્યેના પ્રેમ કે અણગમાની વાત નથી, પણ ભાઈની કમાણી પર જીવવાની વાત છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દિયરને પોતાના સ્વાભિમાનની ચિંતા છે, ભાઈ સાથે દુશ્મની નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ભાભીએ દિયરને મેણું મારીને તેનું જીવન સુધારી દીધું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અંતમાં દિયર કહે છે કે ભાભીએ આંખ ઉઘાડી દીધી (જ્ઞાન આપ્યું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "‘હલેસાં મારવા’ એટલે હોડીને વેગ આપવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હલેસાં વગર હોડી પાણીમાં આગળ વધી શકે નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "દિયર હમેશાંથી મહેનતુ હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (શરૂઆતમાં દિયર આળસુ હતો, ભાભીના મેણાં પછી તે મહેનતુ બન્યો.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કાવ્યની શરૂઆત જ ‘આળસના અવતાર’ થી થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "‘ઘોડલા ખેલવવા’ રૂઢિપ્રયોગનો અર્થ મોજમજા કરવી થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બેઠા બેઠા ઘોડલા ખેલવવા એટલે કશું કામ કર્યા વગર આનંદ પ્રમોદ કરવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "દિયર ભાભીની જીભને ‘ઝેર’ જેવી ગણે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (દિયર ભાભીની જીભને ‘ધાર’ વાળી કહે છે પણ હિતકારી માને છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જીભ ભલે કડવી હોય પણ તે જીવન સુધારનારી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "‘બેટા’ શબ્દ દિયર માટે વપરાયો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કાવ્યમાં દિયર માટે ‘દિયર’ શબ્દ જ વપરાયો છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દિયર-ભાભીના સંબંધનું આ લોકગીત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "દિયરને પરદેશ જઈને લક્ષ્મીના ઢગલા કરવા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લક્ષ્મી એટલે કે ધન-સંપત્તિ કમાવવાની તેની નેમ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "આ કાવ્યમાં ભાભીને આદર્શ ગણવામાં આવી છે કારણ કે તે દિયરના ભવિષ્યની ચિંતા કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કડવું વેણ પણ જો જીવન સુધારે તો તે આશીર્વાદ સમાન છે.</p></div>"
+    }
+  ]
+}
