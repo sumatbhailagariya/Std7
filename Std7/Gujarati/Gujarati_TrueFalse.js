@@ -1478,3 +1478,111 @@ var Std7_Gujarati_TrueFalse = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "જનની",
+  "questionType": "ખરાં ખોટાં જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘જનની’ કાવ્યના કવિ બોટાદકર છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ‘જનની’ નો જન્મ ‘બોટાદ’માં (બોટાદકર) થયો એમ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "કવિએ જનનીના પ્રેમની તુલના મધ અને મેહુલા (વરસાદ) સાથે કરી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રથમ પંક્તિ યાદ કરો: 'મીઠાં મધ ને મીઠાં મેહુલા રે લોલ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "માતાની આંખો ઝેરથી ભરેલી હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: માતાની આંખો તો અમૃત (અમી) થી ભરેલી હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માતા એટલે અમૃતનું ઝરણું, ઝેર તો હોય જ નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "‘જનની’ કાવ્યનો પ્રકાર ‘લોકગીત’ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: ‘જનની’ કાવ્યનો સાહિત્ય પ્રકાર ‘ઉર્મિગીત’ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માતા માટેની ‘ઉર્મિ’ (લાગણી) એટલે ‘ઉર્મિગીત’.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "માતાના વેણ (શબ્દો) વહાલથી ભરેલા હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પંક્તિ: ‘વહાલનાં ભરેલાં એનાં વેણ રે...’</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કવિના મતે જનનીની જોડ દુનિયામાં ગમે ત્યાં મળી રહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: કવિ કહે છે કે જનનીની જોડ સખી નહિ જડે (મળશે નહિ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મા તે મા, બીજા બધા વગડાના વા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "માતાનું હૈયું હેમંત જેવું શીતળ હોય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: માતાનું હૈયું હેમંત જેવું નહીં, પણ ‘માતનું હૈયું તે હેમ (સોના) જેવું’ અથવા કાવ્ય મુજબ ‘હિલોળ’ જેવું શાંત અને ગંભીર છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાવ્ય પંક્તિ: ‘હૈડું હેમંત કેરી હેલ રે’ - અહીં ‘હેલ’ એટલે બેડું પણ અહીં ઠંડકની વાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ગંગાના પ્રવાહમાં વધ-ઘટ થાય છે, પણ માતાનો પ્રેમ અવિરત રહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ‘ગંગાના નીર તો વધે ઘટે રે લોલ, સરખો એ પ્રેમનો પ્રવાહ રે’.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ચંદ્રની ચાંદનીમાં વધ-ઘટ થતી નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: ચંદ્રની કળામાં વધ-ઘટ થાય છે, માત્ર માતાનો પ્રેમ જ અચળ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચંદ્ર આથમે પણ માનો પ્રેમ ક્યારેય આથમતો નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "કવિ બોટાદકરનું પૂરું નામ દામોદર ખુશાલદાસ બોટાદકર છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ‘દામોદર’ એ ભગવાનનું નામ છે, જેણે ‘જનની’ જેવી સુંદર કૃતિ આપી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "માતાના હાથ હીરાથી ગૂંથેલા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: માતાના હાથ ‘રેશમ’ થી ગૂંથેલા છે (ગૂંથલ પાલવ રેશમનો રે લોલ).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ‘હાથ ગૂંથેલ એના હીરના રે લોલ’ - અહીં હીર એટલે રેશમનો દોરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વાદળી તો વરસીને જતી રહે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાદળી આવે અને જાય, પણ માનો પ્રેમ કાયમ રહે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "માતાનો ખોળો ચંદ્રની ચાંદની જેવો શીતળ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ‘ચોખ્ખે ચંદરવે મઢેલ રે’ પંક્તિ યાદ કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "દેવોને પણ માતાના દૂધ દુર્લભ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ‘દેવોને દૂધ એનાં દોહ્યલા રે લોલ’ - દોહ્યલા એટલે મુશ્કેલ/દુર્લભ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "માતાની જાત જગતથી અલગ (જુદી) છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ‘જગથી જુદેરી એની જાત રે લોલ’.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "માતાના કાળજામાં કંઈક કોડ (અરમાન) ભરેલા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ‘કાળજામાં કંઈક ભર્યા કોડ રે લોલ’.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "માતાનું મન ધરતી માતા કરતાં પણ વધુ ડગમગી જાય એવું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: ધરતી માતા કદાચ ધ્રૂજે (ધ્રૂજતી) પણ માનું મન ક્યારેય ડગતું નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધરતી ધ્રૂજે પણ મા ન ધ્રૂજે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "‘મેહુલા’ શબ્દનો અર્થ ‘પવન’ થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: ‘મેહુલા’ એટલે ‘મેઘ’ અથવા ‘વરસાદ’.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેહુલો = મેઘ = મે (વરસાદ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "માતા પોતાના બાળકને આશીર્વાદ આપે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ‘ચિત્તડું ચડેલ એનું ચાકડે રે...’ મા હર પળ બાળકનું ભલું જ વિચારે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "આ કાવ્યમાં કવિએ પિતાના પ્રેમને સર્વોપરી ગણાવ્યો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: આ કાવ્યમાં ‘માતા’ (જનની) ના પ્રેમને સર્વોપરી ગણાવ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટાઈટલ જ ‘જનની’ છે, એટલે પિતા ન આવે!</p></div>"
+    }
+  ]
+}
