@@ -1985,3 +1985,136 @@ var Std7_Gujarati_TrueFalse = {
     }
   ]
 }
+,
+"15": {
+  "chapterName": "પ્રકરણ 15",
+  "chapterTitle": "આવ ભણા, આવ!",
+  "questionType": "ખરાં ખોટાં જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'આવ ભણા, આવ!' પાઠના લેખક શાહબુદ્દીન રાઠોડ છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાહબુદ્દીન રાઠોડ એટલે હાસ્ય કલાકાર અને 'આવ ભણા' તેમની જાણીતી હાસ્યકથા છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "'આવ ભણા, આવ!' પાઠનો સાહિત્ય પ્રકાર 'લોકકથા' છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: આ પાઠનો સાહિત્ય પ્રકાર 'હાસ્યકથા' છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હાસ્ય પીરસતા શાહબુદ્દીન દાદા = હાસ્યકથા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "લેખકના બાળપણમાં બૂટની કિંમત ૨ રૂપિયા અને ૪ આના હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જૂના જમાનાની સસ્તી વસ્તુઓ યાદ રાખવી: 2 અને 4 નો આંકડો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "દુદા મામા લેખકને વહાલથી 'આવ ભણા, આવ!' કહીને બોલાવતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું શીર્ષક જ દુદા મામાનું લોકપ્રિય વાક્ય છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "લેખકને બૂટ સીવડાવવા માટે કોઈની મંજૂરી લેવી પડી નહોતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: લેખકને આખા પરિવારના સભ્યો (વડીલો) ની મંજૂરી લેવી પડતી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંયુક્ત પરિવારમાં કોઈપણ નિર્ણય લોકશાહી ઢબે લેવાતો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "બૂટ સીવડાવવા માટે લેખકનો કેસ 'હાઉસ ઓફ કોમન્સ' જેવી સભામાં ચર્ચાતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સંસદ જેવી ગંભીર ચર્ચા = હાઉસ ઓફ કોમન્સ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "દુદા મામાએ બૂટનું માપ લેવા માટે લેખકનો પગ પેન્સિલથી કાગળ પર દોરી લીધો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલાના સમયમાં પગનું માપ કાગળ પર પેન્સિલથી જ લેવાતું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "લેખકને કાળા રંગના બૂટ સીવડાવવા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: લેખકને લાલ રંગના બૂટ સીવડાવવા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'લાલ ચટાક બૂટ' - લેખકની ખાસ ઈચ્છા હતી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "દુદા મામા લેખકને બૂટ આપવા માટે વારંવાર વાયદા કરતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દુદા મામાના વાયદા અને લેખકના ધક્કા એ જ પાઠનો હાસ્યનો વિષય છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "લેખક બૂટના સમાચાર પૂછવા જતા ત્યારે દુદા મામા બૂટ તૈયાર રાખતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: દુદા મામા હંમેશા નવા નવા બહાના કાઢી લેખકને રવાના કરતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કામ ન કરવું હોય ત્યારે બહાના હાજર હોય! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "દુદા મામાએ બૂટના વાયદા પૂરા ન કર્યા ત્યારે લેખક ગુસ્સે થયા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળકને વસ્તુ ન મળે એટલે તે ચીડાઈ જાય તે સ્વાભાવિક છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "લેખકના મોટાભાઈનું નામ સોમચંદ હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: પાઠમાં સોમચંદ શેઠનો ઉલ્લેખ છે, ભાઈનો નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાત્રોના નામ ધ્યાનથી વાંચવા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "લેખક જ્યારે દુદા મામા પાસે જતા ત્યારે દુદા મામા હંમેશા કામમાં પરોવાયેલા રહેતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દુદા મામાનો વ્યવસાય મોચીકામ હતો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "દુદા મામા ગ્રાહકને આવકારવામાં ખૂબ જ મીઠડા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આવ ભણા, આવ!' એ જ મીઠડો આવકાર છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "લેખકને નવા બૂટ મળતા ત્યારે તે ખૂબ જ આનંદિત થઈ જતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળપણમાં નવી વસ્તુ મળવાનો આનંદ અનેરો હોય છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "બૂટ સીવવા માટે લેખકે દુદા મામાને એડવાન્સમાં પૈસા આપ્યા નહોતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: લેખકે બૂટ સીવડાવવા માટે પૈસા જમા કરાવ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૈસા ચૂકવ્યા હોવા છતાં ધક્કા ખાવા પડે એ જ તો હાસ્ય છે! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "લેખક બૂટ બાબતે એટલા ઉત્સાહિત હતા કે તેમને રાત્રે સપનામાં પણ બૂટ જ દેખાતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અતિ ઉત્સાહ હંમેશા સપના સુધી લઈ જાય છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "દુદા મામા લેખકને બૂટ આપવાની તારીખ નક્કી કરતા પણ તે ક્યારેય પાળતા નહીં.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાયદો એટલે જ તો દુદા મામાની ઓળખ! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "લેખકના મામાનું નામ જ દુદા મામા હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: દુદા મામા એ લેખકના સગા મામા નહોતા, પણ ગામના મોચી હતા જેમને લેખક 'મામા' કહીને બોલાવતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગામડામાં વડીલોને સંબંધથી બોલાવવાનો રિવાજ છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "લેખકને બૂટ સીવડાવવા માટે અનેક ધક્કા ખાવા પડ્યા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધક્કા અને બહાના એ આ પાઠનો મુખ્ય અંશ છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "દુદા મામાએ છેલ્લે લેખકને સોમવારે બૂટ લઈ જવાનું કહ્યું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાર અને તારીખ દુદા મામા અચૂક આપતા પણ કામ પૂરું કરતા નહીં. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "આ હાસ્યકથામાં લેખકે બાળપણના સંસ્મરણો રજૂ કર્યા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્મરણો + હાસ્ય = આવ ભણા, આવ! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "દુદા મામા બૂટ સીવવા માટે હંમેશા નવા બૂટનું લેધર તૈયાર રાખતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: દુદા મામા ચામડાની અછતનું બહાનું કાઢતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બહાનાબાજીમાં ચામડાનો પણ વાંક કાઢતા! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "લેખકની આતુરતાનો અંત નવા બૂટ મળવાથી આવ્યો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખરું (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંતે ગમે તેટલા ધક્કા પછી બૂટ તો મળ્યા જ હતા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "દુદા મામાએ લેખકને બૂટ આપતા પહેલા ઓપરેશન કરાવવાનું કહ્યું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ: બૂટ બાબતે કોઈ ઓપરેશનની વાત પાઠમાં નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠના શબ્દો પર ધ્યાન આપો, મેડિકલ ટર્મ અહીં નથી. (NJ Classes)</p></div>"
+    }
+  ]
+}
