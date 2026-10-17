@@ -1586,3 +1586,111 @@ var Std7_Gujarati_TrueFalse = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "હાઈસ્કૂલમાં",
+  "questionType": "ખરાં ખોટાં જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ગાંધીજીએ જ્યારે હાઈસ્કૂલમાં પ્રવેશ લીધો ત્યારે તેઓ ઠોઠ વિદ્યાર્થી ગણાતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: ગાંધીજી હાઈસ્કૂલમાં ઠોઠ વિદ્યાર્થી નહોતા ગણાતા, શિક્ષકોનો પ્રેમ તેઓ હંમેશા સંપાદિત કરી શકતા હતા.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગાંધીજી હંમેશા 'ગ્રેસફુલ' (વિવેકી) હતા, એટલે શિક્ષકોના પ્રિય હતા - ઠોઠ નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ગાંધીજીને પોતાનું ભણતર સુધર્યું એ બદલ ક્યારેય આશ્ચર્ય થયું નહોતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: ગાંધીજી જ્યારે ઇનામો કે શિષ્યવૃત્તિ મેળવતા ત્યારે તેમને પોતે જ આશ્ચર્ય થતું હતું.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઇનામ + ગાંધીજી = આશ્ચર્ય (તેમની નમ્રતા સૂચવે છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ગાંધીજીના વિવાહ થયા ત્યારે તેઓ હાઈસ્કૂલમાં ત્રીજા ધોરણમાં ભણતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ૩ જેવો 'વ' (વિવાહ) = ત્રીજું ધોરણ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ગાંધીજીને ભણતી વખતે કસરત કરવી ખૂબ જ ગમતી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: ગાંધીજીને ભણતર સાથે કસરત કે ક્રિકેટમાં બિલકુલ રસ નહોતો અને તેના પ્રત્યે તેમને અણગમો હતો.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગાંધીજી = વાંચવા-લખવાના શોખીન, કસરતના 'ક' થી દૂર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "દોરાબજી એદલજી ગીમી સાહેબ ખૂબ જ કડક અને શિસ્તપ્રિય શિક્ષક હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ગીમી' એટલે 'નિયમો' પાળનાર શિસ્તપ્રિય હેડમાસ્ટર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ગાંધીજી માનતા હતા કે કેળવણીમાં વ્યાયામને કોઈ સ્થાન ન હોવું જોઈએ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (નોંધ: આ તેમની તે સમયની 'ખોટી' માન્યતા હતી.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બાળપણમાં ગાંધીજીની ભૂલ = વ્યાયામને નકામો ગણવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "શનિવારે ગાંધીજીને સવારની નિશાળ હોવા છતાં સાંજે કસરતમાં જવાનું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શનિવાર = સવારે નિશાળ + સાંજે કસરત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ગાંધીજી પાસે ઘડિયાળ ન હોવાથી અને આકાશમાં વાદળાં હોવાથી તેઓ કસરતમાં મોડા પડ્યા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વાદળાંએ છેતર્યા + ઘડિયાળનો અભાવ = કસરતમાં મોડા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ગીમી સાહેબે ગાંધીજીનો દંડ માફ કરી દીધો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: ગીમી સાહેબે ગાંધીજીની વાત સાચી માની નહોતી અને એક કે બે આના દંડ કર્યો હતો.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સાચું બોલ્યા છતાં દંડ થયો, એટલે જ ગાંધીજી રડ્યા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ગાંધીજીના મતે ખરાબ અક્ષરો એ અધૂરી કેળવણીની નિશાની છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ખરાબ અક્ષર = અધૂરી કેળવણી' આ વાક્ય ગાંધીજીનું ફેવરિટ પસ્તાવો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "દક્ષિણ આફ્રિકામાં ગાંધીજીએ વકીલોના મોતીના દાણા જેવા અક્ષરો જોયા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દક્ષિણ આફ્રિકાના વકીલો = મોતીના દાણા જેવા અક્ષરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ગાંધીજીના મતે અક્ષરો સુધારવા માટે ચિત્રકળા શીખવી જરૂરી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ચિત્ર દોરતા આવડે તો અક્ષર મરોડદાર બને - ગાંધીજીનો મંતવ્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ભૂમિતિ વિષય ગાંધીજીને શરૂઆતથી જ ખૂબ સહેલો લાગતો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: ભૂમિતિ ચોથા ધોરણમાં શરૂ થઈ ત્યારે તેમને અઘરી લાગતી હતી, પરંતુ સમજાયા પછી તે અત્યંત સરળ થઈ ગઈ હતી.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભૂમિતિ = પહેલા 'હાર્ડ' પછી 'સ્માર્ટ' (બુદ્ધિનો શુદ્ધ પ્રયોગ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "સંસ્કૃતના શિક્ષક ખૂબ જ નરમ દિલના અને માયાળુ હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: સંસ્કૃતના શિક્ષક કૃષ્ણશંકર પંડ્યા કડક હતા અને વિદ્યાર્થીઓને ઘણું લેસન આપતા હતા.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ફારસી શિક્ષક = નરમ, સંસ્કૃત શિક્ષક = ગરમ (કડક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ગાંધીજી એકવાર સંસ્કૃતનો વર્ગ છોડીને ફારસીના વર્ગમાં જઈને બેઠા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ફારસી સહેલું લાગ્યું એટલે સંસ્કૃત છોડવાની ભૂલ કરી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "કૃષ્ણશંકર માસ્તરે ગાંધીજીને સમજાવ્યું કે સંસ્કૃત તો તારા પોતાના ધર્મની ભાષા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ધર્મની ભાષા = સંસ્કૃત (કૃષ્ણશંકર માસ્તરની શિખામણ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ગાંધીજીએ હાઈસ્કૂલમાં અભ્યાસ કરતી વખતે ક્યારેય ખોટું બોલ્યા નહોતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું. (નોંધ: હાઈસ્કૂલના સમયમાં તેઓ સત્યના આગ્રહી રહ્યા હતા.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગાંધીજી અને સત્યનો નાતો હાઈસ્કૂલથી જ અતૂટ હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ગાંધીજીએ પાંચમા અને છઠ્ઠા ધોરણમાં અનુક્રમે ચાર રૂપિયા અને દસ રૂપિયાની શિષ્યવૃત્તિ મેળવી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 5મું ધોરણ = 4 રૂ., 6ઠ્ઠું ધોરણ = 10 રૂ. (યાદ રાખવા જેવી આંકડાકીય માહિતી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "ગાંધીજીને શરમાળ પ્રકૃતિ હોવાને કારણે તેઓ નિશાળ છૂટતા જ ઘરે ભાગી જતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જ&zwj;વાબ:</strong> સાચું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શરમાળ પ્રકૃતિ + કોઈની સાથે વાત ટાળવી = સીધા ઘરે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ગાંધીજીએ હાઈસ્કૂલમાં ઇંગ્લેન્ડના પ્રવાસે જવાની વાત કરી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. (કારણ: આ પ્રકરણમાં માત્ર હાઈસ્કૂલના અભ્યાસ અને તેના અનુભવોની જ વાત છે.)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પ્રકરણનું નામ 'હાઈસ્કૂલમાં' એટલે વાતો પણ હાઈસ્કૂલની જ હોય!</p></div>"
+    }
+  ]
+}
