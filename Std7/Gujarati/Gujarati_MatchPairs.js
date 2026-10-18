@@ -338,3 +338,86 @@ var Std7_Gujarati_MatchPairs = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "ભીખુ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ A ને વિભાગ B સાથે યોગ્ય રીતે જોડો:<br>વિભાગ A:<br>1. પાઠનું નામ<br>2. લેખકનું નામ<br>3. લેખકનું ઉપનામ<br>4. સાહિત્ય પ્રકાર<br><br>વિભાગ B:<br>(A) ધૂમકેતુ<br>(B) સંવેદનકથા<br>(C) ભીખુ<br>(D) ગૌરીશંકર ગોવર્ધનરામ જોશી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (C), 2 - (D), 3 - (A), 4 - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ગૌરી' શંકરે 'ધૂમ' મચાવી 'ભીખુ' ની 'સંવેદના' માં! આ રીતે તમે ચારેય વિગતો ક્રમમાં યાદ રાખી શકો છો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "શબ્દના અર્થના આધારે યોગ્ય જોડકાં બનાવો:<br>વિભાગ A:<br>1. કંગાલ<br>2. વદન<br>3. આર્તસ્વર<br>4. રહમ<br><br>વિભાગ B:<br>(A) ચહેરો<br>(B) દયા<br>(C) અત્યંત ગરીબ<br>(D) દુઃખભર્યો અવાજ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (C), 2 - (A), 3 - (D), 4 - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કંગાલ' એટલે 'કરોડો વગરનો (ગરીબ)' અને 'વદન' એટલે 'મોઢું' - આ બે મુખ્ય શબ્દો પકડી રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિરોધી શબ્દોના યોગ્ય જોડકાં જોડો:<br>વિભાગ A:<br>1. સાંજ<br>2. સુગંધ<br>3. શાંતિ<br>4. આશા<br><br>વિભાગ B:<br>(A) અશાંતિ<br>(B) નિરાશા<br>(C) સવાર<br>(D) દુર્ગંધ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (C), 2 - (D), 3 - (A), 4 - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિરોધી શબ્દોમાં હંમેશા 'અ' અથવા 'દુ' પ્રત્યય આગળ લાગે છે તે ધ્યાન રાખો (શાંતિ-અશાંતિ, સુગંધ-દુર્ગંધ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "રૂઢિપ્રયોગ અને તેના અર્થને જોડો:<br>વિભાગ A:<br>1. કળ વળવી<br>2. આંખ ભીની થવી<br>3. મોંમાં પાણી આવવું<br>4. સ્તબ્ધ થઈ જવું<br><br>વિભાગ B:<br>(A) આશ્ચર્યચકિત થઈ જવું<br>(B) ખાવાની ઈચ્છા થવી<br>(C) નિરાંત થવી / ચેન પડવું<br>(D) આંખમાં આંસુ આવવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (C), 2 - (D), 3 - (B), 4 - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પાણી' આવે તો 'ખાવાની ઈચ્છા' અને 'કળ' વળે તો 'શાંતિ' - આ રીતે યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પાત્ર અને તેની સ્થિતિના જોડકાં જોડો:<br>વિભાગ A:<br>1. ભીખુ<br>2. ભીખુની મા<br>3. નાનો ભાઈ<br>4. લેખક<br><br>વિભાગ B:<br>(A) દળણાં દળીને ગુજરાન ચલાવતી<br>(B) જલેબી ખાવાની લાલચ જાગી હતી<br>(C) માનવતાવાદી અને અવલોકનકાર<br>(D) કુટુંબનો આધારસ્તંભ બાળક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (D), 2 - (A), 3 - (B), 4 - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મા-દળણાં, ભીખુ-આધારસ્તંભ. બસ આ બે જોડી યાદ હશે તો આખું જોડકું સાચું પડશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "શબ્દ સમૂહ માટે એક શબ્દના જોડકાં:<br>વિભાગ A:<br>1. અનાજ દળવાની મજૂરી<br>2. દયાજનક અવાજ<br>3. મિઠાઈ રાખવાની વાંસની ટોપલી<br>4. રસ્તો ઓળંગવાનો રસ્તો<br><br>વિભાગ B:<br>(A) આર્તસ્વર<br>(B) ફૂટપાથ<br>(C) દળણું<br>(D) છાબડી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (C), 2 - (A), 3 - (D), 4 - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટોપલી એટલે છાબડી અને મજૂરી એટલે દળણું - આ શબ્દ સામ્યતા પરીક્ષામાં કામ લાગશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પાઠમાં વપરાયેલા શબ્દો અને તેની વિગત જોડો:<br>વિભાગ A:<br>1. ગંગાજળ જેવું પવિત્ર<br>2. એક પૈસાની<br>3. ત્રણ પૈસાના<br>4. કંગાલ પર<br><br>વિભાગ B:<br>(A) દાળિયા<br>(B) રહમ કરો<br>(C) જલેબી<br>(D) કુટુંબ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (D), 2 - (C), 3 - (A), 4 - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ત્રણ પૈસાના દાળિયા' - આ આંકડો પાઠમાં યાદ રાખવો ખૂબ જરૂરી છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વર્ણન અને સ્થળના યોગ્ય જોડકાં જોડો:<br>વિભાગ A:<br>1. અંધારખૂણો<br>2. લાઈટનો થાંભલો<br>3. સિનેમા પાસે<br>4. મિઠાઈની દુકાન<br><br>વિભાગ B:<br>(A) ભીખુ જ્યાં ઊભો રહીને જોતો હતો<br>(B) મા અને છોકરાં બેઠા હતા<br>(C) ભીખુ જેની પાસે અંધારામાં લપાયો હતો<br>(D) ગાડીઓ અને માણસોની ભીડ હતી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (B), 2 - (C), 3 - (D), 4 - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંધારામાં 'મા' છે અને થાંભલા પાસે 'ભીખુ' - આ વિઝ્યુઅલ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "શબ્દાર્થ અને તેના સમાનાર્થી જોડો:<br>વિભાગ A:<br>1. સાંજ<br>2. તૃષ્ણા<br>3. વદન<br>4. હાંક<br><br>વિભાગ B:<br>(A) મોઢું<br>(B) બૂમ<br>(C) સંધ્યાકાળ<br>(D) ઈચ્છા/તરુષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (C), 2 - (D), 3 - (A), 4 - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'તૃષ્ણા' એટલે ઈચ્છા અને 'હાંક' મારવી એટલે બૂમ પાડવી - ગામઠી શબ્દો ખાસ યાદ રાખવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પાઠના ઘટનાક્રમ અને પાત્ર જોડો:<br>વિભાગ A:<br>1. જલેબી જોવી<br>2. અકસ્માત બચાવવો<br>3. દાળિયા ખાવાનું જૂઠું બોલવું<br>4. પૈસા આપવા<br><br>વિભાગ B:<br>(A) ભીખુ<br>(B) લેખક<br>(C) મોટર હાંકનાર<br>(D) ભીખુની ભૂખ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (D), 2 - (C), 3 - (A), 4 - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'જૂઠું' કોણ બોલ્યું? ભીખુ (પોતાના ભાઈઓ માટે). આ જ પાઠનો હાર્દ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિરોધી અર્થ આપતા શબ્દો જોડો:<br>વિભાગ A:<br>1. ભીના<br>2. ગરીબ<br>3. ધીમેથી<br>4. ધ્યાન<br><br>વિભાગ B:<br>(A) અમીર<br>(B) બેધ્યાન<br>(C) સૂકા<br>(D) ઝડપથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (C), 2 - (A), 3 - (D), 4 - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભીના-સૂકા અને અમીર-ગરીબ એ તો સૌથી સહેલી અને પાક્કી જોડી છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "પાઠના ટૂંકા શબ્દો અને તેનો અર્થ જોડો:<br>વિભાગ A:<br>1. ઠાંઠ<br>2. વિલાસ<br>3. સ્વર<br>4. સ્તબ્ધ<br><br>વિભાગ B:<br>(A) મોજમજા<br>(B) આશ્ચર્યચકિત<br>(C) ભપકો<br>(D) અવાજ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (C), 2 - (A), 3 - (D), 4 - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઠાંઠ' એટલે ઠસ્સો અથવા ભપકો. આ શબ્દ પાઠમાં લેખકની ભાષાશૈલી બતાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "પાત્રની વિશેષતા મુજબ જોડકાં જોડો:<br>વિભાગ A:<br>1. ભીખુ<br>2. નાનો ભાઈ<br>3. મિઠાઈવાળો<br>4. પોલીસ<br><br>વિભાગ B:<br>(A) 'હાંક' મારનાર<br>(B) ત્રાજવા જોખનાર<br>(C) ઉદાર અને ત્યાગી બાળક<br>(D) 'મા, મને ભૂખ લાગી છે' કહેનાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (C), 2 - (D), 3 - (B), 4 - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભીખુ ઉદાર છે કારણ કે તે પોતે નથી ખાતો, અને નાનો ભાઈ હજી અબુધ છે એટલે તે ભૂખની વાત કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "દ્રશ્ય વર્ણન અને તેની અસર જોડો:<br>વિભાગ A:<br>1. જલેબીની ગૂંચળીઓ<br>2. કંગાલ સ્ત્રીનો અવાજ<br>3. ભીખુની નજર<br>4. લેખકના પૈસા<br><br>વિભાગ B:<br>(A) મદદ માટે વપરાયા<br>(B) લાલચ જગાડતી<br>(C) કરુણતાથી ભરેલો<br>(D) એકીટશે મિઠાઈ પર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (B), 2 - (C), 3 - (D), 4 - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નજર' હંમેશા 'એકીટશે' હોય અને 'અવાજ' હંમેશા 'કરુણ' હોય - આ શબ્દો જોડીમાં જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સમય અને વાતાવરણના જોડકાં જોડો:<br>વિભાગ A:<br>1. છ વાગ્યા હતા<br>2. ગેસના દીવા<br>3. જલેબીની દુકાન<br>4. ફૂટપાથ<br><br>વિભાગ B:<br>(A) ઝગમગતા હતા<br>(B) સાંજનો સમય<br>(C) મુસાફરોની ભીડ<br>(D) ભીખુનું ઊભા રહેવાનું સ્થાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (B), 2 - (A), 3 - (C), 4 - (D)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠની શરૂઆતમાં જ સાંજનો સમય (6 વાગ્યા) અને લાઈટોના ઝગમગાટની વાત છે.</p></div>"
+    }
+  ]
+}
