@@ -197,3 +197,86 @@ var Std7_Gujarati_MatchPairs = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "બે ખાનાનો પરિગ્રહ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ':<br>1. પાઠના લેખિકા<br>2. પાઠનો પ્રકાર<br>વિભાગ 'બ':<br>અ. પ્રસંગ લેખ<br>બ. મનુબહેન ગાંધી<br>ક. લોકકથા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - બ (મનુબહેન ગાંધી)<br>2 - અ (પ્રસંગ લેખ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'મનુ' એ 'પ્રસંગ' લખ્યો - મનુબહેન અને પ્રસંગલેખ યાદ રહી જશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ':<br>1. પરિગ્રહ<br>2. નિશ્ચય<br>વિભાગ 'બ':<br>અ. નિર્ણય<br>બ. જરૂર ન હોય તેવું વાપરવું તે<br>ક. આળસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - બ (જરૂર ન હોય તેવું વાપરવું તે)<br>2 - અ (નિર્ણય)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પરિ' એટલે આસપાસનું બધું ભેગું કરવું (પરિગ્રહ) અને 'નિશ્ચય' એટલે પાક્કો 'નિર્ણય'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ':<br>1. ખેદ<br>2. કસોટી<br>વિભાગ 'બ':<br>અ. આનંદ<br>બ. પરીક્ષા<br>ક. અફસોસ / દુઃખ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - ક (અફસોસ / દુઃખ)<br>2 - બ (પરીક્ષા)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૂલ થાય ત્યારે 'ખેદ' (અફસોસ) થાય અને જીવનમાં અઘરો સમય એટલે 'કસોટી' (પરીક્ષા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ' (રૂઢિપ્રયોગ):<br>1. ભાન ભૂલવું<br>2. વલખાં મારવા<br>વિભાગ 'બ' (અર્થ):<br>અ. ખૂબ પ્રયત્ન કરવો<br>બ. શાનમાં આવી જવું<br>ક. શુદ્ધિબુદ્ધિ ન રહેવી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - ક (શુદ્ધિબુદ્ધિ ન રહેવી)<br>2 - અ (ખૂબ પ્રયત્ન કરવો)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ભાન' એટલે 'બુદ્ધિ' - ભાન ભૂલવું એટલે બુદ્ધિ ન રહેવી. 'વલખાં' હંમેશા સફળ થવા માટે મરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ' (વિરોધી શબ્દ):<br>1. સગવડ<br>2. અસહ્ય<br>વિભાગ 'બ':<br>અ. સહ્ય<br>બ. મુશ્કેલી<br>ક. અગવડ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - ક (અગવડ)<br>2 - અ (સહ્ય)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિરોધી શબ્દમાં મોટેભાગે 'અ' લગાડવાથી કે કાઢવાથી જવાબ મળી જાય છે (સગવડ-અગવડ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ' (સ્થળ):<br>1. નૌઆખલી<br>2. પટણા<br>વિભાગ 'બ' (વિગત):<br>અ. બિહારનું એક શહેર<br>બ. બંગાળનું એક સ્થળ જ્યાં ગાંધીજી ગયા હતા<br>ક. દિલ્હીનું સ્ટેશન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - બ (બંગાળનું એક સ્થળ...)<br>2 - અ (બિહારનું એક શહેર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નૌઆખલી એટલે યજ્ઞનું સ્થળ (બંગાળ) અને પટણા એટલે બિહારની રાજધાની.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ':<br>1. ગાંધીજી<br>2. મનુબહેન<br>વિભાગ 'બ':<br>અ. ગાંધીજીના પૌત્રી<br>બ. ભારતના વાઈસરોય<br>ક. રાષ્ટ્રપિતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - ક (રાષ્ટ્રપિતા)<br>2 - અ (ગાંધીજીના પૌત્રી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ પાઠના મુખ્ય બે પાત્રો - દાદા (ગાંધીજી) અને પૌત્રી (મનુબહેન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ' (શબ્દ સમજૂતી):<br>1. અમૂલ્ય<br>2. આકરો<br>વિભાગ 'બ':<br>અ. કિંમતી / જેની કિંમત ન થઈ શકે તેવું<br>બ. નકામું<br>ક. સખત / કઠિન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - અ (અમૂલ્ય)<br>2 - ક (આકરો)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અ + મૂલ્ય' એટલે જેનું મૂલ્ય ન આંકી શકાય તેવું. 'આકરો' એટલે જે જીરવવો મુશ્કેલ હોય તેવો સખત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ':<br>1. ટ્રેનનો ડબ્બો<br>2. વાઈસરોયની ઓફિસ<br>વિભાગ 'બ':<br>અ. વિમાન<br>બ. બે ખાનાનો ઉપયોગ<br>ક. સલૂન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - બ (બે ખાનાનો ઉપયોગ)<br>2 - ક (સલૂન)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મનુબહેને બે ખાના પસંદ કર્યા હતા અને વાઈસરોય માટે ખાસ 'સલૂન' ડબ્બો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ' (વિશેષણ):<br>1. ભયંકર<br>2. મામૂલી<br>વિભાગ 'બ':<br>અ. થોડુંક / અલ્પ<br>બ. ડરામણું<br>ક. સુંદર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - બ (ડરામણું)<br>2 - અ (થોડુંક / અલ્પ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભય એટલે ડર, તેથી ભયંકર એટલે ડરામણું. મામૂલી એટલે સાવ નાનું અથવા અલ્પ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ':<br>1. ઇન્સાનિયત<br>2. કેળવણી<br>વિભાગ 'બ':<br>અ. ભણતર / શિક્ષણ<br>બ. માણસાઈ<br>ક. અજ્ઞાનતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - બ (માણસાઈ)<br>2 - અ (ભણતર / શિક્ષણ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઇન્સાન એટલે માણસ, તેથી ઇન્સાનિયત એટલે માણસાઈ. કેળવણી એટલે સાચું શિક્ષણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ' (શબ્દસમૂહ):<br>1. ઘરનો સરસામાન<br>2. રોકવા કે પકડવાની ક્રિયા<br>વિભાગ 'બ':<br>અ. ધરપકડ<br>બ. સાધન-સામગ્રી<br>ક. સામાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - બ (સાધન-સામગ્રી)<br>2 - અ (ધરપકડ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરસામાન એટલે બધી જ 'સામગ્રી' અને પકડવું એટલે 'ધરપકડ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ' (પાત્રની વિશેષતા):<br>1. બાપુ (ગાંધીજી)<br>2. વાઈસરોય માઉન્ટબેટન<br>વિભાગ 'બ':<br>અ. અંગ્રેજ અમલદાર<br>બ. કરકસરના આગ્રહી<br>ક. વિલાસી જીવન જીવનાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - બ (કરકસરના આગ્રહી)<br>2 - અ (અંગ્રેજ અમલદાર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધીજીનો મુખ્ય ગુણ 'કરકસર' હતો, જ્યારે માઉન્ટબેટન તે સમયના વાઈસરોય હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ' (સમય/સંખ્યા):<br>1. ટ્રેનનો સમય<br>2. વધારાના ખાનાની સંખ્યા<br>વિભાગ 'બ':<br>અ. 9:30<br>બ. 1 (એક)<br>ક. 10:30",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - અ (9:30)<br>2 - બ (1 - એક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સવારે સાડા નવે ટ્રેન ઉપડતી હતી અને મનુબહેને એકને બદલે એક 'વધારો' એટલે કુલ 2 ખાના રાખ્યા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ' (ક્રિયા):<br>1. સ્ટેશન માસ્તરને બોલાવ્યા<br>2. સામાન ખસેડ્યો<br>વિભાગ 'બ':<br>અ. બીજા ખાનામાંથી<br>બ. ઠપકો આપવા માટે<br>ક. ખાનું ખાલી કરવા માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - ક (ખાનું ખાલી કરવા માટે)<br>2 - અ (બીજા ખાનામાંથી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધીજીએ સ્ટેશન માસ્તરને બોલાવીને વધારાનું ખાનું પરત કર્યું હતું.</p></div>"
+    }
+  ]
+}
