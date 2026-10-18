@@ -56,3 +56,86 @@ var Std7_Gujarati_MatchPairs = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "આજની ઘડી રળિયામણી",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ': (1) આજની ઘડી રળિયામણી, (2) નરસિંહ મહેતા<br>વિભાગ 'બ': (A) કવિ, (B) કાવ્યનો પ્રકાર - ભક્તિગીત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'આજની ઘડી' ભક્તિમાં જાય અને 'નરસિંહ' તો ભક્તિના કવિ જ હોય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "શબ્દ અને તેના અર્થના યોગ્ય જોડકાં જોડો:<br>વિભાગ 'અ': (1) તરિયાતોરણ, (2) ગંગા-જમુનાનાં નીર<br>વિભાગ 'બ': (A) શુદ્ધ અને પવિત્ર પાણી, (B) ત્રણ જાતનાં પાનનું તોરણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'તરિયા' એટલે 'ત્રણ' (આસોપાલવ, આંબો, નારિયેળ) અને નીર એટલે પાણી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કાવ્ય પંક્તિના સંદર્ભમાં જોડો:<br>વિભાગ 'અ': (1) વાંસ વધાવવા, (2) ચોક પૂરવા<br>વિભાગ 'બ': (A) સાથિયા દ્વારા, (B) મંડપ બનાવવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વાંસનો મંડપ હોય અને ચોકમાં સાથિયા (મોતીડે) પૂરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિશેષણ અને સંજ્ઞાના જોડકાં જોડો:<br>વિભાગ 'અ': (1) રળિયામણી, (2) મીઠડો<br>વિભાગ 'બ': (A) વહાલો (શ્રીકૃષ્ણ), (B) આજની ઘડી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઘડી હંમેશા રળિયામણી (સુંદર) હોય અને ભગવાન મીઠડા લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિરોધી શબ્દોના યોગ્ય જોડકાં જોડો:<br>વિભાગ 'અ': (1) વહાલો, (2) મંગળ<br>વિભાગ 'બ': (A) અમંગળ, (B) દવલો (અણગમતો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): શબ્દની આગળ 'અ' લગાડવાથી વિરોધી બને (મંગળ - અમંગળ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સાચો અર્થ શોધીને જોડો:<br>વિભાગ 'અ': (1) મલપતો, (2) પખાળવું<br>વિભાગ 'બ': (A) ધોવું (પ્રેમપૂર્વક), (B) ઉમંગમાં ઠાઠથી ચાલવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'મ' પરથી 'મલપતો' અને 'મ' પરથી 'મસ્તીમાં' કે 'ઉમંગમાં' ચાલવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પાત્ર અને તેની ક્રિયા જોડો:<br>વિભાગ 'અ': (1) સખી, (2) શ્રીકૃષ્ણ<br>વિભાગ 'બ': (A) મલપતા આવે, (B) સમાચાર આપે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સખી વધામણી (સમાચાર) આપે અને કાન્હો (ગજ)ની જેમ મલપતો આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "શબ્દસમૂહ માટે એક શબ્દના જોડકાં જોડો:<br>વિભાગ 'અ': (1) ત્રણ જાતના પાનનું તોરણ, (2) મંગળ પ્રસંગે ગવાતું ગીત<br>વિભાગ 'બ': (A) મંગળ ગીત (ગીત), (B) તરિયાતોરણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ત્રણ પાન એટલે તરિયાતોરણ (આસોપાલવ, આંબો, નારિયેળ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સમાનાર્થી શબ્દો જોડો:<br>વિભાગ 'અ': (1) ચરણ, (2) નીર<br>વિભાગ 'બ': (A) પાણી, (B) પગ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ચરણ' સ્પર્શ હંમેશા 'પગ'ના થાય અને 'નીર' એટલે જળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "કાવ્ય પંક્તિ પૂર્ણ કરવા માટે જોડો:<br>વિભાગ 'અ': (1) સખી આજની ઘડી..., (2) ગંગા-જમુનાનાં...",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - રળિયામણી, (2) - નીર મંગાવીએ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કાવ્યના મુખ્ય શબ્દો યાદ રાખો: ઘડી-રળિયામણી, નદી-નીર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વસ્તુ અને તેના ઉપયોગને જોડો:<br>વિભાગ 'અ': (1) આલા-લીલા વાંસ, (2) મોતીડાં<br>વિભાગ 'બ': (A) ચોક પૂરવા માટે, (B) મંડપ રોપાવવા માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વાંસ હંમેશા બાંધકામ (મંડપ) માટે વપરાય અને મોતી શણગાર માટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "કાવ્યમાં વપરાયેલા શબ્દો જોડો:<br>વિભાગ 'અ': (1) ગજ, (2) હરિ<br>વિભાગ 'બ': (A) ભગવાન (શ્રીકૃષ્ણ), (B) હાથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ગજ' એટલે હાથી જેવી ગતિએ મલપતા આવતા હરિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સાચી જોડણીના અર્થ મુજબ જોડો:<br>વિભાગ 'અ': (1) નીર, (2) નીડ<br>વિભાગ 'બ': (A) માળો, (B) જળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ર' એટલે રત્નાકર (દરિયો-પાણી) અને 'ડ' એટલે રહેઠાણ (માળો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "કાવ્ય પંક્તિના અંત્યાનુપ્રાસ જોડો:<br>વિભાગ 'અ': (1) રળિયામણી, (2) સાથિયા<br>વિભાગ 'બ': (A) વધામણી, (B) વાહલાજીયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કાવ્યમાં પાછળના શબ્દોનો પ્રાસ મળે તેને અંત્યાનુપ્રાસ કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "નરસિંહ મહેતાના સ્વામી માટે વપરાયેલા શબ્દો જોડો:<br>વિભાગ 'અ': (1) નરસૈંયાનો સ્વામી, (2) મીઠડાથી<br>વિભાગ 'બ': (A) મીઠડો, (B) શ્રીકૃષ્ણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નરસિંહના સ્વામી તો એક જ - શ્રીકૃષ્ણ!</p></div>"
+    }
+  ]
+}
