@@ -280,3 +280,61 @@ var Std7_Gujarati_MatchPairs = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "રાનમાં (પ્રકૃતિગીત)",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ ‘અ’ ને વિભાગ ‘બ’ સાથે સાચી રીતે જોડો:<br>વિભાગ ‘અ’:<br>1. કાવ્યનું નામ<br>2. કવિનું નામ<br>3. કાવ્યનો પ્રકાર<br>વિભાગ ‘બ’:<br>અ. ધ્રુવ ભટ્ટ<br>બ. રાનમાં<br>ક. પ્રકૃતિગીત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1 - બ), (2 - અ), (3 - ક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>'રાનમાં' રખડવા ગયા 'ધ્રુવ' ભાઈ, જે 'પ્રકૃતિ' ના પ્રેમી હતા. (રાન = કાવ્ય, ધ્રુવ = કવિ, પ્રકૃતિ = પ્રકાર)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "શબ્દના અર્થના આધારે યોગ્ય જોડકાં જોડો:<br>વિભાગ ‘અ’:<br>1. રાન<br>2. વાછંટ<br>3. નેવાં<br>વિભાગ ‘બ’:<br>અ. પવનથી ઉડતા વરસાદના ટીપાં<br>બ. જંગલ<br>ક. છાપરાના છેડા પરના નળિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1 - બ), (2 - અ), (3 - ક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>'રાન' એટલે જંગલ અને 'વા' સાથે આવે તે 'વાછંટ'. નેવાં હંમેશા મકાનના નળિયા સાથે જોડાયેલા હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સમાનાર્થી શબ્દોની યોગ્ય જોડી બનાવો:<br>વિભાગ ‘અ’:<br>1. આકાશ<br>2. વાદળ<br>3. પાન<br>વિભાગ ‘બ’:<br>અ. પર્ણ<br>બ. નભ<br>ક. મેઘ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1 - બ), (2 - ક), (3 - અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>આકાશમાં 'નભ' હોય, વાદળમાંથી 'મેઘ' વરસે અને વૃક્ષ પર 'પર્ણ' (પાન) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "કાવ્ય પંક્તિ મુજબ ક્રિયા અને સ્થાનના જોડકાં જોડો:<br>વિભાગ ‘અ’:<br>1. વાડ પરથી મેદાનમાં ઉતરશે<br>2. ઊંચેથી આરપાર સરશે<br>3. આખા મકાનમાં ગુંજશે<br>વિભાગ ‘બ’:<br>અ. આકાશ (વાદળ)<br>બ. લીલાશ<br>ક. વરસાદની વાછંટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1 - બ), (2 - અ), (3 - ક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>લીલાશ હંમેશા જમીન (વાડ) પરથી ઉતરે, આકાશ ઊંચે હોય અને વાછંટ મકાનમાં ગુંજે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિરુદ્ધાર્થી શબ્દોના સાચા જોડકાં જોડો:<br>વિભાગ ‘અ’:<br>1. ઉતરવું<br>2. આકાશ<br>3. ભીનું<br>વિભાગ ‘બ’:<br>અ. ધરતી<br>બ. ચઢવું<br>ક. સૂકું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1 - બ), (2 - અ), (3 - ક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>સીડી ચઢવી-ઉતરવી, આકાશ-ધરતીનો છેડો અને વરસાદમાં ભીનું તો તડકામાં સૂકું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વરસાદની અસર કોના પર થશે? (કાવ્ય મુજબ જોડકાં):<br>વિભાગ ‘અ’:<br>1. પર્વત<br>2. પંખી<br>3. વનસ્પતિ<br>વિભાગ ‘બ’:<br>અ. પાન પાન પર થશે<br>બ. ડુંગરને થશે<br>ક. ટહુકો થઈને ગહેકશે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1 - બ), (2 - ક), (3 - અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ડુંગર એટલે પર્વત, પંખી ટહુકો કરે અને વનસ્પતિને પાન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "કવિના ભાવ મુજબ સાચા જોડકાં જોડો:<br>વિભાગ ‘અ’:<br>1. વાદળ<br>2. ધોધમાર<br>3. ઘાસ<br>વિભાગ ‘બ’:<br>અ. વરસવું<br>બ. ઘેરાવું<br>ક. લીલુંછમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1 - બ), (2 - અ), (3 - ક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>વાદળ ઘેરાય, વરસાદ ધોધમાર વરસે અને ઘાસ લીલુંછમ દેખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "શબ્દસમૂહ માટે એક શબ્દના જોડકાં જોડો:<br>વિભાગ ‘અ’:<br>1. જંગલ<br>2. આનંદમાં આવીને બોલવું<br>3. પુષ્કળ વરસતો વરસાદ<br>વિભાગ ‘બ’:<br>અ. ધોધમાર<br>બ. રાન<br>ક. ગહેકવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1 - બ), (2 - ક), (3 - અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>રાન એટલે ફોરેસ્ટ, પક્ષી ગહેકે અને વરસાદ ધોધમાર પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "કાવ્યની ઘટનાઓના સાચા જોડકાં જોડો:<br>વિભાગ ‘અ’:<br>1. ક્યાંક ચોમાસું ગાજે છે<br>2. વાડ પર સૂતેલી<br>3. ઊંચેથી સરતું<br>વિભાગ ‘બ’:<br>અ. આકાશ<br>બ. રાનમાં<br>ક. સઘળી લીલાશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1 - બ), (2 - ક), (3 - અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ચોમાસું હંમેશા રાનમાં (જંગલમાં) ગાજતું સંભળાય અને લીલાશ વાડ પર સૂતેલી લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિશેષણ અને સંજ્ઞાના યોગ્ય જોડકાં જોડો:<br>વિભાગ ‘અ’:<br>1. ઘેરાયેલા<br>2. ધારદાર<br>3. મધુર<br>વિભાગ ‘બ’:<br>અ. વરસાદની ધારા<br>બ. ટહુકો<br>ક. વાદળો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1 - ક), (2 - અ), (3 - બ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>વાદળ હંમેશા ઘેરાય, વરસાદની ધારા અણીદાર (ધારદાર) લાગે અને પક્ષીનો ટહુકો મધુર હોય.</p></div>"
+    }
+  ]
+}
