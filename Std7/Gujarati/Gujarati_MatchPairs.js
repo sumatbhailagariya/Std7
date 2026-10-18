@@ -139,3 +139,61 @@ var Std7_Gujarati_MatchPairs = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "પરીક્ષા",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br><b>વિભાગ 'અ'</b><br>1. લેખકનું નામ<br>2. સાહિત્ય પ્રકાર<br><b>વિભાગ 'બ'</b><br>(A) બોધકથા<br>(B) પન્નાલાલ પટેલ<br>(C) નવલકથા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પરીક્ષા' માં પાસ થવા 'પન્ના' (પેજ) વાંચવા પડે, એટલે લેખક પન્નાલાલ પટેલ અને આમાંથી આપણને 'બોધ' મળે છે એટલે બોધકથા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "શબ્દ અને તેના અર્થના જોડકાં જોડો:<br><b>વિભાગ 'અ'</b><br>1. મોલ<br>2. વાયરો<br><b>વિભાગ 'બ'</b><br>(A) પવન<br>(B) કિંમત<br>(C) પાક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (C), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખેતરમાં જે લહેરાય તે 'મોલ' (પાક) અને જે વાય (વહે) તે 'વાયરો' (પવન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "રૂઢિપ્રયોગ અને તેના અર્થના જોડકાં જોડો:<br><b>વિભાગ 'અ'</b><br>1. ટાપસી પૂરવી<br>2. ખાલી ઘોડા દોડાવવા<br><b>વિભાગ 'બ'</b><br>(A) નકામા વિચારો કરવા<br>(B) ચાલતી વાતને ટેકો આપવો<br>(C) ખૂબ દોડધામ કરવી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈ વાત કરતું હોય ને આપણે 'હા માં હા' ભણીએ એને 'ટાપસી' કહેવાય, અને મનમાં વિચારો કરીએ એને 'ઘોડા' દોડાવ્યા કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિરોધી શબ્દોના જોડકાં જોડો:<br><b>વિભાગ 'અ'</b><br>1. સવાર<br>2. મંજૂર<br><b>વિભાગ 'બ'</b><br>(A) નાહિંમત<br>(B) સાંજ<br>(C) નામંજૂર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દિવસ ઊગે તો 'સવાર' અને આથમે તો 'સાંજ'. હા પાડીએ તો 'મંજૂર' અને ના પાડીએ તો 'ના' આગળ લગાડી 'નામંજૂર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "શબ્દસમૂહ માટે એક શબ્દના જોડકાં જોડો:<br><b>વિભાગ 'અ'</b><br>1. ગાયોનું ટોળું<br>2. ખેતરની આજુબાજુની વાડ<br><b>વિભાગ 'બ'</b><br>(A) મેદની<br>(B) ધણ<br>(C) ઝૂડ/સીમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાયો હંમેશા 'ધણ' માં હોય, અને ખેતરની સુરક્ષા માટે 'ઝૂડ' કે વાડ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પાત્ર અને તેની વિશેષતાના જોડકાં જોડો:<br><b>વિભાગ 'અ'</b><br>1. મહાદેવ<br>2. ઈન્સ્પેક્ટર<br><b>વિભાગ 'બ'</b><br>(A) માનવતાવાદી અધિકારી<br>(B) પરીક્ષા આપનાર ઈમાનદાર છોકરો<br>(C) આળસુ વિદ્યાર્થી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મહાદેવ એટલે જેણે 'માનવતાની પરીક્ષા' પાસ કરી, અને ઈન્સ્પેક્ટર સાહેબ જેણે મહાદેવની આંખના આંસુમાં 'ઈમાનદારી' જોઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "રૂઢિપ્રયોગના અર્થ જોડો:<br><b>વિભાગ 'અ'</b><br>1. પાંખ્યું આવવી<br>2. પરસેવે રેબઝેબ થવું<br><b>વિભાગ 'બ'</b><br>(A) ખૂબ જ થાકી જવું અથવા ગભરાઈ જવું<br>(B) ખૂબ જ ઉત્સાહમાં આવી જવું<br>(C) ઉડી જવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાંખ આવે ત્યારે પક્ષી 'ઉત્સાહ' માં ઉડે, અને જ્યારે ગાયને હાંકતા મહાદેવ દોડ્યો ત્યારે પરસેવે 'રેબઝેબ' (ભીંજાઈ) ગયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "પરીક્ષામાં આવતા શબ્દોના અર્થ જોડો:<br><b>વિભાગ 'અ'</b><br>1. વિદ્યાધિકારી<br>2. શિષ્યવૃત્તિ<br><b>વિભાગ 'બ'</b><br>(A) તેજસ્વી વિદ્યાર્થીને ભણવા માટે મળતી આર્થિક મદદ<br>(B) કેળવણી ખાતાના ઉચ્ચ અધિકારી<br>(C) શાળાના આચાર્ય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વિદ્યા' ના અધિકારી એટલે કેળવણી અધિકારી, અને શિષ્યને જે ભણવા માટે 'વૃત્તિ' (પૈસા) મળે તે શિષ્યવૃત્તિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પાઠના તળપદા શબ્દોના શિષ્ટરૂપ જોડો:<br><b>વિભાગ 'અ'</b><br>1. લોઢું<br>2. ડોકું<br><b>વિભાગ 'બ'</b><br>(A) માથું<br>(B) લોખંડ<br>(C) લાકડું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગામડામાં લોખંડને 'લોઢું' કહેવાય અને ગરદન/માથાના ભાગને 'ડોકું' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ખેતીવાડીને લગતા શબ્દો જોડો:<br><b>વિભાગ 'અ'</b><br>1. કાપણી<br>2. વાવણી<br><b>વિભાગ 'બ'</b><br>(A) બીજ રોપવાની ક્રિયા<br>(B) પાક લણવાની ક્રિયા<br>(C) ખેતર ખેડવાની ક્રિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાપણી એટલે 'કાપવું' (પાક લેવો) અને વાવણી એટલે 'વાવવું' (બીજ રોપવા).</p></div>"
+    }
+  ]
+}
