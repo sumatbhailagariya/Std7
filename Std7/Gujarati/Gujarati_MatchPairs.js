@@ -421,3 +421,61 @@ var Std7_Gujarati_MatchPairs = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "જીવનપાથેય",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ': (1) જીવનપાથેય (2) કાકાસાહેબ કાલેલકર (3) સ્મરણયાત્રા<br>વિભાગ 'બ': (A) મૂળ આત્મકથા ગ્રંથ (B) સાહિત્ય પ્રકાર (C) લેખક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (C), (3) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>જીવનમાં જે ઉપયોગી હોય તે 'પાથેય' (સાહિત્ય), 'કાકા' એટલે લેખક, અને બધી યાદોની 'યાત્રા' એટલે સ્મરણયાત્રા.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "શબ્દાર્થ મુજબ યોગ્ય જોડકાં જોડો:<br>વિભાગ 'અ': (1) ઉમેદ (2) શાખ (3) પ્રોમિસરી નોટ<br>વિભાગ 'બ': (A) આબરૂ (B) સરકારને નાણું આપવા બદલ લખાતું દસ્તાવેજ (C) આશા/ઈચ્છા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (C), (2) - (A), (3) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>'ઉમેદ' એટલે ઉમ્મીદ (આશા), 'શાખ' એટલે માર્કેટમાં વેલ્યુ (આબરૂ) અને 'નોટ' એટલે સરકારી દસ્તાવેજ.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "રૂઢિપ્રયોગ અને તેના અર્થના જોડકાં જોડો:<br>વિભાગ 'અ': (1) ઉમેદ બર ન આવવી (2) શાખ જામવી (3) એક્કો હોવો<br>વિભાગ 'બ': (A) પ્રતિષ્ઠા ઊભી થવી (B) ધાર્યા પ્રમાણે ન થવું (C) સૌથી ચડિયાતા હોવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A), (3) - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>'એક્કો' હંમેશા 'ચડિયાતો' હોય અને જો 'બર ન આવે' તો સમજવું કે પ્લાન ફેલ ગયો.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "પાત્ર અને તેની વિશેષતાના જોડકાં જોડો:<br>વિભાગ 'અ': (1) દત્તુ (2) પિતાશ્રી (3) ભાઈઓ<br>વિભાગ 'બ': (A) જેમના શિક્ષણ પાછળ ખર્ચ વ્યર્થ ગયો (B) લેખકનું બાળપણનું નામ (C) પ્રામાણિક અને સંસ્કારી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (C), (3) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>દત્તાત્રેય પરથી 'દત્તુ' યાદ રાખવું. પિતા હંમેશા સંસ્કાર આપે અને ભાઈઓના કિસ્સામાં લેખક નિરાશ હતા.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "શબ્દસમૂહ માટે એક શબ્દના જોડકાં જોડો:<br>વિભાગ 'અ': (1) માર્ગનું ભથ્થું (2) તેજસ્વી વિદ્યાર્થીને મળતી આર્થિક મદદ (3) છૂપી રીતે લેવાતી વધારાની રકમ<br>વિભાગ 'બ': (A) લાંચ (B) પાથેય (C) શિષ્યવૃત્તિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (C), (3) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>માર્ગ = પથ (પાથેય), ભણવામાં મદદ = શિષ્યવૃત્તિ, અને ખોટું કામ એટલે લાંચ.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિરુદ્ધાર્થી શબ્દોના જોડકાં જોડો:<br>વિભાગ 'અ': (1) સજ્જન (2) પ્રામાણિક (3) સ્મરણ<br>વિભાગ 'બ': (A) અપ્રામાણિક (B) વિસ્મરણ (C) દુર્જન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (C), (2) - (A), (3) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>'સ' નો વિરોધી 'દુ' (સજ્જન-દુર્જન) અને શબ્દની આગળ 'અ' લગાવવાથી મોટાભાગે વિરોધી બને (પ્રામાણિક-અપ્રામાણિક).</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સ્થળ અને તેની સાથે જોડાયેલી બાબત જોડો:<br>વિભાગ 'અ': (1) પુણે (2) સાંગલી (3) બેલગામ<br>વિભાગ 'બ': (A) ટ્રેન મુસાફરીનું સ્ટેશન (B) એન્જિનિયરિંગ કોલેજનું શહેર (C) લેખકની ઓફિસનું જૂનું સ્થળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (C), (3) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>પુણે ભણવા માટે જાણીતું છે (એન્જિનિયરિંગ) અને સાંગલી સ્ટેટની ટ્રેઝરી ત્યાં હતી.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સમાનાર્થી શબ્દોના યોગ્ય જોડકાં જોડો:<br>વિભાગ 'અ': (1) કેળવણી (2) પદવી (3) દોષ<br>વિભાગ 'બ': (A) વાંક/ખામી (B) શિક્ષણ (C) ઇલકાબ/ડિગ્રી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (C), (3) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>કેળવણી લેવી એટલે ભણવું (શિક્ષણ) અને ભૂલ કરવી એટલે દોષ (વાંક).</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિચારધારા અને તેને રજૂ કરનાર પાત્ર જોડો:<br>વિભાગ 'અ': (1) સસ્તી નોટ ખરીદીને વધુ ભાવે વેચવી (2) પુત્રને સાચો માર્ગ બતાવવો (3) અધમ કેળવણી<br>વિભાગ 'બ': (A) પિતાશ્રી (B) લેખકના મનનો વિચાર (C) એન્જિનિયરિંગ વિશેની જૂની માન્યતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A), (3) - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>લેખક નાની ઉંમરે લાલચમાં આવી ગયા હતા, જ્યારે પિતાજીએ તેમને સાચો રસ્તો (પાથેય) બતાવ્યો.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "જોડણી અને તેના સાચા પ્રકાર જોડો:<br>વિભાગ 'અ': (1) પિતાશ્રી (2) શિષ્યવૃત્તિ (3) એન્જિનિયરિંગ<br>વિભાગ 'બ': (A) ઈંગ્લીશ શબ્દ (B) જોડાક્ષર વાળો શબ્દ (C) સન્માનજનક સંબોધન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (C), (2) - (B), (3) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>'શ્રી' લાગે એટલે માન, 'વૃત્તિ' માં જોડાક્ષર છે અને 'એન્જિનિયર' તો અંગ્રેજી જ હોય!</div>"
+    }
+  ]
+}
