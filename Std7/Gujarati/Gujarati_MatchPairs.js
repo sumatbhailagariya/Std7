@@ -479,3 +479,86 @@ var Std7_Gujarati_MatchPairs = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "માલમ હલેસાં માર (લોકગીત)",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ':<br>1. ભાભી<br>2. દિયર<br>વિભાગ 'બ':<br>A. આળસુનો સરદાર<br>B. મેણું મારનાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ભાભીએ 'મેણું' માર્યું અને દિયર 'આળસુ' હતો - આ મુખ્ય વાર્તા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ':<br>1. જાવ દ્વીપ<br>2. સિંહલદ્વીપ<br>વિભાગ 'બ':<br>A. પદમણી નાર પરણવા<br>B. લક્ષ્મી (ધન) કમાવવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>'જાવ' એટલે જવું કમાવવા (ધન) અને 'સિંહલ' (શ્રીલંકા) પદમણી સ્ત્રી માટે જાણીતું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "શબ્દના અર્થના જોડકાં જોડો:<br>વિભાગ 'અ':<br>1. માલમ<br>2. મેણું<br>વિભાગ 'બ':<br>A. કડવા વેણ/ટોણો<br>B. વહાણ ચલાવનાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>માલમ = વહાણ હાંકનાર (Captain). મેણું = હૃદયમાં વાગે તેવા શબ્દો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિરોધી શબ્દોના જોડકાં જોડો:<br>વિભાગ 'અ':<br>1. આળસ<br>2. સુખ<br>વિભાગ 'બ':<br>A. દુઃખ<br>B. ઉદ્યમ/મહેનત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>આળસનો દુશ્મન મહેનત (ઉદ્યમ) છે. સુખનું ઊંધું દુઃખ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સમાનાર્થી શબ્દોના જોડકાં જોડો:<br>વિભાગ 'અ':<br>1. લક્ષ્મી<br>2. ઘોડલા<br>વિભાગ 'બ':<br>A. અશ્વ/ઘોડા<br>B. ધન/લક્ષ્મી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ઘોડલા એ કાઠિયાવાડી બોલીમાં ઘોડા માટે વપરાય છે અને લક્ષ્મી એટલે સંપત્તિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "કાવ્ય પંક્તિ અને તેના અર્થને જોડો:<br>વિભાગ 'અ':<br>1. આળસનો ઓતાર<br>2. પદમણી નાર<br>વિભાગ 'બ':<br>A. ઉત્તમ સ્ત્રી/સુંદર સ્ત્રી<br>B. ખૂબ જ આળસુ વ્યક્તિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>'ઓતાર' એટલે અવતાર. આળસનો અવતાર એટલે મહા આળસુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ':<br>1. જીવવું સફળ છે<br>2. મતિ સુધરી ગઈ<br>વિભાગ 'બ':<br>A. ભાભીના વેણ સાંભળીને<br>B. કમાણી કરીને પાછા આવે તો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>જીવતર ત્યારે જ સફળ ગણાય જ્યારે કંઈક કમાણી કરી હોય અને નામ રોશન કર્યું હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "તળપદા શબ્દોના શિષ્ટ રૂપ જોડો:<br>વિભાગ 'અ':<br>1. ભાયડા<br>2. મતિ<br>વિભાગ 'બ':<br>A. બુદ્ધિ<br>B. પુરુષ/ભાઈ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ભાયડા (પુરુષત્વ) અને મતિ (બુદ્ધિ) - લોકગીતમાં આ શબ્દોની છાંટ જોવા મળે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સ્થળ અને તેની વિશેષતા જોડો:<br>વિભાગ 'અ':<br>1. મેવાડ<br>2. જાવ<br>વિભાગ 'બ':<br>A. લક્ષ્મી (કમાણી માટે)<br>B. રમત/રજવાડું (સંદર્ભ મુજબ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>કાવ્યમાં 'જાવ' દ્વીપે જવાની વાત કમાણી માટે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "પાત્ર અને તેની લાગણી જોડો:<br>વિભાગ 'અ':<br>1. દિયર<br>2. ભાભી<br>વિભાગ 'બ':<br>A. સુધારવાની ઈચ્છા (કડવા વેણ દ્વારા)<br>B. માઠું લાગવું / પડકાર ઝીલવો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ભાભી કડવું બોલે છે પણ દિયરના ભલા માટે, અને દિયર તેને પડકાર તરીકે લે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "શબ્દસમૂહ માટે એક શબ્દના જોડકાં જોડો:<br>વિભાગ 'અ':<br>1. વહાણ ચલાવનાર<br>2. લક્ષ્મણ જેવો ભાઈ<br>વિભાગ 'બ':<br>A. દિયર<br>B. માલમ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>માલમ એટલે કેપ્ટન અને દિયર એટલે પતિનો નાનો ભાઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "કાવ્યના વિશેષણો જોડો:<br>વિભાગ 'અ':<br>1. વેણ<br>2. બુદ્ધિ<br>વિભાગ 'બ':<br>A. આલબં (નિર્મળ/શુદ્ધ)<br>B. કડવાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ભાભીના વેણ 'કડવાં' હતાં જેનાથી દિયરની બુદ્ધિ (મતિ) સુધરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ક્રમિક ઘટનાઓ જોડો:<br>વિભાગ 'અ':<br>1. પ્રથમ ઘટના<br>2. અંતિમ ઈચ્છા<br>વિભાગ 'બ':<br>A. ભાભીના મુખેથી આશીર્વાદ મેળવવા<br>B. ભાભીએ મેણું માર્યું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>મેણાથી શરૂઆત થાય અને સુધરીને પાછા આવી ભાભીને મળવાની ઈચ્છાથી અંત થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "સંબંધોના જોડકાં જોડો:<br>વિભાગ 'અ':<br>1. દિયરના મોટા ભાઈ<br>2. મોટા ભાઈની પત્ની<br>વિભાગ 'બ':<br>A. ભાભી<br>B. પતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>દિયર માટે તેનો મોટો ભાઈ પિતાતુલ્ય અને ભાભી માતાતુલ્ય હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "કાવ્યના મુખ્ય ભાવો જોડો:<br>વિભાગ 'અ':<br>1. મેણું મારવું<br>2. હલેસાં મારવા<br>વિભાગ 'બ':<br>A. પુરુષાર્થ/મહેનત કરવી<br>B. ઠપકો આપવો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>હલેસાં મારવા એટલે પ્રગતિના પંથે આગળ વધવું.</p></div>"
+    }
+  ]
+}
