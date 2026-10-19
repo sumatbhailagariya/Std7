@@ -562,3 +562,61 @@ var Std7_Gujarati_MatchPairs = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "બાનો વાડો",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ':<br>(1) 'બાનો વાડો' પાઠના લેખક<br>(2) 'બાનો વાડો' પાઠનો સાહિત્ય પ્રકાર<br>વિભાગ 'બ':<br>(અ) લલિત નિબંધ<br>(બ) પ્રવીણ દરજી<br>(ક) નવલકથા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (બ), (2) - (અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પ્રવીણ' ભાઈ 'લલિત' રીતે 'બા' ના વાડાનું વર્ણન કરે છે. (પ્રવીણ = લેખક, લલિત = પ્રકાર)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ફૂલો અને તેની લાક્ષણિકતા મુજબ જોડો:<br>વિભાગ 'અ':<br>(1) મોગરો<br>(2) જાસૂદ<br>વિભાગ 'બ':<br>(અ) લાલ ચટાક ફૂલ<br>(બ) રાત્રે જ ખીલે<br>(ક) એની સુગંધનો દરિયો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ક), (2) - (અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોગરો હંમેશા સુગંધ માટે અને જાસૂદ તેના લાલ રંગ માટે ઓળખાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ઔષધિય છોડ અને તેના ઉપયોગ મુજબ જોડો:<br>વિભાગ 'અ':<br>(1) અરડૂસી<br>(2) તુલસી<br>વિભાગ 'બ':<br>(અ) પૂજા અને શરદીમાં ઉપયોગી<br>(બ) ખાંસી અને કફ માટે<br>(ક) તેલ કાઢવા માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (બ), (2) - (અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અરડૂસી = ઉધરસ (ખાંસી) ની દવા; તુલસી = દરેક ગુજરાતીના આંગણે પૂજા માટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ફળોના વૃક્ષો અને તેના વર્ણન મુજબ જોડો:<br>વિભાગ 'અ':<br>(1) પપૈયાં<br>(2) લીંબુ<br>વિભાગ 'બ':<br>(અ) આખું વર્ષ ફળ આપે<br>(બ) એરંડા જેવી કાતરીઓ<br>(ક) પર્વત જેવડા ફળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (બ), (2) - (અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પપૈયાના ઝાડ પર 'કાતરી' જેવા ફળ લટકે અને લીંબુ તો બારેમાસ મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "શબ્દ અને તેના અર્થ મુજબ જોડો:<br>વિભાગ 'અ':<br>(1) અતીત<br>(2) નિરંતર<br>વિભાગ 'બ':<br>(અ) હંમેશા / સતત<br>(બ) ભવિષ્ય<br>(ક) વીતેલો સમય",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ક), (2) - (અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અતીત' એટલે જે 'વીતી' ગયું છે તે (ભૂતકાળ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "બાની લાક્ષણિકતાઓ જોડો:<br>વિભાગ 'અ':<br>(1) બાનું જીવનસૂત્ર<br>(2) બાનો દેખાવ<br>વિભાગ 'બ':<br>(અ) ખાઈ પીને મજા કરવી<br>(બ) નીચી દડીના અને મજબૂત બાંધાના<br>(ક) 'ખૂટ્યું છે' નહિ પણ 'કામ કરવું'",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (ક), (2) - (બ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બા એટલે કામ અને મજબૂત મનોબળનો પર્યાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "રૂઢિપ્રયોગ અને તેનો અર્થ જોડો:<br>વિભાગ 'અ':<br>(1) ટાઢક વળવી<br>(2) તડકી-છાંયડી જોવી<br>વિભાગ 'બ':<br>(અ) સુખ-દુઃખ જોવા<br>(બ) શાંતિ થવી<br>(ક) ગરમી લાગવી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (બ), (2) - (અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તડકો અને છાંયડો એટલે જીવનના સુખ અને દુઃખના તબક્કા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વાડાની વનસ્પતિ અને તેના ગુણ જોડો:<br>વિભાગ 'અ':<br>(1) કરણ અને સરગવો<br>(2) ગુલાબ અને કરેણ<br>વિભાગ 'બ':<br>(અ) સુશોભન અને ફૂલો માટે<br>(બ) વાડાની સરહદ (વાડ) બનાવવા<br>(ક) માત્ર છાંયડો આપવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (બ), (2) - (અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાડાની રક્ષા માટે જે વવાય તે 'વાડ' (સરહદ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "લેખકનું વતન અને કૃતિ વિશે જોડો:<br>વિભાગ 'અ':<br>(1) પ્રવીણ દરજીનું વતન<br>(2) 'બાનો વાડો' કયા સંગ્રહમાંથી લેવાયો છે?<br>વિભાગ 'બ':<br>(અ) ગાતા ઝરણાં<br>(બ) મહેન્દ્રગઢ (પંચમહાલ)<br>(ક) લીલા લહેર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (બ), (2) - (અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઝરણાં' ગાય અને 'બા' વાડો સાચવે. સંગ્રહનું નામ 'ગાતા ઝરણાં'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "બાના જીવનના પાસાઓ જોડો:<br>વિભાગ 'અ':<br>(1) બાની ઉંમર<br>(2) બાની શ્રદ્ધા<br>વિભાગ 'બ':<br>(અ) કર્મ અને ધર્મ એક જ<br>(બ) પંચોતેર વર્ષ<br>(ક) એંસી વર્ષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (બ), (2) - (અ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બા 75 વર્ષના હોવા છતાં 75 ગણી સ્ફૂર્તિથી કામ કરતા હતા.</p></div>"
+    }
+  ]
+}
