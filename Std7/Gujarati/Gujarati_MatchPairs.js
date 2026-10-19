@@ -620,3 +620,86 @@ var Std7_Gujarati_MatchPairs = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "અખબારી નોંધ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: \nવિભાગ 'અ': (1) અખબારી નોંધના લેખક (2) 'અખબાર' શબ્દનું મૂળ \nવિભાગ 'બ': (A) ફારસી (B) અરબી (C) ડૉ. ચંદ્રકાંત મહેતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>લેખક માટે 'ચંદ્ર' જેવો પ્રકાશ ફેલાવનાર 'ચંદ્રકાંત' અને 'અખબાર' એ 'અ' પરથી શરૂ થતા 'અરબી' ભાષાના 'ખબર' શબ્દનું બહુવચન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: \nવિભાગ 'અ': (1) સમાચાર (2) અંગ્રેજીમાં સમાચાર માટેનો શબ્દ \nવિભાગ 'બ': (A) News (B) સમ + આચાર (C) સંવાદ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>'સમાચાર' માં 'સમ' એટલે સરખું અને 'આચાર' એટલે વ્યવહાર. અંગ્રેજીમાં ચારેય દિશા (N, E, W, S) ભેગી થાય એટલે NEWS બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: \nવિભાગ 'અ': (1) સંવાદદાતા (2) તંત્રીલેખ \nવિભાગ 'બ': (A) એડિટોરિયલ (B) રિપોર્ટર (C) જાહેરખબર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>સંવાદ કરનાર એટલે રિપોર્ટર અને તંત્રી (Editor) દ્વારા લખાયેલ લેખ એટલે Editorial.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: \nવિભાગ 'અ': (1) શૈક્ષણિક સમાચાર (2) ધાર્મિક સમાચાર \nવિભાગ 'બ': (A) સુંદરકાંડ પાઠ (B) પરીક્ષાનું પરિણામ (C) વ્યાખ્યાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>શિક્ષણ એટલે પરીક્ષા/પરિણામ અને ધર્મ એટલે પૂજા-પાઠ કે સુંદરકાંડ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: \nવિભાગ 'અ': (1) મૃત્યુ નોંધ (2) ઇનામ વિતરણ \nવિભાગ 'બ': (A) પારિતોષિક (B) બેસણું (C) પુસ્તક વિમોચન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>મૃત્યુ પછી 'બેસણું' રાખવામાં આવે અને સારું કામ કરો તો 'પારિતોષિક' (ઇનામ) મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: \nવિભાગ 'અ': (1) જિજ્ઞાસા (2) સંક્ષિપ્ત \nવિભાગ 'બ': (A) ટૂંકું (B) જાણવાની ઈચ્છા (C) લાંબુ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>'જિ' થી 'જાણવું' (જિજ્ઞાસા) અને 'ક્ષિપ્ત' એટલે ટૂંકું (જેમ કે લિખિતંગનું ટૂંકું રૂપ 'લિ.').</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ 'અ' (5-W) ને વિભાગ 'બ' (ગુજરાતી અર્થ) સાથે જોડો: \nવિભાગ 'અ': (1) What (2) Where \nવિભાગ 'બ': (A) ક્યાં (B) શું (C) ક્યારે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>What એટલે 'શું' ઘટના બની? અને Where એટલે 'ક્યાં' (સ્થળ) ઘટના બની?</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ 'અ' (5-W) ને વિભાગ 'બ' (ગુજરાતી અર્થ) સાથે જોડો: \nવિભાગ 'અ': (1) When (2) Why \nવિભાગ 'બ': (A) શા માટે (B) કોણે (C) ક્યારે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>When એટલે સમય (ક્યારે) અને Why એટલે કારણ (શા માટે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: \nવિભાગ 'અ': (1) Who (2) How \nવિભાગ 'બ': (A) કેવી રીતે (B) કોણ (C) કેટલા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>Who (હૂ) એટલે વ્યક્તિ (કોણ) અને How એટલે રીત (કેવી રીતે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: \nવિભાગ 'અ': (1) શ્રદ્ધાંજલિ (2) વ્યાખ્યાન \nવિભાગ 'બ': (A) ભાષણ (B) મરણ પાછળ અપાતો આદર (C) ભજન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>શ્રદ્ધાથી અંજલિ એટલે મૃતકને આદર અને વ્યાખ્યાન એટલે સ્ટેજ પરથી અપાતું ભાષણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: \nવિભાગ 'અ': (1) સાપ્તાહિક (2) દૈનિક \nવિભાગ 'બ': (A) દરરોજ પ્રગટ થતું (B) સાત દિવસે પ્રગટ થતું (C) પંદર દિવસે પ્રગટ થતું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>'સપ્ત' એટલે સાત (સાપ્તાહિક) અને 'દિન' એટલે દિવસ (દૈનિક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: \nવિભાગ 'અ': (1) ખબર (2) ઉત્સુકતા \nવિભાગ 'બ': (A) આતુરતા (B) સમાચાર (C) શાંતિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ખબર એટલે માહિતી/સમાચાર અને ઉત્સુકતા એટલે કંઈક જાણવા માટેની અધીરાઈ કે આતુરતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: \nવિભાગ 'અ': (1) પુસ્તક વિમોચન (2) રમતગમત સમાચાર \nવિભાગ 'બ': (A) ક્રિકેટ ટુર્નામેન્ટ (B) નવું પુસ્તક પ્રસિદ્ધ કરવું (C) કવિ સંમેલન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>પુસ્તકનું લોકાર્પણ એટલે 'વિમોચન' અને રમત એટલે તો ક્રિકેટ, ફૂટબોલ વગેરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: \nવિભાગ 'અ': (1) પખવાડિક (2) માસિક \nવિભાગ 'બ': (A) દર મહિને (B) દર 15 દિવસે (C) દર વર્ષે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>પક્ષ એટલે 15 દિવસ (પખવાડિક) અને માસ એટલે મહિનો (માસિક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો: \nવિભાગ 'અ': (1) હેવાલ (2) પૂર્તિ \nવિભાગ 'બ': (A) વર્તમાનપત્ર સાથે આવતો વિશેષ અંક (B) અહેવાલ/રિપોર્ટ (C) જાહેરાત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>કોઈ ઘટનાનું વર્ણન એટલે હેવાલ અને છાપા સાથે આવતી વધારાની બુકલેટ એટલે 'પૂર્તિ'.</p></div>"
+    }
+  ]
+}
