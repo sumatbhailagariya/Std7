@@ -1060,3 +1060,61 @@ var Std7_Gujarati_MatchPairs = {
     }
   ]
 }
+,
+"15": {
+  "chapterName": "પ્રકરણ 15",
+  "chapterTitle": "આવ ભાણા, આવ!",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:\nવિભાગ 'અ': (1) આવ ભાણા, આવ! (2) શાહબુદ્દીન રાઠોડ (3) હાસ્યકથા\nવિભાગ 'બ': (A) સાહિત્ય પ્રકાર (B) પાઠનું શીર્ષક (C) લેખકનું નામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - C, (3) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાહબુદ્દીન રાઠોડ હંમેશા 'હાસ્ય' પીરસે છે, અને પાઠનું નામ 'આવ ભાણા, આવ!' એ એમની જાણીતી શૈલી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "શબ્દાર્થ મુજબ યોગ્ય જોડકાં જોડો:\nવિભાગ 'અ': (1) પરિતોષ (2) આશાવરી (3) તપશ્ચર્યા\nવિભાગ 'બ': (A) લાંબા સમયની મહેનત/તપ (B) સંતોષ (C) એક રાગનું નામ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - C, (3) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પરિતોષ' માં 'તોષ' એટલે સંતોષ. આશાવરી એ સંગીતનો રાગ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પાત્ર અને તેની વિશેષતા જોડો:\nવિભાગ 'અ': (1) દુધમામા (2) લેખક (3) અફઝલ\nવિભાગ 'બ': (A) બૂટ માટે ઉત્સુક બાળક (B) મોચી (C) લેખકનો પુત્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A, (3) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દુધમામા બૂટ સીવનારા 'મોચી' હતા અને અફઝલ લેખકનો 'પુત્ર' છે જે બૂટ લાવ્યો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિરોધી શબ્દોના જોડકાં જોડો:\nવિભાગ 'અ': (1) સ્મરણ (2) ઉત્સાહ (3) સંતોષ\nવિભાગ 'બ': (A) નિરુત્સાહ (B) અસંતોષ (C) વિસ્મરણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - A, (3) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અ' કે 'નિ' લગાડવાથી વિરોધી બને છે, પણ સ્મરણનું 'વિ'સ્મરણ થાય તે ખાસ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "બૂટની બનાવટના શબ્દો જોડો:\nવિભાગ 'અ': (1) ઓઠું (2) વાધરી (3) સીવણ\nવિભાગ 'બ': (A) પગરખાંની દોરી (B) બૂટનું માપ લેવાનું લાકડાનું સાધન (C) ટાંકા લેવાની ક્રિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A, (3) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઓઠું' એટલે લાકડાનું પગનું માળખું જે મોચી વાપરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "સમાનાર્થી શબ્દો જોડો:\nવિભાગ 'અ': (1) તાકીદ (2) અનુકૂળ (3) યાતના\nવિભાગ 'બ': (A) માફક (B) ઉતાવળ (C) પીડા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A, (3) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાકીદ એટલે અર્જન્ટ (ઉતાવળ) અને યાતના એટલે દુઃખ કે પીડા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પાઠના પ્રસંગો મુજબ જોડો:\nવિભાગ 'અ': (1) જેઠાભાઈ (2) પોથી (3) લાલચટક\nવિભાગ 'બ': (A) બૂટનો રંગ (B) દુધમામાના સાથી (C) નામ લખવાની ચોપડી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - C, (3) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેખકને હંમેશા 'લાલચટક' બૂટ પહેરવાની ઈચ્છા હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "રૂઢિપ્રયોગ અને તેનો અર્થ જોડો:\nવિભાગ 'અ': (1) પાકે પાયે કરી આવવું (2) વાયદા કરવા (3) જીવ બળવો\nવિભાગ 'બ': (A) ખોટા સમય આપવા (B) ચિંતા થવી (C) નક્કી કરી આવવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - A, (3) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દુધમામા લેખકને બૂટ માટે ઘણા 'વાયદા' (ખોટા સમય) આપતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ જોડો:\nવિભાગ 'અ': (1) પગરખાં સીવનાર (2) ચામડું રંગનાર (3) જૂના પગરખાં સાંધનાર\nવિભાગ 'બ': (A) ઘાંચી (B) મોચી (C) રવાકર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - C, (3) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠના મુખ્ય પાત્ર દુધમામા 'મોચી' છે જે પગરખાં બનાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિષયવસ્તુ મુજબ જોડો:\nવિભાગ 'અ': (1) બૂટની કિંમત (2) અફઝલના બૂટ (3) લેખકના બૂટ\nવિભાગ 'બ': (A) સવા બે રૂપિયા (B) લાલચટક (C) ૨૭૦ રૂપિયા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - C, (3) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જુના જમાનામાં બૂટ 'સવા બે રૂપિયા' માં મળતા, જ્યારે અત્યારે '૨૭૦' માં આવે છે.</p></div>"
+    }
+  ]
+}
