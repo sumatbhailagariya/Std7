@@ -786,3 +786,86 @@ var Std7_Gujarati_MatchPairs = {
     }
   ]
 }
+,
+"12": {
+  "chapterName": "પ્રકરણ 12",
+  "chapterTitle": "હાઈસ્કૂલમાં",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' અને વિભાગ 'બ' ના યોગ્ય જોડકાં જોડો:<br>વિભાગ 'અ': (1) 'હાઈસ્કૂલમાં' પાઠના લેખક, (2) 'હાઈસ્કૂલમાં' પાઠનો પ્રકાર<br>વિભાગ 'બ': (A) આત્મકથાખંડ, (B) મહાત્મા ગાંધી, (C) નવલકથા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધીજી એટલે 'સત્યના પ્રયોગો' (આત્મકથા) અને પાઠ હાઈસ્કૂલનો છે માટે તે ખંડ છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "યોગ્ય જોડકાં જોડો:<br>વિભાગ 'અ': (1) ગીમી સાહેબ, (2) કૃષ્ણશંકર માસ્તર<br>વિભાગ 'બ': (A) સંસ્કૃત શિક્ષક, (B) હેડમાસ્તર, (C) અંગ્રેજી શિક્ષક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગીમી સાહેબ કડક 'હેડ' હતા અને કૃષ્ણ ભગવાનની ભાષા 'સંસ્કૃત' એટલે કૃષ્ણશંકર માસ્તર સંસ્કૃતના. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "શબ્દ અને તેના અર્થના જોડકાં જોડો:<br>વિભાગ 'અ': (1) અણગમો, (2) જીદ<br>વિભાગ 'બ': (A) આગ્રહ, (B) ગમતું ન હોય તેવું, (C) નફરત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અ' એટલે નથી, 'ગમો' એટલે ગમતું - અણગમો એટલે ન ગમવું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિરોધી શબ્દોના જોડકાં જોડો:<br>વિભાગ 'અ': (1) સ્મરણ, (2) સદગુણ<br>વિભાગ 'બ': (A) દુર્ગુણ, (B) વિસ્મરણ, (C) યાદ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિરોધી કરવા માટે 'વિ' અને 'દુ' પ્રત્યય યાદ રાખો. સ્મરણ-વિસ્મરણ, સદગુણ-દુર્ગુણ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "પાઠના સંદર્ભમાં પાત્રોની વિશેષતા જોડો:<br>વિભાગ 'અ': (1) ગાંધીજી, (2) ગાંધીજીના પિતા<br>વિભાગ 'બ': (A) શરમાળ પ્રકૃતિ, (B) શિસ્તના આગ્રહી, (C) રમતિયાળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધીજી હાઈસ્કૂલમાં શરમાળ હતા અને પિતાજી કરમચંદ ગાંધી ખૂબ શિસ્તબદ્ધ હતા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિષય અને તેની મુશ્કેલીના જોડકાં જોડો:<br>વિભાગ 'અ': (1) ભૂમિતિ, (2) સંસ્કૃત<br>વિભાગ 'બ': (A) ગોખણપટ્ટીની જરૂર, (B) સમજણની જરૂર, (C) ચિત્રકલા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૂમિતિમાં બુદ્ધિનો પ્રયોગ (સમજણ) અને સંસ્કૃતમાં શબ્દોની યાદશક્તિ (ગોખણપટ્ટી) લાગે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "શબ્દસમૂહ માટે એક શબ્દના જોડકાં જોડો:<br>વિભાગ 'અ': (1) ભણવા માટે મળતી આર્થિક મદદ, (2) નઠારાં અક્ષર<br>વિભાગ 'બ': (A) શિષ્યવૃત્તિ, (B) કુલેખન, (C) ફી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિષ્યને મળે તે 'શિષ્યવૃત્તિ' અને કુ એટલે ખરાબ, લેખન એટલે અક્ષર. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સમાનાર્થી શબ્દોના જોડકાં જોડો:<br>વિભાગ 'અ': (1) કેળવણી, (2) વિઘ્ન<br>વિભાગ 'બ': (A) મુશ્કેલી/અડચણ, (B) શિક્ષણ, (C) આશીર્વાદ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કેળવણી એટલે માણસને કેળવવો (શિક્ષણ) અને વિઘ્ન એટલે રસ્તામાં આવતો પથ્થર (અડચણ). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ગાંધીજીના મંતવ્યો જોડો:<br>વિભાગ 'અ': (1) ખરાબ અક્ષર, (2) કસરત<br>વિભાગ 'બ': (A) અધૂરી કેળવણીની નિશાની, (B) માનસિક કેળવણી જેવું જ મહત્વ, (C) ફાલતુ પ્રવૃત્તિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધીજી અક્ષરને કેળવણીનું અંગ ગણતા અને કસરતને અભ્યાસ જેટલી જ જરૂરી ગણતા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "રુઢિપ્રયોગના અર્થ જોડો:<br>વિભાગ 'અ': (1) ગેડ બેસવી, (2) મન લોભાવું<br>વિભાગ 'બ': (A) સમજ પડવી, (B) આકર્ષાવું, (C) ભૂલી જવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મગજમાં 'ગેડ' એટલે કે ખાંચો બેસી જાય તો જ 'સમજ' પડે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ભાષા અને તેની શ્રેણી જોડો:<br>વિભાગ 'અ': (1) ફારસી, (2) સંસ્કૃત<br>વિભાગ 'બ': (A) શીખવામાં સરળ ભાષા, (B) શીખવામાં કઠિન પણ રસપ્રદ, (C) માતૃભાષા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠ મુજબ ફારસી સહેલી હતી અને સંસ્કૃત શરૂઆતમાં અઘરી લાગતી હતી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "લેખક પરિચયના જોડકાં જોડો:<br>વિભાગ 'અ': (1) ગાંધીજીનું પૂરું નામ, (2) ગાંધીજીનું જન્મસ્થળ<br>વિભાગ 'બ': (A) પોરબંદર, (B) મોહનદાસ કરમચંદ ગાંધી, (C) અમદાવાદ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધીજી = મો. ક. ગાંધી અને તેમનું જન્મસ્થળ 'સુદામાપુરી' એટલે કે પોરબંદર. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "શબ્દોની સાચી જોડણી જોડો:<br>વિભાગ 'અ': (1) શિષ્યવૃત્તિ, (2) પરિસ્થિતિ<br>વિભાગ 'બ': (A) સાચી જોડણી, (B) ખોટી જોડણી, (C) તળપદો શબ્દ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પરિસ્થિતિ' માં ચારેય ઇ હ્રસ્વ (નાની) આવે છે, યાદ રાખવું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "પાઠમાં આવતા વિશેષણો જોડો:<br>વિભાગ 'અ': (1) શરમાળ, (2) કડક<br>વિભાગ 'બ': (A) ગાંધીજી, (B) ગીમી સાહેબ, (C) કૃષ્ણશંકર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (A), (2) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધીજી લોકોથી દૂર ભાગતા (શરમાળ) અને હેડમાસ્તર શિસ્ત માટે જાણીતા (કડક). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "પાઠના મુખ્ય પ્રસંગો જોડો:<br>વિભાગ 'અ': (1) ચોરી અને પ્રાયશ્ચિત, (2) કસરતનો અણગમો<br>વિભાગ 'બ': (A) પિતાજીની સેવા કરવાની ઈચ્છા, (B) સત્યના પ્રયોગોનો અંશ, (C) રમતગમતમાં રુચિ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધીજીને કસરત ન ગમવાનું કારણ પિતાજીની માંદગીમાં સેવા કરવાનું હતું. (NJ Classes)</p></div>"
+    }
+  ]
+}
