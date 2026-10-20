@@ -869,3 +869,111 @@ var Std7_Gujarati_MatchPairs = {
     }
   ]
 }
+,
+"13": {
+  "chapterName": "પ્રકરણ 13",
+  "chapterTitle": "ભમીએ ગુજરાતે : દક્ષિણ ભણી",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "યોગ્ય રીતે જોડકાં જોડો:<br>વિભાગ ‘અ’ | વિભાગ ‘બ’<br>1. લેખકનું નામ | (A) પ્રવાસલેખ<br>2. સાહિત્ય પ્રકાર | (B) ચંદ્રવદન ચી. મહેતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (B), 2 - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચંદ્ર' (લેખક) 'પ્રવાસ' (પ્રકાર) કરવા નીકળ્યા એમ યાદ રાખવું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "શહેર અને તેના વિશેષણો જોડો:<br>વિભાગ ‘અ’ | વિભાગ ‘બ’<br>1. સુરત | (A) ભારતનું થર્મોપોલી<br>2. બારડોલી | (B) સોનાની મૂરત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (B), 2 - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુરત 'સોનું' છે અને બારડોલી 'રણમેદાન' (થર્મોપોલી) છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "નદી અને તેની ઓળખ જોડો:<br>વિભાગ ‘અ’ | વિભાગ ‘બ’<br>1. તાપી નદી | (A) રેવા<br>2. નર્મદા નદી | (B) સૂર્યપુત્રી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (B), 2 - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાપીમાં 'ત' અને સૂર્યપુત્રીમાં 'ત' આવે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સ્થળ અને તેની વિશેષતા જોડો:<br>વિભાગ ‘અ’ | વિભાગ ‘બ’<br>1. હજીરા | (A) મનહર દ્રશ્ય<br>2. ડુમસ | (B) દીવાદાંડી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (B), 2 - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હજીરામાં 'દીવો' (દીવાદાંડી) છે એમ યાદ રાખો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "કવિ અને તેની પંક્તિ/વિશેષતા જોડો:<br>વિભાગ ‘અ’ | વિભાગ ‘બ’<br>1. કવિ નર્મદ | (A) જેની તેજસ્વી રેખા...<br>2. કવિ નવલરામ | (B) રડ્યા તા નર્મદ અહીં...",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (B), 2 - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નર્મદ પોતાના સુરત માટે રડ્યા હતા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "પરદેશી પ્રજા અને તેમના આગમનનો હેતુ જોડો:<br>વિભાગ ‘અ’ | વિભાગ ‘બ’<br>1. અંગ્રેજો | (A) વેપાર અર્થે કોઠી સ્થાપવી<br>2. ફ્રેન્ચો-ડચો | (B) લડાઈ અને સ્પર્ધા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (A), 2 - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુરત બંદર પર બધા 'લાઈન' (કોઠી) લગાવતા હતા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ઐતિહાસિક પાત્ર અને સ્થળ જોડો:<br>વિભાગ ‘અ’ | વિભાગ ‘બ’<br>1. શિવાજી મહારાજ | (A) અકબરનો પડાવ<br>2. મોગલ બાદશાહ | (B) સુરત પર આક્રમણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (B), 2 - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિવાજીએ સુરત લૂંટ્યું હતું (આક્રમણ). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સ્થળ અને પર્વતમાળા જોડો:<br>વિભાગ ‘અ’ | વિભાગ ‘બ’<br>1. સાતપુડા | (A) ઊંચા પહાડ<br>2. રાજપીપળા | (B) હારમાળા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (B), 2 - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાતપુડામાં 'હાર' (માળા) છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "શબ્દ અને તેનો અર્થ જોડો:<br>વિભાગ ‘અ’ | વિભાગ ‘બ’<br>1. કુંવારિકા | (A) પથ્થર કે લોઢાનો મોટો ખીલો<br>2. મેખ | (B) જેના લગ્ન ન થયા હોય તેવી કન્યા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (B), 2 - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠમાં 'તાપી' ને કુંવારિકા કહી છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "રૂઢિપ્રયોગ અને તેનો અર્થ જોડો:<br>વિભાગ ‘અ’ | વિભાગ ‘બ’<br>1. આંખમાં અમૃત ઊતરવા | (A) અત્યંત આનંદ થવો<br>2. મોઢે ફીણ આવવા | (B) ખૂબ જ થાકી જવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (A), 2 - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અમૃત = આનંદ; ફીણ = થાક. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિરોધી શબ્દો જોડો:<br>વિભાગ ‘અ’ | વિભાગ ‘બ’<br>1. આશા | (A) સાંજ<br>2. સવાર | (B) નિરાશા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (B), 2 - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અ' ની સામે 'નિ' લગાડવાથી વિરોધી બને. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "શબ્દસમૂહ માટે એક શબ્દ જોડો:<br>વિભાગ ‘અ’ | વિભાગ ‘બ’<br>1. વહાણોને દિશા બતાવનાર | (A) ખલાસી<br>2. વહાણ ચલાવનાર | (B) દીવાદાંડી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (B), 2 - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દિશા = દીવો (દીવાદાંડી); ચલાવનાર = ખલાસી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ભૌગોલિક દિશા અને સ્થળ જોડો:<br>વિભાગ ‘અ’ | વિભાગ ‘બ’<br>1. દક્ષિણ દિશા | (A) તાપી કિનારો<br>2. પૂર્વ દિશા | (B) સાતપુડા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (A), 2 - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું નામ જ છે 'દક્ષિણ ભણી' એટલે તાપી બાજુ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિશેષણ અને વિશેષ્ય જોડો:<br>વિભાગ ‘અ’ | વિભાગ ‘બ’<br>1. ભમીએ | (A) મૂરત<br>2. સોનાની | (B) ગુજરાતે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (B), 2 - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠના શીર્ષક અને મુખ્ય વાક્યો પર ધ્યાન આપવું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "કવિ નર્મદના જીવન સાથે જોડાયેલા શબ્દો જોડો:<br>વિભાગ ‘અ’ | વિભાગ ‘બ’<br>1. ડાંડિયો | (A) પાઠશાળા<br>2. ગોપીપુરા | (B) સાપ્તાહિક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (B), 2 - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નર્મદનું 'ડાંડિયો' અખબાર બહુ જાણીતું હતું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "શહેર અને ખાણી-પીણી જોડો:<br>વિભાગ ‘અ’ | વિભાગ ‘બ’<br>1. સુરત | (A) ઘારી<br>2. મુંબઈ | (B) પાઉંભાજી (સામાન્ય સંદર્ભ)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (A), 2 - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુરતની 'ઘારી' અને 'લોચો' જગવિખ્યાત છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ભાષા અને શબ્દો જોડો:<br>વિભાગ ‘અ’ | વિભાગ ‘બ’<br>1. અંગ્રેજી | (A) કોઠી<br>2. પારસી | (B) જરથોસ્તી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (A), 2 - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુરતમાં પારસીઓ અને અંગ્રેજોનો ઈતિહાસ મોટો છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સ્થળ અને અંતર/સમય જોડો:<br>વિભાગ ‘અ’ | વિભાગ ‘બ’<br>1. સુરતથી હજીરા | (A) કિલોમીટરમાં<br>2. તાપીનો પ્રવાહ | (B) 720 માઈલ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (A), 2 - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાપી નદી 720 માઈલનો પ્રવાસ કરીને આવે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "લેખકની કૃતિઓ અને પ્રકાર જોડો:<br>વિભાગ ‘અ’ | વિભાગ ‘બ’<br>1. ગઠરિયાં | (A) આત્મકથાત્મક નિબંધ<br>2. ભમીએ ગુજરાતે | (B) પ્રવાસલેખ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (A), 2 - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેખક 'ચ.ચી. મહેતા' નામના આગળ 'ગઠરિયાં' શ્રેણી યાદ રાખવી. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "પાઠના મુખ્ય મુદાઓ જોડો:<br>વિભાગ ‘અ’ | વિભાગ ‘બ’<br>1. માંડવી | (A) કિલ્લો<br>2. સોનગઢ | (B) સત્યાગ્રહ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (B), 2 - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોનગઢમાં કિલ્લો (ગઢ) છે એમ યાદ રાખવું. (NJ Classes)</p></div>"
+    }
+  ]
+}
