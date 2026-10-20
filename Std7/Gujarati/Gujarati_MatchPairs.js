@@ -703,3 +703,86 @@ var Std7_Gujarati_MatchPairs = {
     }
   ]
 }
+,
+"11": {
+  "chapterName": "પ્રકરણ 11",
+  "chapterTitle": "અખબારી નોંધ",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ':<br>1. અખબારી નોંધના લેખક<br>2. અખબારી નોંધનો સાહિત્ય પ્રકાર<br><br>વિભાગ 'બ':<br>અ. માહિતીલક્ષી<br>બ. ડૉ. ચંદ્રકાંત મહેતા<br>ક. નર્મદ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - બ (ડૉ. ચંદ્રકાંત મહેતા)<br>2 - અ (માહિતીલક્ષી)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ચંદ્ર' જેવી શીતળ 'નોંધ' એટલે કે ચંદ્રકાંત મહેતાની અખબારી નોંધ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "યોગ્ય જોડકાં બનાવો:<br>વિભાગ 'અ' (શબ્દ):<br>1. જિજ્ઞાસા<br>2. ઉત્સુકતા<br><br>વિભાગ 'બ' (અર્થ):<br>અ. આતુરતા<br>બ. જાણવાની ઈચ્છા<br>ક. ગભરામણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - બ (જાણવાની ઈચ્છા)<br>2 - અ (આતુરતા)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'જ' પરથી જિજ્ઞાસા અને 'જ' પરથી જાણવાની ઈચ્છા - યાદ રાખવું સરળ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "નીચેના સમાચારના પ્રકારોને વિગતો સાથે જોડો:<br>વિભાગ 'અ':<br>1. સામાજિક<br>2. શૈક્ષણિક<br><br>વિભાગ 'બ':<br>અ. પરીક્ષાનું પરિણામ<br>બ. જ્ઞાતિનું સંમેલન<br>ક. વરસાદની આગાહી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - બ (જ્ઞાતિનું સંમેલન)<br>2 - અ (પરીક્ષાનું પરિણામ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભણતર (પરીક્ષા) એટલે શૈક્ષણિક અને લોકોનું ભેગા થવું (જ્ઞાતિ) એટલે સામાજિક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "અખબારી નોંધના અંગ્રેજી શબ્દો જોડો:<br>વિભાગ 'અ':<br>1. સમાચાર<br>2. અખબારી નોંધ<br><br>વિભાગ 'બ':<br>અ. Press Note<br>બ. News<br>ક. Advertisement",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - બ (News)<br>2 - અ (Press Note)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અખબારને 'Press' કહેવાય, એટલે અખબારી નોંધ એટલે 'Press Note'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સમાચાર લેખનના '5 W' અને '1 H' પૈકીના અંગ્રેજી-ગુજરાતી શબ્દો જોડો:<br>વિભાગ 'અ':<br>1. What<br>2. Where<br><br>વિભાગ 'બ':<br>અ. ક્યાં? (સ્થળ)<br>બ. શું? (ઘટના)<br>ક. શા માટે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - બ (શું?)<br>2 - અ (ક્યાં?)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Where' હંમેશા સ્થળ બતાવે, જેમ કે તમે ક્યાં (Where) છો?</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "નીચેના વિષયોને સમાચાર વિભાગ સાથે જોડો:<br>વિભાગ 'અ':<br>1. સન્માન<br>2. અવસાન નોંધ<br><br>વિભાગ 'બ':<br>અ. બેસણું<br>બ. પુરસ્કાર વિતરણ<br>ક. રમતગમત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - બ (પુરસ્કાર વિતરણ)<br>2 - અ (બેસણું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સન્માનમાં 'ઈનામ' (પુરસ્કાર) મળે, અને અવસાનમાં 'બેસણું' હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સમાચાર લેખનના પ્રશ્નવાચક શબ્દો જોડો:<br>વિભાગ 'અ':<br>1. When<br>2. Why<br><br>વિભાગ 'બ':<br>અ. શા માટે?<br>બ. ક્યારે?<br>ક. કોણ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - બ (ક્યારે?)<br>2 - અ (શા માટે?)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): When એટલે સમય (ક્યારે) અને Why એટલે કારણ (શા માટે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભિન્ન સમાચાર વિભાગો જોડો:<br>વિભાગ 'અ':<br>1. ધાર્મિક સમાચાર<br>2. વ્યાખ્યાન<br><br>વિભાગ 'બ':<br>અ. પ્રવચન / ભાષણ<br>બ. સુંદરકાંડ પાઠ<br>ક. ક્રિકેટ મેચ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - બ (સુંદરકાંડ પાઠ)<br>2 - અ (પ્રવચન / ભાષણ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વ્યાખ્યાન એટલે જ્ઞાનનું ભાષણ અને પાઠ એ ધર્મ સાથે જોડાયેલ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "શબ્દ અને તેના અર્થના યોગ્ય જોડકાં બનાવો:<br>વિભાગ 'અ':<br>1. સંક્ષિપ્ત<br>2. શ્રદ્ધાંજલિ<br><br>વિભાગ 'બ':<br>અ. ટૂંકું<br>બ. ભાવપૂર્વક આપેલી અંજલિ<br>ક. લાંબું લખાણ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - અ (ટૂંકું)<br>2 - બ (ભાવપૂર્વક આપેલી અંજલિ)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સંક્ષિપ્ત એટલે નાનું (Short), સમાચાર હંમેશા સંક્ષિપ્તમાં હોવા જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સમાચાર સંસ્થાઓ અને સાધનો જોડો:<br>વિભાગ 'અ':<br>1. અખબાર<br>2. સંવાદદાતા<br><br>વિભાગ 'બ':<br>અ. રિપોર્ટર<br>બ. સમાચાર પત્ર<br>ક. રેડિયો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - બ (સમાચાર પત્ર)<br>2 - અ (રિપોર્ટર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સંવાદ (વાતચીત) કરનાર એટલે સંવાદદાતા એટલે કે રિપોર્ટર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "પરિભાષિક શબ્દો જોડો:<br>વિભાગ 'અ':<br>1. વિધવા સહાય<br>2. ઈનામ વિતરણ<br><br>વિભાગ 'બ':<br>અ. શૈક્ષણિક/સામાજિક સમાચાર<br>બ. મરણ નોંધ<br>ક. રમતગમત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - અ (સામાજિક સમાચાર)<br>2 - અ (શૈક્ષણિક/સામાજિક સમાચાર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સહાય અને ઈનામ એ સમાજ અને શિક્ષણને લગતી બાબતો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સમાચારના પાયાના પ્રશ્નો જોડો:<br>વિભાગ 'અ':<br>1. Who<br>2. How<br><br>વિભાગ 'બ':<br>અ. કેવી રીતે?<br>બ. કોણ?<br>ક. ક્યાં?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - બ (કોણ?)<br>2 - અ (કેવી રીતે?)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Who' વ્યક્તિ માટે વપરાય (કોણ) અને 'How' રીત માટે (કેવી રીતે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "અખબાર સાથે જોડાયેલ બાબતો જોડો:<br>વિભાગ 'અ':<br>1. તંત્રી<br>2. કોલમ<br><br>વિભાગ 'બ':<br>અ. અખબારનો વિભાગ (કટાર)<br>બ. અખબારના મુખ્ય વ્યક્તિ<br>ક. વાચક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - બ (અખબારના મુખ્ય વ્યક્તિ)<br>2 - અ (અખબારનો વિભાગ/કટાર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): તંત્રી એટલે એડિટર, જે આખું અખબાર સંભાળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "સમાચાર મોકલવાની વિગત જોડો:<br>વિભાગ 'અ':<br>1. સમાચાર મોકલનારની<br>2. સમાચારના પત્ર સાથે<br><br>વિભાગ 'બ':<br>અ. તંત્રીને વિનંતીપત્ર<br>બ. સહી અને સરનામું<br>ક. ફોટોગ્રાફ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - બ (સહી અને સરનામું)<br>2 - અ (તંત્રીને વિનંતીપત્ર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કોઈપણ સમાચાર છપાવવા હોય તો તંત્રીને 'વિનંતી' કરવી પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ભાષાકીય શબ્દોના અર્થ જોડો:<br>વિભાગ 'અ':<br>1. પૂર્તિ<br>2. દૈનિક<br><br>વિભાગ 'બ':<br>અ. રોજ પ્રગટ થતું<br>બ. અખબારની સાથે આવતો વિશેષ અંક<br>ક. સાપ્તાહિક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong><br>1 - બ (અખબારની સાથે આવતો વિશેષ અંક)<br>2 - અ (રોજ પ્રગટ થતું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'દિન' પરથી 'દૈનિક' એટલે કે દરરોજનું છાપું.</p></div>"
+    }
+  ]
+}
