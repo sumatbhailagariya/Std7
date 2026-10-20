@@ -977,3 +977,86 @@ var Std7_Gujarati_MatchPairs = {
     }
   ]
 }
+,
+"14": {
+  "chapterName": "પ્રકરણ 14",
+  "chapterTitle": "ભમીએ ગુજરાતે : દક્ષિણ ભણી",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ': (1) ભમીએ ગુજરાતે : દક્ષિણ ભણી, (2) ચંદ્રવદન ચી. મહેતા<br>વિભાગ 'બ': (A) લેખક, (B) પ્રવાસ લેખ, (C) કવિતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'દક્ષિણ ભણી' એ પ્રવાસની વાત છે એટલે 'પ્રવાસ લેખ' અને લેખક 'ચંદ્રવદન' (ચાંદા જેવું મુખ રાખી પ્રવાસ કરે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ': (1) સુરત, (2) તાપી<br>વિભાગ 'બ': (A) સૂર્યપુત્રી, (B) સોનાની મૂરત, (C) પવિત્ર ગંગા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુરત 'સોના' જેવું છે અને તાપી એ 'સૂર્ય'ની પુત્રી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ': (1) બારડોલી, (2) હજીરા<br>વિભાગ 'બ': (A) દીવાદાંડી, (B) ભારતનું થર્મોપોલી, (C) સુગર ફેક્ટરી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બારડોલી સત્યાગ્રહ માટે જાણીતું છે (થર્મોપોલી) અને હજીરામાં દરિયો છે એટલે ત્યાં 'દીવાદાંડી' હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ': (1) નર્મદા, (2) કબીરવડ<br>વિભાગ 'બ': (A) વિશાળ વડલો, (B) રેવા, (C) સાબરમતી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નર્મદાનું બીજું નામ 'રેવા' છે અને કબીરવડ તેના વડલા માટે જ પ્રખ્યાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ': (1) અકબર, (2) શિવાજી<br>વિભાગ 'બ': (A) સુરત લૂંટ્યું હતું, (B) સુરતમાં પડાવ નાખ્યો હતો, (C) કિલ્લો બંધાવ્યો હતો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોગલ રાજા અકબરે પડાવ નાખ્યો અને શિવાજી મહારાજે સુરત પર ચડાઈ કરી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ': (1) ચાંદોદ-કરનાળી, (2) ડભોઈ<br>વિભાગ 'બ': (A) ભવ્ય કિલ્લો, (B) દક્ષિણનું કાશી, (C) રણ પ્રદેશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ધાર્મિક સ્થળ 'ચાંદોદ' એ કાશી સમાન અને 'ડભોઈ' તેના શિલ્પકામ વાળા કિલ્લા માટે જાણીતું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ': (1) ૧૬૧૨ માં, (2) ૧૭૭૦ માં<br>વિભાગ 'બ': (A) અંગ્રેજોએ કોઠી સ્થાપી, (B) ફ્રેન્ચો આવ્યા, (C) સુરતનો ભવ્ય ઇતિહાસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૌથી પહેલા ૧૬૧૨ માં અંગ્રેજો (બ્રિટિશ) આવ્યા હતા એ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો (શબ્દાર્થ):<br>વિભાગ 'અ': (1) ઘેરાટ, (2) સીમાડો<br>વિભાગ 'બ': (A) ગામની હદ, (B) ચારે બાજુથી ઘેરાયેલું, (C) રસ્તો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઘેર' એટલે ઘેરવું (ચારે બાજુ) અને સીમાડો એટલે ગામની 'સીમા' (હદ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ': (1) કવિ નર્મદ, (2) ભીલ રાજાઓ<br>વિભાગ 'બ': (A) સુરત માટે રડ્યા હતા, (B) રાજપીપળામાં વસતા, (C) ડાંગના જંગલો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નર્મદે 'રડ્યા' હતા સુરતની દશા જોઈને અને રાજપીપળામાં પહાડી વિસ્તારમાં ભીલો રહેતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ': (1) સાતપુડા, (2) તાપીનો વળાંક<br>વિભાગ 'બ': (A) પર્વતમાળા, (B) મગફળીના ફોતરા જેવો, (C) નદીનું મુખ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાતપુડા એક જાણીતી 'માળા' (હારમાળા) છે અને તાપીનો વળાંક પાઠમાં 'મગફળીના ફોતરા' જેવો કહ્યો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો (શબ્દાર્થ):<br>વિભાગ 'અ': (1) ખલાસી, (2) નુરજહાં<br>વિભાગ 'બ': (A) જહાંગીરની પત્ની, (B) વહાણ ચલાવનાર, (C) મુસાફર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરિયા કિનારે વહાણ ચલાવે તે ખલાસી, અને નુરજહાં તો ઇતિહાસની પ્રખ્યાત બેગમ હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ': (1) શુક્લતીર્થ, (2) ભરૂચ<br>વિભાગ 'બ': (A) જૂનું નર્મદાનું તીર્થ, (B) ભૃગુકચ્છ, (C) અમદાવાદ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભરૂચનું પ્રાચીન નામ 'ભૃગુકચ્છ' છે, 'ભ' પરથી 'ભ' યાદ રાખવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ': (1) મોજશોખ અને ખાણીપીણી, (2) સૂરતની હકીકત<br>વિભાગ 'બ': (A) સુરતીલાલાઓ, (B) નર્મદ દ્વારા વર્ણવાયેલી, (C) બારડોલી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુરતના લોકો ખાવા-પીવાના શોખીન એટલે 'સુરતીલાલાઓ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો:<br>વિભાગ 'અ': (1) સાપુતારા, (2) ડાંગ<br>વિભાગ 'બ': (A) ગુજરાતનું હવાખાવાનું સ્થળ, (B) આદિવાસી પ્રદેશ, (C) રણ વિસ્તાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુજરાતમાં એક જ હિલ સ્ટેશન (સાપુતારા) છે અને તે ડાંગમાં આવેલું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ 'અ' ને વિભાગ 'બ' સાથે યોગ્ય રીતે જોડો (વિરુદ્ધાર્થી શબ્દો):<br>વિભાગ 'અ': (1) અંધકાર, (2) આશા<br>વિભાગ 'બ': (A) નિરાશા, (B) પ્રકાશ, (C) ઉજાસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંધારાની સામે દીવો (પ્રકાશ) અને આશા હોય ત્યાં નિરાશા ન હોવી જોઈએ.</p></div>"
+    }
+  ]
+}
