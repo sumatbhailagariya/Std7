@@ -572,3 +572,111 @@ var Std7_Gujarati_1_Mark = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "બે ખાનાનો પરિગ્રહ",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'બે ખાનાનો પરિગ્રહ' પાઠના લેખિકા કોણ છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'બે ખાનાનો પરિગ્રહ' પાઠના લેખિકા મનુબહેન ગાંધી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધીજીના પૌત્રી એટલે 'મનુબહેન' - આ યાદ રાખવું સરળ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ગાંધીજીને મળવા માટે કયા વાઈસરોયે બોલાવ્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાંધીજીને મળવા માટે વાઈસરોય લોર્ડ માઉન્ટબેટને બોલાવ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભારતના છેલ્લા વાઈસરોય એટલે 'માઉન્ટબેટન'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ગાંધીજીએ વિમાનમાં જવાની કેમ ના પાડી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જે વાહનમાં કરોડો ગરીબો મુસાફરી ન કરી શકે તેમાં બેસવાની ગાંધીજીએ ના પાડી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધીજી = સાદગી + ગરીબો પ્રત્યે પ્રેમ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "મનુબહેને ગાંધીજીની સગવડ માટે ટ્રેનના કેટલા ખાના પસંદ કર્યા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મનુબહેને ગાંધીજીની સગવડ માટે ટ્રેનના બે ખાના પસંદ કર્યા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું શીર્ષક જ છે 'બે ખાનાનો પરિગ્રહ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "મનુબહેને બીજા ખાનામાં શું શું વ્યવસ્થા કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મનુબહેને બીજા ખાનામાં સામાન રાખવાની અને રાંધવા-ખાવાની સગવડ કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બીજું ખાનું = સામાન + રસોઈ માટે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ગાંધીજી કયા સ્ટેશનેથી દિલ્હી જવા રવાના થયા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાંધીજી પટણાથી દિલ્હી જવા રવાના થયા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પટણા (બિહાર) થી દિલ્હીની મુસાફરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "બાપુએ મનુબહેનને ઠપકો કેમ આપ્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કારણ કે મનુબહેને જરૂરિયાત કરતાં વધારે જગ્યા (બે ખાના) રોકી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ પડતી સગવડ = બાપુનો ઠપકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ગાંધીજીએ વધારાના ખાનાનો ઉપયોગ કોને કરવા માટે સૂચવ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાંધીજીએ વધારાના ખાનાનો ઉપયોગ ટ્રેનમાં લટકતા મુસાફરો માટે કરવા સૂચવ્યું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ખાલી જગ્યા = લટકતા મુસાફરો માટે રાહત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સ્ટેશન માસ્તરે ગાંધીજીને કઈ વિનંતી કરી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સ્ટેશન માસ્તરે ગાંધીજીને બંને ખાના રાખવા માટે ખૂબ વિનંતી કરી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ટેશન માસ્તરે બાપુની સગવડ માટે આગ્રહ કર્યો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "'પરિગ્રહ' એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પરિગ્રહ એટલે જરૂરિયાત કરતાં વધારે સંગ્રહ કરવો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરિગ્રહ = બિનજરૂરી સંગ્રહ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ગાંધીજીને કયા પ્રકારની સગવડ એક પ્રકારની 'હિંસા' લાગતી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જરૂરિયાત કરતાં વધુ સાધન વાપરવાને ગાંધીજી એક પ્રકારની હિંસા ગણતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વધુ પડતો વપરાશ = ચોરી/હિંસા (ગાંધીજીના મતે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "ગાંધીજી દિલ્હી કયા પ્રસંગે જતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાંધીજી નોઆખલીના યજ્ઞમાં ઝંપલાવ્યા પછી પ્રથમવાર વાઈસરોયને મળવા જતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નોઆખલી પછીની આ મહત્વની મુલાકાત હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "મનુબહેન ગાંધીજીના શું થતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મનુબહેન ગાંધીજીના પૌત્રી (પુત્રના પુત્રી) થતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વંશાવલી યાદ રાખો: ગાંધીજી -> પુત્ર -> મનુબહેન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ગાંધીજીએ ટ્રેનના ડબ્બામાં શું કામ કરવાનું શરૂ કર્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાંધીજીએ ટ્રેનના ડબ્બામાં બેસીને લખવાનું અને કાંતવાનું કામ શરૂ કર્યું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગાંધીજી + સમયનો સદુપયોગ = લેખન અને કાંતણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "મનુબહેન આ પાઠમાંથી કયો ગુણ શીખ્યા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મનુબહેન આ પ્રસંગમાંથી સાદગી અને જરૂરિયાત મુજબ વાપરવાનો અમૂલ્ય પાઠ શીખ્યા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીવનનો સાચો પાઠ = સાદગીનો આગ્રહ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સ્ટેશન માસ્તર કેમ શરમિંદા થઈ ગયા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાંધીજીની ઊંચી સમજ અને ગરીબો પ્રત્યેની સહાનુભૂતિ જોઈ સ્ટેશન માસ્તર શરમિંદા થઈ ગયા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાપુની સાદગી સામે બીજા બધા વામણા લાગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ગાંધીજીએ કઈ વાતને 'કસૌટી' ગણાવી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મનુબહેન સગવડના નામે ભૂલ ન કરે અને સાદગી જાળવે તેને ગાંધીજીએ તેમની કસૌટી ગણાવી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કસૌટી = મનુબહેનની પરીક્ષા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ગાંધીજીએ કયા રૂટ પર મુસાફરી કરી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગાંધીજીએ પટણાથી દિલ્હીના રૂટ પર મુસાફરી કરી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: P to D (Patna to Delhi).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "લેખિકાના મતે બાપુજી કેવા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લેખિકાના મતે બાપુજી દરેક બાબતના અતિશય ઝીણવટભર્યા આગ્રહી હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાપુ એટલે શિસ્ત અને ઝીણવટનો પર્યાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "મનુબહેને સગવડ અંગે શું વિચાર્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મનુબહેને વિચાર્યું કે બાપુને આરામ મળશે અને સામાન પણ સચવાશે એટલા માટે બે ખાના લેવા જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મનુબહેનનો વિચાર સેવાભાવનો હતો, પણ તે અપરિગ્રહથી વિરુદ્ધ હતો.</p></div>"
+    }
+  ]
+}
