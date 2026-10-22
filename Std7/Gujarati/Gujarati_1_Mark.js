@@ -680,3 +680,136 @@ var Std7_Gujarati_1_Mark = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "રાનમાં (પ્રકૃતિગીત)",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'રાનમાં' કાવ્યના કવિનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'રાનમાં' કાવ્યના કવિનું નામ ધ્રુવ ભટ્ટ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'રાન' (જંગલ) માં 'ધ્રુવ' તારો દેખાય - આ રીતે લેખકનું નામ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "'રાનમાં' કાવ્યનો સાહિત્ય પ્રકાર કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'રાનમાં' કાવ્યનો સાહિત્ય પ્રકાર પ્રકૃતિગીત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આ કાવ્ય કુદરત (રાન) ની વાત કરે છે, તેથી તે 'પ્રકૃતિગીત' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ચોમાસું ક્યાં ગાજે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચોમાસું રાનમાં (જંગલમાં) ગાજે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કાવ્યની પહેલી જ પંક્તિ છે: 'ક્યાંક ચોમાસું ગાજે છે રાનમાં'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વાડ પર સૂતેલી સઘળી લીલાશ હવે ક્યાં આવશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાડ પર સૂતેલી સઘળી લીલાશ હવે મેદાનમાં આવશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વાડ + વરસાદ = મેદાનમાં હરિયાળી (લીલાશ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ઊંચેથી આરપાર સરતું હવે શું નીચે ઊતરશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ઊંચેથી આરપાર સરતું આકાશ હવે ધોધમાર હેઠું ઊતરશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આકાશ નીચે ઉતરવું એટલે કે 'વરસાદ પડવો'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વરસાદમાં ભીંજાવવાનો આનંદ કોણ કોણ લેશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વરસાદમાં ભીંજાવવાનો આનંદ ડુંગર, ઝરણાં, નેવાં અને ઘાસ લેશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કુદરતના અંગો: ડુંગર, પાણી (ઝરણું-નેવું) અને ઘાસ - આ ચાર યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પવન શું સંદેશો આપશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પવન સંદેશો આપશે કે ચોમાસું ધારધાર બેસી ગયું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પવન = સંદેશવાહક (Postman) જે વરસાદની ખબર લાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "કવિના મતે વરસાદમાં ભીંજાતા કઈ ઘટના બનશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કવિના મતે વરસાદમાં ભીંજાતા આપણને પણ પક્ષી થવાનું મન થશે અને કોઈ ટહુકો બની ડુંગરની ધાર પર જવાનું મન થશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વરસાદ = આનંદ = પક્ષી અને ટહુકો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "'નેવું' એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> છાપરાના છેડા ઉપરના નળિયા, જેમાંથી પાણી બહાર પડે છે તેને નેવું કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નેવાં = ઘરનું ઝરણું (નળિયામાંથી પડતું પાણી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "'રાન' શબ્દનો પર્યાયવાચી શબ્દ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'રાન' એટલે જંગલ અથવા અરણ્ય.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રાન = વન = જંગલ (ત્રણેય સમાન અર્થી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વરસાદ પડવાથી કઈ કઈ જગ્યાએ હરિયાળી દેખાશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વરસાદ પડવાથી વાડ પર, મેદાનમાં અને સમગ્ર રાનમાં હરિયાળી દેખાશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લીલાશનું સરનામું: વાડથી મેદાન સુધી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "કાવ્યમાં 'ઘેન' કોને ચડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાવ્યમાં વરસાદથી ભીંજાયેલા ઘાસને ઘેન ચડે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભીનું ઘાસ = ઘેનમાં (મસ્તીમાં) ઝૂમતું ઘાસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વરસાદના આગમનથી મનુષ્યના મનમાં કેવા વિચારો આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વરસાદના આગમનથી મનુષ્યને ટહુકો થઈને ડુંગરની નીચે જવાનું અને પક્ષી બનીને ઝાડ પર ટહુકા કરવાનું મન થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): માણસ -> પક્ષી (વરસાદી ટ્રાન્સફોર્મેશન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "લેખક ધ્રુવ ભટ્ટની કોઈ પણ બે જાણીતી નવલકથાના નામ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'અકૂપાર' અને 'સમુદ્રાન્તિકે' એ ધ્રુવ ભટ્ટની જાણીતી નવલકથાઓ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અકૂપાર (સમુદ્ર/કાચબો) - સમુદ્ર સાથે જોડાયેલા નામ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વાદળ નીચે ઊતરીને શું બનશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાદળ નીચે ઊતરીને ધોધમાર વરસાદ (ચોમાસું) બનશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આકાશનું હેઠું ઉતરવું એટલે જ અનરાધાર વરસાદ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "'વાછંટ' એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પવનની ગતિ સાથે અંદર આવતા વરસાદના છાંટાને વાછંટ કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વાયુ (પવન) + છાંટા = વાછંટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "ચોમાસું આવતા આસપાસ કયા ફેરફાર થશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચોમાસું આવતા વાડ પરની લીલાશ મેદાનમાં આવશે અને આકાશમાંથી વરસાદની ધારાઓ નીચે ઉતરશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઉપરથી વરસાદ, નીચેથી લીલાશ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "કાવ્યમાં કઈ જગ્યાએ ટહુકો કરવાનું કહેવામાં આવ્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાવ્યમાં ગિરિમાળા (ડુંગર) ની ધાર પર અને છત નીચે ટહુકો કરવાનું કહેવામાં આવ્યું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ટહુકો = પક્ષીનો અવાજ જે ડુંગરે ગુંજશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "'ઘટના' શબ્દનો અર્થ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'ઘટના' એટલે કોઈ પ્રસંગ અથવા બનાવ, અહીં વરસાદ પડવાનો બનાવ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જીવનમાં જે ઘટે (બને) તે ઘટના.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "ધ્રુવ ભટ્ટનો જન્મ કયા જિલ્લામાં થયો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધ્રુવ ભટ્ટનો જન્મ ભાવનગર જિલ્લાના નિંગાળા ગામમાં થયો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ધ્રુવ (તારો) - ભાવનગર (નિંગાળા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "વરસાદથી કોનામાં વેગ આવશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વરસાદથી નદીઓના વહેણમાં વેગ આવશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વધુ વરસાદ = નદીમાં પુર (વેગ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "'તમન્ના' જેવો અર્થ ધરાવતો શબ્દ કાવ્યના આધારે કયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'તમન્ના' એટલે ઈચ્છા અથવા મન થવું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મન થવું = કંઈક કરવાની ઈચ્છા જાગવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "આ કાવ્યમાં કઈ ઋતુનું વર્ણન છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ કાવ્યમાં વર્ષાઋતુ (ચોમાસું) નું વર્ણન છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રાન (જંગલ) + વરસાદ = ચોમાસું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "કવિએ 'ચોમાસું ગાજે છે' એમ કેમ કહ્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કારણ કે ચોમાસામાં વાદળોના ગડગડાટ સાથે વરસાદ આવે છે, જે ગાજવીજ જેવું લાગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગાજવું = ગડગડાટ (વાદળાનો અવાજ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "'ધારધાર' બેસવું એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'ધારધાર બેસવું' એટલે પૂરેપૂરી જમાવટ સાથે ચોમાસાનું શરૂ થઈ જવું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ધાર (પાણીની ધાર) + જમાવટ = ધારધાર બેસવું.</p></div>"
+    }
+  ]
+}
