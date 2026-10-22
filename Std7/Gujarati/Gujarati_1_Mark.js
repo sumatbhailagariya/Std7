@@ -813,3 +813,161 @@ var Std7_Gujarati_1_Mark = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "ભીખુ",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘ભીખુ’ પાઠના લેખકનું નામ જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ‘ભીખુ’ પાઠના લેખકનું નામ ગૌરીશંકર ગોવર્ધનરામ જોશી (ધૂમકેતુ) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભીખુ નામના છોકરા પર 'ધૂમકેતુ' જેવો પ્રકાશ પડ્યો એમ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ગૌરીશંકર ગોવર્ધનરામ જોશીનું તખલ્લુસ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગૌરીશંકર ગોવર્ધનરામ જોશીનું તખલ્લુસ ‘ધૂમકેતુ’ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગૌરી-શંકર આકાશમાં 'ધૂમકેતુ' જુએ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "‘ભીખુ’ પાઠનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ‘ભીખુ’ પાઠનો સાહિત્ય પ્રકાર ‘સંવેદનકથા’ અથવા ‘બોધકથા’ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભીખુની ગરીબાઈ જોઈ 'સંવેદના' જાગે એટલે સંવેદનકથા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "આ વાર્તા કયા શહેરની ઘટના પર આધારિત છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ વાર્તા અમદાવાદ શહેરની ઘટના પર આધારિત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અમદાવાદના 'ત્રણ દરવાજા' પાઠમાં મુખ્ય સ્થળ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "લેખક કયા સ્થળે ઊભા રહીને આ દ્રશ્ય જોઈ રહ્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લેખક અમદાવાદના ‘ત્રણ દરવાજા’ પાસે ઊભા રહીને આ દ્રશ્ય જોઈ રહ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રણ દરવાજા = ભીખુનું સરનામું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ભીખુએ કેટલા પૈસાના દાળિયા ખરીદ્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભીખુએ એક પૈસાના દાળિયા ખરીદ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એક જ પૈસો અને ભાઈઓનો પ્રેમ અનેરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "સ્ત્રીએ ભીખુને કેટલા પૈસા આપ્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પેલી સ્ત્રીએ ભીખુને ત્રણ પાઈ (પૈસા) આપ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રણ દરવાજા પાસે 'ત્રણ પાઈ' મળી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ભીખુના પરિવારમાં કુલ કેટલા સભ્યો હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભીખુના પરિવારમાં ભીખુ, તેની મા અને ત્રણ નાના ભાઈ-બહેનો મળીને કુલ છ સભ્યો (માંડ માંડ) હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભીખુ + મા + 3 ભાઈ + 1 બહેન = 6 સભ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ભીખુ દાળિયા ખાતા કેમ અટકી ગયો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભીખુને તેના ભૂખ્યા ભાઈ-ભાંડુ યાદ આવતા તે દાળિયા ખાતા અટકી ગયો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોતાનું પેટ છોડી ભાઈઓનું પેટ યાદ આવ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ભીખુએ તેની માને કયું જૂઠું બોલ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભીખુએ જૂઠું બોલ્યું કે ‘માં, મેં તો ધરાઈને દાળિયા ખાધા છે.’</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રેમનું જૂઠાણું = ધરાઈને ખાધું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "ભીખુ કઈ દુકાન પાસે ઊભો રહીને દાળિયા જોતો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભીખુ કંદોઈની દુકાન પાસે ઊભો રહીને દાળિયા જોતો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરમ દાળિયા ક્યાં મળે? કંદોઈની દુકાને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "રસ્તા પર ભીખુ કોનાથી બચવા જતાં જતાં રહી ગયો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભીખુ મોટરગાડી (કાર) ની નીચે આવતા આવતા રહી ગયો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અમીરની ગાડી અને ગરીબનો જીવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "ભીખુની ઉંમર આશરે કેટલી હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભીખુની ઉંમર આશરે દસ-બાર વર્ષની હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દસ-બાર વર્ષનું બાળક પણ આખા ઘરની જવાબદારી ઉપાડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "માએ ભીખુને શું સવાલ કર્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માએ ભીખુને પૂછ્યું, ‘બેટા, તેં કાંઈ ખાધું?’</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માની પ્રથમ ચિંતા = સંતાનનું પેટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ભીખુના ભાઈઓ શું ખાવા માટે રીબાઈ રહ્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભીખુના ભાઈઓ ખાવા માટે ‘કંઈક’ મળે તેની રાહમાં ભૂખથી રીબાઈ રહ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૂખ અને ગરીબાઈ વચ્ચેનો સંઘર્ષ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "દાળિયાની પડીકી ભીખુએ કેવી રીતે પકડી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભીખુએ દાળિયાની પડીકી પોતાના હ્રદય સાથે ચાંપીને રાખી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે કિંમતી હોય તેને હ્રદય પાસે રખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "લેખકે વાર્તાના અંતે ભીખુને શું પૂછ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લેખકે વાર્તાના અંતે ભીખુને તેનું નામ પૂછ્યું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેલ્લો સવાલ = તારું નામ શું છે?</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "ભીખુએ પોતાનું નામ કેવી રીતે આપ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભીખુએ અત્યંત નમ્રતાથી ધીમા અવાજે પોતાનું નામ ‘ભીખુ’ આપ્યું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નમ્રતા એ ભીખુનું મુખ્ય લક્ષણ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "દાળિયામાંથી કઈ સુગંધ આવી રહી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દાળિયામાંથી ગરમાગરમ અને સોડમદાર સુગંધ આવી રહી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોડમ = સુગંધ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "લેખકના ખિસ્સામાં કુલ કેટલા પૈસા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લેખકના ખિસ્સામાં માત્ર ત્રણ પાઈ જ બચી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેખક પાસે પણ ત્રણ પાઈ જ હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "ભીખુની મા ક્યાં બેઠી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભીખુની મા રસ્તાના એક ખૂણામાં અંધારામાં થિગડાં મારેલી ગોદડી પર બેઠી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરીબીનું ચિત્ર = થિગડાં વાળી ગોદડી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "નાના ભાઈએ ભીખુ પાસે શું માંગ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નાના ભાઈએ ભીખુ પાસે ખાવા માટે દાળિયા માંગ્યા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૂખ્યું બાળક પહેલા ખાવાનું જ માંગે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "ભીખુ કઈ ભાવનાનું પ્રતીક છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભીખુ ત્યાગ, પરોપકાર અને ભાઈ-બહેન પ્રત્યેના નિઃસ્વાર્થ પ્રેમનું પ્રતીક છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્યાગ + મમતા = ભીખુ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "લેખકે ભીખુને ક્યાં સુધી અનુસર્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લેખકે ભીખુને તેના ઘર (ઝૂંપડા) સુધી અનુસર્યો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જિજ્ઞાસા લેખકને ઝૂંપડા સુધી ખેંચી ગઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "વાર્તામાં ‘સ્તબ્ધ’ શબ્દ કોના માટે વપરાયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વાર્તામાં લેખક ભીખુનો ત્યાગ જોઈને ‘સ્તબ્ધ’ થઈ ગયા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટું કામ જોઈને સ્તબ્ધ થઈ જવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ભીખુએ દાળિયા કયા વાસણમાં લીધા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભીખુએ દાળિયા કાગળની પડીકીમાં લીધા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરીબની થાળી એટલે કાગળની પડીકી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "ભીખુના ચહેરા પર કયા ભાવ હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભીખુના ચહેરા પર ગરીબાઈની લાચારી છતાં ભાઈઓ માટેના પ્રેમનો સંતોષ હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગરીબાઈમાં પણ ગૌરવ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "દુકાનદાર ભીખુ સામે કેવી રીતે જોઈ રહ્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દુકાનદાર ભીખુ સામે તિરસ્કાર અથવા ઉપેક્ષાની નજરે જોઈ રહ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૈસા વગરનો ગ્રાહક દુકાનદારને ન ગમે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "ભીખુએ પાણી ક્યાંથી પીધું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભીખુએ રસ્તા પરના નળ પર જઈને પાણી પીધું (જેથી માને લાગે કે તેણે ખાધું છે).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૂખ મારવા માટે પાણીનો સહારો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "‘પારખું’ શબ્દનો અર્થ શું થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ‘પારખું’ એટલે પરીક્ષા અથવા કસોટી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પારખવું = પરીક્ષા લેવી.</p></div>"
+    }
+  ]
+}
