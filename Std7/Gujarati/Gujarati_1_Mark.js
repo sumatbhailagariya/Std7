@@ -1370,3 +1370,161 @@ var Std7_Gujarati_1_Mark = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "અખબારી નોંધ",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘અખબારી નોંધ’ પાઠના લેખકનું નામ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ‘અખબારી નોંધ’ પાઠના લેખકનું નામ ડૉ. ચંદ્રકાંત મહેતા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો, જે ‘ચંદ્ર’ ની જેમ જગતને સમાચારનો પ્રકાશ આપે તે ચંદ્રકાંત મહેતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘અખબાર’ શબ્દ મૂળ કઈ ભાષાનો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ‘અખબાર’ શબ્દ મૂળ અરબી ભાષાનો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અ થી અખબાર અને અ થી અરબી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "‘અખબાર’ શબ્દ અરબી ભાષાના કયા મૂળ શબ્દનું બહુવચન છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ‘અખબાર’ શબ્દ અરબી ભાષાના ‘ખબર’ શબ્દનું બહુવચન છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘણી બધી ‘ખબર’ ભેગી થાય ત્યારે ‘અખબાર’ બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ગુજરાતી ભાષામાં વપરાતો ‘સમાચાર’ શબ્દ કઈ ભાષામાંથી આવ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુજરાતીમાં વપરાતો ‘સમાચાર’ શબ્દ સંસ્કૃત ભાષામાંથી આવ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ થી સમાચાર અને સ થી સંસ્કૃત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "સમાચાર શબ્દનો બીજો અર્થ શું થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમાચાર શબ્દનો બીજો અર્થ માહિતી, વિવરણ કે ખબર એવો થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મા-વિ-ખ (માહિતી, વિવરણ, ખબર) - આ ત્રણ શબ્દો યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "અંગ્રેજીમાં ‘સમાચાર’ માટે કયો શબ્દ પ્રચલિત છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંગ્રેજીમાં ‘સમાચાર’ માટે ‘News’ (ન્યૂઝ) શબ્દ પ્રચલિત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: NEWS એટલે ચારેય દિશાઓ (North, East, West, South) ની ખબર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "અખબાર દ્વારા માણસની કઈ જિજ્ઞાસા સંતોષાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અખબાર દ્વારા માણસની પોતાના ગામ, શહેર, દેશ કે દુનિયાના વિશે જાણવાની જિજ્ઞાસા સંતોષાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અખબાર એ જ્ઞાન અને માહિતી મેળવવાની ભૂખ સંતોષે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સમાચાર પત્રો કયા હેતુથી 'અખબારી નોંધ' વિનામૂલ્યે છાપે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમાચાર પત્રો પોતાના સામાજિક ઉત્તરદાયિત્વ અને ધર્મ નિભાવવા માટે ‘અખબારી નોંધ’ વિનામૂલ્યે છાપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાજની સેવા = સામાજિક ધર્મ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "દૈનિક સમાચાર પત્રોમાં કયા કયા પ્રકારની નોંધો છપાય છે? (કોઈપણ બે જણાવો)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દૈનિક પત્રોમાં ધાર્મિક, શૈક્ષણિક, સામાજિક અને અવસાન નોંધ (બેસણું) વગેરે પ્રકારની નોંધો છપાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીવનના દરેક પ્રસંગની નોંધ એટલે અખબારી નોંધ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "અખબારી નોંધ મોકલતી વખતે સાથે શું મોકલવું જરૂરી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અખબારી નોંધ મોકલતી વખતે તેની સાથે મોકલનારના સહીવાળો ‘વિનંતી પત્ર’ મોકલવો જરૂરી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વિનંતી પત્ર વગર કોઈ નોંધ ન છપાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "અખબારી નોંધમાં કઈ વિગત સ્પષ્ટ લખેલી હોવી જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અખબારી નોંધમાં સમાચારની તારીખ, સ્થળ અને કાર્યક્રમની વિગત સ્પષ્ટ લખેલી હોવી જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્યારે? ક્યાં? અને શું? - આ ત્રણ વિગત મુખ્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સમાચાર લેખન માટેના પાંચ ‘W’ માંથી પ્રથમ ‘W’ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમાચાર લેખનમાં પ્રથમ ‘W’ એટલે ‘What’ (શું).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૌથી પહેલા પૂછો - શું થયું? (What).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "સમાચાર લેખનમાં ‘Where’ નો અર્થ શું થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ‘Where’ એટલે ‘ક્યાં’ અથવા સમાચાર જે સ્થળના હોય તે જગ્યા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Where = સ્થળ (Place).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "સમાચાર લેખનમાં ‘When’ એટલે શું દર્શાવવું પડે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ‘When’ એટલે સમય અથવા ‘ક્યારે’ તે દર્શાવવું પડે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: When = ઘડિયાળ (સમય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "સમાચાર લેખનમાં પાંચ ‘W’ ઉપરાંત કયો એક ‘H’ મહત્વનો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાંચ ‘W’ ઉપરાંત ‘H’ એટલે ‘How’ (કેવી રીતે) એ મહત્વનો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: How = ઘટના કેવી રીતે બની?</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સામાન્ય રીતે અખબારી નોંધ કયા વિભાગમાં છાપવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અખબારી નોંધ સામાન્ય રીતે ‘સમાચાર નોંધ’ અથવા ‘પરચૂરણ સમાચાર’ ના વિભાગમાં છાપવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્થાનિક લેવલના સમાચાર એટલે પંચ (City News).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "અખબારી નોંધમાં કયા કયા શૈક્ષણિક સમાચાર આપી શકાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શાળાઓના પરીણામો, ઈનામ વિતરણ અથવા કોઈ ખાસ શૈક્ષણિક પરિસંવાદના સમાચાર આપી શકાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભણતરને લગતા સમાચાર એટલે શૈક્ષણિક નોંધ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "સમાચાર પત્રોમાં ‘સન્માન’ ની નોંધમાં શેની વિગત હોય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સન્માન નોંધમાં કોઈ વ્યક્તિને મળેલો એવોર્ડ, પદવી કે જાહેર સન્માનની વિગતો હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સફળતાની કદર એટલે સન્માન નોંધ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "સમાચાર નોંધના મુખ્ય કેટલા પ્રકારો પાઠમાં જણાવ્યા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાઠમાં સાહિત્યિક, ઇનામ વિતરણ, વ્યાખ્યાન, ધાર્મિક, અવસાન અને વિવિધ સમાચાર જેવા પ્રકારો જણાવ્યા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નોંધના પ્રકારો = વિષય મુજબ વર્ગીકરણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "લેખકે અખબારી નોંધ માટે કયો મહત્વનો મુદ્દો જણાવ્યો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લેખકે જણાવ્યું છે કે અખબારી નોંધ મોકલતી વખતે જરૂરી દસ્તાવેજો અને સંપૂર્ણ સચોટ માહિતી હોવી જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સચોટ માહિતી = સાચા સમાચાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "અખબારના માલિકને શું કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અખબારના સંચાલક કે મુખ્ય વ્યક્તિને તંત્રી (Editor) કહેવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે સમાચારને ‘તંત’ (નિયંત્રણ) માં રાખે તે તંત્રી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "અખબારી નોંધમાં મોકલનારની સહી શા માટે જરૂરી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમાચારની અધિકૃતતા અને જવાબદારી નક્કી કરવા માટે મોકલનારની સહી જરૂરી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સહી = સત્યતાની ખાતરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "વ્યાખ્યાન નોંધમાં કઈ કઈ વિગત હોવી જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વ્યાખ્યાન નોંધમાં વક્તાનું નામ, વિષય, સમય અને સ્થળની વિગત હોવી જોઈએ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યાખ્યાન એટલે જ્ઞાનની વાતો (કોણ અને ક્યાં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "અવસાન નોંધ (બેસણું) માં શું લખવું જરૂરી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અવસાન નોંધમાં મૃતકનું નામ, ફોટો, બેસણાનો સમય અને સ્થળ લખવું જરૂરી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અંતિમ વિદાયની સૂચના એટલે બેસણું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "સમાચાર પત્રો આપણી કઈ સામાજિક જવાબદારી પૂરી કરે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમાચાર પત્રો સમાજમાં બનતી ઘટનાઓની જાણ કરીને લોકશાહીના ચોથા સ્તંભ તરીકેની જવાબદારી પૂરી કરે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમાચાર = સમાજનું દર્પણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "અખબારમાં ‘ધાર્મિક’ સમાચાર નોંધમાં શું હોઈ શકે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ધાર્મિક નોંધમાં કથા, પરાયણ, ભજન, સત્સંગ કે કોઈ ઉત્સવની ઉજવણીના સમાચાર હોય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભક્તિ અને ઉત્સવ એટલે ધાર્મિક નોંધ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "અખબારી નોંધના લેખન માટે ‘Who’ એટલે શું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ‘Who’ એટલે ‘કોણ’, એટલે કે આ ઘટના કે સમાચાર સાથે કોણ જોડાયેલું છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Who = વ્યક્તિ (Person).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "અખબારી નોંધમાં શા માટે સ્પષ્ટ અક્ષરો હોવા જોઈએ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જેથી સમાચાર છાપતી વખતે કોઈ ભૂલ ન થાય અને વાચકો સુધી સાચી માહિતી પહોંચે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુવાચ્ય અક્ષરો = ચોકસાઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "સમાચાર લેખન કલા શીખવા માટે કઈ બાબત જરૂરી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમાચાર લેખન માટે જીણવટભર્યું નિરીક્ષણ અને ભાષાની શુદ્ધતા હોવી જરૂરી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિરીક્ષણ + ભાષા = ઉત્તમ પત્રકારત્વ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "અખબાર દ્વારા કયા કાર્યો વિનામૂલ્યે કરવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અખબાર દ્વારા સેવાકીય પ્રવૃત્તિઓ અને સામાજિક નોંધો વિનામૂલ્યે છાપવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેવા = મફત પ્રચાર (વિનામૂલ્યે).</p></div>"
+    }
+  ]
+}
