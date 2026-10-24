@@ -2260,3 +2260,111 @@ var Std7_Gujarati_1_Mark = {
     }
   ]
 }
+,
+"15": {
+  "chapterName": "પ્રકરણ 15",
+  "chapterTitle": "આવ ભાણા, આવ!",
+  "questionType": "એક વાક્યમાં ઉત્તર",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘આવ ભાણા, આવ!’ પાઠના લેખકનું નામ શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ‘આવ ભાણા, આવ!’ પાઠના લેખક શાહબુદ્દીન રાઠોડ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાહબુદ્દીન રાઠોડ હાસ્ય કલાકાર છે, તેથી આ હાસ્ય નિબંધ છે તેમ યાદ રાખવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "‘આવ ભાણા, આવ!’ પાઠનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ પાઠનો સાહિત્ય પ્રકાર ‘હાસ્ય નિબંધ’ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાણા અને મામાની વાતોમાં હાસ્ય છે, એટલે ‘હાસ્ય નિબંધ’.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "શાહબુદ્દીન રાઠોડનો જન્મ ક્યાં થયો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શાહબુદ્દીન રાઠોડનો જન્મ સુરેન્દ્રનગર જિલ્લાના થાનગઢમાં થયો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: થાનગઢ = શાહબુદ્દીન રાઠોડનું વતન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "લેખકને નવા બૂટ સીવડાવવાની જરૂર ક્યારે પડતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લેખકને નવા બૂટ સીવડાવવાની જરૂર સાતમ-આઠમનો મેળો, નવરાત્રી કે દિવાળી જેવા તહેવારોમાં પડતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તહેવાર = નવા કપડાં અને બૂટનો ઉત્સાહ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "નવા બૂટ માટે લેખકે કોની પાસે મંજૂરી મેળવવી પડતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નવા બૂટ માટે લેખકે ઘરના વડીલોની ‘મીટિંગ’ માં રજૂઆત કરી મંજૂરી મેળવવી પડતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલાના સમયમાં જૂના બૂટ રીપેર થાય તેમ ન હોય તો જ નવા મળે, એટલે વડીલોની મંજૂરી જરૂરી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "લેખકની બૂટ માટેની અરજી પર અંતિમ નિર્ણય કોણ લેતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લેખકની બૂટ માટેની અરજી પર અંતિમ નિર્ણય ‘બાપુજી’ (પિતાજી) લેતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘરના વડા એટલે બાપુજી, આખરી મોહર એમની જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "લેખકના મોટા ભાઈનું નામ શું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લેખકના મોટા ભાઈનું નામ બાખુભાઈ હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાખુભાઈ = મોટા ભાઈ (જે સૌથી પહેલા ભલામણ કરે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "મોચીનું નામ શું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મોચીનું નામ દુદા મામા હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દુદા મામા જ ‘આવ ભાણા, આવ!’ કહીને લેખકને આવકારતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "દુદા મામાની દુકાન ક્યાં આવેલી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દુદા મામાની દુકાન સ્ટેશન રોડ ઉપર આવેલા એક સાંકડા ગલીના છેડે હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્ટેશન રોડની ગલી = દુદા મામાનું સરનામું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "બૂટનો ભાવ શું નક્કી કરવામાં આવ્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બૂટનો ભાવ સવા બે રૂપિયા નક્કી કરવામાં આવ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ૨.૨૫ (સવા બે) રૂપિયામાં બૂટ સીવાતા એ જમાનાની વાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "દુદા મામા બૂટનું માપ કેવી રીતે લેતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દુદા મામા એક સફેદ કાગળ પર લેખકનો પગ મુકાવી પેન્સિલથી લીટી દોરીને માપ લેતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાગળ + પેન્સિલ = દુદા મામાની માપ પદ્ધતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "લેખકે કયા રંગના બૂટ સીવડાવવાનું નક્કી કર્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લેખકે લાલ રંગના બૂટ સીવડાવવાનું નક્કી કર્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાલ બૂટનો ક્રેઝ બાળકોમાં વધુ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "દુદા મામા બૂટ આપવા માટે લેખકને ક્યારે બોલાવતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દુદા મામા બૂટ આપવા માટે અવારનવાર નવા વાયદા કરીને લેખકને ધક્કા ખવડાવતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દુદા મામા એટલે વાયદાના પાકા (ન આપવા માટે!).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "લેખક બૂટ લેવા ગયા ત્યારે દુદા મામાએ શું બહાનું કાઢ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દુદા મામાએ બહાનું કાઢ્યું કે 'બૂટ હજી વણાયા નથી' અથવા 'ચામડું બરાબર કેળવાયું નથી'.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દુદા મામાની ડિક્શનરીમાં 'વાયદો' શબ્દ ટોચ પર હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "‘આવ ભાણા, આવ!’ પાઠમાં કયા ગુણનું દર્શન થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ પાઠમાં બાળપણની નિર્દોષતા અને વડીલો પ્રત્યેના આદરના ગુણનું દર્શન થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બૂટ મોડા મળવા છતાં લેખકનો સંયમ એ આદર સૂચવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "દુદા મામા લેખકને બેસવા માટે શું આપતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દુદા મામા લેખકને બેસવા માટે એક ફાટેલું-તૂટેલું કોથળું આપતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોથળું = મહેમાનગતિ (ગરીબાઈમાં પણ પ્રેમ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "લેખકને બૂટ સીવડાવવા માટે કેટલો સમય રાહ જોવી પડી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લેખકને બૂટ સીવડાવવા માટે લગભગ બે-ત્રણ મહિના સુધી ધક્કા ખાવા પડ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મામાના વાયદા અને ભાણાના ધક્કા અનંત હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "લેખક બૂટ તૈયાર થયા છે તેમ જાણીને કેવા ઉત્સાહમાં આવતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લેખકને જ્યારે લાગતું કે આજે તો બૂટ મળી જ જશે, ત્યારે તેઓ હરખપદૂડા થઈને દુકાને પહોંચતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: હરખપદૂડા એટલે અત્યંત ઉત્સાહિત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "બૂટમાં કયા પ્રકારની અણી રાખવાનું લેખકે કહ્યું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લેખકે બૂટમાં પોઈન્ટેડ એટલે કે અણીવાળા બૂટ બનાવવાનું કહ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પોઈન્ટેડ બૂટ એટલે તે જમાનાની ફેશન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "શાહબુદ્દીન રાઠોડના જાણીતા પુસ્તકનું નામ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ‘સજ્જન મિત્રોના સંગાથે’ એ શાહબુદ્દીન રાઠોડનું જાણીતું પુસ્તક છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠના અંતે આ પુસ્તકનો ઉલ્લેખ હોય છે.</p></div>"
+    }
+  ]
+}
