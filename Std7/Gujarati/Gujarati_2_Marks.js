@@ -220,3 +220,61 @@ var Std7_Gujarati_2_Marks = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "રાનમાં (કાવ્ય)",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ચોમાસું આવતા આકાશમાં કેવા ફેરફાર થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચોમાસું આવતા આકાશમાં વાદળો ઘેરાય છે. જે આકાશ અત્યાર સુધી લૂ (ગરમ હવા) થી ભરેલું હતું, ત્યાં હવે વાદળોની માંડણી થાય છે અને આખું આકાશ નીચું ઉતરી આવ્યું હોય તેવું લાગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આકાશમાં 'વાદળની માંડણી' અને 'નીચે ઉતરતું આકાશ' - આ બે શબ્દો યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "કવિએ 'વાડ પર સૂતેલી સઘળી લીલાશ' માટે શું કહ્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કવિ કહે છે કે અત્યાર સુધી જે હરિયાળી કે લીલાશ વાડ પર પથરાયેલી હતી, તે હવે ચોમાસું આવતા મેદાનમાં ઉતરશે. એટલે કે, વરસાદના કારણે સમગ્ર ધરતી લીલીછમ થઈ જશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'વાડથી મેદાન' - હરિયાળીની આ મુસાફરી યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ઘટનામાં જે ડુંગરને થાય, તેવું બીજા કોને કોને થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> વરસાદ પડવાની ઘટનામાં જે આનંદ ડુંગરને થાય છે, તેવો જ આનંદ ઝરણાંને, ઘાસને (નેવાંથી દડદડતા) ગામને અને આખા આકાશને થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડુંગર + ઝરણાં + ઘાસ + ગામ = વરસાદનો આનંદ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "'નેવાં' એટલે શું? તે કાવ્યના સંદર્ભમાં સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નળિયાવાળા મકાનમાં છાપરાના છેડાના નળિયા, જેમાંથી પાણી બહાર પડે છે તેને 'નેવાં' કહેવાય છે. કાવ્યમાં નેવાંથી પાણી દડદડતા આખું ગામ ભીંજાય છે તેવો ઉલ્લેખ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નેવાં = નળિયાનો છેડો જ્યાંથી પાણી પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ચોમાસામાં પક્ષીઓ પર શું અસર થાય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ચોમાસું બેસતા જ પક્ષીઓ પણ આનંદિત થઈ ઉઠે છે. કાવ્યમાં ઉલ્લેખ છે કે પક્ષીઓ ઊંચેથી ઊડતા હોય ત્યારે તેમને નીચે મેદાનમાં ચોમાસું ઉતરતું દેખાય છે અને તેઓ પણ આ વાતાવરણમાં ભીંજાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પક્ષીઓને મેદાનમાં ચોમાસું 'દેખાય' અને તેઓ ભીંજાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "'વાછંટ' એટલે શું? તેનાથી ઘરની વસ્તુઓ પર શું અસર થાય?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પવનની ગતિ સાથે વરસાદના જે છાંટા ઘરમાં કે ઓસરીમાં આવે છે તેને 'વાછંટ' કહેવાય છે. વાછંટના કારણે ઘરની ખુલ્લી વસ્તુઓ ભીની થાય છે અને ઘરની અંદર પણ ચોમાસાની હાજરી અનુભવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પવન + વરસાદના છાંટા = વાછંટ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ચોમાસું ક્યાં ક્યાં ગાજે છે? કવિએ તેની શરૂઆત ક્યાંથી કરી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કવિ કહે છે કે ચોમાસું સૌથી પહેલા 'રાનમાં' એટલે કે જંગલમાં ગાજે છે. ત્યાંથી તેની અસર વાડ પર, મેદાનમાં અને પછી ધીરે ધીરે આપણા ઘર સુધી પહોંચે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાન (જંગલ) → વાડ → મેદાન → ઘર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "ચોમાસામાં ભીંજાવાનો અનુભવ થાય ત્યારે કવિ શું કરવાનું કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કવિ કહે છે કે જો તમને પણ ચોમાસામાં ભીંજાવાનું મન થાય, તો તમે પણ આ ચોમાસાના ગીત બની જાવ અથવા તો નળિયા પર થતા વરસાદના ટપ-ટપ અવાજને સાંભળીને આનંદ માણો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભીંજાવું હોય તો 'ગીત' બનો અથવા 'અવાજ' સાંભળો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "'રાનમાં' કાવ્યમાં કયા કયા કુદરતી તત્વોનો ઉલ્લેખ થયો છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ કાવ્યમાં રાન (જંગલ), વાદળ, નદી, પર્વત (ડુંગર), ઘાસ, પક્ષી, વાડ અને મેદાન જેવા કુદરતી તત્વોનો સુંદર રીતે ઉલ્લેખ કરવામાં આવ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જંગલથી ઘર સુધીના તમામ કુદરતી દ્રશ્યો યાદ કરો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "કાવ્યમાં 'આકાશ નીચું ઉતરશે' એમ કવિ શા માટે કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે વરસાદની ધારા એકધારી વરસે છે ત્યારે આકાશ અને પૃથ્વી વચ્ચેનો ભેદ ઓછો થઈ જાય છે. વાદળો એટલા નીચે આવી જાય છે કે જાણે આખું આકાશ ધરતી પર ઉતરી આવ્યું હોય તેવું ભાસે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરસાદની ધારા = આકાશ અને ધરતીનું જોડાણ.</p></div>"
+    }
+  ]
+}
