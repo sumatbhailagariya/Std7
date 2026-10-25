@@ -278,3 +278,61 @@ var Std7_Gujarati_2_Marks = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "ભીખુ",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'ભીખુ' પાઠના લેખકનું નામ જણાવી તેનો સાહિત્ય પ્રકાર લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'ભીખુ' પાઠના લેખક ગૌરીશંકર ગોવર્ધનરામ જોશી છે, જેઓ સાહિત્ય જગતમાં 'ધૂમકેતુ' ઉપનામથી જાણીતા છે. આ પાઠનો સાહિત્ય પ્રકાર 'સંવેદનકથા' છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લેખક યાદ રાખવા: 'ભીખુ' આકાશમાં 'ધૂમકેતુ' જેવો તેજસ્વી છે (લેખક: ધૂમકેતુ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "લેખકે ભીખુને પ્રથમવાર કઈ હાલતમાં જોયો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લેખકે ભીખુને ફૂટપાથ પર અત્યંત દયનીય હાલતમાં જોયો. ભીખુએ ચિથરેહાલ કપડાં પહેર્યા હતા, તેનું શરીર કૃશ (દુબળું) હતું અને તેના ચહેરા પર ભૂખને કારણે લાચારી અને વેદના દેખાતી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ચિથરેહાલ + ભૂખ્યો ચહેરો = ભીખુની હાલત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "મીઠાઈની દુકાન પાસે ઊભેલા ભીખુના મનોભાવો કેવા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મીઠાઈની દુકાન પાસે ઊભેલો ભીખુ તાજી બનેલી જલેબીઓને અત્યંત તૃષ્ણાભરી નજરે જોઈ રહ્યો હતો. તેના મોઢામાં પાણી આવતું હતું, છતાં તે પોતાની ભૂખને રોકીને દુકાનદારના વર્તનને મૂંગા મોઢે નિહાળી રહ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'તૃષ્ણાભરી નજર' શબ્દ યાદ રાખવો, જે ભૂખ અને ઈચ્છા બંને દર્શાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "ભીખુએ દાળિયા કેમ ન ખાધા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભીખુ પોતે ભૂખ્યો હતો, પરંતુ તેને તેના ઘરે રહેલા ભૂખ્યા ભાઈ-ભાંડુઓ અને માંદગીમાં પટકાયેલી માતાની યાદ આવી. જો તે પોતે ખાઈ લે તો તેના પરિવાર માટે કંઈ વધે નહીં, તેથી ત્યાગની ભાવનાથી તેણે દાળિયા ન ખાધા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભીખુનો ત્યાગ = પોતાની ભૂખ કરતા પરિવારની ચિંતા મોટી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "ભીખુએ તેની માતા પાસે કયું જૂઠું બોલ્યું? શા માટે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભીખુએ તેની માતા પાસે જૂઠું બોલ્યું કે 'મેં તો ધરાઈને ખાધું છે અને જલેબી પણ ખાધી છે.' તેણે આવું જૂઠું એટલા માટે બોલ્યું જેથી તેની માતા અને ભાઈઓ સંકોચ વગર દાળિયા ખાઈ શકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આ જૂઠું 'પ્રેમ અને બલિદાન' નું પ્રતીક છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ભીખુના કુટુંબની આર્થિક સ્થિતિ વિશે જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભીખુનું કુટુંબ અત્યંત ગરીબ હતું. તેની માતા માંદી હતી અને ભાઈઓ ભૂખથી ટળવળતા હતા. તેઓ રસ્તાના ખૂણે એક ચિથરા જેવી ઝૂંપડીમાં રહેતા હતા અને ભીખ માંગીને ગુજરાન ચલાવતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): માંદી મા + ભૂખ્યા ભાઈઓ + ચિથરેહાલ સ્થિતિ = ભીખુનો પરિવાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "લેખકે સ્ત્રીને પૂછેલા પ્રશ્નનો તેણે શો જવાબ આપ્યો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લેખકે જ્યારે સ્ત્રીને પૂછ્યું કે 'આ છોકરો તમારો છે?' ત્યારે સ્ત્રીએ ગર્વ અને વેદના સાથે જવાબ આપ્યો કે 'હા સાહેબ, એ મારો મોટો છોકરો છે, એ બહુ માયાળુ છે, તે જ અમારી સંભાળ રાખે છે.'</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જવાબમાં 'માયાળુ' અને 'મોટો છોકરો' શબ્દો પર ભાર મૂકવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "જલેબી ખાઈ રહેલા ભાઈઓને જોઈને ભીખુના મનમાં શું વિચાર આવ્યો હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જ્યારે ભીખુએ બીજા છોકરાઓને જલેબી ખાતા જોયા, ત્યારે તેને થયું હશે કે કાશ તેની પાસે પણ પૈસા હોત તો તે પણ જલેબી લઈને તેના ભૂખ્યા ભાઈઓને ખવડાવી શકત. તેની નજરમાં ઈર્ષ્યા નહીં પણ લાચારી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભીખુની નજરમાં 'લાચારી' હતી, 'ઈર્ષ્યા' નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પાઠના અંતે લેખકના મનમાં ભીખુ માટે કેવા ભાવ જાગ્યા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાઠના અંતે લેખકના મનમાં ભીખુ પ્રત્યે માન અને આદરના ભાવ જાગ્યા. ભીખુની નાની ઉંમરે તેનામાં રહેલી કુટુંબ પ્રત્યેની જવાબદારી અને નિઃસ્વાર્થ ત્યાગ જોઈ લેખક દ્રવી ઉઠ્યા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લેખકનો ભાવ = માન + સહાનુભૂતિ + આશ્ચર્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "'ભીખુ' પાઠ દ્વારા આપણને કયો બોધ મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ પાઠમાંથી આપણને બોધ મળે છે કે ગરીબાઈમાં પણ સંસ્કાર અને કુટુંબ પ્રત્યેનો પ્રેમ જીવંત હોઈ શકે છે. ગમે તેટલી મુસીબત હોય, પણ બીજા માટે ત્યાગ કરવાની ભાવના જ માણસને મહાન બનાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બોધ: 'પરિવાર માટે ત્યાગ એ જ સાચી માનવતા'.</p></div>"
+    }
+  ]
+}
