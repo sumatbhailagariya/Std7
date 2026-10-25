@@ -394,3 +394,61 @@ var Std7_Gujarati_2_Marks = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "માલમ હલેસાં માર (લોકગીત)",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "માલમ હલેસાં માર - એમ કાવ્યનાયક શા માટે કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાવ્યનાયકની ભાભીએ તેને 'આળસુનો સરદાર' કહીને મેણું માર્યું છે. આ મેણામાંથી મુક્ત થવા અને કમાવા માટે કાવ્યનાયક દરિયાની પેલે પાર જવા માંગે છે. તેને ઉતાવળ છે, તેથી તે નાવિક (માલમ) ને ઝડપથી હલેસાં મારવાનું કહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મેણું ભાંગવા + કમાણી કરવા = માલમ હલેસાં માર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "ભાભીએ દિયરને કેવું મેણું માર્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ભાભીએ દિયરને મેણું મારતા કહ્યું કે તે આળસુ છે અને મોટા ભાઈની કમાણી પર જલસા કરે છે (ઘોડલા ખેલવે છે). ભાભીના મતે દિયરનો અવતાર નકામો છે કારણ કે તે પોતે કાંઈ કમાતો નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભાભીનું મેણું = 'આળસુ' + 'ભાઈની કમાણી પર જલસા'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "કાવ્યનાયક જાવા દેશમાં શા માટે જવા માંગે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાવ્યનાયક પુષ્કળ ધન કમાવા માટે જાવા દેશ જવા માંગે છે. લોકગીત મુજબ, જે લોકો જાવા જાય છે તેઓ ક્યારેય પાછા આવતા નથી, અને જો આવે તો તેમની સાથે અપાર લક્ષ્મી (સંપત્તિ) લઈને આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જાવા દેશ = લક્ષ્મી (ધન) મેળવવાનું સ્થળ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "કાવ્યનાયક સિંહલ દ્વીપ શા માટે જવા ઈચ્છે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાવ્યનાયક સિંહલ દ્વીપ (શ્રીલંકા) સુંદર કન્યા સાથે પરણવા માટે જવા ઈચ્છે છે. તે ત્યાંની પદમણી નાર (શ્રેષ્ઠ સ્ત્રી) ને પરણીને પાછા આવી પોતાની ભાભીને પોતાની સફળતા બતાવવા માંગે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સિંહલ દ્વીપ = પદમણી નારને પરણવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "કાવ્યનાયક ભાભીને 'કેસરભીના' શા માટે કહે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> કાવ્યનાયક પોતાની ભાભી પ્રત્યે આદર વ્યક્ત કરતા તેમને 'કેસરભીના' કહે છે. કારણ કે ભાભીના કડવા વેણ (મેણા) ને કારણે જ નાયકની આળસ દૂર થઈ અને તેને જીવનમાં આગળ વધવાની અને કમાવાની પ્રેરણા મળી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કેસરભીના ભાભી = સુધારાની પ્રેરણા આપનાર ભાભી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "દિયર ભાભી પાસે કેવી જીભની આશા રાખે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> દિયર એવી આશા રાખે છે કે તેની ભાભીની જીભ (વાણી) સદાય આવી જ ધારદાર રહે. જો ભાભી મેણાં મારશે તો જ દિયર જેવી વ્યક્તિ પોતાની આળસ ખંખેરીને પુરુષાર્થ કરશે અને જીવન સફળ બનાવશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ધારદાર જીભ = પુરુષાર્થની ચાવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "‘ગયેલ જાવા, જે કોઈ આવે, તો ફેરો સફળ થાય રે’ – આ પંક્તિ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ પંક્તિનો અર્થ એ છે કે જે વ્યક્તિ કમાવા માટે જાવા દેશ જાય છે, તે જો ત્યાંથી સુખ-સમૃદ્ધિ અને ધન લઈને પાછી આવે, તો જ તેનો જાવાનો ફેરો (પ્રવાસ) અને મહેનત સફળ ગણાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જાવાનો ફેરો = ધન સાથે વાપસી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "કાવ્યના અંતે દિયરની મનોદશામાં શું પરિવર્તન આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> શરૂઆતમાં દિયર ભાભીના મેણાથી દુઃખી થાય છે, પરંતુ અંતે તેને સમજાય છે કે આ મેણું તેના હિતમાં હતું. તેની બુદ્ધિના દ્વાર ખુલી જાય છે અને તે ભાભી પ્રત્યે આભારની લાગણી અનુભવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દુઃખમાંથી -> ડહાપણ/સમજણ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "આ લોકગીત દ્વારા આપણને શું શીખ મળે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ લોકગીત શીખવે છે કે અંગત વ્યક્તિ દ્વારા મળેલા કડવા વેણ કે મેણાને હકારાત્મક રીતે લેવા જોઈએ. જો આપણે આળસ છોડીને પુરુષાર્થ કરીએ, તો મેણું મારનાર વ્યક્તિ પ્રત્યે પણ માન વધે છે અને જીવન સફળ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મેણું = પ્રગતિનું સોપાન (પગથિયું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "‘ઘોડલા ખેલવવા’ રૂઢિપ્રયોગનો અર્થ આપી વાક્ય પ્રયોગ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <b>અર્થ:</b> મોજમજા કરવી અથવા નવરા બેસી રહીને જલસા કરવા. <br><b>વાક્ય:</b> પિતાજીની મિલકત પર દીકરો ઘોડલા ખેલવે છે પણ પોતે કંઈ કમાતો નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઘોડલા ખેલવવા = જલસા કરવા.</p></div>"
+    }
+  ]
+}
