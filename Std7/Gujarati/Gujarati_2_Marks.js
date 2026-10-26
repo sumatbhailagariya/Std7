@@ -510,3 +510,61 @@ var Std7_Gujarati_2_Marks = {
     }
   ]
 }
+,
+"10": {
+  "chapterName": "પ્રકરણ 10",
+  "chapterTitle": "અખબારી નોંધ",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'અખબાર' શબ્દ મૂળ કઈ ભાષાનો છે? તેનો અર્થ સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'અખબાર' શબ્દ મૂળ અરબી ભાષાના 'ખબર' શબ્દનું બહુવચન છે. તેનો અર્થ 'સમાચારપત્ર', 'વર્તમાનપત્ર' કે 'છાપું' એવો થાય છે. અંગ્રેજીમાં તેને 'News' તરીકે ઓળખવામાં આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): અરબી ભાષાનો 'ખબર' + બહુવચન = અખબાર. યાદ રાખો: ખબરથી બને અખબાર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સમાચાર શબ્દનો સંસ્કૃત સંદર્ભ આપી તેનો અર્થ સ્પષ્ટ કરો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગુજરાતીમાં વપરાતો 'સમાચાર' શબ્દ સંસ્કૃત શબ્દ 'સમ + આચાર' પરથી બનેલો છે. જેનો અર્થ 'માહિતી', 'વૃત્તાંત' અથવા 'ખબર' એવો થાય છે. તે કોઈ ઘટના કે હકીકતની વિગતો દર્શાવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમ + આચાર = સમાચાર. જેમ આચાર-વિચાર હોય તેમ ઘટનાનો આચાર એટલે સમાચાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "અખબારી નોંધ (Press Note) પ્રગટ કરવા માટે તંત્રીને જોગ વિનંતીપત્રમાં કઈ વિગતો હોવી જરૂરી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તંત્રીને મોકલવાના વિનંતીપત્રમાં નીચેની વિગતો હોવી જોઈએ:<br>1. સમાચાર મોકલનાર વ્યક્તિ કે સંસ્થાનું નામ-સરનામું.<br>2. સમાચાર પ્રગટ કરવાની તારીખ અને સમાચારનો વિષય.<br>3. સમાચારની વિગતો અને મોકલનારની સહી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'નામ-સરનામું + વિષય + તારીખ + સહી' = સંપૂર્ણ વિનંતીપત્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સમાચાર લેખનમાં 'પાંચ W અને એક H' એટલે શું? તે જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમાચાર લેખનમાં મુખ્ય છ બાબતો પર ધ્યાન અપાય છે:<br>1. શું (What), 2. ક્યાં (Where), 3. ક્યારે (When), 4. શા માટે (Why), 5. કોણ (Who) અને 6. કેવી રીતે (How). આ છ પ્રશ્નોના ઉત્તર મળે ત્યારે જ સમાચાર પૂર્ણ ગણાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 5W + 1H. શું, ક્યાં, ક્યારે, કોણ, શા માટે અને કેવી રીતે - આ છે સમાચારની કી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "અખબારી નોંધના કોઈ પણ ચાર પ્રકારો અથવા વિભાગોના નામ લખો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અખબારી નોંધમાં આવતા મુખ્ય વિભાગો:<br>1. સાહિત્યિક, 2. ઇનામ વિતરણ, 3. વ્યાખ્યાન, 4. ધાર્મિક સમાચાર, 5. અવસાન નોંધ (બેસણું), 6. સર્વધર્મ સભા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સાહિત્ય, ધર્મ, ઇનામ અને અવસાન - આ ચાર મુખ્ય અખબારી શાન!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "અખબારી નોંધ લખતી વખતે ધ્યાનમાં રાખવાની કોઈ પણ બે મહત્વની બાબતો જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1. અખબારી નોંધ હંમેશા ટૂંકી, સચોટ અને સ્પષ્ટ હોવી જોઈએ.<br>2. જે તે કાર્યક્રમ કે ઘટનાની તારીખ, સમય અને સ્થળનો ચોક્કસ ઉલ્લેખ હોવો અનિવાર્ય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'ટૂંકું, ટચ અને સાચું' - આ છે અખબારી નોંધનું સૂત્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વ્યક્તિમાં રહેલી 'જિજ્ઞાસા' વૃત્તિ સમાચાર સાથે કેવી રીતે જોડાયેલી છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> માણસ સ્વભાવે જિજ્ઞાસુ છે. તેને પોતાના તથા અન્યના અને દુનિયાના સમાચાર જાણવાની ઉત્સુકતા હોય છે. આ જિજ્ઞાસા સંતોષવા માટે તે સમાચારપત્રનો સહારો લે છે. સમાચાર દ્વારા જ વ્યક્તિની જાણવાની ઈચ્છા પૂર્ણ થાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જિજ્ઞાસા એટલે 'જાણવાની ઈચ્છા'. સમાચાર એટલે 'જાણકારીનો સ્ત્રોત'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "અખબારના તંત્રીને સમાચાર મોકલવા માટે 'વિનંતીપત્ર' શા માટે લખવો પડે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અખબારના તંત્રી પાસે રોજના અનેક સમાચાર આવતા હોય છે. ચોક્કસ વિગતો સાથેનો વિનંતીપત્ર મોકલવાથી તંત્રીને સમાચારની અધિકૃતતા (Authenticity) સમજાય છે અને તેને કયા વિભાગમાં અને ક્યારે છાપવા તેની સરળતા રહે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વિનંતીપત્ર = નમ્રતા + સચોટતા. છાપવાની મંજૂરી મેળવવાની પ્રોસેસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "'અવસાન નોંધ' માં કઈ બાબતો લખવી અનિવાર્ય છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અવસાન નોંધ (બેસણું) માં મૃતકનું નામ, ફોટોગ્રાફ (જો હોય તો), અવસાનની તારીખ, બેસણાનો સમય, સ્થળ અને પરિવારના સભ્યોના નામ (લિ. કરીને) દર્શાવવા જરૂરી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નામ + સમય + સ્થળ = શોકસભાની પૂરતી વિગત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સમાચારપત્રો દ્વારા થતી સામાજિક સેવાનું એક ઉદાહરણ આપો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સમાચારપત્રો વિનામૂલ્યે 'અખબારી નોંધ' કોલમમાં સામાજિક, શૈક્ષણિક અને ધાર્મિક સંસ્થાઓના સમાચારો છાપીને લોકસેવા કરે છે. આનાથી સામાન્ય લોકો સુધી સામાજિક કાર્યોની માહિતી પહોંચે છે અને જાગૃતિ આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'વિનામૂલ્યે માહિતી' એટલે સમાચારપત્રની 'સામાજિક સેવા'.</p></div>"
+    }
+  ]
+}
