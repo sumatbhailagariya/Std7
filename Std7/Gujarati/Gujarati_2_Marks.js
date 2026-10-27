@@ -742,3 +742,61 @@ var Std7_Gujarati_2_Marks = {
     }
   ]
 }
+,
+"14": {
+  "chapterName": "પ્રકરણ 14",
+  "chapterTitle": "ભમીએ ગુજરાતે : દક્ષિણ ભણી",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'ભમીએ ગુજરાતે : દક્ષિણ ભણી' પાઠના લેખક કોણ છે અને આ પાઠનો સાહિત્ય પ્રકાર જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 'ભમીએ ગુજરાતે : દક્ષિણ ભણી' પાઠના લેખક ચંદ્રવદન ચી. મહેતા (ચંચી મહેતા) છે. આ પાઠનો સાહિત્ય પ્રકાર 'પ્રવાસલેખ' છે, જેમાં દક્ષિણ ગુજરાતના પ્રકૃતિ અને ઇતિહાસનું વર્ણન છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ચંદ્ર' જેવો સુંદર 'પ્રવાસ' - ચંદ્રવદન મહેતા = પ્રવાસલેખ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "સુરત શહેર માટે કઈ કહેવત પ્રચલિત છે? તે શા માટે કહેવાઈ હશે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુરત માટે 'સુરતનું જમણ અને કાશીનું મરણ' કહેવત પ્રચલિત છે. સુરત તેના સ્વાદિષ્ટ ભોજન (જેમ કે ઘારી, લોચો) અને ખાણી-પીણીના શોખીન લોકો માટે જાણીતું હોવાથી આ કહેવત પડી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સુરત = જમણ (Foodie City).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "તાપી નદીને કોની પુત્રી કહેવામાં આવી છે? તેની વિશેષતા જણાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> તાપી નદીને 'સૂર્યની પુત્રી' (સૂર્યપુત્રી) કહેવામાં આવી છે. તાપી નદી સુરત પાસેથી પસાર થાય છે અને તેના કાંઠે અનેક ઐતિહાસિક લડાઈઓ અને વિદેશી વેપારીઓના આગમન થયા છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાપી = તપતો સૂર્ય (સૂર્યપુત્રી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સુરતમાં કઈ કઈ વિદેશી પ્રજાઓએ વેપાર અર્થે કોઠીઓ સ્થાપી હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુરતમાં અંગ્રેજો, ડચ (વલંદા), ફ્રેન્ચો અને મુઘલો વગેરે પ્રજાઓએ વેપાર અર્થે પોતાની કોઠીઓ સ્થાપી હતી. સુરત એ સમયે પશ્ચિમ ભારતનું મુખ્ય બંદર હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ADF - Angrez, Dutch, French.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "લેખકે સુરતને 'સોનાની મુરત' કેમ કહ્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સુરત એ સમયે ખૂબ જ સમૃદ્ધ અને વેપારનું ધમધમતું કેન્દ્ર હતું. તેની આર્થિક સંપત્તિ અને વૈભવને કારણે લેખકે તેને 'સોનાની મુરત' જેવું ગણાવ્યું છે, જોકે ઇતિહાસમાં તેને અનેકવાર લૂંટવામાં પણ આવ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોનું = સમૃદ્ધિ (Wealthy Surat).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "નર્મદના સમયે સુરતની હાલત કેવી હતી? કવિએ શું કહ્યું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> નર્મદના સમયે સુરત આગ, રેલ અને લૂંટફાટથી પાયમાલ થઈ ગયું હતું. આથી કવિ નર્મદે સુરતની દુર્દશા જોઈને રડતા હૈયે કહ્યું હતું કે, 'આ તે શા તુજ હાલ, સુરત સોનાની મુરત!'</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નર્મદ + સુરત = રડવું (દુઃખદ ઇતિહાસ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "બારડોલીને 'ભારતનું થર્મોપોલી' કેમ કહેવામાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જેમ ગ્રીસમાં થર્મોપોલીનું મેદાન આઝાદીની લડત માટે જાણીતું છે, તેમ ભારતમાં બારડોલી સત્યાગ્રહ દ્વારા આઝાદીની લડતનો શંખનાદ ફૂંકાયો હતો. આ ઐતિહાસિક લડતને કારણે તેને 'ભારતનું થર્મોપોલી' કહેવાય છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બારડોલી = સત્યાગ્રહ = થર્મોપોલી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "રાંદેર શહેરની ઐતિહાસિક વિશેષતા શું છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાંદેર એ સુરત પાસે આવેલું જૂનું શહેર છે. પ્રાચીન સમયમાં તે ખૂબ જ મોટું બંદર અને ઇસ્લામી સંસ્કૃતિનું કેન્દ્ર હતું. અહીંના આરબ વેપારીઓનો વેપાર છેક દૂરના દેશો સુધી ફેલાયેલો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાંદેર = જૂનું બંદર + આરબ વેપાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "સુરતના કયા ત્રણ પ્રખ્યાત સાહિત્યકારોના નામ પાઠમાં આવે છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> પાઠમાં સુરતના ત્રણ મહાન સાહિત્યકારોના નામનો ઉલ્લેખ છે: (1) કવિ નર્મદ, (2) નવલરામ અને (3) નંદશંકર મહેતા (જેમણે પ્રથમ ગુજરાતી નવલકથા 'કરણઘેલો' લખી હતી).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ત્રણેય 'ન' પરથી - નર્મદ, નવલરામ, નંદશંકર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ડુમસ અને હજીરા શા માટે જાણીતા છે?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ડુમસ અને હજીરા સુરત નજીકના દરિયાકિનારાના સ્થળો છે. ડુમસ તેના સુંદર દરિયાકિનારા અને સહેલગાહ માટે જાણીતું છે, જ્યારે હજીરા તેના દિવાદાંડી (Lighthouse) અને કુદરતી સૌંદર્ય માટે પ્રખ્યાત છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડુમસ-હજીરા = સુરતનો દરિયો.</p></div>"
+    }
+  ]
+}
