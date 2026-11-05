@@ -772,3 +772,161 @@ var Std7_English_MCQs = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "The Ashes That Made Trees Bloom",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "The kind old couple had a pet dog named ______.\n(A) Muko\n(B) Tiger\n(C) Bruno\n(D) Jack",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) Muko</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> પાઠની શરૂઆતમાં જ 'Muko' નામનો ઉલ્લેખ છે. 'M' ફોર 'Muko' યાદ રાખવું.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "What was the profession of the kind old man?\n(A) Weaver\n(B) Fisherman\n(C) Rice farmer\n(D) Merchant",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Rice farmer</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> પાઠમાં તે ખેતરમાં 'hoe and spade' સાથે કામ કરતો બતાવ્યો છે, એટલે કે તે 'Rice farmer' હતો.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "The kind old couple treated the dog as if it were their ______.\n(A) servant\n(B) own child\n(C) enemy\n(D) toy",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) own child</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> પાઠમાં 'treated it like their own baby' વાક્ય આપેલું છે. સાચો પ્રેમ એટલે 'Own child'.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "The cruel neighbors were ______ and ______.\n(A) kind and helpful\n(B) stingy and sensitive\n(C) happy and wealthy\n(D) lazy and calm",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) stingy and sensitive</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> 'Stingy' એટલે લોભી અને 'Sensitive' એટલે ગુસ્સાવાળા. વિરોધી પાત્રો હંમેશા નકારાત્મક હોય.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "What did Muko find hidden under the ground for the kind couple?\n(A) A dead kitten\n(B) Silver coins\n(C) A pile of gold\n(D) Iron tools",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) A pile of gold</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> કૂતરાએ જમીન ખોતરી અને ત્યાંથી સોનાનો ઢગલો (Pile of gold) મળ્યો.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "When the greedy neighbors dragged the dog into their garden, what did he find?\n(A) Gold\n(B) A dead kitten\n(C) Gems\n(D) Rice",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) A dead kitten</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> ખરાબ લોકો સાથે હંમેશા ખરાબ જ થાય. સોનાને બદલે તેમને 'મરેલું બિલાડું' મળ્યું.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "What did the cruel neighbors do to the dog when they found a dead kitten?\n(A) Fed him\n(B) Released him\n(C) Killed him\n(D) Sold him",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Killed him</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> ક્રોધમાં આવીને લોભી પડોશીએ કૂતરાને લાત મારીને મારી નાખ્યો (Killed him).</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "Where did the kind old man bury his pet dog?\n(A) Near the river\n(B) Under a pine tree\n(C) In the market\n(D) Inside the house",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Under a pine tree</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> પાઈન વૃક્ષ (Pine tree) આ વાર્તાનું મહત્વનું પાત્ર છે, ત્યાં જ તેને દફનાવ્યો હતો.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "The spirit of the dog appeared to the old man in a ______.\n(A) Mirror\n(B) Forest\n(C) Dream\n(D) Temple",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Dream</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> મોટાભાગની જાપાની લોકકથાઓમાં આત્મા સ્વપ્ન (Dream) માં જ સંદેશ આપે છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "The dog's spirit asked the old man to cut down the ______.\n(A) Cherry tree\n(B) Pine tree\n(C) Mango tree\n(D) Banyan tree",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Pine tree</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> કૂતરાને જે વૃક્ષ નીચે દફનાવ્યો હતો તે 'Pine tree' કાપવાનું કહ્યું હતું.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "The old man made a ______ for his rice pastry and a ______ for his bean sauce.\n(A) table, chair\n(B) mortar, mill\n(C) boat, net\n(D) pot, pan",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) mortar, mill</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> Mortar (ખરલ) ચોખા માટે અને Mill (ઘંટી) કઠોળની ચટણી માટે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "When the kind old couple used the mortar and mill, the pastry and sauce turned into ______.\n(A) Stones\n(B) Water\n(C) Gold\n(D) Ashes",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Gold</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> દયાળુ દંપતી માટે બધું જ સોનામાં (Gold) ફેરવાઈ ગયું.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "When the greedy neighbors used the mortar and mill, the mass turned into ______.\n(A) Silver\n(B) Foul mass of worms\n(C) Flowers\n(D) Milk",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Foul mass of worms</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> લોભી લોકો માટે સોનાને બદલે 'જીવડાં' (Worms) નીકળ્યા.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "What did the greedy neighbors do to the mortar and mill in anger?\n(A) Sold them\n(B) Painted them\n(C) Burnt them for firewood\n(D) Threw them in the river",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Burnt them for firewood</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> ગુસ્સામાં તેમણે લાકડાના સાધનો તોડીને બાળી નાખ્યા (Burnt).</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "The dog's spirit told the old man to take the ______ of the burnt mill.\n(A) Wood\n(B) Ashes\n(C) Handle\n(D) Iron",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Ashes</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> પાઠનું શીર્ષક જ 'The Ashes...' છે, એટલે રાખ (Ashes) જ લેવાની હોય.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "What happened when the old man sprinkled ashes on a withered cherry tree?\n(A) It died\n(B) It fell down\n(C) It bloomed with flowers\n(D) It turned into gold",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) It bloomed with flowers</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> રાખ છાંટતા જ સૂકું ઝાડ ખીલી ઉઠ્યું (Bloomed).</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "Who was passing by the high road when the old man climbed the tree?\n(A) The King\n(B) The Daimyo\n(C) The Priest\n(D) The Merchant",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) The Daimyo</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> જાપાનમાં જમીનદારોને 'Daimyo' કહેવામાં આવતા, જે ત્યાંના રાજા સમાન હતા.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "What was the custom when a Daimyo passed by?\n(A) To dance\n(B) To sing songs\n(C) To shut high windows and kneel down\n(D) To throw flowers",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) To shut high windows and kneel down</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> માનમાં બારીઓ બંધ કરવી અને ઘૂંટણિયે પડવું એ રિવાજ હતો.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "The Daimyo rewarded the kind old man with ______.\n(A) Silver coins\n(B) Silk robes and sponge cake\n(C) A new house\n(D) A horse",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Silk robes and sponge cake</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> રાજા ખુશ થયો એટલે રેશમી વસ્ત્રો (Silk) અને કેક (Cake) ભેટમાં આપ્યા.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "What happened when the greedy neighbor threw ashes on the tree in front of the Daimyo?\n(A) The tree bloomed\n(B) Dust blew into the Daimyo's eyes\n(C) The tree turned gold\n(D) Nothing happened",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Dust blew into the Daimyo's eyes</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> લોભી માણસની રાખથી ચમત્કાર ન થયો પણ ધૂળ ઊડીને રાજાની આંખમાં ગઈ.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "How did the greedy neighbor meet his end?\n(A) He became rich\n(B) He was beaten to death by the Daimyo's men\n(C) He died of old age\n(D) He left the village",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) He was beaten to death by the Daimyo's men</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> રાજાને હેરાન કરવા બદલ સૈનિકોએ તેને મારી નાખ્યો (Beaten to death).</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "The story 'The Ashes That Made Trees Bloom' is a ______ folktale.\n(A) Indian\n(B) Chinese\n(C) Japanese\n(D) American",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Japanese</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> Daimyo, Rice Pastry અને Sake જેવા શબ્દો જાપાનીઝ સંસ્કૃતિ દર્શાવે છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "What did the kind old man use to dig the earth when Muko signaled him?\n(A) A tractor\n(B) A hoe\n(C) An axe\n(D) A hammer",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) A hoe</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> ખેડૂત હંમેશા 'Hoe' (કોદાળી) નો ઉપયોગ કરે છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "The kind couple became ______ after finding the gold.\n(A) Poor\n(B) Sad\n(C) Wealthy\n(D) Greedy",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Wealthy</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> સોનું મળવાથી તેઓ શ્રીમંત (Wealthy) બન્યા.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "What is the meaning of 'Daimyo'?\n(A) A poor farmer\n(B) A Japanese wealthy landowner\n(C) A monk\n(D) A servant",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) A Japanese wealthy landowner</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> પાઠના શબ્દાર્થમાં 'Daimyo' એટલે 19મી સદીના જાપાનના જમીનદાર.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "The cruel couple borrowed the ______ from the kind neighbors.\n(A) Gold\n(B) Mortar and mill\n(C) Seeds\n(D) Clothes",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Mortar and mill</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> તેમણે ચમત્કાર જોવા માટે 'Mortar and mill' ઉછીના માંગ્યા હતા.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "What kind of trees were made to bloom by the ashes?\n(A) Apple trees\n(B) Withered cherry trees\n(C) Pine trees\n(D) Orange trees",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Withered cherry trees</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> જાપાનનું પ્રખ્યાત વૃક્ષ 'Cherry tree' (ચેરી) છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "Who invited the old man to the castle?\n(A) The neighbor\n(B) The Daimyo\n(C) The village head\n(D) The spirit of the dog",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) The Daimyo</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> રાજા (Daimyo) તેના કામથી ખુશ થઈને તેને મહેલમાં તેડાવે છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "What did the greedy old man wait for on the roadside?\n(A) For the dog\n(B) For the Daimyo's procession\n(C) For rain\n(D) For his wife",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) For the Daimyo's procession</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> દયાળુ માણસની જેમ તેને પણ ઈનામ જોઈતું હતું એટલે તે રાજાની સવારીની રાહ જોતો હતો.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "The moral of the story is ______.\n(A) Greed is good\n(B) Kindness is rewarded, greed is punished\n(C) Animals are useless\n(D) Cutting trees is important",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Kindness is rewarded, greed is punished</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> દયાનું ફળ મીઠું અને લોભનું ફળ કડવું - આ જ વાર્તાનો મુખ્ય બોધ છે.</div>"
+    }
+  ]
+}
