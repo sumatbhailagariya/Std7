@@ -564,3 +564,211 @@ var Std7_English_MCQs = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "Yes, I Will",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "Harry Patel is a ______.\n(A) Doctor\n(B) Salesman\n(C) Teacher\n(D) Lawyer",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Salesman</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Harry Patel ઘરે-ઘરે જઈને શેમ્પૂ વેચે છે, એટલે તે 'Salesman' કહેવાય. (Harry = Salesman).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "What does Harry sell?\n(A) Soap\n(B) Oil\n(C) Shampoo\n(D) Perfume",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Shampoo</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું નામ 'Yes, I Will' છે અને પ્રોડક્ટ 'Happy Healthy Shampoo' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "What is the name of Harry's company?\n(A) Healthy Hair\n(B) Happy Healthy Shampoo\n(C) Harry's Shampoo\n(D) Quick Cleaner",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Happy Healthy Shampoo</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કંપનીના નામમાં 'H' અક્ષર યાદ રાખો - Happy Healthy Harry.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "How much time does the shampoo take to clean the hair?\n(A) 5 minutes\n(B) 10 minutes\n(C) 2 minutes\n(D) 1 minute",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 2 minutes</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Harry કહે છે, 'It cleans the hair in just 2 minutes'. મેગીની જેમ 2 મિનિટ યાદ રાખો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "Who was Harry's first customer of the day?\n(A) Mr. Jadeja\n(B) Sharda Modi\n(C) Reshma\n(D) A student",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) Mr. Jadeja</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સવારે 10 વાગ્યે હેરી સૌથી પહેલા પોલીસમેન મિસ્ટર જાડેજાના ઘરે ગયો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "What is Mr. Jadeja's profession?\n(A) Doctor\n(B) Police Inspector\n(C) Teacher\n(D) Pilot",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Police Inspector</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Jadeja - J for Jawan (પોલીસ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "What did Harry see at Mr. Jadeja's door?\n(A) A flower pot\n(B) A nameplate\n(C) A dog\n(D) A bicycle",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) A nameplate</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈના પણ ઘરે જઈએ ત્યારે સૌથી પહેલા 'Nameplate' દેખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "Which size of bottle did Mr. Jadeja see?\n(A) 100 ml\n(B) 200 ml\n(C) 500 ml\n(D) 1 litre",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 500 ml</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિસ્ટર જાડેજાએ અડધો લિટર એટલે કે 500ml ની મોટી બોટલ જોઈ હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "What is the price of a 500 ml bottle?\n(A) Rs. 150\n(B) Rs. 200\n(C) Rs. 250\n(D) Rs. 300",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Rs. 250</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 500 ના અડધા 250 (500ml = 250 Rs).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "Who is Mrs. Sharda Modi?\n(A) A teacher\n(B) The Mayor\n(C) A nurse\n(D) A beautician",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) The Mayor</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Sharda Modi = S.M. (S.M. = Sharda Modi / S.M. = Super Mayor).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "Where was Mrs. Sharda Modi going?\n(A) To a party\n(B) To a market\n(C) To a Praveshotsav function\n(D) To a temple",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) To a Praveshotsav function</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રવેશોત્સવ એટલે શાળામાં નવો પ્રવેશ, જે સરકારી કાર્યક્રમ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "What did Mrs. Sharda Modi give to Harry?\n(A) Money\n(B) A bottle\n(C) Her visiting card\n(D) A gift",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Her visiting card</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે કોઈ પાસે સમય ન હોય, ત્યારે તે પોતાનું 'Card' આપે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "What is the name of the school on Mrs. Modi's card?\n(A) Sardar Patel School\n(B) Sardarnagar Primary School\n(C) Gandhi School\n(D) Happy School",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Sardarnagar Primary School</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Sharda Modi - S for Sharda, S for Sardarnagar.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "Mrs. Sharda Modi is the Mayor of ______.\n(A) Ahmedabad\n(B) Surat\n(C) S.M.C.\n(D) V.V.N.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) S.M.C.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાર્ડમાં સ્પષ્ટ લખ્યું છે: 'Mayor, S.M.C.'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "Where was the next stop for Harry after meeting Mrs. Modi?\n(A) At home\n(B) Reshma Beauty Parlor\n(C) A hospital\n(D) A garden",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Reshma Beauty Parlor</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: છેલ્લે હેર-પાર્લર જ જવાનું હોય કારણ કે ત્યાં શેમ્પૂની વધુ જરૂર હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "How many bottles of shampoo did Reshma buy?\n(A) One\n(B) Two\n(C) Five\n(D) Ten",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Five</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Reshma bought five bottles'. (R-5: રેશમાએ 5 ખરીદી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "What is the price of one small bottle (100 ml)?\n(A) Rs. 50\n(B) Rs. 75\n(C) Rs. 100\n(D) Rs. 80",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Rs. 75</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નાની બોટલ 75 રૂપિયાની છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "Reshma paid Harry Rs. ______ for five bottles.\n(A) 300\n(B) 350\n(C) 375\n(D) 400",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 375</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગણિત લગાવો: 75 x 5 = 375.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "What does Harry say to start a conversation?\n(A) Hello, I am Harry from Happy Healthy Shampoo.\n(B) Give me money.\n(C) Buy my shampoo.\n(D) How are you?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) Hello, I am Harry from Happy Healthy Shampoo.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેલ્સમેન હંમેશા પોતાનો અને કંપનીનો પરિચય પહેલા આપે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "Which word in the lesson means 'a person who sells things'?\n(A) Teacher\n(B) Salesman\n(C) Mayor\n(D) Police",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Salesman</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Sales' એટલે વેચાણ અને 'Man' એટલે માણસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "What was the time when Harry met Mr. Jadeja?\n(A) 10:00 AM\n(B) 12:00 PM\n(C) 2:00 PM\n(D) 8:00 AM",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) 10:00 AM</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠની શરૂઆતમાં જ લખ્યું છે 'It was 10:00 in the morning'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "Harry met ______ at 12:30 PM.\n(A) Mr. Jadeja\n(B) Sharda Modi\n(C) Reshma\n(D) His boss",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Sharda Modi</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બપોરે 12:30 વાગ્યે તે મેયર શારદા મોદીના દરવાજે હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "The shampoo cleans the hair ______. (Choose the correct word from the text)\n(A) Slowly\n(B) Quickly\n(C) Badly\n(D) Never",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Quickly</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શેમ્પૂનું નામ જ 'Quick Cleaner' જેવું કામ કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "Does Harry's shampoo have a 'Natural Conditioner'?\n(A) No\n(B) Yes\n(C) Only for kids\n(D) Not mentioned",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Yes</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Harry કહે છે, 'It has a natural conditioner'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "Mr. Jadeja was ______ with the quick response.\n(A) Angry\n(B) Sad\n(C) Satisfied\n(D) Bored",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Satisfied</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈ વસ્તુ ગમી જાય તો આપણે 'Satisfied' (સંતુષ્ટ) થઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "Harry says, 'Can I have your ______ minutes?'\n(A) Two\n(B) Five\n(C) Ten\n(D) Fifteen",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Five</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠમાં વારંવાર '5 minutes' સમય માંગવાની વાત આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "What does the word 'Quick' mean?\n(A) Slow\n(B) Fast\n(C) Heavy\n(D) Light",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Fast</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Quick = Fast (ઝડપી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "Where is the 'Praveshotsav' function held?\n(A) In a garden\n(B) At a school\n(C) In a temple\n(D) At a police station",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) At a school</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રવેશોત્સવ હંમેશા 'School' (શાળા) માં જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "Who was the owner of the beauty parlor?\n(A) Sharda\n(B) Reshma\n(C) Harry\n(D) Mrs. Jadeja",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Reshma</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠમાં 'Reshma Beauty Parlor' નામ આપેલું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "Harry ______ the visiting card of Mrs. Sharda Modi.\n(A) Threw\n(B) Lost\n(C) Kept\n(D) Tore",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Kept</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સેલ્સમેન હંમેશા ગ્રાહકનું કાર્ડ સાચવીને 'Keep' (રાખે) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "The plural of 'bottle' is ______.\n(A) Bottles\n(B) Bottels\n(C) Bottless\n(D) Botteles",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) Bottles</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોટાભાગના શબ્દોમાં છેલ્લે 's' લગાડવાથી બહુવચન બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "Harry's shampoo is ______ for the hair.\n(A) Bad\n(B) Harmful\n(C) Safe and Good\n(D) Dangerous",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Safe and Good</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કંપનીનું નામ જ 'Happy Healthy' છે, એટલે તે 'Safe' જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "Who said this: 'I am in a hurry.'?\n(A) Harry\n(B) Mr. Jadeja\n(C) Mrs. Sharda Modi\n(D) Reshma",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Mrs. Sharda Modi</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેયરને ફંક્શનમાં જવાનું મોડું થતું હતું, એટલે તેમણે 'Hurry' (ઉતાવળ) બતાવી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "What is the opposite of 'Old'?\n(A) New\n(B) Ancient\n(C) Fast\n(D) Heavy",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) New</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠમાં 'New shampoo' ની વાત છે. (Old x New).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "What did Harry do after reading Mrs. Modi's card?\n(A) He went home\n(B) He ate lunch\n(C) He went to Reshma Beauty Parlor\n(D) He called her",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) He went to Reshma Beauty Parlor</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેયર પછી બ્યુટી પાર્લર - આ હેરીનો ક્રમ હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "What is the past tense of 'Go'?\n(A) Goes\n(B) Going\n(C) Went\n(D) Gone",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Went</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠમાં 'He went to the next door' વારંવાર વપરાયું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "Reshma is a ______.\n(A) Mayor\n(B) Customer\n(C) Saleswoman\n(D) Police",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Customer</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે વસ્તુ ખરીદે તે 'Customer' (ગ્રાહક) કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "Harry says, 'It's our ______ cleaner.'\n(A) Slow\n(B) Quick\n(C) Dirty\n(D) Hard",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Quick</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Quick Cleaner' એ હેરીની પ્રોડક્ટની મુખ્ય ખાસિયત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "Did Mrs. Sharda Modi buy the shampoo?\n(A) Yes, 1 bottle\n(B) Yes, 5 bottles\n(C) No, she didn't\n(D) She bought the whole company",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) No, she didn't</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેયર પાસે સમય નહોતો, એટલે તેમણે ફક્ત કાર્ડ આપ્યું, ખરીદી ન કરી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "What is the full form of S.M.C. in the lesson?\n(A) School Management Committee\n(B) Surat Municipal Corporation\n(C) Sharda Modi Corporation\n(D) State Mission Center",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Surat Municipal Corporation</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મેયર હંમેશા મહાનગરપાલિકા (Municipal Corporation) માં હોય.</p></div>"
+    }
+  ]
+}
