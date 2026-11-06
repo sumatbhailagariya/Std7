@@ -1221,3 +1221,211 @@ var Std7_English_MCQs = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "The Invention of Vita-Wonk",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "The Invention of Vita-Wonk વાર્તાના લેખક કોણ છે?\n(A) Rudyard Kipling\n(B) Roald Dahl\n(C) Leo Tolstoy\n(D) Rabindranath Tagore",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Roald Dahl</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Charlie and the Chocolate Factory' ના લેખક પણ Roald Dahl જ છે, જેમના પાત્ર Willy Wonka પર આ પાઠ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "Mr. Willy Wonka કોણ છે?\n(A) A teacher\n(B) A doctor\n(C) An inventor\n(D) A farmer",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) An inventor</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠના ટાઈટલમાં 'Invention' શબ્દ છે, અને જે Invention કરે તેને 'Inventor' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "Mr. Wonka એ પહેલા કઈ દવા બનાવી હતી?\n(A) Vita-Wonk\n(B) Wonka-Vite\n(C) Magic-Wonk\n(D) Super-Vite",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Wonka-Vite</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો: Vite (પહેલા) -> Wonk (પછી). પહેલી દવા Wonka-Vite હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "Wonka-Vite દવા પીવાથી શું થતું હતું?\n(A) People became older\n(B) People became younger\n(C) People became taller\n(D) People disappeared",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) People became younger</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Vite' શબ્દ Vitality (યુવાની) પરથી યાદ રાખો, જે લોકોને યુવાન (Younger) બનાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "Wonka-Vite ની આડઅસર શું હતી?\n(A) People became too old\n(B) Some people's age became minus\n(C) People became invisible\n(D) People lost their memory",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Some people's age became minus</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દવા એટલી સ્ટ્રોંગ હતી કે ઉંમર શૂન્યથી પણ નીચે (Minus) જતી રહેતી હતી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "એક વ્યક્તિની ઉંમર ‘માઈનસ 87’ (-87) થઈ ગઈ, તેનો અર્થ શું થાય?\n(A) He is 87 years old\n(B) He has to wait 87 years to be born\n(C) He will die in 87 years\n(D) He is 87 months old",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) He has to wait 87 years to be born</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માઈનસ ઉંમર એટલે કે વ્યક્તિ હજુ જન્મી જ નથી, તેને જન્મવા માટે તેટલા વર્ષોની રાહ જોવી પડશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "Mr. Wonka હવે કઈ નવી દવા બનાવવા માંગતા હતા?\n(A) To make people fly\n(B) To make people older\n(C) To make people rich\n(D) To make people sleep",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) To make people older</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અગાઉની દવાથી લોકો ખૂબ નાના થઈ ગયા હતા, તેથી તેમને પાછા 'મોટા' (Older) કરવા નવી દવા જરૂરી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "દુનિયામાં સૌથી લાંબુ જીવતું પ્રાણી કે વસ્તુ કઈ છે?\n(A) The Blue Whale\n(B) The African Elephant\n(C) The Bristlecone Pine\n(D) The Giant Tortoise",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) The Bristlecone Pine</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠ મુજબ 'Bristlecone Pine' એ સૌથી જૂનું (Oldest living thing) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "Bristlecone Pine ક્યાં જોવા મળે છે?\n(A) Mount Everest\n(B) Wheeler Peak in Nevada, USA\n(C) Amazon Rainforest\n(D) Sahara Desert",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Wheeler Peak in Nevada, USA</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Wheeler Peak = વ્હીલર પીક (નેવાડા). આ સ્થળ યાદ રાખવું પરીક્ષા માટે ખાસ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "Bristlecone Pine ની અંદાજિત ઉંમર કેટલી છે?\n(A) 1000 years\n(B) 2000 years\n(C) Over 4000 years\n(D) 500 years",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Over 4000 years</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4000+ વર્ષ એટલે કે ઇતિહાસ કરતા પણ જૂનું ઝાડ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "Mr. Wonka એ વિશ્વની મુસાફરી કરવા માટે શેનો ઉપયોગ કર્યો?\n(A) An Aeroplane\n(B) A Great Glass Elevator\n(C) A Speed Boat\n(D) A Time Machine",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) A Great Glass Elevator</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાચની લિફ્ટ (Glass Elevator) એ Mr. Wonka નું ખાસ વાહન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "Mr. Wonka એ 168 વર્ષના રશિયન ખેડૂત પાસેથી શું લીધું?\n(A) A lock of hair\n(B) A pint of blood\n(C) An eyebrow\n(D) A toe-nail clipping",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) A toe-nail clipping</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રશિયન ખેડૂત (Petrovitch Gregorovitch) ના 'પગના નખ' (Toe-nail) લીધા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "200 વર્ષ જૂના કાચબા (Tortoise) પાસેથી શું મેળવવામાં આવ્યું?\n(A) A piece of shell\n(B) An egg\n(C) A tail\n(D) A tooth",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) An egg</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કાચબાએ મૂકેલું 'ઈંડું' (Egg) Mr. Wonka એ લીધું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "51 વર્ષના ઘોડા પાસેથી શું લેવામાં આવ્યું?\n(A) Hoof\n(B) Mane\n(C) Tail\n(D) Ear",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Tail</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘોડાની પૂંછડી (Tail) માંથી નમૂનો લેવાયો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "36 વર્ષની બિલાડીનું નામ શું હતું?\n(A) Tom\n(B) Crumpets\n(C) Kitty\n(D) Simba",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Crumpets</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બિલાડીનું નામ 'Crumpets' (એક પ્રકારની બ્રેડ/નાસ્તો) પરથી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "Mr. Wonka એ બિલાડી પાસેથી શું લીધું?\n(A) Fur\n(B) Whiskers\n(C) Milk\n(D) Paws",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Whiskers</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બિલાડીના 'મૂછના વાળ' એટલે કે 'Whiskers' લેવાયા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "Crumpets (બિલાડી) પર 36 વર્ષ સુધી કોણ રહ્યું હતું?\n(A) A mosquito\n(B) A flea\n(C) A spider\n(D) An ant",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) A flea</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Flea' (ચાંચડ) જે 36 વર્ષથી જીવતો હતો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "207 વર્ષ જૂનો ઉંદર ક્યાંનો હતો?\n(A) India\n(B) Tibet\n(C) America\n(D) Russia",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Tibet</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Tibet (તિબેટ) નો મહાકાય ઉંદર (Giant Rat).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "Mr. Wonka એ બધી વસ્તુઓ ભેગી કરીને શું કર્યું?\n(A) Fried them\n(B) Froze them\n(C) Boiled and mixed them\n(D) Threw them away",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Boiled and mixed them</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વૈજ્ઞાનિક પ્રક્રિયા માટે તેને ઉકાળવી (Boil) અને મિક્સ (Mix) કરવી જરૂરી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "અંતે કેવા રંગનું પ્રવાહી તૈયાર થયું?\n(A) Red\n(B) Blue\n(C) Black\n(D) Yellow",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Black</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Oily black liquid' (તેલી કાળું પ્રવાહી) તૈયાર થયું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "Vita-Wonk ના કેટલા ટીપાં સ્વયંસેવકને આપવામાં આવ્યા?\n(A) One drop\n(B) Four drops\n(C) Ten drops\n(D) A full glass",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Four drops</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માત્ર 4 ટીપાં (Four drops) આખા માણસને બદલી નાખવા માટે પૂરતા હતા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "સ્વયંસેવક (Volunteer) નું નામ શું હતું?\n(A) Charlie\n(B) Oompa-Loompa\n(C) Mike\n(D) Augustus",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Oompa-Loompa</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Oompa-Loompa એ Mr. Wonka ના ફેક્ટરી હેલ્પર્સ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "દવા પીધા પછી Oompa-Loompa ની ઉંમર કેટલી થઈ ગઈ?\n(A) 20 years\n(B) 40 years\n(C) 75 years\n(D) 100 years",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 75 years</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તે 20 વર્ષનો હતો અને તરત જ 75 વર્ષનો ડોસો બની ગયો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "Oompa-Loompa ની ઉંમર દવા પીતા પહેલા કેટલી હતી?\n(A) 10 years\n(B) 20 years\n(C) 30 years\n(D) 5 years",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 20 years</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 20 વર્ષનો યુવાન 75 નો વૃદ્ધ બન્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "દવા પીધા પછી Oompa-Loompa માં શું ફેરફાર થયો?\n(A) He started growing hair\n(B) He started wrinkling and shrivelling up\n(C) He became taller\n(D) He started running fast",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) He started wrinkling and shrivelling up</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘરડા થવાના લક્ષણો: કરચલીઓ (Wrinkles) પડવી અને ચામડી સુકાવી (Shrivelling).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "What does 'Invention' mean?\n(A) To destroy something\n(B) To find something already existing\n(C) To create something new for the first time\n(D) To sell something",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) To create something new for the first time</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Invention = નવી શોધ. (Discovery એટલે જે છે તેને શોધવું, Invention એટલે નવું બનાવવું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "Grimalkin પાસેથી Mr. Wonka એ શું લીધું?\n(A) Tail\n(B) Black teeth\n(C) Eyes\n(D) Claws",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Black teeth</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Grimalkin નામની વૃદ્ધ બિલાડીના કાળા દાંત (Black teeth) લેવાયા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "Cattaloo ના હાડકાં (Knucklebones) ક્યાંથી મળ્યા હતા?\n(A) Mount Sinai\n(B) Wheeler Peak\n(C) Tonga Islands\n(D) Sahara",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) Mount Sinai</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 700 વર્ષ જૂનો Cattaloo -> Mount Sinai.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "Vita-Wonk શબ્દમાં 'Wonk' એ કોનું નામ સૂચવે છે?\n(A) Charlie\n(B) Wonka\n(C) Dahl\n(D) Oompa",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Wonka</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Mr. Willy Wonka ના નામ પરથી દવાનું નામ 'Vita-Wonk' પડ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "Charlie કોણ છે?\n(A) Mr. Wonka's son\n(B) Mr. Wonka's friend/listener\n(C) A scientist\n(D) A king",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Mr. Wonka's friend/listener</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ વાર્તામાં ચાર્લી એવો છોકરો છે જે મિસ્ટર વોન્કાની વાતો સાંભળે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "What happened to the volunteer's teeth after taking the medicine?\n(A) They became white\n(B) They fell out\n(C) They grew bigger\n(D) They turned gold",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) They fell out</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વૃદ્ધાવસ્થામાં દાંત પડી જાય, એટલે દવાની અસરથી દાંત પડી ગયા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "The sap (રસ) was taken from which tree?\n(A) Oak\n(B) Pine\n(C) Cedar\n(D) Douglas Fir",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Pine</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખું નામ 'Bristlecone Pine' છે, એટલે તે Pine ટ્રી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "Mr. Wonka jumped into the Great Glass Elevator to ________.\n(A) Sleep\n(B) Start collecting ancient items\n(C) Go home\n(D) Eat chocolate",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Start collecting ancient items</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નવી દવા માટે જૂની વસ્તુઓ ભેગી કરવા તેઓ લિફ્ટમાં ગયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "What is the opposite of 'Younger'?\n(A) Smaller\n(B) Older\n(C) Faster\n(D) Newer",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Older</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Young (યુવાન) x Old (વૃદ્ધ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "Find the synonym of 'Ancient' from the options:\n(A) Modern\n(B) New\n(C) Very old\n(D) Colorful",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) Very old</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Ancient એટલે પ્રાચીન અથવા ખૂબ જ જૂનું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "How many items did Mr. Wonka mention collecting in the list to Charlie?\n(A) Only one\n(B) Many ancient items\n(C) Two chocolate bars\n(D) None",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Many ancient items</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠમાં આખી યાદી આપી છે જે બધી જ ખૂબ જૂની વસ્તુઓની છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "Mr. Wonka says, 'It's over to you, Charlie.' What does this mean?\n(A) Charlie should go home\n(B) It's Charlie's turn to speak/listen\n(C) Charlie is the new inventor\n(D) Charlie should drink the medicine",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) It's Charlie's turn to speak/listen</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'It's over to you' એટલે હવે તારો વારો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "Why did the 20-year-old Oompa-Loompa volunteer?\n(A) He wanted to be a baby\n(B) To test the new invention Vita-Wonk\n(C) He was forced to do so\n(D) He wanted to leave the factory",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) To test the new invention Vita-Wonk</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કોઈ પણ નવી દવાનું પરીક્ષણ સ્વયંસેવક (Volunteer) પર કરવામાં આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "The Bristlecone pine can live for thousands of years. This is a ________.\n(A) Mystery\n(B) Fact\n(C) Lie\n(D) Magic",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Fact</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વાસ્તવિક દુનિયામાં પણ Bristlecone Pine સૌથી વધુ જીવતું ઝાડ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "Complete the title: 'The Invention of _______'.\n(A) Wonka-Vite\n(B) Vita-Wonk\n(C) Charlie-Wonk\n(D) Oompa-Wonk",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) Vita-Wonk</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનું નામ જ 'The Invention of Vita-Wonk' છે.</p></div>"
+    }
+  ]
+}
