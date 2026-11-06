@@ -1088,3 +1088,136 @@ var Std7_English_MCQs = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "Expert Detectives",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "નિષાદનું બીજું નામ શું હતું?\n(A) ફાઈવ\n(B) સિક્સ\n(C) સેવન\n(D) એઈટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સેવન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નિષાદ' એ સંગીતના સાતમા સૂર (ની) નું નામ છે, તેથી તેને 'સેવન' કહેવામાં આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "માયાની ઉંમર કેટલી હતી?\n(A) 7 વર્ષ\n(B) 10 વર્ષ\n(C) 12 વર્ષ\n(D) 15 વર્ષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 10 વર્ષ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠ મુજબ નિષાદ (7 વર્ષ) નાનો ભાઈ છે અને માયા (10 વર્ષ) તેની મોટી બહેન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "માયાના મતે મિસ્ટર નાથ કોણ હતા?\n(A) એક ગરીબ માણસ\n(B) એક ડૉક્ટર\n(C) એક ભાગેડુ ગુનેગાર (Crook)\n(D) એક શિક્ષક",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) એક ભાગેડુ ગુનેગાર (Crook)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માયા હંમેશા મિસ્ટર નાથ પર શંકા કરતી હતી કે તેઓ પોલીસથી બચવા છુપાયા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "મિસ્ટર નાથના ચહેરા પરના ડાઘા વિશે માયાનું શું માનવું હતું?\n(A) તે અછબડાના ડાઘા હતા.\n(B) તે જન્મજાત ડાઘા હતા.\n(C) તે પોલીસ સાથેની લડાઈમાં ગોળીબારના ડાઘા હતા.\n(D) તે અકસ્માતના ડાઘા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) તે પોલીસ સાથેની લડાઈમાં ગોળીબારના ડાઘા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માયા તેમને ગુનેગાર માનતી હોવાથી 'Shoot-out with police' ની થિયરીમાં માનતી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "નિષાદની માતા વ્યવસાયે શું હતા?\n(A) શિક્ષિકા\n(B) વકીલ\n(C) નર્સ\n(D) ડૉક્ટર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) ડૉક્ટર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મમ્મી ડૉક્ટર હોવાથી તેઓ મિસ્ટર નાથને એક પેશન્ટ તરીકે જાણતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "મિસ્ટર નાથ માટે જમવાનું કોણ લાવતું હતું?\n(A) નિષાદ\n(B) માયા\n(C) રમેશ\n(D) શંકર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) રમેશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રમેશ નજીકની રેસ્ટોરન્ટમાં કામ કરતો હતો અને રોજ જમવાનું પહોંચાડતો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "મિસ્ટર નાથ દર રવિવારે કોને મળતા હતા?\n(A) પોલીસને\n(B) એક ઉંચા, ગોરા અને જાડા માણસને\n(C) રમેશને\n(D) નિષાદને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) એક ઉંચા, ગોરા અને જાડા માણસને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Tall, fair, stout and wears spectacles' - આ વિઝિટર રવિવારે આવતો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "મિસ્ટર નાથ રમેશને પૈસા કેવી રીતે ચૂકવતા હતા?\n(A) ચેકથી\n(B) રોકડમાં (Cash)\n(C) ઉધાર રાખતા\n(D) ઓનલાઇન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) રોકડમાં (Cash)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠમાં ઉલ્લેખ છે કે 'Pays cash and tips well'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "નિષાદે મિસ્ટર નાથને શું આપ્યું?\n(A) ચોકલેટ\n(B) આઈસ્ક્રીમ\n(C) બાર ઓફ ચોકલેટ (Bar of chocolate)\n(D) ફળો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) બાર ઓફ ચોકલેટ (Bar of chocolate)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિષાદને લાગ્યું કે મિસ્ટર નાથ ભૂખ્યા છે, એટલે તેણે ચોકલેટ આપી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "માયાએ તેની ડાયરીમાં શું લખ્યું હતું?\n(A) એક વાર્તા\n(B) કવિતા\n(C) 'Catching a Crook' શીર્ષક હેઠળ તથ્યો (Facts)\n(D) ઘરનું લેસન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 'Catching a Crook' શીર્ષક હેઠળ તથ્યો (Facts)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માયા પોતાને 'Expert Detective' માનતી હતી, એટલે તેણે લિસ્ટ બનાવ્યું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "મિસ્ટર નાથ કયા રૂમમાં રહેતા હતા?\n(A) રૂમ નંબર 5\n(B) રૂમ નંબર 10\n(C) રૂમ નંબર 7\n(D) રૂમ નંબર 12",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) રૂમ નંબર 10</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શંકર હાઉસના રૂમ નંબર 10 માં મિસ્ટર નાથ એકલા રહેતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "મિસ્ટર નાથ જમવામાં શું લેતા હતા?\n(A) પીઝા અને બર્ગર\n(B) પૂરી અને શાક\n(C) બે ચપાતી, દાળ અને શાક\n(D) માત્ર ફળો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) બે ચપાતી, દાળ અને શાક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રમેશ મુજબ મિસ્ટર નાથનું ભોજન હંમેશા એકસરખું (The same food) જ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "મિસ્ટર નાથના ચહેરા પરના ડાઘા વિશે તેમની માતાનું શું કહેવું હતું?\n(A) તે મારામારીના ડાઘા હતા.\n(B) તે દાઝી જવાના (Burn scars) ડાઘા હતા.\n(C) તે બીમારીના ડાઘા હતા.\n(D) તે ખોટા ડાઘા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) તે દાઝી જવાના (Burn scars) ડાઘા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડૉક્ટર મમ્મીએ ખાતરી આપી હતી કે તે આગથી દાઝ્યાના નિશાન છે, ગોળીના નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "નિષાદ મિસ્ટર નાથ પ્રત્યે કેવો અનુભવ કરતો હતો?\n(A) ગુસ્સો\n(B) ડર\n(C) સહાનુભૂતિ (Sympathy)\n(D) નફરત",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સહાનુભૂતિ (Sympathy)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિષાદને મિસ્ટર નાથ એકલા અને ગરીબ લાગતા હતા, તેથી તે તેમને મદદ કરવા માંગતો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "રવિવારે મિસ્ટર નાથના ઘરે કેટલી ચા મંગાવવામાં આવતી હતી?\n(A) એક\n(B) બે\n(C) ત્રણ\n(D) ચાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) બે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રવિવારે વિઝિટર આવતો હોવાથી મિસ્ટર નાથ પોતાના અને મહેમાન માટે બે ચા મંગાવતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "મિસ્ટર નાથ વિશે માહિતી મેળવવા નિષાદ કોની પાસે ગયો હતો?\n(A) પોલીસ પાસે\n(B) મમ્મી પાસે\n(C) રમેશ પાસે\n(D) પાડોશી પાસે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) રમેશ પાસે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિષાદ રમેશને મળ્યો કારણ કે રમેશ જ રોજ મિસ્ટર નાથના રૂમમાં જતો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "માયાએ વિઝિટર વિશે શું અનુમાન લગાવ્યું?\n(A) તે મિસ્ટર નાથનો ભાઈ હશે.\n(B) તે મિસ્ટર નાથનો ગુનામાં ભાગીદાર (Accomplice) હશે.\n(C) તે મિસ્ટર નાથનો જૂનો મિત્ર હશે.\n(D) તે મિસ્ટર નાથનો નોકર હશે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) તે મિસ્ટર નાથનો ગુનામાં ભાગીદાર (Accomplice) હશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માયાના મતે વિઝિટર લૂંટના પૈસાનો હિસ્સો આપવા આવતો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "જ્યારે નિષાદે મિસ્ટર નાથને ચોકલેટ આપી ત્યારે મિસ્ટર નાથને શું લાગ્યું?\n(A) નિષાદ ચોરી કરવા આવ્યો છે.\n(B) નિષાદ તેની લખોટી (Marble) લેવા આવ્યો છે.\n(C) નિષાદ રમવા આવ્યો છે.\n(D) નિષાદ જમવાનું લાવ્યો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) નિષાદ તેની લખોટી (Marble) લેવા આવ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અગાઉ નિષાદની લખોટી તેમના રૂમમાં જતી રહી હતી, એટલે મિસ્ટર નાથને એમ લાગ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "પાઠના અંતે નિષાદે શું નક્કી કર્યું?\n(A) મિસ્ટર નાથને પોલીસ પકડાવશે.\n(B) મિસ્ટર નાથ સાથે મિત્રતા કરશે.\n(C) માયાને મદદ કરશે.\n(D) ઘર છોડી દેશે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મિસ્ટર નાથ સાથે મિત્રતા કરશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિષાદે કહ્યું, 'I’m going to be his friend' કારણ કે તેને મિસ્ટર નાથ એકલા લાગતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "માયાએ તથ્યોની યાદી (List of facts) શા માટે બનાવી?\n(A) પરીક્ષા માટે\n(B) ગુનેગારને પકડવામાં મદદરૂપ થવા\n(C) શોખ માટે\n(D) ડાયરી લખવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ગુનેગારને પકડવામાં મદદરૂપ થવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માયા પોતાની જાતને એક ડિટેક્ટિવ ગણતી હતી, તેથી તેણે તથ્યો વ્યવસ્થિત ગોઠવ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "મિસ્ટર નાથ કેવા સ્વભાવના હતા?\n(A) વાતોડિયા\n(B) હસમુખા\n(C) શાંત અને ઓછું બોલનારા (Quiet and non-talkative)\n(D) ગુસ્સાવાળા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) શાંત અને ઓછું બોલનારા (Quiet and non-talkative)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રમેશના જણાવ્યા મુજબ મિસ્ટર નાથ ભાગ્યે જ કોઈની સાથે વાત કરતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "માયાના મતે મિસ્ટર નાથ પાસે પૈસા ક્યાં છુપાવેલા હશે?\n(A) બેંકમાં\n(B) લોખંડની ટ્રંકમાં (Trunk) સોના-ચાંદી સાથે\n(C) ગાદલા નીચે\n(D) રસોડામાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) લોખંડની ટ્રંકમાં (Trunk) સોના-ચાંદી સાથે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માયાની કલ્પના મુજબ મિસ્ટર નાથ પાસે લૂંટનો ખજાનો ટ્રંકમાં હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "નિષાદના મતે મિસ્ટર નાથ પાતળા કેમ હતા?\n(A) કારણ કે તેઓ બીમાર હતા.\n(B) કારણ કે તેઓ કસરત કરતા હતા.\n(C) કારણ કે તેઓ ગરીબ હતા અને ભૂખ્યા રહેતા હતા.\n(D) કારણ કે તેમને ડાયટિંગ કરવું ગમતું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) કારણ કે તેઓ ગરીબ હતા અને ભૂખ્યા રહેતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિષાદ તેમની 'Gaunt' (દુબળી) કાયા જોઈને દયા અનુભવતો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "માયા અને નિષાદને શાળામાં રજા કેમ હતી?\n(A) રવિવાર હોવાથી\n(B) ભારે વરસાદને કારણે (Monsoon rain)\n(C) દિવાળી વેકેશન હોવાથી\n(D) ઉત્તરાયણ હોવાથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ભારે વરસાદને કારણે (Monsoon rain)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Unexpected rains' ને કારણે રસ્તાઓ ભરાઈ ગયા હતા અને શાળામાં રજા પડી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "નિષાદે રમેશને પૂછપરછ માટે શું લાંચ આપી?\n(A) પૈસા\n(B) રમકડાં\n(C) કંઈ જ નહીં\n(D) દસ રૂપિયાની નોટ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) કંઈ જ નહીં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠમાં નિષાદ રમેશ સાથે વાત કરે છે પણ કોઈ પૈસા આપ્યાનો ઉલ્લેખ નથી (માત્ર મિસ્ટર નાથ ટિપ આપતા હતા).</p></div>"
+    }
+  ]
+}
