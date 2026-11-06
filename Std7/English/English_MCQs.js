@@ -1429,3 +1429,161 @@ var Std7_English_MCQs = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "A Homage to Our Brave Soldiers",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "Who wrote the letter to Ananda?\nA. Soumya\nB. Nitesh\nC. Kanchi\nD. Sameer",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. Soumya</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠની શરૂઆતમાં જ પત્ર લખનારનું નામ 'Soumya' આપવામાં આવ્યું છે, તે યાદ રાખવું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "Where is the National War Memorial located?\nA. Mumbai\nB. Chennai\nC. New Delhi\nD. Gandhinagar",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. New Delhi</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાષ્ટ્રીય સ્મારકો મોટાભાગે દેશની રાજધાની 'New Delhi' માં જ હોય છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "What does the word 'Homage' mean?\nA. A home for soldiers\nB. Special honour shown publicly\nC. A type of weapon\nD. A military training",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. Special honour shown publicly</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Homage = Honour (બંને 'H' થી શરૂ થાય છે), એટલે કે શ્રદ્ધાંજલિ કે સન્માન. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "Which of these is NOT one of the four concentric circles of the National War Memorial?\nA. Amar Chakra\nB. Veerta Chakra\nC. Vijay Chakra\nD. Tyag Chakra",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. Vijay Chakra</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 ચક્રો યાદ રાખવાની ટ્રીક: A-V-T-R (Amar, Veerta, Tyag, Rakshak). આમાં 'Vijay' નથી આવતું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "The 'Amar Chakra' contains the ______.\nA. Names of soldiers\nB. Eternal Flame\nC. Statues of heroes\nD. War tanks",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. Eternal Flame</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Amar (અમર) = જે ક્યારેય ન ઓલવાય તેવી જ્યોત (Eternal Flame). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "How many tablets (names) are approximately inscribed on the walls of the Tyag Chakra?\nA. Around 10,000\nB. Over 26,000\nC. Exactly 5,000\nD. 1,00,000",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. Over 26,000</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠ્યપુસ્તક મુજબ 26,000 થી વધુ શહીદોના નામ ત્યાં સુવર્ણ અક્ષરે લખેલા છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "Which award is India's highest military decoration for bravery?\nA. Bharat Ratna\nB. Padma Bhushan\nC. Param Vir Chakra\nD. Shaurya Chakra",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. Param Vir Chakra</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Param' એટલે સર્વોચ્ચ. સૈનિકો માટે સૌથી મોટો એવોર્ડ PVC (Param Vir Chakra) છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "In the 'Veerta Chakra', what is depicted on the bronze murals?\nA. Maps of India\nB. Flags of different countries\nC. Battles fought by the Indian Armed Forces\nD. Portraits of politicians",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. Battles fought by the Indian Armed Forces</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Veerta (વીરતા) એટલે કે શૌર્યની ગાથાઓ/લડાઈઓનું પ્રદર્શન. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "Who was the first recipient of the Param Vir Chakra?\nA. Captain Vikram Batra\nB. Major Somnath Sharma\nC. Nirmal Jit Singh Sekhon\nD. Sanjay Kumar",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. Major Somnath Sharma</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Major 'Somnath' - શિવજીના નામ પરથી યાદ રાખો કે તેઓ પ્રથમ હતા. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "What does 'Rakshak Chakra' symbolize?\nA. The sacrifice of soldiers\nB. The bravery of soldiers\nC. The protection provided by the soldiers\nD. The history of India",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. The protection provided by the soldiers</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Rakshak = Raksha (રક્ષણ/Protection). શબ્દનો અર્થ જ જવાબ છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "When was the National War Memorial dedicated to the nation?\nA. 2014\nB. 2019\nC. 2021\nD. 1947",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. 2019</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફેબ્રુઆરી 2019 માં વડાપ્રધાન દ્વારા તેનું ઉદ્ઘાટન કરવામાં આવ્યું હતું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "Soumya's father works in which organization?\nA. Indian Navy\nB. Indian Air Force\nC. Indian Army\nD. BSF",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. Indian Army</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પત્રમાં ઉલ્લેખ છે કે તેના પિતા 'Army' માં ફરજ બજાવે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "Which of these words means 'very brave'?\nA. Eternal\nB. Concentric\nC. Valiant\nD. Homage",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. Valiant</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Valiant = Brave. આ વોકેબ્યુલરી પાઠમાં સૈનિકો માટે વપરાઈ છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "The Tyag Chakra is made of ______ walls.\nA. Marble\nB. Granite\nC. Wood\nD. Glass",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. Granite</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગ્રેનાઈટ પથ્થર મજબૂત હોય છે અને આ દીવાલો ગ્રેનાઈટની બનેલી છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "Where did Ananda's family go for their vacation?\nA. Shimla\nB. Manali\nC. Goa\nD. Jaipur",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. Manali</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પત્રની શરૂઆતમાં સૌમ્યા આનંદાને તેની મનાલી ટ્રીપ વિશે પૂછે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "What is 'Amar Jawan Jyoti' often referred to as?\nA. The Light of Peace\nB. The Flame of the Immortal Soldier\nC. The Star of India\nD. The Brave Heart",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. The Flame of the Immortal Soldier</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Amar = Immortal, Jawan = Soldier, Jyoti = Flame. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "How many Param Vir Chakra awardees' busts are displayed in the Param Yodha Sthal?\nA. 10\nB. 15\nC. 21\nD. 25",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. 21</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અત્યાર સુધીમાં કુલ 21 વીરોને PVC મળ્યા છે અને તે બધાના સ્ટેચ્યુ ત્યાં છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "The National War Memorial is built near which famous landmark?\nA. Red Fort\nB. India Gate\nC. Qutub Minar\nD. Taj Mahal",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. India Gate</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઈન્ડિયા ગેટની બિલકુલ નજીક જ વોર મેમોરિયલ આવેલું છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "What is the shape of the National War Memorial?\nA. Rectangular\nB. Square\nC. Concentric circles\nD. Triangular",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. Concentric circles</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તે ચાર ગોળાકાર વર્તુળો (Circles) થી બનેલું છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "What did Soumya do to pay tribute to the fallen heroes?\nA. She sang a song\nB. She placed a wreath\nC. She wrote a poem\nD. She gave a speech",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. She placed a wreath</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શ્રદ્ધાંજલિ આપવા માટે ફૂલહાર (Wreath) અર્પણ કરવામાં આવે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "Which word in the chapter means 'a state of deep respect'?\nA. Sacrifice\nB. Reverence\nC. Battle\nD. Eternal",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. Reverence</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Reverence = Respect. પાઠમાં આ શબ્દ શહીદો પ્રત્યેના આદર માટે વપરાયો છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "What does the 'Tyag Chakra' signify?\nA. The bravery of the soldiers\nB. The supreme sacrifice of the soldiers\nC. The victory of the nation\nD. The history of wars",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. The supreme sacrifice of the soldiers</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Tyag (ત્યાગ) = Sacrifice. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "Who is the only person from the Indian Air Force to receive the PVC?\nA. Somnath Sharma\nB. Vikram Batra\nC. Nirmal Jit Singh Sekhon\nD. Yogendra Singh Yadav",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. Nirmal Jit Singh Sekhon</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: એરફોર્સના એકમાત્ર વીર - Sekhon. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "The National War Memorial inspires us to ______.\nA. Go on vacations\nB. Love our country and be responsible citizens\nC. Become politicians\nD. Only read history books",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. Love our country and be responsible citizens</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ પાઠનો મુખ્ય ઉદ્દેશ્ય દેશભક્તિ અને જવાબદારી જગાડવાનો છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "Which of these represents a 'living memory' in the memorial?\nA. The walls\nB. The trees in Rakshak Chakra\nC. The lights\nD. The gift shop",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. The trees in Rakshak Chakra</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રક્ષક ચક્રમાં વૃક્ષો છે જે જીવંત સૈનિકોની યાદ અપાવે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "Soumya felt ______ after visiting the memorial.\nA. Bored\nB. Tired\nC. Deeply moved and proud\nD. Sad",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. Deeply moved and proud</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શહીદોની ગાથા સાંભળીને ગર્વ અને લાગણી (Moved) જ થાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "What is the meaning of 'Inscribed'?\nA. Painted with colours\nB. Written or carved on a surface\nC. Erased from a book\nD. Spoken loudly",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. Written or carved on a surface</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પથ્થર પર જે કોતરવામાં આવે તેને 'Inscribe' કહેવાય. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "Which battle is NOT likely to be shown in the Veerta Chakra?\nA. Battle of Longewala\nB. Battle of Saragarhi\nC. Battle of Panipat (Ancient)\nD. Kargil War",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. Battle of Panipat (Ancient)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ મેમોરિયલ આઝાદી પછીના (Post-Independence) યુદ્ધો માટે છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "The Param Yodha Sthal is an ______ space.\nA. Indoor\nB. Outdoor\nC. Underground\nD. Air-conditioned",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. Outdoor</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તે એક બગીચા જેવો ખુલ્લો (Outdoor) વિસ્તાર છે જ્યાં મૂર્તિઓ છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "Why did Soumya want Ananda to visit the memorial?\nA. To buy toys\nB. To witness the grandeur and learn about brave hearts\nC. To play in the garden\nD. To eat street food in Delhi",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. To witness the grandeur and learn about brave hearts</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પત્રનો આશય દેશના વીરો વિશેની જાણકારી આપવાનો છે. (NJ Classes)</p></div>"
+    }
+  ]
+}
