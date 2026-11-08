@@ -880,3 +880,211 @@ var Std7_English_FillBlanks = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "Quality (ક્વોલિટી)",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "Mr. Gessler was a ______ by profession. (tailor, bootmaker, carpenter)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> bootmaker</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાઠનું નામ 'Quality' છે અને તે બૂટ બનાવવાની ગુણવત્તા પર આધારિત છે, એટલે જવાબ bootmaker જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "The shop of Mr. Gessler was located in a fashionable part of ______. (London, New York, Paris)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> London</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આ વાર્તા લંડન શહેરની પૃષ્ઠભૂમિ પર લખાયેલી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "Mr. Gessler was a ______ immigrant living in London. (French, German, Italian)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> German</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): તેમની બોલવાની લઢણ (Accent) જર્મન હતી, તેથી તે જર્મન હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "There was no sign on the shop other than the name of ______. (The King, Gessler Brothers, Best Boots)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Gessler Brothers</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બે ભાઈઓ સાથે કામ કરતા હતા, એટલે દુકાનનું નામ 'Gessler Brothers' હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "Mr. Gessler made boots only on ______. (demand, order, weekends)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> order</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સાચો કલાકાર ક્યારેય તૈયાર માલ ન રાખે, તે હંમેશા 'ઓર્ડર' મુજબ જ કામ કરે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "The boots made by Mr. Gessler lasted ______. (very short, a long time, only a week)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> a long time</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ક્વોલિટી સારી હોય તો વસ્તુ લાંબો સમય (a long time) ચાલે જ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "To Mr. Gessler, boot-making was an ______. (art, obligation, hobby)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> art</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગ્લેશર ભાઈઓ માટે બૂટ બનાવવા એ માત્ર વ્યવસાય નહીં પણ એક 'કળા' (art) હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "Mr. Gessler's elder brother looked like ______. (a giant, Mr. Gessler himself, a different person)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Mr. Gessler himself</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બંને ભાઈઓ દેખાવમાં એટલા સરખા હતા કે લેખક ઘણીવાર ભૂલ કરી બેસતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "The author once complained about a pair of boots that ______. (creaked, broke, were small)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> creaked</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Creaked' એટલે અવાજ આવવો. લેખકે એકવાર અવાજ આવતા બૂટની ફરિયાદ કરી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "Mr. Gessler told the author to send the creaking boots back for ______. (repair, throwing, selling)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> repair</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગ્લેશર ભાઈઓ પ્રામાણિક હતા, એટલે તેમણે રિપેર કરવાની તૈયારી બતાવી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "Large firms get their business by ______, not by work. (honesty, advertisement, quality)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> advertisement</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મોટી કંપનીઓ કામ કરતાં 'જાહેરાત' (advertisement) માં વધુ માને છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "Mr. Gessler felt ______ towards the big firms. (love, contempt, happiness)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> contempt</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગ્લેશર ભાઈઓને મોટી કંપનીઓ પ્રત્યે 'તિરસ્કાર' (contempt) હતો કારણ કે તેઓ ગુણવત્તા સાથે સમાધાન કરતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "Mr. Gessler's elder brother died of ______. (accident, sorrow/heartbreak, fever)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> sorrow/heartbreak</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ધંધામાં નુકસાન અને દુકાન ખોવાના દુઃખમાં મોટા ભાઈનું અવસાન થયું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "When the author visited after many years, Mr. Gessler looked very ______. (young, old, healthy)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> old</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વર્ષો પછી માણસ હંમેશા 'ઘરડો' (old) જ દેખાય, આ કોમન સેન્સ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "Mr. Gessler would not let ______ touch his boots. (anyone, his brother, the author)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> anyone</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગ્લેશર ભાઈઓ પોતે જ બધું કામ કરતા, બીજા કોઈને (anyone) અડવા દેતા નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "The English boots Mr. Gessler made were ______ than any others. (worse, better, cheaper)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> better</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાઠનું હાર્દ 'Quality' છે, એટલે તેમના બૂટ હંમેશા 'better' જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "Finally, Mr. Gessler died of ______. (starvation, malaria, old age)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> starvation</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Starvation' એટલે ભૂખમરો. તે કામમાં એટલા મગ્ન રહેતા કે ખાવાનું ભૂલી જતા અને પૈસા પણ નહોતા વધતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "Mr. Gessler spent all his money on rent and ______. (food, leather, clothes)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> leather</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બૂટ બનાવવા માટે 'ચામડું' (leather) સૌથી જરૂરી છે, એટલે તે બધો ખર્ચ તેમાં જ કરતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "The new owner of the shop said Mr. Gessler made the ______ boots in London. (best, worst, ugliest)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> best</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): દુશ્મન પણ વખાણ કરે તેને સાચી ક્વોલિટી કહેવાય. નવા માલિકે પણ 'best' જ કહ્યું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "According to the story, Mr. Gessler was a ______ failure. (business, personal, total)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> business</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): તે કલાકાર તરીકે સફળ હતા પણ પૈસા કમાવવામાં એટલે કે 'business' માં નિષ્ફળ ગયા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "Mr. Gessler's boots had the ______ of all boots. (smell, soul, color)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> soul</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લેખકે બૂટની સરખામણી આત્મા (soul) સાથે કરી હતી, કારણ કે તે ખૂબ જ વફાદાર હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "The shop had a certain ______ quietness. (distinguished, annoying, scary)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> distinguished</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Distinguished' એટલે પ્રખ્યાત અથવા અલગ પ્રકારની શાંતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "To the author, Mr. Gessler's shop felt like a ______. (factory, church, market)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> church</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાઠમાં ઉલ્લેખ છે કે દુકાનમાં જવું એ ચર્ચમાં જવા જેવું પવિત્ર લાગતું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "Mr. Gessler used to say, \"Id is an ______.\" (art, ard, adt) - in his German accent.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ard</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જર્મન એક્સેન્ટમાં તે 'Art' ને 'Ard' બોલતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "Mr. Gessler would hold the leather and say, \"What a beautiful ______!\" (piece, biece, biecee)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> biece</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): તે 'Piece' ને 'Biece' બોલતા હતા, જે તેમની જર્મન છાપ દર્શાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "The author felt ______ for complaining about the boots. (proud, sorry, happy)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> sorry</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગ્લેશરની મહેનત જોઈને લેખકને પોતાની ફરિયાદ બદલ પસ્તાવો (sorry) થયો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "Mr. Gessler never ______ his products. (sold, advertised, made)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> advertised</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સાચો કારીગર ક્યારેય જાહેરાત (advertise) માં માનતો નથી, તેના કામની ક્વોલિટી જ તેની જાહેરાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "One of the Gessler brothers lost his ______ because of the big firms. (life, shop, shoes)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> shop</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મોટી કંપનીઓના કારણે તેમની અડધી દુકાન જતી રહી હતી (Lost the shop).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "Mr. Gessler died because he didn't give himself time to ______. (work, sleep, eat)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> eat</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Starvation' એટલે જ ખાવા (eat) નો સમય ન મળવો અથવા ખાવાનું ન હોવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "The author ordered many pairs of boots to ______ Mr. Gessler. (help, test, annoy)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> help</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લેખક દયાળુ હતા, એટલે ગ્લેશરને મદદ કરવા તેમણે વધારાના ઓર્ડર આપ્યા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "A pair of boots made by Gessler was not just a pair of boots, but an ______. (investment, incarnation, accident)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> incarnation</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Incarnation' એટલે સાક્ષાત્ સ્વરૂપ. બૂટ જાણે બૂટના આત્માનું સ્વરૂપ હોય તેવા લાગતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "The leather used by Mr. Gessler was always ______. (cheap, gold-brown, red)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> gold-brown</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાઠમાં 'Gold-brown' ચામડાનો વારંવાર ઉલ્લેખ કરવામાં આવ્યો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "Gessler Brothers' shop was ______ at night. (closed, dimly lit, very bright)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> dimly lit</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સાધારણ માણસો લાઈટના બિલ બચાવવા ઓછો પ્રકાશ (dimly lit) રાખે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "The narrator had known Mr. Gessler since his ______. (college days, youth, marriage)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> youth</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લેખક જ્યારે યુવાન (youth) હતા ત્યારથી ગ્લેશર પાસે બૂટ બનાવડાવતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "The tone of the story 'Quality' is ______. (funny, touching/sad, angry)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> touching/sad</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વાર્તાના અંતે ગ્લેશરનું મૃત્યુ થાય છે, એટલે તે કરુણ (sad) વાર્તા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "Trees are for the ______ to fly in. (airplanes, birds, kites)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> birds</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આ પ્રકરણની સાથે આવતી કવિતા 'Trees' મુજબ પક્ષીઓ (birds) વૃક્ષોમાં રહે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "Trees help to make cool ______ in summer. (shade, water, ice)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> shade</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઉનાળામાં વૃક્ષો આપણને ઠંડો 'છાંયડો' (shade) આપે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "Children use trees to make ______ on. (swings, beds, tables)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> swings</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બાળકો વૃક્ષની ડાળી પર 'હિંચકા' (swings) બાંધીને રમે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "Mr. Gessler's boots never ______ in quality. (failed, improved, changed)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> failed</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Quality' ક્યારેય નિષ્ફળ (fail) જતી નથી, તે હંમેશા શ્રેષ્ઠ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "Mr. Gessler died with a smile of ______ on his face. (satisfaction, pain, anger)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> satisfaction</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે વ્યક્તિ પોતાનું કામ નિષ્ઠાથી કરે, તેને અંતે સંતોષ (satisfaction) જ મળે.</p></div>"
+    }
+  ]
+}
