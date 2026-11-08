@@ -1088,3 +1088,161 @@ var Std7_English_FillBlanks = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "Expert Detectives",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "Nishad is also called 'Seven' because his name is the ______ note on the musical scale. (fifth, sixth, seventh)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> seventh</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘Seven’ એટલે સાતમો નંબર, સંગીતના સાત સૂરમાં નિષાદ (ની) એ સાતમો સૂર છે એટલે યાદ રાખવું સરળ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "Maya thinks that Mr. Nath is a ______ on the run. (doctor, crook, teacher)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> crook</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): માયા જાસૂસ જેવી વાતો કરે છે અને જાસૂસ હંમેશા ગુનેગાર (Crook) ને શોધતા હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "Mr. Nath lives in ______ House. (Shankar, Mohan, Krishna)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Shankar</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'S' થી 'Shankar House' અને 'S' થી 'Seven' (નિષાદ) યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "Mr. Nath has many ______ on his face. (marks, scars, pimples)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> scars</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગુનેગારના ચહેરા પર ઝપાઝપીના નિશાન (Scars) હોય એવી માયાની માન્યતા હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "Nishad’s mother is a ______ by profession. (nurse, doctor, scientist)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> doctor</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાઠમાં મમ્મી મિસ્ટર નાથને પેશન્ટ (દર્દી) તરીકે ઓળખે છે, એટલે મમ્મી ‘ડોક્ટર’ જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "The boy Nishad was ______ years old. (seven, ten, twelve)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> seven</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નિષાદનું હુલામણું નામ જ ‘Seven’ છે કારણ કે તેની ઉંમર પણ 7 વર્ષ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "Maya was ______ years old. (seven, ten, twelve)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ten</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): માયા મોટી બહેન છે, નિષાદ (7) કરતા 3 વર્ષ મોટી એટલે ‘Ten’.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "Ramesh brings food for Mr. Nath from the ______ down the street. (hotel, restaurant, canteen)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> restaurant</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): બહારનું ખાવાનું હંમેશા ‘Restaurant’ માંથી આવે છે તે યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "Every ______ Mr. Nath has a visitor at his home. (Monday, Saturday, Sunday)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Sunday</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રજાના દિવસે (Sunday) જ મુલાકાતીઓ આવતા હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "Mr. Nath gives Ramesh generous ______ for bringing food. (gifts, tips, sweets)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> tips</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હોટલના માણસને હંમેશા ‘Tips’ (બક્ષિસ) આપવામાં આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "Nishad was upset because Mr. Nath looked so ______ and lonely. (rich, gaunt, happy)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> gaunt</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘Gaunt’ એટલે બીમાર કે ભૂખના લીધે સુકાઈ ગયેલું શરીર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "Maya wrote a list of ______ facts about Mr. Nath. (nine, ten, five)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> nine</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): માયાએ જાસૂસી ડાયરીમાં ‘9’ ફેક્ટ્સ લખ્યા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "Nishad went to Mr. Nath’s room to give him a ______ of chocolate. (piece, bar, box)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> bar</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ચોકલેટ માટે હંમેશા ‘Bar’ શબ્દ વપરાય છે (e.g., Chocolate bar).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "Maya called the visitor an ______ in crime. (enemy, accomplice, assistant)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> accomplice</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘Accomplice’ એટલે ગુનામાં સાથ આપનાર સાથીદાર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "Mr. Nath drinks two cups of ______ every day. (milk, coffee, tea)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> tea</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સવાર-સાંજ ચા (Tea) પીવાનો રિવાજ ભારતમાં સામાન્ય છે, એટલે ‘Tea’ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "The visitor who came on Sundays was tall, stout, and ______ . (young, spectacled, thin)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> spectacled</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): રમેશે વર્ણન કર્યું હતું કે વિઝિટર ‘ચશ્માવાળો’ (Spectacled) હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "Nishad’s name means the ______ note on the Indian musical scale. (first, fourth, seventh)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> seventh</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સારેગમપધ'ની' - ની એટલે નિષાદ, જે 7મો અક્ષર છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "Maya and Nishad got a holiday from school because of ______ . (heavy rain, a festival, a strike)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> heavy rain</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વરસાદ (Rain) પડે ત્યારે જ રસ્તાઓ ભરાઈ જાય અને સ્કૂલની રજા પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "Mr. Nath always eats ______ chapatis, dal, and a vegetable. (one, two, three)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> two</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મિસ્ટર નાથનું જમવાનું ફિક્સ હતું - ‘બે’ રોટલી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "Nishad found Mr. Nath to be very ______ . (mean, friendly, lonely)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> lonely</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નિષાદને હંમેશા દયા આવતી હતી, અને દયા એકલવાયા (Lonely) માણસ પર જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "Maya thought Mr. Nath’s scars were from a ______ with the police. (car accident, shoot-out, fire)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> shoot-out</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): માયા મિસ્ટર નાથને ગુનેગાર માનતી હતી, એટલે તે પોલીસ સાથેની લડાઈ (Shoot-out) જ ધારે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "Nishad wanted to be Mr. Nath’s ______ . (enemy, friend, detective)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> friend</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નિષાદ માયા જેવો કઠોર નહોતો, તે પ્રેમાળ હતો એટલે તેને ‘મિત્ર’ બનવું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "The children's mother said Mr. Nath was very ______ . (polite, rude, angry)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> polite</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ડોક્ટર હંમેશા પેશન્ટના સ્વભાવને જાણે છે, મમ્મીએ તેને ‘વિવેકી’ (Polite) કહ્યા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "Ramesh said Mr. Nath ______ pays cash. (always, never, rarely)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> always</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ઉધાર નહિ પણ રોકડા (Cash) આપે તે જ સારો પેશન્ટ/ગ્રાહક કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "Maya’s heading for her list was '______ Detectives'. (Little, Brave, Expert)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Expert</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ચેપ્ટરનું નામ જ ‘Expert Detectives’ છે, એટલે હેડિંગ પણ એ જ હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "Nishad and Maya’s mother’s ______ was at the clinic. (birthday, party, duty)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> birthday</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મમ્મીના ‘જન્મદિવસ’ પર નિષાદ તેની સાથે ક્લિનિક પર ગયો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "According to Ramesh, Mr. Nath ______ talks much. (always, doesn't, rarely)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> doesn't</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગુપ્ત માણસ હંમેશા ‘ઓછું’ બોલે, એટલે ‘Doesn't talk much’ સાચું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "Nishad’s marble rolled into ______ room. (Maya’s, Mr. Nath’s, Ramesh’s)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Mr. Nath’s</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વાર્તાની શરૂઆત જ ત્યારે થાય છે જ્યારે લખોટી (Marble) મિસ્ટર નાથના રૂમમાં જાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "The synonym of 'crook' is ______ . (friend, criminal, detective)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> criminal</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ‘Crook’ એટલે લુચ્ચો માણસ અથવા ગુનેગાર (Criminal).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "Nishad was ______ with Maya’s attitude towards Mr. Nath. (happy, angry, bored)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> angry</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે કોઈ તમારી ગમતી વ્યક્તિ વિશે ખરાબ બોલે, ત્યારે તમને ‘ગુસ્સો’ (Angry) જ આવે.</p></div>"
+    }
+  ]
+}
