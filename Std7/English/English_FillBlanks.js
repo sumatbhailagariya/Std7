@@ -1504,3 +1504,161 @@ var Std7_English_FillBlanks = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "A Homage to our Brave Soldiers",
+  "questionType": "ખાલી જગ્યા પૂરો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "The letter in the chapter is written by _______ to Soumya. (Ananda, Arjun, Amit)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Ananda</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાઠની શરૂઆત 'Dear Soumya' થી થાય છે અને લખનાર મિત્ર 'Ananda' છે, જે તેના અનુભવો શેર કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "The National War Memorial is located in _______. (Mumbai, New Delhi, Chennai)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> New Delhi</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભારતનું રાષ્ટ્રીય યુદ્ધ સ્મારક (National War Memorial) પાટનગર નવી દિલ્હીમાં જ આવેલું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "The National War Memorial was inaugurated in _______ 2019. (January, February, March)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> February</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ફેબ્રુઆરી ૨૦૧૯ માં વડાપ્રધાન દ્વારા તેનું લોકાર્પણ કરવામાં આવ્યું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "There are _______ concentric circles in the National War Memorial. (three, four, five)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> four</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આ સ્મારકમાં ચાર ચક્ર છે: અમર, વીરતા, ત્યાગ અને રક્ષક (૪ ચક્રો = ૪ દિશાઓની સુરક્ષા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "The _______ Chakra represents the 'Circle of Immortality'. (Amar, Veerta, Tyag)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Amar</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Amar' એટલે જે ક્યારેય નાશ ન પામે (Immortal). તેથી અમર ચક્ર એટલે અમરત્વનું ચક્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "The _______ Chakra represents the 'Circle of Bravery'. (Rakshak, Veerta, Amar)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Veerta</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Veer' (વીર) એટલે બહાદુર, તેથી 'Veerta' એટલે Bravery.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "The _______ Chakra represents the 'Circle of Sacrifice'. (Tyag, Rakshak, Amar)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Tyag</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Tyag' એટલે કંઈક છોડવું અથવા બલિદાન આપવું, જેને અંગ્રેજીમાં Sacrifice કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "The _______ Chakra represents the 'Circle of Protection'. (Rakshak, Veerta, Tyag)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Rakshak</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Rakshak' એટલે રક્ષણ કરનાર, તેથી 'Rakshak Chakra' એટલે Protection નું સર્કલ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "Major Somnath Sharma was the first recipient of the _______. (Vir Chakra, Param Vir Chakra, Bharat Ratna)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Param Vir Chakra</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મેજર સોમનાથ શર્મા ભારતનું સર્વોચ્ચ લશ્કરી સન્માન 'પરમવીર ચક્ર' મેળવનાર પ્રથમ સૈનિક હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "The flame that burns continuously at the National War Memorial is _______. (Amar Jawan Jyoti, Akhand Jyot, Bharat Jyot)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Amar Jawan Jyoti</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Amar Jawan' એટલે શહીદ સૈનિકોની યાદમાં સળગતી જ્યોત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "Ananda visited the memorial with her _______. (classmates, parents, cousins)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> classmates</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આ પત્ર શાળાના પ્રવાસ દરમિયાનની મુલાકાત વિશેનો છે, તેથી 'classmates' સાચો જવાબ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "Major Somnath Sharma martyred himself in the _______ conflict. (1947-48, 1965, 1971)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1947-48</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મેજર સોમનાથ શર્મા ભારત-પાકિસ્તાનના પ્રથમ યુદ્ધ (૧૯૪૭-૪૮) માં શહીદ થયા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "The National War Memorial honors soldiers who fought for India after _______. (1947, 1950, 1960)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1947</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આઝાદી (૧૯૪૭) પછીના તમામ શહીદોનું સન્માન અહીં કરવામાં આવ્યું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "The obelisk is located at the center of the _______ Chakra. (Amar, Tyag, Veerta)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Amar</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): કેન્દ્રમાં રહેલું 'અમર ચક્ર' સૌથી મુખ્ય છે જ્યાં 'સ્તંભ' (Obelisk) અને જ્યોત હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "The tablets on the walls contain the names of the _______. (states, martyrs, leaders)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> martyrs</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Martyrs' એટલે શહીદો. તેમની યાદગીરી માટે જ દીવાલો પર તેમના નામ લખેલા હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "The National War Memorial is a place of _______ and pride. (joy, solemnity, fun)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> solemnity</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Solemnity' એટલે ગંભીરતા અને પવિત્રતા. સૈનિકોના સ્મારક પર ગંભીરતા જાળવવી જરૂરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "In the letter, Ananda says that she felt _______ after the visit. (sad, inspired, tired)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> inspired</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સૈનિકોની બહાદુરીની વાતો હંમેશા આપણને 'પ્રેરણા' (Inspired) આપે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "The Param Vir Chakra is the _______ military award of India. (lowest, second, highest)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> highest</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Param' એટલે સૌથી શ્રેષ્ઠ અથવા સર્વોચ્ચ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "Soumya lives in _______. (Delhi, Bengaluru, Mumbai)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Bengaluru</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાઠ મુજબ સૌમ્યા બેંગલુરુની વતની છે જેને આનંદા પત્ર લખી રહી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "Ananda's teacher shared a story about Major _______. (Vikram Batra, Somnath Sharma, Manoj Pandey)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Somnath Sharma</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આ ચેપ્ટરમાં મુખ્યત્વે મેજર સોમનાથ શર્માની શૌર્યગાથાનું વર્ણન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "The word 'Homage' means showing _______. (disrespect, respect, anger)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> respect</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Homage' એટલે શ્રદ્ધાંજલિ અથવા આદર આપવો (Respect).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "A _______ is a person who dies for their country. (traitor, martyr, soldier)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> martyr</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જે દેશ માટે બલિદાન આપે તેને 'Martyr' (શહીદ) કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "Ananda and her friends paid a _______ to the fallen heroes. (visit, homage, fee)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> homage</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Pay homage' એ આદર આપવા માટે વપરાતો એક સાચો શબ્દસમૂહ (Phrase) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "The circular shape of the memorial shows that the spirit of soldiers is _______. (temporary, eternal, weak)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> eternal</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): વર્તુળનો કોઈ અંત હોતો નથી, તેથી તે 'શાશ્વત' અથવા 'અવિનાશી' (Eternal) દર્શાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "Major Somnath Sharma belonged to the _______ Regiment. (Kumaon, Sikh, Rajputana)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Kumaon</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મેજર સોમનાથ શર્મા '4th Kumaon Regiment' માં હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "Ananda felt a sense of _______ while standing at the memorial. (boredom, gratitude, fear)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> gratitude</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સૈનિકોએ આપણા માટે બલિદાન આપ્યું છે, માટે આપણને તેમનો 'આભાર' (Gratitude) હોવો જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "The National War Memorial was built by the Government of _______. (India, USA, UK)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> India</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ભારતીય સૈનિકો માટેનું સ્મારક ભારત સરકાર જ બનાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "Major Somnath Sharma died while protecting the _______ airport. (Delhi, Srinagar, Mumbai)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Srinagar</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): તેમણે શ્રીનગર એરપોર્ટને દુશ્મનોથી બચાવતા બલિદાન આપ્યું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "The memorial is spread over _______ acres of land. (20, 40, 60)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 40</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): આ વિશાળ સ્મારક ૪૦ એકરમાં ફેલાયેલું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "The letter ends with the greeting 'Yours _______, Ananda'. (faithfully, sincerely, lovingly)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> lovingly</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મિત્રો વચ્ચે પત્રવ્યવહારમાં 'Lovingly' કે 'Your friend' વપરાય છે.</p></div>"
+    }
+  ]
+}
