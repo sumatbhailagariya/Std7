@@ -156,3 +156,136 @@ var Std7_English_TrueFalse = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "A Gift of Chappals",
+  "questionType": "ખરાં ખોટાં જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "Mridu went to her aunt Rukku Manni's house with her grandmother Tapi.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> True (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠની શરૂઆતમાં જ સ્પષ્ટ છે કે મૃદુ તેની દાદી તાપી સાથે તેની માસી રૂકુ મણીના ઘરે જાય છે. 'Tapi' એટલે દાદી અને 'Thatha' એટલે દાદા - આ યાદ રાખવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "Ravi dragged Mridu to the kitchen to show her the secret.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> False (ખોટું) - રવિ મૃદુને પાછળના વરંડામાં (backyard) લઈ ગયો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુપ્ત વસ્તુઓ હંમેશા પાછળના ભાગમાં એટલે કે 'Backyard' માં હોય, રસોડામાં નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "The small kitten was found inside a torn football lined with sacking.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> True (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બિલાડીનું બચ્ચું 'Torn football' (ફાટેલો ફૂટબોલ) માં આરામ કરી રહ્યું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "The kitten was lapping up milk from a glass tumbler.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> False (ખોટું) - તે નાળિયેરની કાચલી (Coconut shell) માંથી દૂધ પીતું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠમાં ગામડા અને કુદરતી વાતાવરણ મુજબ 'Coconut shell' નો ઉપયોગ દૂધ પીવા થયો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "The full name of the kitten was Mahendrapallava Poonai.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> True (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શોર્ટમાં 'MP Poonai' યાદ રાખવું. M-Mahendra, P-Pallava!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "Ravi believed that the kitten was a descendant of the Mahabalipuram Rishi-Cat.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> True (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રવિ તેની કલ્પના શક્તિથી બિલાડીને 'Pallava' વંશના ઋષિ-બિલાડી સાથે જોડે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "Paati was very happy when she saw Ravi taking milk for the kitten.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> False (ખોટું) - પાતીને શંકા ગઈ હતી અને રવિએ જૂઠું બોલવું પડ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાતી 'Suspicious' (શંકાશીલ) હતી, તેથી જ રવિએ પોતે ભૂખ્યો હોવાનું નાટક કર્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "Lalli was learning to play the flute.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> False (ખોટું) - લલ્લી વાયોલિન (Violin) વગાડતા શીખતી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠમાં 'Squeaking' અને 'Derailed train' જેવો અવાજ વાયોલિન માટે વપરાયો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "The music master was a bald-headed man with a fringe of oiled black hair.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> True (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મ્યુઝિક માસ્ટરનું વર્ણન 'Bald' (ટાલવાળા) અને 'Oiled hair' થી શરૂ થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "The music master wore a gold chain around his neck.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> True (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માસ્ટર પાસે સોનાની ચેઈન અને હીરાની વીંટી (Diamond ring) બંને હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "Ravi described Lalli's music as a train going smoothly on tracks.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> False (ખોટું) - રવિએ કહ્યું કે લલ્લીનું સંગીત પાટા પરથી ઉતરી ગયેલી (derailing) ટ્રેન જેવું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મ્યુઝિક માસ્ટરનું સંગીત 'On tracks' હતું, પણ લલ્લીનું 'Off tracks'!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "The beggar had been coming to Rukku Manni's house every day for a week.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> True (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભિખારીએ પોતે કબૂલ્યું કે તે 'A whole week' થી ત્યાં આવતો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "Rukku Manni asked Ravi to give more food to the beggar.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> False (ખોટું) - રુકુ મણીએ રવિને કહ્યું કે તેને મોકલી દે અને કહી દે કે હવે ઘરે કઈ બાકી નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Send him away' - આ વાક્ય રુકુ મણીએ ગુસ્સામાં કહ્યું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "The beggar's bare feet had pink, peeling blisters.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> True (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Blisters' એટલે કે ફોલ્લા, ગરમીને કારણે ભિખારીના પગમાં પડ્યા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "Mridu, Ravi, and Meena decided to buy new chappals for the beggar from the market.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> False (ખોટું) - તેમણે ઘરમાંથી જૂના ચપ્પલ શોધીને આપવાનું નક્કી કર્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળકો પાસે પૈસા નહોતા, એટલે તેમણે 'Gift of Chappals' એટલે કે ઘરના ચપ્પલ આપ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "The chappals Mridu found at the entrance were large, black, and covered with dust.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> True (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ એ જ ચપ્પલ હતા જે મ્યુઝિક માસ્ટરના હતા, જેના પર આંગળીઓના નિશાન (Toemark) દેખાતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "The children gave Gopu Mama's new chappals to the beggar.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> False (ખોટું) - તેમણે મ્યુઝિક માસ્ટરના ચપ્પલ ભિખારીને આપ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળકોએ માસ્ટરના ચપ્પલ ભિખારીને આપ્યા અને ગોપુ મામાના ચપ્પલ માસ્ટરને આપ્યા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "The music master compared Ravi to a monkey, specifically a holy incarnation of Lord Hanuman.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> True (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મ્યુઝિક માસ્ટર રવિને 'Hanuman incarnate' કહીને ખીજાયા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "Rukku Manni gave Gopu Mama's old, worn-out chappals to the music master.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> False (ખોટું) - તેણીએ ગોપુ મામાના ભાગ્યે જ પહેરેલા નવા (hardly worn, new) ચપ્પલ આપ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોપુ મામા હંમેશા ઓફિસેથી આવીને તરત ચપ્પલ બદલતા, એટલે તેમના ચપ્પલ નવા જેવા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "Ravi's explanation of the kitten's history was based on real facts and science.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> False (ખોટું) - તેની વાર્તા સંપૂર્ણપણે કલ્પના (Imagination) અને વાર્તાઓ પર આધારિત હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રવિ 'Knowledgeable' દેખાવા માટે ગપ્પાં મારતો હતો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "The beggar left the house quickly after getting the chappals.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> True (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભિખારીને ડર હતો કે કદાચ ચપ્પલ પાછા લઈ લેશે, એટલે તે તરત જ જતો રહ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "Lalli was a very talented student and played the violin better than the master.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> False (ખોટું) - લલ્લી બહુ ખરાબ વગાડતી હતી, જ્યારે માસ્ટર અદ્ભુત વગાડતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માસ્ટરનું સંગીત 'Floating honey' જેવું હતું અને લલ્લીનું 'Noise' જેવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "The children's act of giving the chappals showed their kindness and sympathy.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> True (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનો મુખ્ય હેતુ જ 'Generosity' (ઉદારતા) દર્શાવવાનો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "The music master lied that his old chappals were brand new and expensive.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> True (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માસ્ટરે પોતાની જૂની વસ્તુના પણ વખાણ કર્યા જેથી તેને સારું વળતર મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "Rukku Manni laughed at the end thinking about Gopu Mama's reaction.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> True (સાચું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગુસ્સો ઉતરી ગયા પછી રુકુ મણીને વિચાર આવ્યો કે ગોપુ મામા જ્યારે ચપ્પલ માંગશે ત્યારે શું થશે!</p></div>"
+    }
+  ]
+}
