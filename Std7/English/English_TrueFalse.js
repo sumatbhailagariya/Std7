@@ -580,3 +580,111 @@ var Std7_English_TrueFalse = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "Quality (ક્વોલિટી)",
+  "questionType": "ખરાં ખોટાં જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ગેસલર બંધુઓ (Gessler Brothers) લંડનમાં રહેતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાઠની શરૂઆતમાં જ ઉલ્લેખ છે કે તેમની દુકાન લંડનના ફેશનેબલ વિસ્તારમાં હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "મિ. ગેસલર એક પ્રખ્યાત દરજી હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે મિ. ગેસલર એક કુશળ બૂટ બનાવનાર (Shoemaker) હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): યાદ રાખો - ગેસલર = બૂટ (Shoes), કપડાં નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ગેસલર બંધુઓની દુકાન પર કોઈ સાઈનબોર્ડ નહોતું, માત્ર તેમનું નામ 'Gessler Brothers' લખેલું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ગુણવત્તાવાળા લોકો જાહેરાત કરતા નથી, માત્ર નામ જ કાફી હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "મિ. ગેસલર રશિયન મૂળના હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે મિ. ગેસલર જર્મન (German) મૂળના હતા અને તેમની અંગ્રેજી બોલવાની લઢણ પણ જર્મન જેવી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): G for Gessler, G for German. રશિયન નહિ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "મિ. ગેસલર દ્વારા બનાવવામાં આવેલા બૂટ લાંબો સમય ટકતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાઠનું નામ 'Quality' છે, કારણ કે તેમના બૂટ શ્રેષ્ઠ અને ટકાવ હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "મિ. ગેસલર માટે બૂટ બનાવવા એ એક 'કળા' (Art) હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લેખકે ગેસલરના કામને રહસ્યમયી 'કળા' તરીકે ઓળખાવ્યું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "લેખક જ્યારે પહેલીવાર દુકાનમાં ગયા ત્યારે મિ. ગેસલરે તેમની પાસે એડવાન્સ પૈસા માંગ્યા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. મિ. ગેસલર ક્યારેય પૈસા માટે કામ કરતા નહોતા, તેઓ માત્ર ચામડાના ટુકડાની તપાસ કરતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): તે એક આદર્શ કારીગર હતા, લાલચુ વેપારી નહિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "મોટી કંપનીઓ (Big Firms) જાહેરાત દ્વારા ગ્રાહકોને આકર્ષે છે, કામ દ્વારા નહીં - એવું મિ. ગેસલર માનતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મિ. ગેસલરના મતે જાહેરાત (Advertisement) ગુણવત્તાનો દુશ્મન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "મિ. ગેસલરના મોટા ભાઈનું મૃત્યુ ભૂખમરાને કારણે થયું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. મોટા ભાઈનું મૃત્યુ બીમારી/વૃદ્ધાવસ્થાને લીધે થયું હતું, જ્યારે નાના ભાઈ (મુખ્ય પાત્ર) નું મૃત્યુ ભૂખમરા (Starvation) થી થયું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): નાનો ભાઈ કામમાં એટલો મશગૂલ રહેતો કે ખાવા-પીવાનું ભૂલી જતો, એટલે ભૂખમરો તેને નડ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "લેખક હંમેશા ગેસલર પાસેથી જ બૂટ ખરીદતા કારણ કે તેમને બીજા કોઈના બૂટ ગમતા નહોતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): લેખક ગેસલરના કામના ખૂબ મોટા ચાહક હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "મિ. ગેસલરની દુકાનમાં ગ્રાહકોની ખૂબ ભીડ રહેતી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે તેઓ ઓર્ડર મુજબ જ બૂટ બનાવતા અને તે બૂટ એટલા ટકતા કે ગ્રાહકોને જલ્દી પાછા આવવાની જરૂર પડતી નહિ.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સારી ગુણવત્તા એટલે લાંબો સમય ચાલે, અને વારંવાર ખરીદવું ના પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "મિ. ગેસલરનું મૃત્યુ 'ધીમા ભૂખમરા' (Slow Starvation) ને કારણે થયું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): પાઠના અંતે અંગ્રેજ વ્યક્તિ લેખકને જણાવે છે કે મિ. ગેસલર પોતાનો બધો સમય બૂટ બનાવવામાં જ આપતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "મિ. ગેસલરની દુકાન છેલ્લે એક અંગ્રેજ યુવાન દ્વારા ખરીદવામાં આવી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જ્યારે લેખક છેલ્લે ગયા ત્યારે ત્યાં મિ. ગેસલર નહોતા, પણ એક અંગ્રેજ ચહેરો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "મિ. ગેસલરે ક્યારેય હલકા પ્રકારનું ચામડું વાપર્યું નહોતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): તે તેમના સિદ્ધાંતો સાથે ક્યારેય સમાધાન નહોતા કરતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "મિ. ગેસલર જ્યારે લેખક સાથે વાત કરતા ત્યારે તેમની પાસે બૂટના ઓર્ડર માટે લાલ ચામડું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. કારણ કે પાઠમાં વારંવાર 'ગોલ્ડન બ્રાઉન' (Golden Brown) ચામડાનો ઉલ્લેખ કરવામાં આવ્યો છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): ચામડાનો રંગ 'Golden Brown' યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "ગેસલર બંધુઓ લંડનની બજારમાં સૌથી સસ્તા બૂટ બનાવતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. તેમના બૂટની કિંમત વ્યાજબી હતી પણ તે સસ્તા નહોતા, કારણ કે ગુણવત્તા શ્રેષ્ઠ હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Quality ક્યારેય સસ્તી હોતી નથી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "મિ. ગેસલર પોતાની જર્મન લઢણને કારણે 'Boot' ને 'Bood' કહેતા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): જર્મન લોકો 't' નો ઉચ્ચાર ઘણીવાર 'd' જેવો કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "મોટી કંપનીઓના આગમનથી ગેસલર બંધુઓનો વ્યવહાર વધી ગયો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. મોટી કંપનીઓને કારણે ગેસલર બંધુઓનો ધંધો ચોપટ થઈ ગયો હતો અને તેમણે પોતાની અડધી દુકાન પણ ગુમાવી દીધી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Big firms = Bad for Small Artists.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "મિ. ગેસલર બૂટ બનાવવા માટે મશીનોનો ઉપયોગ કરતા નહોતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): તેઓ હાથેથી જ કામ કરતા હતા, તેથી જ તે એક 'કળા' હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "જ્યારે લેખકે ફરિયાદ કરી કે એક જોડી બૂટ અવાજ (creaked) કરે છે, ત્યારે મિ. ગેસલર ગુસ્સે થઈ ગયા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું. તેઓ આશ્ચર્યચકિત થયા અને લેખકને બૂટ પાછા લાવવા કહ્યું જેથી તેઓ તેને ઠીક કરી શકે અથવા પૈસા પાછા આપી શકે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સાચો કલાકાર પોતાની ભૂલ સ્વીકારવા તૈયાર હોય છે.</p></div>"
+    }
+  ]
+}
