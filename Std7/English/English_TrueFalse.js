@@ -821,3 +821,136 @@ var Std7_English_TrueFalse = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "The Invention of Vita-Wonk (વિટા-વોન્કની શોધ)",
+  "questionType": "ખરાં ખોટાં જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "મિસ્ટર વિલી વોન્કા એક મહાન સંશોધક (Inventor) છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠની શરૂઆતમાં જ લખ્યું છે કે Mr. Willy Wonka is an inventor, જે નવી વસ્તુઓની શોધ કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "'Wonka-Vite' નામની દવા લોકોને ઘરડી બનાવવા માટે બનાવવામાં આવી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: 'Wonka-Vite' લોકોને યુવાન (Younger) બનાવવા માટે બનાવવામાં આવી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Vite' એટલે Vitality (યુવાની) અને 'Wonk' એટલે તેની વિરુદ્ધ (ઘડપણ). Wonka-Vite = યુવાન બનાવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "જો કોઈ વ્યક્તિ 'Wonka-Vite' વધુ પડતી લે, તો તેની ઉંમર માઈનસ (minus) માં જઈ શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠમાં ઉલ્લેખ છે કે એક વ્યક્તિની ઉંમર -87 થઈ ગઈ હતી, એટલે કે તેણે જન્મવા માટે 87 વર્ષ રાહ જોવી પડશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "મિસ્ટર વોન્કાએ નવી દવા 'Vita-Wonk' શોધવાનું નક્કી કર્યું કારણ કે Wonka-Vite ખૂબ શક્તિશાળી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે જૂની દવા નુકસાનકારક સાબિત થાય ત્યારે જ નવી (ઉલટી અસર વાળી) દવાની જરૂર પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "દુનિયામાં સૌથી લાંબુ જીવતું પ્રાણી ડાયનાસોર છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: મિસ્ટર વોન્કાના મતે સૌથી લાંબુ જીવતું પ્રાણી નથી, પણ 'Bristlecone Pine' નામનું વૃક્ષ છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠમાં 'Tree' (વૃક્ષ) ને સૌથી લાંબુ જીવતું ગણાવ્યું છે, પ્રાણીને નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "બ્રિસ્ટલકોન પાઈન (Bristlecone Pine) વૃક્ષ 4000 વર્ષ જૂનું હોઈ શકે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો, પાઈન વૃક્ષ માટે '4000 years' નો આંકડો પાઠમાં આપ્યો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "મિસ્ટર વોન્કાએ તેમની શોધ માટે 'ગ્રેટ ગ્લાસ એલિવેટર' માં મુસાફરી કરી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ચાર્લી અને વિલી વોન્કા હંમેશા 'Great Glass Elevator' નો ઉપયોગ કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "મિસ્ટર વોન્કાએ રશિયાના ખેડૂત પાસેથી તેના દાંતના નખ (toe-nail clippings) એકત્રિત કર્યા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રશિયન ખેડૂતનું નામ Petrovitch Gregorovitch હતું, જેના નખ 168 વર્ષ જૂના હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ટાપુ પર રહેતા કાચબાની ઉંમર 200 વર્ષ હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Tortoise = 200 years. આ એક મહત્વની સામગ્રી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "મિસ્ટર વોન્કાએ 51 વર્ષ જૂના ઘોડાની પૂંછડી પણ એકઠી કરી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘોડો (Horse) = 51 years. આ આંકડા લક્ષમાં રાખવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "મિસ્ટર વોન્કાએ બનાવેલું નવું પ્રવાહી (liquid) લાલ રંગનું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: તે પ્રવાહી કાળું અને તૈલી (Oily black liquid) હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Black liquid' શબ્દ યાદ રાખવો, લાલ નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "એક 20 વર્ષના સ્વયંસેવક (volunteer) એ આ દવાના ચાર ટીપાં પીધા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સ્વયંસેવકની ઉંમર 20 વર્ષ હતી અને તેણે 'four drops' પીધા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "દવા પીધા પછી 20 વર્ષનો યુવાન તરત જ બાળક બની ગયો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: દવા પીધા પછી તે 75 વર્ષનો વૃદ્ધ માણસ બની ગયો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Vita-Wonk 'ઘડપણ' લાવે છે, એટલે યુવાન સીધો વૃદ્ધ (Old) બને.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "સ્વયંસેવકનું નામ 'Oompa-Loompa' હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિસ્ટર વોન્કાના સહાયકો હંમેશા Oompa-Loompas જ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "મિસ્ટર વોન્કાએ 36 વર્ષની બિલાડીની મૂછો (whiskers) પણ એકઠી કરી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બિલાડીનું નામ Crumpets હતું અને તેની ઉંમર 36 વર્ષ હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "સી.વી. પોયમ 'Dad and the Cat and the Tree' માં પપ્પા ઝાડ પર ચઢવામાં નિષ્ણાત હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (તેમના મતે સાચું, પણ વાસ્તવમાં ખોટું)</p><p>કારણ: પપ્પાને એવું લાગતું હતું કે તેઓ નિષ્ણાત છે, પણ તેઓ વારંવાર નીચે પડી જતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Overconfidence' ના કારણે પપ્પા વારંવાર પડે છે, એટલે તેઓ સાચા નિષ્ણાત નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "પપ્પાએ ઝાડ પર ચઢવા માટે સીડી (ladder) નો ઉપયોગ કર્યો હતો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્લેન 'A' મુજબ પપ્પા બગીચામાંથી સીડી લાવ્યા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "જ્યારે સીડી લપસી ગઈ, ત્યારે પપ્પા કાદવમાં પડ્યા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: સીડી લપસતા પપ્પા ફૂલોની ક્યારી (flowerbed) માં પડ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Flowerbed' યાદ રાખવું, કાદવ (mud) નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "મમ્મી પપ્પાને ઝાડ પર ચઢતા જોઈને ખૂબ જ ખુશ હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: મમ્મી ચિંતિત હતી અને વારંવાર કહેતી હતી કે 'તમારું ગળું તૂટી જશે' (Don't break your neck!).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મમ્મી હંમેશા સાવધાન રહેવા કહે છે, એટલે તે ચિંતિત હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "કાવ્યના અંતે, પપ્પા ઝાડ પર ફસાઈ ગયા અને બિલાડી નીચે આવી ગઈ.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ કાવ્યનો મુખ્ય રમુજી ભાગ છે: પપ્પા ફસાઈ ગયા (stuck) અને બિલાડી કૂદીને નીચે આવી ગઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "મિસ્ટર વોન્કાએ પિન્ટ (pint) જેટલું કાળું પ્રવાહી બનાવ્યું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું</p><p>કારણ: તેમણે માત્ર 'one tiny cupful' (એક નાનો કપ ભરીને) પ્રવાહી બનાવ્યું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વૈજ્ઞાનિક પ્રયોગોમાં દવા હંમેશા થોડી જ બનાવવામાં આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "વૃક્ષોમાંથી નીકળતા રસને 'Sap' કહેવામાં આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Sap' એટલે વૃક્ષનો જીવનરક્ષક રસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "મિસ્ટર વોન્કાની નવી દવાનું નામ 'Vita-Wonk' હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રકરણનું નામ જ 'Invention of Vita-Wonk' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "બ્રિસ્ટલકોન પાઈન વૃક્ષો યુ.એસ.એ. ના નેવાડા (Nevada) માં જોવા મળે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/?જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Wheeler Peak, Nevada – આ ચોક્કસ સ્થળ પાઠમાં આપેલ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "મિસ્ટર વોન્કાએ પ્રાણીઓની જૂની અને દુર્લભ વસ્તુઓ એકત્રિત કરી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેમણે નખ, પૂંછડી, ચામડી વગેરે જેવી અજીબ વસ્તુઓ ભેગી કરી હતી.</p></div>"
+    }
+  ]
+}
