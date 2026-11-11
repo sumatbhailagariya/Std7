@@ -688,3 +688,136 @@ var Std7_English_TrueFalse = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "Expert Detectives",
+  "questionType": "ખરાં ખોટાં જણાવો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "નિષાદ સાત વર્ષનો છોકરો છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નિષાદ' એટલે સંગીતનો સાતમો સૂર, તેથી તેનું નામ 'સેવન' (Seven) પણ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "માયા તેના ભાઈ નિષાદ કરતા નાની છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (False). માયા દસ વર્ષની છે અને નિષાદ સાત વર્ષનો છે, એટલે માયા મોટી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માયા = 10, નિષાદ = 7. માયા મોટી બહેન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "માયાને ખાતરી છે કે મિસ્ટર નાથ એક રીઢો ગુનેગાર છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માયા 'ડિટેક્ટિવ' ની જેમ વિચારે છે અને મિસ્ટર નાથને 'Crook' (ઠગ) માને છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "મિસ્ટર નાથના ચહેરા પરના ડાઘ ગોળી વાગવાથી પડ્યા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (False). નિષાદના મતે તે ડાઘ દાઝી જવાને કારણે (burn scars) હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માયા પોલીસ શૂટઆઉટ કહે છે, પણ નિષાદ 'બર્ન સ્કાર' (દાઝ્યાના ડાઘ) કહે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "રમેશ રેસ્ટોરન્ટમાંથી મિસ્ટર નાથ માટે ભોજન લાવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રમેશ નીચેની હોટલમાંથી રોજ બે ટાઈમ જમવાનું પહોંચાડે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "મિસ્ટર નાથ હંમેશા જમવાના પૈસા ચેક દ્વારા ચૂકવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (False). મિસ્ટર નાથ હંમેશા રોકડા (Cash) ચૂકવે છે અને સારી ટીપ પણ આપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Cash and Tips' - મિસ્ટર નાથ રોકડા પૈસા આપવામાં માને છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "મિસ્ટર નાથને મળવા રવિવારે એક મુલાકાતી આવે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રવિવાર (Sunday) = વિઝિટરનો દિવસ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "મિસ્ટર નાથના રવિવારના મુલાકાતી ખૂબ જ શાંત અને ઓછાબોલા છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (False). રમેશના જણાવ્યા મુજબ મુલાકાતી ખૂબ વાતોડિયો (talkative) છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિસ્ટર નાથ ચૂપ રહે છે, પણ મહેમાન 'બબડાટ' (Talks a lot) કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "નિષાદને મિસ્ટર નાથ પ્રત્યે સહાનુભૂતિ છે કારણ કે તેઓ ખૂબ જ દુબળા અને એકલા લાગે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિષાદનું દિલ દયાળુ છે, તે મિસ્ટર નાથની ગરીબી જોઈને પીગળી જાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "માયાએ તેની તપાસ માટે 'Catching a Crook' (એક ગુનેગારને પકડવો) શીર્ષક હેઠળ નોંધ બનાવી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માયા પોતાની જાતને એક મોટી જાસૂસ (Detective) માને છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "નિષાદની માતા મિસ્ટર નાથને એક દર્દી તરીકે ઓળખે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મમ્મી ડોક્ટર છે અને મિસ્ટર નાથ તેમના નમ્ર દર્દી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "મિસ્ટર નાથના રૂમમાં કોઈ પણ મિત્ર ક્યારેય આવતો નથી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (False). દર રવિવારે એક ચશ્માવાળો અને ગોરો માણસ તેમને મળવા આવે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રવિવારની મુલાકાત અપવાદ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "નિષાદ મિસ્ટર નાથને તેમની ગરીબીમાં મદદ કરવા ઈચ્છે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિષાદ તેમને ચોકલેટ પણ આપવા ગયો હતો, જે તેની મિત્રતાની નિશાની હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "માયાના મતે મિસ્ટર નાથ પાસે કરોડો રૂપિયાની સંપત્તિ છુપાવેલી છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માયા માને છે કે ટ્રંક (પેટી) માં સોનું અને ચાંદી ભર્યું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "મિસ્ટર નાથ બાળકો સાથે ખૂબ રમે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (False). મિસ્ટર નાથ ખૂબ જ એકલા રહે છે અને બાળકો કે પાડોશીઓ સાથે ભળતા નથી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિસ્ટર નાથ = Reclusive (એકાંતપ્રિય).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "નિષાદે મિસ્ટર નાથને એક બાર ઓફ ચોકલેટ આપી હતી.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિષાદ મિસ્ટર નાથને ભૂખ્યા સમજતો હતો એટલે ચોકલેટ આપી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "રમેશને મિસ્ટર નાથના ભૂતકાળ વિશે બધી જ ખબર છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (False). રમેશ ફક્ત એટલું જ જાણે છે કે તેઓ શું જમે છે અને ક્યારે જમે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રમેશ માત્ર મિસ્ટર નાથની ખાવાની આદતો જાણે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "માયા 'એક્સપર્ટ ડિટેક્ટિવ' તરીકે પોતાની ડાયરીમાં નવ તથ્યો (9 Facts) લખે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Facts' ની યાદી માયાની જાસૂસીનો પુરાવો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "મિસ્ટર નાથ દરરોજ અલગ-અલગ વાનગીઓ ઓર્ડર કરે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (False). તેઓ દરરોજ એક સરખું જ ભોજન (બે રોટલી, દાળ અને શાક) લે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મિસ્ટર નાથનું મેનુ ફિક્સ છે: 2 Chapattis, Dal, Vegetable.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "પાઠના અંતે નિષાદ માયાના વિચારો સાથે સંમત થાય છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (False). નિષાદ મિસ્ટર નાથ સાથે મિત્રતા કરવા માંગે છે અને માયાના ગુનેગાર હોવાના સિદ્ધાંતને નકારે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નિષાદ અને માયાના વિચારો 'દુશ્મન' જેવા છે, અંત સુધી સંમત થતા નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "નિષાદને સંગીતના સાતમા સૂરનું નામ આપવામાં આવ્યું છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નિષાદ' એટલે શાસ્ત્રીય સંગીતનો સાતમો સૂર 'ની'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "માયાએ મિસ્ટર નાથના રૂમમાં સંતાઈને જોયું હતું.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ખોટું (False). માયાએ માત્ર બહારથી નિરીક્ષણ કર્યું હતું અને રમેશ પાસેથી માહિતી લીધી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માયાએ રૂમની અંદર પ્રવેશ કર્યો નથી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "મિસ્ટર નાથના રવિવારના મુલાકાતી લંચ (બપોરનું ભોજન) તેમની સાથે જ લે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રમેશ રવિવારે બે માણસનું જમવાનું ઉપર લઈ જાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "મિસ્ટર નાથના ચહેરા પરના ડાઘ ખૂબ જ ભયાનક લાગે છે.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડાઘને કારણે જ માયા તેમને શંકાસ્પદ માને છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "નિષાદ અને માયાની શાળામાં રજા હોવાને કારણે તેઓ જાસૂસી કરી રહ્યા હતા.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> સાચું (True)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વરસાદને કારણે શાળામાં અનપેક્ષિત રજા (Unexpected holiday) હતી.</p></div>"
+    }
+  ]
+}
