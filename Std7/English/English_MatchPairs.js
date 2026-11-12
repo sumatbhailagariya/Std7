@@ -114,3 +114,111 @@ var Std7_English_MatchPairs = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "Yes, I Will",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'અ' (પાત્ર) - વિભાગ 'બ' (વ્યવસાય):\n(1) Harry Patel\n(2) Mr. Jadeja\n\nવિભાગ 'બ':\n(A) Police Officer\n(B) Salesman",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Harry 'H'appy shampoo વેચે છે એટલે 'Salesman' અને Jadeja સાહેબ 'J'ustice (ન્યાય/પોલીસ) સાથે જોડાયેલા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'અ' (પાત્ર) - વિભાગ 'બ' (હોદ્દો):\n(1) Mrs. Sharada Modi\n(2) Reshma\n\nવિભાગ 'બ':\n(A) Mayor\n(B) Customer/Parlor owner",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Sharada Modi (S.M.) = State Mayor અને Reshma 'R'eady થાય છે Parlor માં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ 'અ' (સમય) - વિભાગ 'બ' (સ્થળ):\n(1) 10:00 AM\n(2) 10:45 AM\n\nવિભાગ 'બ':\n(A) Mrs. Sharada Modi's House\n(B) Mr. Jadeja's Doorstep",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સવારના પહેલા 10 વાગ્યે (Early) પોલીસ (Jadeja) અને પછી પોણો અગિયારે (10:45) મેયર (Modi).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ 'અ' (શબ્દ) - વિભાગ 'બ' (સમાનાર્થી અર્થ):\n(1) Quick\n(2) Pure\n\nવિભાગ 'બ':\n(A) Fast\n(B) Natural/Clean",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Quick' એટલે ફટાફટ (Fast) અને 'Pure' એટલે શુદ્ધ (Natural).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ 'અ' (વસ્તુ) - વિભાગ 'બ' (ઉપયોગ):\n(1) Shampoo\n(2) Visiting Card\n\nવિભાગ 'બ':\n(A) Information about business\n(B) Washing hair",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Shampoo વાળ ધોવા અને Card વિગત (Info) આપવા વપરાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ 'અ' (શબ્દ) - વિભાગ 'બ' (વિરોધી શબ્દ):\n(1) Happy\n(2) Seller\n\nવિભાગ 'બ':\n(A) Sad\n(B) Buyer",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Happy નું ઉલટું Sad અને વેચનાર (Seller) નું ઉલટું ખરીદનાર (Buyer).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ 'અ' (સંવાદ) - વિભાગ 'બ' (બોલનાર):\n(1) \"Can I have your five minutes?\"\n(2) \"I am in a hurry.\"\n\nવિભાગ 'બ':\n(A) Harry Patel\n(B) Mrs. Sharada Modi",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): સમય હંમેશા 'સેલ્સમેન' માંગે અને 'મેયર' હંમેશા ઉતાવળ (Hurry) માં હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ 'અ' (ઉત્પાદનની ખાસિયત) - વિભાગ 'બ' (લાભ):\n(1) Herbal Shampoo\n(2) Less foam\n\nવિભાગ 'બ':\n(A) Saves water\n(B) Natural care",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Herbal એટલે કુદરતી (Natural) અને ઓછો ફાણ (Less foam) એટલે પાણીની બચત (Saves water).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ 'અ' (ક્રિયાપદ) - વિભાગ 'બ' (ભૂતકાળનું રૂપ):\n(1) Meet\n(2) Say\n\nવિભાગ 'બ':\n(A) Said\n(B) Met",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Meet માંથી એક 'e' કાઢી નાખો એટલે 'Met' (મળ્યા) અને Say નું 'Said' (કહ્યું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ 'અ' (કાર્ડ પરની વિગત) - વિભાગ 'બ' (અર્થ):\n(1) Mobile Number\n(2) Web Address\n\nવિભાગ 'બ':\n(A) To visit online store\n(B) To call the person",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Number = Call, Web = Online.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ 'અ' (સ્થળ) - વિભાગ 'બ' (પ્રકાર):\n(1) Reshma Beauty Parlor\n(2) Sharda Modi's Office\n\nવિભાગ 'બ':\n(A) Government/Public office\n(B) Business place",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Parlor એક બિઝનેસ છે, જ્યારે મેયરની ઓફિસ સરકારી (Public) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ 'અ' (શબ્દ) - વિભાગ 'બ' (ગુજરાતી અર્થ):\n(1) Proof\n(2) Price\n\nવિભાગ 'બ':\n(A) કિંમત\n(B) પુરાવો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Harry એ શેમ્પૂ સારું છે તેનો 'Proof' (પુરાવો) આપ્યો અને તેની 'Price' (કિંમત) પણ જણાવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ 'અ' (સંવાદ) - વિભાગ 'બ' (કોને કહે છે):\n(1) \"I will meet you some other time.\"\n(2) \"Is it a real herbal?\"\n\nવિભાગ 'બ':\n(A) Reshma said to Harry\n(B) Mrs. Modi said to Harry",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મેયર પાસે સમય નહોતો (other time) અને રેશમા પાર્લર ચલાવતી હોવાથી તેને હર્બલની ચિંતા હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ 'અ' (સમય) - વિભાગ 'બ' (ઘટના):\n(1) 12:30 PM\n(2) Afternoon\n\nવિભાગ 'બ':\n(A) Hungry\n(B) Reshma Beauty Parlor",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 12:30 એ રેશમાના પાર્લર પર પહોંચ્યો અને બપોરે તેને ભૂખ (Hungry) લાગી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ 'અ' (શબ્દ) - વિભાગ 'બ' (સ્પેલિંગ સુધારો):\n(1) Buisness\n(2) Schidule\n\nવિભાગ 'બ':\n(A) Schedule\n(B) Business",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Business માં 'Busy' છુપાયેલું છે. Busy + ness = Business.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "વિભાગ 'અ' (સંવાદ) - વિભાગ 'બ' (પરિસ્થિતિ):\n(1) \"Open the door.\"\n(2) \"Hello, I am Harry.\"\n\nવિભાગ 'બ':\n(A) Introduction\n(B) Request/Instruction",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'I am Harry' એ પરિચય (Introduction) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "વિભાગ 'અ' (સ્થળ) - વિભાગ 'બ' (શહેર):\n(1) Harry's base\n(2) Meeting with Mayor\n\nવિભાગ 'બ':\n(A) Gandhinagar (Chapter Context)\n(B) Different places in Gujarat",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મેયર શાારદા મોદી ગાંધીનગરના કાર્યક્રમમાં જવાના હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "વિભાગ 'અ' (વિશેષણ) - વિભાગ 'બ' (નામ):\n(1) Happy\n(2) Quick\n\nવિભાગ 'બ':\n(A) Cleaner\n(B) Harry",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Harry હંમેશા Happy રહે અને શેમ્પૂ 'Quick Cleaner' છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "વિભાગ 'અ' (પ્રમાણ) - વિભાગ 'બ' (વસ્તુ):\n(1) 5 Minutes\n(2) 2 Minutes\n\nવિભાગ 'બ':\n(A) Shampoo cleaning time\n(B) Time for meeting Harry asked",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): મિટિંગ માટે 5 મિનિટ માંગી પણ શેમ્પૂ તો માત્ર 2 કે 3 મિનિટમાં જ વાળ સાફ કરી દે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "વિભાગ 'અ' (સંબંધ) - વિભાગ 'બ' (જોડી):\n(1) Harry and Customer\n(2) Mr. Jadeja and Mrs. Modi\n\nવિભાગ 'બ':\n(A) Formal acquaintances\n(B) Professional relationship",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): હેરી અને ગ્રાહક વચ્ચે ધંધાનો (Professional) સંબંધ હોય.</p></div>"
+    }
+  ]
+}
