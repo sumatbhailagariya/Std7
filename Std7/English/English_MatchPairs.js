@@ -280,3 +280,61 @@ var Std7_English_MatchPairs = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "Quality (and the poem 'Trees')",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે યોગ્ય રીતે જોડો (શબ્દાર્થ - 1): \n\nવિભાગ 'A': \n(1) Guttural \n(2) Incarnation \n(3) Distinction \n(4) Splendid \n\nવિભાગ 'B': \n(A) Difference \n(B) Magnificent \n(C) Produced in the throat \n(D) Embodiment",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - D, (3) - A, (4) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): 'Guttural' એટલે ગળામાંથી નીકળતો અવાજ (Throat), અને 'Splendid' એટલે શાનદાર (Magnificent) - આ બે યાદ રાખો એટલે આખું જોડકું સાચું પડે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે યોગ્ય રીતે જોડો (પાત્ર પરિચય): \n\nવિભાગ 'A': \n(1) Mr. Gessler \n(2) The Author \n(3) Big Firms \n(4) Younger Mr. Gessler \n\nવિભાગ 'B': \n(A) Loyal Customer \n(B) German Shoemaker \n(C) Died of starvation \n(D) Used advertisements",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A, (3) - D, (4) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Gessler = Shoemaker, Big Firms = Ads. આ પાઠનો મુખ્ય વિરોધાભાસ (Contrast) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે યોગ્ય રીતે જોડો (કવિતા: Trees): \n\nવિભાગ 'A': \n(1) Birds \n(2) Children \n(3) Mothers \n(4) Fathers \n\nવિભાગ 'B': \n(A) To play hide and seek \n(B) To make nests in \n(C) What a lot of leaves to rake \n(D) What a lovely picture to paint",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A, (3) - D, (4) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Birds = Nest, Children = Play (Hide and Seek). કવિતાની આ પાયાની જરૂરિયાત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે યોગ્ય રીતે જોડો (શબ્દાર્થ - 2): \n\nવિભાગ 'A': \n(1) Kerb \n(2) Starvation \n(3) Bitter \n(4) Advertisement \n\nવિભાગ 'B': \n(A) Lack of food \n(B) Public notice \n(C) Edge of a pavement \n(D) Very sharp or painful",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - A, (3) - D, (4) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Starvation એટલે ભૂખમરો (Lack of food). ગેસ્લર બંધુઓનું મૃત્યુ આ કારણે જ થયું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે યોગ્ય રીતે જોડો (વસ્તુ અને તેની વિશેષતા): \n\nવિભાગ 'A': \n(1) Gessler's boots \n(2) Big Firms' boots \n(3) Russian Leather \n(4) Gessler's shop \n\nવિભાગ 'B': \n(A) Lasted long \n(B) High quality \n(C) No advertisement \n(D) Made by machine",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - D, (3) - B, (4) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Gessler = Hand-made (Lasted long), Big Firms = Machine-made.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે યોગ્ય રીતે જોડો (કવિતા: 'Trees' ના ઉપયોગ): \n\nવિભાગ 'A': \n(1) Winds \n(2) Tea parties \n(3) Timber \n(4) Winter \n\nવિભાગ 'B': \n(A) To blow through \n(B) To be organized under \n(C) To give us wood \n(D) No shade",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - A, (2) - B, (3) - C, (4) - D</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Timber એટલે લાકડું (Wood). વિન્ટરમાં પાંદડા ખરી જાય એટલે છાયડો (Shade) ન મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે યોગ્ય રીતે જોડો (સ્થળ અને વિગત): \n\nવિભાગ 'A': \n(1) London \n(2) West End \n(3) Top floor \n(4) Street \n\nવિભાગ 'B': \n(A) Fashionable part of town \n(B) Where Gessler lived \n(C) Where the shop was \n(D) Where people walk",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - A, (3) - B, (4) - D</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): West End હંમેશા અમીર કે ફેશનેબલ વિસ્તાર (Fashionable part) તરીકે જાણીતો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે યોગ્ય રીતે જોડો (શબ્દ અને પર્યાય): \n\nવિભાગ 'A': \n(1) Fancy \n(2) Grave \n(3) Trembling \n(4) Awful \n\nવિભાગ 'B': \n(A) Serious \n(B) Shaking \n(C) Decorative \n(D) Terrible",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - A, (3) - B, (4) - D</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Grave એટલે ગંભીર (Serious) અને Trembling એટલે ધ્રુજારી (Shaking).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે યોગ્ય રીતે જોડો (કવિતાની પંક્તિઓ): \n\nવિભાગ 'A': \n(1) Trees are for \n(2) Trees are to \n(3) Trees are for kites \n(4) Trees are to make \n\nવિભાગ 'B': \n(A) apples to grow on \n(B) swings to swing on \n(C) cool shade in summer \n(D) to get caught in",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - B, (2) - A, (3) - D, (4) - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Kites (પતંગ) હંમેશા ઝાડમાં ફસાય (Caught in). આ યાદ રાખવાથી જવાબ ઝડપથી મળશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે યોગ્ય રીતે જોડો (વિરોધી શબ્દ): \n\nવિભાગ 'A': \n(1) Quality \n(2) Slow \n(3) Success \n(4) Ancient \n\nવિભાગ 'B': \n(A) Failure \n(B) Modern \n(C) Quantity \n(D) Fast",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - C, (2) - D, (3) - A, (4) - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Quality (ગુણવત્તા) vs Quantity (જથ્થો). આ પાઠનો મુખ્ય સાર જ આ છે!</p></div>"
+    }
+  ]
+}
