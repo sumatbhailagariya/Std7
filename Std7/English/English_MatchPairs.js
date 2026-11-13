@@ -338,3 +338,86 @@ var Std7_English_MatchPairs = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "Expert Detectives",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br><b>વિભાગ A:</b><br>1. Nishad<br>2. Maya<br>3. Mr. Nath<br>4. Ramesh<br><br><b>વિભાગ B:</b><br>(A) The mysterious person<br>(B) A boy who is sympathetic<br>(C) Brings food from the restaurant<br>(D) Acts like a detective",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (B), 2 - (D), 3 - (A), 4 - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) પાત્રોના રોલ યાદ રાખો - Nishad દયાળુ છે, Maya જાસૂસ છે, Ramesh વેટર છે અને Mr. Nath રહસ્યમય દર્દી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વિભાગ 'A' (શબ્દો) ને વિભાગ 'B' (અર્થ) સાથે જોડો:<br><b>વિભાગ A:</b><br>1. Crook<br>2. Accomplice<br>3. Gaunt<br>4. Scars<br><br><b>વિભાગ B:</b><br>(A) Helper in a crime<br>(B) Very thin and weak<br>(C) Marks left by wounds<br>(D) A criminal",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (D), 2 - (A), 3 - (B), 4 - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) 'Crook' એટલે ગુનેગાર અને 'Accomplice' એટલે ગુનામાં સાથીદાર - આ બે શબ્દો પાઠના મુખ્ય કીવર્ડ્સ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વિભાગ 'A' (સમય/દિવસ) ને વિભાગ 'B' (ઘટના) સાથે જોડો:<br><b>વિભાગ A:</b><br>1. Every Sunday<br>2. Monday morning<br>3. Ten rupees<br>4. Seventh note<br><br><b>વિભાગ B:</b><br>(A) Tip for Ramesh<br>(B) A tall, fair man visits Mr. Nath<br>(C) Meaning of Nishad's name<br>(D) Maya goes to school",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (B), 2 - (D), 3 - (A), 4 - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) રવિવારે 'Visitor' આવે, નિષાદના નામનો અર્થ સંગીતનો 'સાતમો સૂર' થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' (અભિપ્રાય) સાથે જોડો:<br><b>વિભાગ A:</b><br>1. Maya's view on Mr. Nath<br>2. Nishad's view on Mr. Nath<br>3. Mr. Nath's appearance<br>4. The Trunk in Mr. Nath's room<br><br><b>વિભાગ B:</b><br>(A) He is lonely and poor<br>(B) Full of gold and silver<br>(C) He is a runaway crook<br>(D) Very thin and sickly",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (C), 2 - (A), 3 - (D), 4 - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) માયા નેગેટિવ વિચારે છે (Crook), નિષાદ પોઝિટિવ (Lonely) - આ તફાવત યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિભાગ 'A' (શબ્દસમૂહ) ને વિભાગ 'B' (અર્થ) સાથે જોડો:<br><b>વિભાગ A:</b><br>1. Set a trap<br>2. On the right track<br>3. Stashed away<br>4. Peek into<br><br><b>વિભાગ B:</b><br>(A) Hidden or stored safely<br>(B) To look secretly<br>(C) To prepare to catch someone<br>(D) Thinking in the correct way",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (C), 2 - (D), 3 - (A), 4 - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) 'Stashed' એટલે છુપાવેલું (ખજાનો) અને 'Peek' એટલે ચોરીછૂપીથી જોવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિભાગ 'A' (ખાવાની વસ્તુ) ને વિભાગ 'B' (વ્યક્તિ) સાથે જોડો:<br><b>વિભાગ A:</b><br>1. Two meals and tea<br>2. Bar of chocolate<br>3. Tips<br>4. Marbles<br><br><b>વિભાગ B:</b><br>(A) Nishad gave to Mr. Nath<br>(B) Ramesh brings for Mr. Nath<br>(C) Children play with these<br>(D) Ramesh receives from Mr. Nath",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (B), 2 - (A), 3 - (D), 4 - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) નિષાદે ચોકલેટ આપી હતી તે યાદ રાખવું, અને રમેશ ટિપ્સ (પૈસા) મેળવતો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "વિભાગ 'A' (સ્થળ) ને વિભાગ 'B' (વર્ણન) સાથે જોડો:<br><b>વિભાગ A:</b><br>1. Girgaon<br>2. Restaurant<br>3. Clinic<br>4. Trunk<br><br><b>વિભાગ B:</b><br>(A) Where Mummy works as a doctor<br>(B) Ramesh works here<br>(C) Where Mr. Nath lives<br>(D) Maya thinks money is kept here",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (C), 2 - (B), 3 - (A), 4 - (D)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) ગિરગાંવ રહેઠાણ છે અને ક્લિનિક મમ્મીનું કાર્યસ્થળ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br><b>વિભાગ A:</b><br>1. Generous<br>2. Stubborn<br>3. Curious<br>4. Mysterious<br><br><b>વિભાગ B:</b><br>(A) Maya's attitude<br>(B) Nishad (giving chocolate)<br>(C) Mr. Nath's life<br>(D) Nishad's refusal to believe Maya",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (B), 2 - (D), 3 - (A), 4 - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) Generous = ઉદાર (ચોકલેટ આપવી), Stubborn = જિદ્દી (નિષાદ પોતાની વાતમાં અડગ રહ્યો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "વિભાગ 'A' (સંબંધ) ને વિભાગ 'B' સાથે જોડો:<br><b>વિભાગ A:</b><br>1. Maya and Nishad<br>2. Mr. Nath and the Visitor<br>3. Ramesh and Mr. Nath<br>4. Mummy and Mr. Nath<br><br><b>વિભાગ B:</b><br>(A) Service provider and customer<br>(B) Brother and Sister<br>(C) Doctor and Patient<br>(D) Possible accomplices",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (B), 2 - (D), 3 - (A), 4 - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) પાઠમાં માયા અને નિષાદ ભાઈ-બહેન છે અને તેમની મમ્મી ડોક્ટર છે જે મિસ્ટર નાથની સારવાર કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "વિભાગ 'A' (વિશેષણ) ને વિભાગ 'B' (નામ) સાથે જોડો:<br><b>વિભાગ A:</b><br>1. Fair, fat man<br>2. Expert<br>3. Starving<br>4. Strange<br><br><b>વિભાગ B:</b><br>(A) Mr. Nath (according to Nishad)<br>(B) The Sunday visitor<br>(C) Mr. Nath's behavior<br>(D) Detectives (Maya and Nishad)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (B), 2 - (D), 3 - (A), 4 - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) 'Fair and Fat' એટલે રવિવારે આવતો મહેમાન અને 'Expert Detectives' પાઠનું નામ જ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "વિભાગ 'A' (સાધનો/વસ્તુ) ને વિભાગ 'B' સાથે જોડો:<br><b>વિભાગ A:</b><br>1. Fact Sheet<br>2. Marbles<br>3. Tea in the afternoon<br>4. Burn scars<br><br><b>વિભાગ B:</b><br>(A) Evidence of a fire<br>(B) Made by Maya<br>(C) Rolled into Mr. Nath's room<br>(D) Brought by Ramesh",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (B), 2 - (C), 3 - (D), 4 - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) માયાએ 'Fact Sheet' બનાવી હતી અને લખોટી (Marbles) દ્વારા તપાસ શરૂ થઈ હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "વિભાગ 'A' (વિરોધી અર્થ) ને વિભાગ 'B' સાથે જોડો:<br><b>વિભાગ A:</b><br>1. Polite<br>2. Ordinary<br>3. Possible<br>4. Patient<br><br><b>વિભાગ B:</b><br>(A) Impossible<br>(B) Impatient<br>(C) Impolite<br>(D) Extraordinary",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (C), 2 - (D), 3 - (A), 4 - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) અંગ્રેજીમાં વિરોધી શબ્દ બનાવવા માટે મોટાભાગે 'im-' અથવા 'un-' પ્રત્યય લાગે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો:<br><b>વિભાગ A:</b><br>1. No friends<br>2. No work<br>3. Tips generously<br>4. Talking visitor<br><br><b>વિભાગ B:</b><br>(A) For Ramesh<br>(B) About Mr. Nath<br>(C) The tall man<br>(D) Why Nishad feels bad",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (D), 2 - (B), 3 - (A), 4 - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) મિસ્ટર નાથના કોઈ મિત્રો નથી તે વાત નિષાદને દુઃખી કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "વિભાગ 'A' (ક્રિયા) ને વિભાગ 'B' સાથે જોડો:<br><b>વિભાગ A:</b><br>1. Collecting facts<br>2. Offering chocolate<br>3. Inquiring Ramesh<br>4. Treating Mr. Nath<br><br><b>વિભાગ B:</b><br>(A) Nishad's kindness<br>(B) Maya's investigation<br>(C) Nishad's curiosity<br>(D) Mother's duty",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (B), 2 - (A), 3 - (C), 4 - (D)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) Maya = Facts, Nishad = Chocolate, Ramesh = Inquiry, Mother = Doctor.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' (અર્થ) સાથે જોડો:<br><b>વિભાગ A:</b><br>1. Sorely<br>2. Spectacles<br>3. Tenant<br>4. Glaring<br><br><b>વિભાગ B:</b><br>(A) Glasses worn to see<br>(B) Looking in an angry way<br>(C) Greatly or severely<br>(D) Someone who pays rent to live",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - (C), 2 - (A), 3 - (D), 4 - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) 'Tenant' એટલે ભાડુઆત (મિસ્ટર નાથ ભાડુઆત હતા) અને 'Glaring' એટલે તાકીને જોવું.</p></div>"
+    }
+  ]
+}
