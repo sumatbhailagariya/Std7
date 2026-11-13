@@ -421,3 +421,86 @@ var Std7_English_MatchPairs = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "The Invention of Vita-Wonk",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે જોડો: \n\nવિભાગ 'A': \n(1) Wonka-Vite \n(2) Vita-Wonk \n\nવિભાગ 'B': \n(A) Makes people older \n(B) Makes people younger",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Vite' એટલે ગતિ, ઉંમર ઘટાડવાની સ્પીડ (Younger). 'Wonk' એ વુદ્ધાવસ્થા (Older) માટેનું નવું સંશોધન છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "વૃક્ષો અને તેમના પ્રકારો જોડો: \n\nવિભાગ 'A': \n(1) Douglas Fir \n(2) Oak \n(3) Cedar \n\nવિભાગ 'B': \n(A) A strong, large tree \n(B) A fragrant wood tree \n(C) A coniferous tree",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (C), (2) - (A), (3) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Fir' હંમેશા શંકુ આકારનું (Coniferous) હોય, 'Oak' મજબૂત (Strong) હોય અને 'Cedar' સુગંધિત (Fragrant) હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "વસ્તુઓ અને તેમની ઉંમર જોડો: \n\nવિભાગ 'A': \n(1) Bristlecone Pine \n(2) Catalan Tortoise \n(3) Russian Farmer \n\nવિભાગ 'B': \n(A) 700 years old \n(B) 4000 years old \n(C) 168 years old",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A), (3) - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Pine (પાઈન) સૌથી વધુ 4000 વર્ષ, કાચબો (Tortoise) 700 વર્ષ અને ખેડૂત (Farmer) 168 વર્ષ - યાદ રાખવા ઉતરતા ક્રમમાં ગોઠવો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વિટા-વોન્કના ઘટકો (Ingredients) જોડો: \n\nવિભાગ 'A': \n(1) Tail of a 51-year-old \n(2) An egg laid by a \n(3) The whiskers of a \n\nવિભાગ 'B': \n(A) 200-year-old giant dragon \n(B) 36-year-old cat (Crumppets) \n(C) horse in Arabia",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (C), (2) - (A), (3) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 51=Horse, 200=Dragon, 36=Cat. આ ત્રણ નંબરો યાદ રાખી લો એટલે જોબ મળી જશે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "શબ્દાર્થ (Vocabulary) જોડો: \n\nવિભાગ 'A': \n(1) Recipe \n(2) Invent \n(3) Produce \n\nવિભાગ 'B': \n(A) To create something new \n(B) Instructions for making food \n(C) To make or manufacture",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A), (3) - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Recipe = કેવી રીતે બનાવવું (Instructions), Invent = નવું શોધવું (New), Produce = ઉત્પાદન (Make).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વસ્તુઓ અને તે ક્યાંથી મળી તે જોડો: \n\nવિભાગ 'A': \n(1) Knuckle-bones \n(2) Tail \n(3) Toenail clippings \n\nવિભાગ 'B': \n(A) 51-year-old horse \n(B) 168-year-old Russian farmer \n(C) 700-year-old Catalan tortoise",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (C), (2) - (A), (3) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Knuckle' કાચબા માટે, 'Tail' ઘોડા માટે અને 'Toenail' રશિયન ખેડૂત માટે - આ પાઠના મુખ્ય વિચિત્ર ઘટકો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પાત્ર અને તેની સ્થિતિ જોડો: \n\nવિભાગ 'A': \n(1) Mr. Willy Wonka \n(2) Charlie \n(3) The Brave Volunteer \n\nવિભાગ 'B': \n(A) The listener/Assistant \n(B) Became an old man of 75 \n(C) The inventor",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (C), (2) - (A), (3) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Wonka = માલિક (Inventor), Charlie = સાંભળનાર, Volunteer = જેના પર પ્રયોગ થયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "વસ્તુઓ અને તેમની વિશિષ્ટતા જોડો: \n\nવિભાગ 'A': \n(1) Oompa-Loompa \n(2) Wheeler Peak \n(3) Pint of black liquid \n\nવિભાગ 'B': \n(A) The final product of Vita-Wonk \n(B) The location of Bristlecone Pine \n(C) The volunteer's identity",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (C), (2) - (B), (3) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Oompa-Loompa એ Wonka નો માણસ છે. Wheeler Peak એ પહાડ છે. કાળું પ્રવાહી એ દવા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ક્રિયાપદ (Verbs) અને તેનો અર્થ જોડો: \n\nવિભાગ 'A': \n(1) Bubbling \n(2) Shrivelling \n(3) Swallowed \n\nવિભાગ 'B': \n(A) Gulping down/Eating \n(B) Making sound of boiling \n(C) Shrinking/Wrinkling",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (C), (3) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Bubble = પરપોટા (Boiling), Shrivell = કરચલી પડવી (Shrink), Swallow = ગળી જવું (Gulp).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "સંખ્યા અને તેના સંબંધિત નામ જોડો: \n\nવિભાગ 'A': \n(1) Four drops \n(2) Twenty-year-old \n(3) Minus eighty-seven \n\nવિભાગ 'B': \n(A) The age of the volunteer before medicine \n(B) The dose of Vita-Wonk \n(C) The result of Wonka-Vite",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A), (3) - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 4 ટીપાં (Drops) એ ડોઝ છે, -87 એ માઈનસ ઉંમર છે જે Wonka-Vite થી થઈ હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "પ્રાણી અને ઉંમર જોડો: \n\nવિભાગ 'A': \n(1) Flea \n(2) Giant Dragon \n(3) Cat \n\nવિભાગ 'B': \n(A) 36 years old \n(B) 50 years old \n(C) 200 years old",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (C), (3) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Dragon હંમેશા સૌથી મોટું અને જૂનું (200), Cat (36) અને Flea (50) - આ આંકડા પાઠમાં ખાસ ઉલ્લેખિત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "સાધનો અને કાર્યો જોડો: \n\nવિભાગ 'A': \n(1) Mixing room \n(2) Inventing room \n(3) Great Glass Elevator \n\nવિભાગ 'B': \n(A) Used for travel \n(B) Where ingredients are blended \n(C) Where new things are created",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (C), (3) - (A)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Mixing = મિક્સ કરવું, Inventing = શોધ કરવી, Elevator = ઉપર-નીચે જવું (Travel).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિશેષણો (Adjectives) જોડો: \n\nવિભાગ 'A': \n(1) Fantastic \n(2) Ancient \n(3) Wrinkled \n\nવિભાગ 'B': \n(A) Very old \n(B) Having lines on skin \n(C) Imaginative/Wonderful",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (C), (2) - (A), (3) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Fantastic = અદભૂત, Ancient = પ્રાચીન (Old), Wrinkled = કરચલીવાળું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "પાઠના ઘટનાક્રમ જોડો: \n\nવિભાગ 'A': \n(1) First invention \n(2) Second invention \n(3) The effect \n\nવિભાગ 'B': \n(A) Vita-Wonk \n(B) Age increase \n(C) Wonka-Vite",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (C), (2) - (A), (3) - (B)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પહેલા ઉંમર ઘટી (Wonka-Vite), પછી ઉંમર વધારવા માટે Vita-Wonk બનાવ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "વૃક્ષોનું આયુષ્ય (Life Span) જોડો: \n\nવિભાગ 'A': \n(1) Bristlecone Pine \n(2) Fir \n(3) Cedar \n\nવિભાગ 'B': \n(A) Lives for many years but less than Pine \n(B) Lives for 4000 years \n(C) A long-lived tree",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (1) - (B), (2) - (A), (3) - (C)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આખા પાઠમાં '4000 વર્ષ' ફક્ત Bristlecone Pine માટે જ વપરાયું છે.</p></div>"
+    }
+  ]
+}
