@@ -222,3 +222,61 @@ var Std7_English_MatchPairs = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "The Ashes That Made Trees Bloom",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'A' ને વિભાગ 'B' સાથે યોગ્ય રીતે જોડો:<br><b>વિભાગ 'A'</b><br>1. Muko<br>2. Daimio<br>3. Old Couple<br>4. Greedy Neighbors<br><br><b>વિભાગ 'B'</b><br>A. Wealthy Landlord<br>B. The pet dog<br>C. Cruel and stingy<br>D. Kind and hardworking",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - B, 2 - A, 3 - D, 4 - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes)</p><p>પાત્રના ગુણધર્મો યાદ રાખો: Muko (dog), Daimio (Ruler/Lord), Old Couple (Kind), Neighbors (Greedy/Cruel).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "શબ્દના અર્થ મુજબ યોગ્ય જોડકાં જોડો:<br><b>વિભાગ 'A' (Word)</b><br>1. Covetous<br>2. Crone<br>3. Mortar<br>4. Gleamed<br><br><b>વિભાગ 'B' (Meaning)</b><br>A. An old woman<br>B. Shone brightly<br>C. Greedy<br>D. A bowl for crushing",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - C, 2 - A, 3 - D, 4 - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes)</p><p>શબ્દ યાદ રાખવાની ટ્રીક: 'C'ovetous એટલે 'C'ચૂસ કે લોભી (Greedy). Gleam એટલે ચમકવું (Shine).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ક્રિયા અને તેના પરિણામ મુજબ યોગ્ય જોડકાં જોડો:<br><b>વિભાગ 'A' (Action)</b><br>1. Sprinkled ashes on cherry tree<br>2. Poked a stick in the ground<br>3. Put gold in the mortar<br>4. Greedy man threw ashes<br><br><b>વિભાગ 'B' (Result)</b><br>A. Turned into a mass of worms<br>B. Tree bloomed with flowers<br>C. Choked the Daimio<br>D. Found a pile of gold",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - B, 2 - D, 3 - A, 4 - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes)</p><p>યાદ રાખો: દયાળુ માલિક (Kind Man) સાથે હંમેશા સારું (Flowers/Gold) થયું, લોભી પાડોશી સાથે ખરાબ (Worms/Choking) થયું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "વસ્તુઓ અને તેના ઉપયોગ મુજબ જોડો:<br><b>વિભાગ 'A' (Item)</b><br>1. Pine tree<br>2. Bamboo tubes<br>3. Mortar and Mill<br>4. Rice pastry<br><br><b>વિભાગ 'B' (Usage/Context)</b><br>A. Used to make bean sauce<br>B. Used to make the mill<br>C. Placed near dog's grave<br>D. Traditional food item",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - B, 2 - C, 3 - A, 4 - D</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes)</p><p>Pine wood થી Mortar/Mill બન્યા હતા. Bamboo tubes કબર પાસે ફૂલ મૂકવા વપરાતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વાર્તાના મુખ્ય અંશોને જોડો:<br><b>વિભાગ 'A'</b><br>1. Spirit of the dog<br>2. Beating the dog<br>3. Reward for the old man<br>4. Punishment for greedy man<br><br><b>વિભાગ 'B'</b><br>A. Silk robes and gold<br>B. Appeared in a dream<br>C. Beaten to death by soldiers<br>D. Cruel neighbors' action",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - B, 2 - D, 3 - A, 4 - C</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes)</p><p>યાદ રાખો: Spirit હંમેશા 'Dream' (સપના) માં આવે છે અને Daimio એ 'Silk robes' ઇનામમાં આપ્યા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "વિરુદ્ધાર્થી શબ્દો મુજબ જોડો (Chapter context):<br><b>વિભાગ 'A'</b><br>1. Kind<br>2. Wealthy<br>3. Dead<br>4. Honest<br><br><b>વિભાગ 'B'</b><br>A. Greedy/Corrupt<br>B. Alive<br>C. Wicked/Cruel<br>D. Poor",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - C, 2 - D, 3 - B, 4 - A</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes)</p><p>પાત્રોના વિરોધાભાસ યાદ રાખો: દયાળુ (Kind) vs દુષ્ટ (Wicked).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "પ્રકરણના શબ્દો અને સમાનાર્થી (Synonyms) જોડો:<br><b>વિભાગ 'A'</b><br>1. Tidbit<br>2. Dainties<br>3. Coaxed<br>4. Seized<br><br><b>વિભાગ 'B'</b><br>A. Delicious food<br>B. Persuaded<br>C. Small piece of food<br>D. Caught suddenly",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - C, 2 - A, 3 - B, 4 - D</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes)</p><p>'Tid'bit એટલે 'Tiny' bit (નાનો ટુકડો). Coaxed એટલે પટાવવું (Persuaded).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "સ્થળ અને પાત્રના જોડાણ શોધો:<br><b>વિભાગ 'A'</b><br>1. Garden<br>2. Rice field<br>3. Highway<br>4. Grave<br><br><b>વિભાગ 'B'</b><br>A. Daimio's procession passing<br>B. Muko's burial place<br>C. Neighbors found worms here<br>D. Old man worked with a hoe",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - C, 2 - D, 3 - A, 4 - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes)</p><p>ખેતરમાં (Field) કામ કર્યું, હાઈવે પર (Highway) રાજા નીકળ્યા અને બગીચામાં (Garden) પડોશીએ ખાડો ખોદ્યો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "Daimio ના સન્માનના નિયમો જોડો:<br><b>વિભાગ 'A'</b><br>1. Prostrate<br>2. Palanquin<br>3. Procession<br>4. Custom<br><br><b>વિભાગ 'B'</b><br>A. A royal carriage<br>B. Tradition or rule<br>C. Lying flat on ground<br>D. A group moving in order",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - C, 2 - A, 3 - D, 4 - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes)</p><p>'P'alanquin એટલે 'પાલખી' (Carriage). 'P'rostrate એટલે 'પગમાં પડવું' (Flat on ground).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ચિહ્નો અને તેનો અર્થ જોડો:<br><b>વિભાગ 'A'</b><br>1. Withered tree<br>2. Handful of ashes<br>3. Pile of gold<br>4. Foul smell<br><br><b>વિભાગ 'B'</b><br>A. Magic of the spirit<br>B. Result of greed<br>C. Dry and lifeless tree<br>D. Reward for kindness",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> 1 - C, 2 - A, 3 - D, 4 - B</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes)</p><p>Withered = સુકાયેલું (Dry). Foul smell = ગંદી વાસ (જે પડોશીને આવી હતી).</p></div>"
+    }
+  ]
+}
