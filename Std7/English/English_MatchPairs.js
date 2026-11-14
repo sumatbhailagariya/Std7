@@ -504,3 +504,86 @@ var Std7_English_MatchPairs = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "A Homage to Our Brave Soldiers",
+  "questionType": "જોડકાં જોડો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "વિભાગ 'A' (શબ્દો) ને વિભાગ 'B' (અર્થ) સાથે જોડો:<br>1. Homage<br>2. Martyr<br>3. Sacrifice<br>4. Valiant",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - Tribute (શ્રદ્ધાંજલિ)<br>2 - One who dies for the country (શહીદ)<br>3 - Give up something valuable (બલિદાન)<br>4 - Very brave (બહાદુર)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'H' for Homage = 'H' for Honor (સન્માન/શ્રદ્ધાંજલિ). આ રીતે યાદ રાખો! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "રાષ્ટ્રીય યુદ્ધ સ્મારક (National War Memorial) ના ચક્રોને તેના અર્થ સાથે જોડો:<br>1. Amar Chakra<br>2. Veerta Chakra<br>3. Tyag Chakra<br>4. Rakshak Chakra",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - Circle of Immortality<br>2 - Circle of Bravery<br>3 - Circle of Sacrifice<br>4 - Circle of Protection</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ક્રમ યાદ રાખો: A-V-T-R (Avatar) -> Amar, Veerta, Tyag, Rakshak. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "પાઠના પાત્રો અને તેમના સંબંધો જોડો:<br>1. Soumya<br>2. Ananda<br>3. Koki<br>4. Uncle Hari",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - Ananda's friend/classmate<br>2 - Soumya's friend/cousin<br>3 - Soumya's friend<br>4 - Served in the Army</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'H'ari = 'H'ero of the Army. આ રીતે અંકલ હરિનું પાત્ર યાદ રહી જશે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સ્થળ અને તેની વિશેષતા જોડો:<br>1. New Delhi<br>2. Amar Jawan Jyoti<br>3. National War Memorial<br>4. Param Vir Chakra",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - Location of the memorial<br>2 - Eternal flame<br>3 - Dedicated in Jan 2019<br>4 - Highest military decoration</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Param' એટલે 'સર્વોચ્ચ' (Highest). એટલે Param Vir Chakra = Highest Award. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "વિરોધી શબ્દો (Antonyms) જોડો:<br>1. Brave<br>2. Remember<br>3. War<br>4. Victory",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - Cowardly<br>2 - Forget<br>3 - Peace<br>4 - Defeat</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સૈનિકો 'Brave' હોય અને ડરપોકને 'Coward' કહેવાય. વિરોધી શબ્દોમાં અર્થ ઉલટાવી નાખવો. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ક્રિયાપદ (Verb) અને તેના ભૂતકાળના રૂપો (V2) જોડો:<br>1. Feel<br>2. Write<br>3. Build<br>4. Pay",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - Felt<br>2 - Wrote<br>3 - Built<br>4 - Paid</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પત્ર 'Wrote' (લખ્યો) હતો, એટલે પાઠ પત્રના સ્વરૂપમાં છે તે યાદ આવી જશે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ચક્રોની ખાસિયત જોડો:<br>1. Concentric circles<br>2. Obelisk<br>3. Stone tablets<br>4. Granite",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - Layout of the Memorial<br>2 - Tall pillar in the center<br>3 - Walls of Tyag Chakra<br>4 - Material used for tablets</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Tyag' (ત્યાગ) ની દિવાલો પર શહીદોના નામ પથ્થર (Tablets) પર લખાયા છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "શબ્દો અને તેના સમાનાર્થી (Synonyms) જોડો:<br>1. Inspiration<br>2. Sacred<br>3. Grateful<br>4. Unique",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - Motivation<br>2 - Holy<br>3 - Thankful<br>4 - One of a kind</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આપણે સૈનિકોના 'Grateful' (ઋણી) છીએ એટલે કે 'Thankful' છીએ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "પાઠમાં વપરાયેલા શબ્દસમૂહો જોડો:<br>1. Armed Forces<br>2. Posthumously<br>3. Gallantry Awards<br>4. National Anthem",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - Army, Navy and Air Force<br>2 - Awarded after death<br>3 - Bravery awards<br>4 - Jana Gana Mana</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Post' એટલે 'પછી' (મૃત્યુ પછી). Posthumously = શહીદ થયા પછી મળતો એવોર્ડ. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ચક્રોની સંખ્યા અને વિગતો જોડો:<br>1. Four<br>2. 21<br>3. 1971<br>4. 2019",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - Number of concentric circles<br>2 - Param Vir Chakra awardees<br>3 - Indo-Pak War<br>4 - Memorial inauguration year</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 2019 માં નવું સ્મારક બન્યું, તે લેટેસ્ટ યાદ રાખવું. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "સૈન્યના અંગોને તેની કામગીરી સાથે જોડો:<br>1. Army<br>2. Navy<br>3. Air Force<br>4. Soldiers",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - Land-based force<br>2 - Sea-based force<br>3 - Air-based force<br>4 - Protect our borders</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Navy = Water/Sea. Air = Sky. Army = Land. બસ આટલું જ સમજવાનું છે! (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "પત્ર લેખન (Letter Writing) ના અંગો જોડો:<br>1. Date<br>2. Salutation<br>3. Body<br>4. Subscription",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - 14 April 2022<br>2 - Dear Soumya<br>3 - Main message of letter<br>4 - With love, Ananda</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Salutation એટલે 'સંબોધન' (Dear). Subscription એટલે 'સહી' (Your friend). (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "વિષેષણો (Adjectives) જોડો:<br>1. Brave<br>2. Tall<br>3. Sacred<br>4. Golden",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - Soldiers<br>2 - Obelisk<br>3 - Memorial<br>4 - Letters on tablets</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લેખિત અક્ષરો કેવા છે? 'Golden' (સોનેરી). પાઠમાં આ ખાસ ઉલ્લેખ છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "ચક્રના રંગ અને ભાવના જોડો:<br>1. Tyag Chakra<br>2. Rakshak Chakra<br>3. Veerta Chakra<br>4. Amar Chakra",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - Sacrifice of soldiers<br>2 - Security of nation<br>3 - Bravery in battles<br>4 - Immortal soul</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Rakshak' એટલે રક્ષણ કરનાર (Security). નામમાં જ અર્થ છુપાયેલો છે. (NJ Classes)</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "પાઠના મહત્વના વાક્યો અને વક્તા જોડો:<br>1. \"I felt very inspired.\"<br>2. \"The memorial was inaugurated in 2019.\"<br>3. \"He had served in the Army.\"<br>4. \"We should visit it once.\"",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> <br>1 - Ananda<br>2 - Narrator/Textbook<br>3 - Uncle Hari<br>4 - Soumya</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'I' વપરાય ત્યારે પત્ર લખનાર 'Ananda' જ હોય. (NJ Classes)</p></div>"
+    }
+  ]
+}
