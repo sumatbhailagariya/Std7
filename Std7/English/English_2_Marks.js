@@ -1,0 +1,58 @@
+var Std7_English_2_Marks = {
+"1": {
+  "chapterName": "પ્રકરણ 1",
+  "chapterTitle": "Three Questions",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "What were the three questions that the king wanted to know? (રાજા કયા ત્રણ પ્રશ્નો જાણવા માંગતો હતો?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The three questions were: <br>1. What is the right time to begin something? <br>2. Which people should he listen to? <br>3. What is the most important thing for him to do?</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'T-P-W' યાદ રાખો: T-Time (સમય), P-People (લોકો), W-Work (કામ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "Why did the king want to know answers to these three questions? (રાજા આ ત્રણ પ્રશ્નોના જવાબો શા માટે જાણવા માંગતો હતો?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The king thought that if he knew the answers to these three questions, he would never fail in anything he might undertake. He wanted to be a successful ruler.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Knowledge of 3 answers = No Failure (ક્યારેય નિષ્ફળતા નહીં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "Why was the king not satisfied with the answers of the wise men? (રાજા જ્ઞાની માણસોના જવાબોથી શા માટે સંતુષ્ટ નહોતો?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The king was not satisfied because the wise men gave different answers to the same questions. Their answers were so varied and conflicting that the king could not agree with any of them.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Different Answers = Confusion. કોઈ એક ચોક્કસ નિર્ણય ન મળવાથી રાજા અસંતુષ્ટ હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "Whom did the king decide to seek advice from in the end and where did he live? (અંતે રાજાએ કોની સલાહ લેવાનું નક્કી કર્યું અને તે ક્યાં રહેતા હતા?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The king finally decided to seek the advice of a certain hermit who was widely known for his wisdom. The hermit lived in a wood (forest) which he never left.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Wise Hermit + Woods (જંગલમાં રહેતા જ્ઞાની સાધુ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "What did the king do before reaching the hermit's hut? (સાધુની ઝૂંપડીએ પહોંચતા પહેલા રાજાએ શું કર્યું?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The hermit saw only common people. So, the king put on ordinary clothes. Before reaching the hut, the king left his horse with his bodyguard and went on alone.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Simple Look + No Horse + No Bodyguard = To look like a common man.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "How did the king help the hermit? (રાજાએ સાધુને કેવી રીતે મદદ કરી?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> When the king reached the hut, he saw the hermit digging the ground. The hermit was old and tired. The king took the spade from him and started digging the beds himself.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Took the spade (પાવડો લીધો) and dug the ground (ખોદકામ કર્યું).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "Who was the bearded man? (દાઢીવાળો માણસ કોણ હતો?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The bearded man was the king's enemy. He had followed the king to kill him because the king had put his brother to death and seized his property.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Bearded Man = Enemy seeking revenge (બદલો લેવા ઈચ્છતો દુશ્મન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "How did the king and the hermit help the wounded man? (રાજા અને સાધુએ ઘાયલ માણસની મદદ કેવી રીતે કરી?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The king washed the wound and covered it with his handkerchief. He redressed it until the bleeding stopped. Then, they gave him fresh water and carried him into the hut to rest.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Wash -> Dress -> Water -> Rest. આ ચાર સ્ટેપ્સ યાદ રાખો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "According to the hermit, what is the most important time? (સાધુના મતે સૌથી મહત્વનો સમય કયો છે?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> According to the hermit, the most important time is 'Now' (the present). It is the only time when we have any power to act.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: The Power of NOW (વર્તમાન જ સર્વોપરી છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "What is the 'most important business' according to the hermit? (સાધુના જણાવ્યા મુજબ 'સૌથી મહત્વનું કાર્ય' શું છે?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The most important business is to do good to the person you are with at a particular moment, because we were sent into this world for that purpose alone.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Important Business = Doing Good to Others (બીજાનું ભલું કરવું).</p></div>"
+    }
+  ]
+}
