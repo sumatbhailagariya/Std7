@@ -114,3 +114,61 @@ var Std7_English_2_Marks = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "Gopal and the Hilsa-Fish",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "Why did the King want no more talk about the hilsa-fish?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> It was the season for hilsa-fish and everyone was talking about it. Even the courtiers were discussing fish instead of court matters. The King was fed up and lost his temper because he wanted his people to focus on important work rather than just fish.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>યાદ રાખો: King = Fed up (કંટાળી ગયા હતા) કારણ કે બધા જ 'Fish' ની વાતો કરતા હતા, 'Court' ની નહીં!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "What challenge did the King give to Gopal?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The King challenged Gopal to buy a huge hilsa-fish from the market and bring it to the palace without anyone asking him a single word about the fish throughout the way.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>Challenge = Buy Fish + Reach Palace + No questions about Fish (કોઈ માછલી વિશે પૂછવું જોઈએ નહીં).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "What three things did Gopal do before he went to buy his hilsa-fish?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Before buying the fish, Gopal (1) half-shaved his face, (2) smeared himself with ash, and (3) wore disgraceful rags instead of proper clothes.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>યાદ રાખવા માટે 'SAR' સૂત્ર: S-Shave (Half), A-Ash (રાખ), R-Rags (ચીંથરા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "How did Gopal's wife react to his preparation?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Gopal's wife was shocked and thought he had gone mad. She asked him why he was smearing ash on his face and why he looked so disgraceful in those dirty rags.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>Wife's reaction = Shocked + thought he is 'MAD' (ગાંડો થઈ ગયો છે).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "Why did the people in the market think Gopal was a 'madman'?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> People thought Gopal was a madman because of his strange appearance—his face was half-shaven, his body was covered in ash, and he was dressed in torn, dirty rags.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>Strange Look = Madman. લોકોનું ધ્યાન તેના 'દેખાવ' પર હતું, 'માછલી' પર નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "What happened when Gopal reached the court with the hilsa-fish?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> When Gopal reached the court, the guards refused to let him in because of his dirty clothes. Gopal then began to dance and sing loudly until the King ordered the guards to bring the 'crazy' man inside.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>Entry Formula: Guards Stopped → Gopal Danced/Sang → King Called Inside.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "How did Gopal explain his strange appearance to the King?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Gopal reminded the King about the challenge. He explained that he dressed this way so that people would be distracted by his looks and forget to ask about the hilsa-fish he was carrying.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>Appearance = Distraction (ધ્યાન ભટકાવવા માટે). માછલીથી ધ્યાન હટાવી મોઢા પર લાવવા માટે આ વેશ ધારણ કર્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "Why did no one seem to be interested in the hilsa-fish Gopal was carrying?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> No one was interested in the fish because Gopal’s ridiculous and comic appearance attracted all the attention. People were busy talking about his half-shaven face and rags instead of the fish.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>Attention Shift: People noticed 'Gopal's Face', not 'Gopal's Fish'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "Was Gopal successful in his challenge? How?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Yes, Gopal was successful. He managed to reach the King's palace with a huge hilsa-fish without anyone asking him about it. His clever disguise made everyone talk only about him and not the fish.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>Success = Cleverness (ચતુરાઈ). ગોપાલની બુદ્ધિથી અશક્ય કામ પણ શક્ય બન્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "What does the story 'Gopal and the Hilsa-Fish' teach us?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The story teaches us that with wit and intelligence, one can overcome any challenge or solve any problem, no matter how difficult or impossible it seems.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>Moral: Wit (બુદ્ધિ) + Presence of mind = Victory (વિજય).</p></div>"
+    }
+  ]
+}
