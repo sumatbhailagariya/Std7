@@ -56,3 +56,61 @@ var Std7_English_2_Marks = {
     }
   ]
 }
+,
+"2": {
+  "chapterName": "પ્રકરણ 2",
+  "chapterTitle": "How Many Did You?",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ગોપાલને ખાવામાં શું ખૂબ જ ભાવતું હતું? તેણે એક દિવસ શું ખરીદ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગોપાલને જલેબી (Jalebis) ખૂબ જ ભાવતી હતી. તેણે એક દિવસ બજારમાંથી તાજી જલેબી ખરીદી હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોપાલ = જલેબી (G-J યાદ રાખો). બસ, આટલું યાદ રાખશો એટલે જવાબ સાચો જ પડશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "જલેબી પર કોણ બણબણતું હતું? ગોપાલે તેમને ભગાડવા શું કર્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> જલેબી પર માખીઓ (Flies) બણબણતી હતી. ગોપાલે માખીઓને ભગાડવા માટે બૂમ પાડી, \"Go away, dirty flies!\" અને પછી તેણે એક જ ફટકામાં સાત માખીઓને મારી નાખી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Flies (માખી) ગંદી હોય એટલે 'Dirty Flies' અને ગોપાલનો પાવર 'One Blow' (એક ફટકો).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "ગોપાલે પોતાની જાતને શું કહ્યું? તેણે પોતાના પટ્ટા (Belt) પર શું લખાવ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગોપાલે પોતાની જાતને ખૂબ જ બહાદુર (Brave) ગણાવ્યો કારણ કે તેણે એકસાથે સાત માખી મારી હતી. તેણે પોતાના પટ્ટા પર લખાવ્યું: \"7 at one blow\" (એક ઘા માં સાત).</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નંબર 7 અને 'One Blow' આ બે શબ્દો ભૂલાવા ન જોઈએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "રાજાએ ગોપાલને શા માટે બોલાવ્યો હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાજ્યમાં બે ક્રૂર રાક્ષસો (Two cruel giants) લોકો હેરાન કરી રહ્યા હતા. રાજાએ ગોપાલની બહાદુરી વિશે સાંભળ્યું હતું, તેથી તેમણે ગોપાલને તે રાક્ષસોને પકડવા અથવા મારી નાખવા માટે બોલાવ્યો હતો.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાજા + રાક્ષસ + ગોપાલ = બહાદુરીની પરીક્ષા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "રાજાએ ગોપાલને રાક્ષસોને મારવા બદલ શું વચન આપ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાજાએ ગોપાલને વચન આપ્યું કે જો તે આ બંને રાક્ષસોને મારી નાખશે, તો તેને મોટું ઇનામ (Rich reward) આપવામાં આવશે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Rich Reward' શબ્દ અંગ્રેજીમાં લખશો તો પૂરા માર્કસ મળશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "ગોપાલને તેની પોતાની શક્તિ વિશે શું ખબર હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગોપાલ જાણતો હતો કે તે રાક્ષસોને પકડવા કે મારવા માટે સક્ષમ નથી. તે પોતાની મર્યાદા જાણતો હતો, પરંતુ રાજા અને પ્રજાને તેની પર મોટી આશા હતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ગોપાલ સ્માર્ટ હતો, પણ 'Not Able' (સક્ષમ નહોતો) એ સત્ય હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "ગોપાલે રાક્ષસોને ક્યાં જોયા અને તે સમયે રાક્ષસો શું કરી રહ્યા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગોપાલે પર્વતો અને ખીણોમાં શોધ કર્યા પછી રાક્ષસોને જંગલમાં જોયા. તેઓ એક મોટા ઝાડ નીચે સૂતા હતા અને નસકોરા (Snoring) બોલાવતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Forest + Under the tree + Sleeping = રાક્ષસોનું લોકેશન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "રાક્ષસોને જોઈને ગોપાલની પ્રતિક્રિયા શું હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> રાક્ષસોને જોઈને ગોપાલ ડરી ગયો (Scared). તેણે વિચાર્યું કે આ રાક્ષસો ખરેખર ખૂબ જ વિશાળ અને ડરામણા છે, અને તેમની સાથે લડવું એ જોખમી છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Huge & Scary = Giants. Scared = Gopal.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "ગોપાલે રાક્ષસોને લડાવવા માટે કઈ યુક્તિ (Trick) કરી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> ગોપાલે એક યુક્તિ વિચારી; તે ઝાડ પાછળ છુપાઈ ગયો અને રાક્ષસો પર પથ્થર (Stones) ફેંક્યા. આનાથી બંને રાક્ષસો જાગી ગયા અને એકબીજા સાથે લડવા લાગ્યા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Stones + Hide behind a tree = Perfect Plan!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "રાક્ષસોનું અંતે શું થયું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> બંને રાક્ષસો એકબીજા સાથે ખૂબ જ ભયાનક રીતે લડ્યા (Fought fiercely) અને અંતે તેઓએ એકબીજાને મારી નાખ્યા. આમ, ગોપાલે લડ્યા વગર જીત મેળવી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Killed each other' - આ વાક્ય લખવાથી જવાબ પૂરો ગણાશે.</p></div>"
+    }
+  ]
+}
