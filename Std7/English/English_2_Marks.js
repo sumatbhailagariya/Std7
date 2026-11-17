@@ -172,3 +172,61 @@ var Std7_English_2_Marks = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "The Ashes That Made Trees Bloom",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "Why did the neighbors kill the dog Muko?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The greedy neighbors killed the dog because it did not help them find treasure as it had helped the kind old couple. Instead of gold, the dog led them to a place where they found a dead, stinking kitten. Out of anger and disappointment, they killed the dog.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>યાદ રાખો: Greedy neighbors + No gold (only dead kitten) = Angry/Kill the dog. લાલચ બુરી બલા છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "How did the dog help the kind old couple find treasure for the first time?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> One day, the dog Muko came running to the old man, putting his paws against his legs and motioning with his head. He led the man to a spot and began scratching the earth. When the old man dug the spot, he found a glistering pile of gold.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>યાદ રાખો: Dog's signal (paws/head) -> Scratching spot -> Digging -> Gold treasure.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "What happened when the wicked couple used the mortar and the magic mill?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> When the wicked couple borrowed the mortar and mill to get gold, the result was disgusting. Instead of turning rice into gold or bean sauce into coins, the entire mass turned into a foul heap of worms. This made them so angry that they chopped the mill into pieces to use as firewood.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>યાદ રાખો: Kind Couple = Gold. Wicked Couple = Worms. લાલચમાં સોનાની જગ્યાએ કીડા મળ્યા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "What did the spirit of the dog ask the old man to do in his first dream?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> After the dog was killed, its spirit appeared in the old man's dream. It told him to cut down the pine tree which grew over its grave and make a mortar for rice pastry and a mill for bean sauce from its wood.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>Dream 1: Cut Pine Tree -> Make Mortar (ખાંડણી) & Mill (ઘંટી).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "Why did the daimyo reward the kind old man?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The daimyo was delighted to see the magic of the old man. When the old man sprinkled a pinch of ashes on a withered cherry tree, it instantly sprouted blossoms. The sight of the blooming tree in winter pleased the daimyo so much that he gave the man rich rewards.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>Magic Ashes + Withered Cherry Tree = Pink Blossoms. આ ખુશીમાં ડાઈમ્યોએ ઈનામ આપ્યું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "How did the dog's spirit help the old man the second time in his dream?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> In the second dream, the dog's spirit informed the old man that the wicked neighbors had burnt the mill. It told him to collect the ashes of the burnt mill and sprinkle them on withered trees to make them bloom again.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>Dream 2: Collect Ashes of burnt mill -> Sprinkle on dead trees -> Magic Bloom!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "Describe the treatment of the dog by the kind couple.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The kind old couple treated the dog Muko like their own child. Since they had no children, they loved it dearly. They fed it with fish from their own chopsticks and provided it with everything it needed, showing their compassion for all living beings.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>યાદ રાખો: Kind Couple = Animal Lovers. Treated like a child + Fish with chopsticks.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "Why did the wicked neighbor's attempt to please the daimyo fail?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The wicked neighbor tried to copy the kind man by throwing ashes on a tree when the daimyo passed. However, the ashes did not make the tree bloom. Instead, the wind blew the fine dust into the noses and eyes of the daimyo and his wife, causing sneezing and choking.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>Wicked neighbor's ash = Dust in eyes/nose -> No magic -> Sneezing/Choking. નકલ કરવામાં અક્કલ જોઈએ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "What punishment did the wicked neighbor receive in the end?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> After the wicked neighbor spoiled the daimyo’s procession with dust, the daimyo’s officer dragged him from the tree and beat him soundly. The neighbor eventually died in the mud, serving as a punishment for his greed and cruelty.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>યાદ રાખો: Cruelty + Greed = Severe punishment (Beaten by officer) + Sad end.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "What is the moral lesson of the story 'The Ashes That Made Trees Bloom'?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The moral of the story is that kindness, honesty, and hard work are always rewarded, while greed and cruelty lead to downfall and unhappiness. The spirit of the dog continued to help those who were kind to it even after death.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>બોધપાઠ: 'Kindness pays, Greed slays'. જેવું કરશો તેવું પામશો (Karma).</p></div>"
+    }
+  ]
+}
