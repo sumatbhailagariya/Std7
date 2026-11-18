@@ -288,3 +288,61 @@ var Std7_English_2_Marks = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "Expert Detectives",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "Who are Nishad and Maya? What are they curious about?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Nishad (also known as Seven) and Maya are siblings. They are curious about Mr. Nath, a mysterious man living in their building. Maya thinks he is a crook, while Nishad is concerned about his health and loneliness.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) યાદ રાખો: Maya = Detective Mind (શંકાશીલ), Nishad = Kind Heart (દયાળુ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "Why does Nishad call himself 'Seven'?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Nishad's name means the seventh note on the musical scale (Sargam). Therefore, he is often called 'Seven' by his sister and others.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) Nishad = Seventh note of music. (સાતમો સૂર).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "What did Maya think about the scars on Mr. Nath’s face?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Maya believed that the scars on Mr. Nath’s face were bullet scars. She thought he must have got them during a shootout with the police while running away as a criminal.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) Maya's Logic: Scars = Police Shootout (પોલીસ સાથેની લડાઈના નિશાન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "What information does Ramesh provide about Mr. Nath's meals?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Ramesh tells Nishad that Mr. Nath eats two simple meals every day—morning and evening. He eats two chapatis, dal, and a vegetable. He also drinks two cups of tea daily.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) Meal Map: 2 Chapatis + Dal + Vegetable + 2 Teas (ફિક્સ રૂટિન).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "Who visits Mr. Nath every Sunday?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A tall, fair, stout man wearing spectacles visits Mr. Nath every Sunday. According to Ramesh, this man talks a lot, unlike Mr. Nath who hardly speaks.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) Sunday Visitor = Tall + Stout + Spectacles + Talkative (ખૂબ બોલકો માણસ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "What does Nishad give to Mr. Nath and why?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Nishad gives a bar of chocolate to Mr. Nath. He does this because he feels bad for Mr. Nath’s gaunt (thin) appearance and thinks he is starving or poor.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) Chocolate = Nishad's sympathy (નિષાદની સહાનુભૂતિ).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "Why does Maya make a list of facts about Mr. Nath?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Maya makes a list of nine facts like a professional detective. She wants to organize her evidence to prove that Mr. Nath is a crook (criminal) and trap him.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) Facts List = Maya's Detective Strategy (પુરાવા ભેગા કરવાની રીત).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "How does Nishad differ from Maya in his opinion about Mr. Nath?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Maya sees Mr. Nath as a dangerous criminal on the run. However, Nishad sees him as a lonely, friendless, and poor man who needs someone to care for him.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) Maya = Suspicion (શંકા), Nishad = Compassion (કરુણા).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "What is 'Fact Number 1' on Maya's list?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Fact Number 1 on Maya's list is that they must find out Mr. Nath's first name, as 'Mr. Nath' might not be his real name or is just a surname.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) Fact 1: What is his real first name? (સાચું નામ શું છે?).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "Why does Nishad get upset with Maya at the end of the story?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Nishad gets upset because Maya keeps calling Mr. Nath a 'criminal' or 'crook'. Nishad wants to be Mr. Nath's friend and doesn't like Maya's constant suspicion without real proof.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) Friendship vs. Investigation (મિત્રતા વિરુદ્ધ તપાસ).</p></div>"
+    }
+  ]
+}
