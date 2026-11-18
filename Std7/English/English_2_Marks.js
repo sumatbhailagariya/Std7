@@ -230,3 +230,61 @@ var Std7_English_2_Marks = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "Quality (ગુણવત્તા)",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "લેખક મિસ્ટર ગેસલરને (Mr. Gessler) કઈ રીતે ઓળખતા હતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લેખક મિસ્ટર ગેસલરને તેમની યુવાનીના દિવસોથી ઓળખતા હતા, કારણ કે મિસ્ટર ગેસલર લેખકના પિતા માટે બૂટ બનાવતા હતા. તેઓ લંડનમાં રહેતા એક કુશળ જર્મન મોચી હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) યાદ રાખો: 'F-F' - Father's Footwear. લેખકના પિતાના બૂટ બનાવતા હોવાથી જૂનો સંબંધ હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "મિસ્ટર ગેસલર માટે બૂટ બનાવવું એ શું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મિસ્ટર ગેસલર માટે બૂટ બનાવવું એ માત્ર કોઈ વ્યવસાય નહોતો, પરંતુ એક 'કલા' (Art) હતી. તેઓ દરેક જોડી બૂટ ખૂબ જ મહેનત, ચોકસાઈ અને શ્રેષ્ઠ ચામડાનો ઉપયોગ કરીને બનાવતા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) 'Art, not Part-time'. ગેસલર માટે બૂટ બનાવવું એ પેશન હતું, માત્ર પૈસા કમાવવાનું સાધન નહીં.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "લેખક મિસ્ટર ગેસલરની દુકાને વારંવાર કેમ જઈ શકતા નહોતા?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મિસ્ટર ગેસલરે બનાવેલા બૂટ અસાધારણ રીતે લાંબો સમય ટકતા હતા. તેની ગુણવત્તા એટલી સારી હતી કે તે જલ્દી ઘસાતા નહોતા, તેથી લેખકને નવા બૂટ લેવા માટે જલ્દી પાછા જવાની જરૂર પડતી નહોતી.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) Quality = Longevity. સારી ગુણવત્તા એટલે લાંબુ આયુષ્ય, માટે ઓછી મુલાકાત.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "મોટી કંપનીઓ (Big Firms) વિશે મિસ્ટર ગેસલરનો શું અભિપ્રાય હતો?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મિસ્ટર ગેસલર માનતા હતા કે મોટી કંપનીઓને ગુણવત્તામાં કોઈ રસ નથી. તેઓ માત્ર જાહેરાતો દ્વારા ગ્રાહકોને આકર્ષે છે અને કામદારોનું કામ છીનવી લે છે. તેઓ જાહેરાત પાછળ ખર્ચ કરે છે, કામ પાછળ નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) AD vs WORK. મોટી કંપનીઓ જાહેરાત (Ads) માં માને છે, ગેસલર કામ (Work) માં માનતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "લેખકે જ્યારે ભૂલથી મોટી કંપનીના બૂટ પહેરીને ગેસલરને બતાવ્યા ત્યારે તેમની પ્રતિક્રિયા શું હતી?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મિસ્ટર ગેસલરે બૂટને જોઈને તરત જ પારખી લીધું કે તે તેમણે બનાવેલા નથી. તેમણે તે બૂટના એક ચોક્કસ ભાગ પર આંગળી મૂકીને કહ્યું કે અહીં તમને દુખતું હશે. તેઓ દુઃખી હતા કે લોકો ગુણવત્તાને બદલે માત્ર જાહેરાતને મહત્વ આપે છે.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) Expert Eye. સાચો કલાકાર નકલી વસ્તુને સ્પર્શ માત્રથી ઓળખી જાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "મિસ્ટર ગેસલરના મોટા ભાઈનું મૃત્યુ કેવી રીતે થયું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મિસ્ટર ગેસલરના મોટા ભાઈનું મૃત્યુ તેમની દુકાનનો એક ભાગ જતો રહ્યો હોવાના આઘાત અને વધતી ઉંમરને કારણે થયું હતું. ગેસલરના જણાવ્યા મુજબ, તેઓ એક સારા માણસ હતા પણ દુકાન બચાવી શક્યા નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) Loss of Shop = Loss of Life. ધંધો તૂટતા તેમનું હૃદય પણ તૂટી ગયું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "લેખકે છેલ્લી મુલાકાત વખતે મિસ્ટર ગેસલર માટે કેમ દુઃખ અનુભવ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> લેખકે જોયું કે મિસ્ટર ગેસલર ખૂબ જ ઘરડા અને અશક્ત થઈ ગયા હતા. તેમની આર્થિક સ્થિતિ ખૂબ જ ખરાબ હતી. તેમ છતાં, તેઓ હજુ પણ એકલા હાથે શ્રેષ્ઠ બૂટ બનાવવા માટે સંઘર્ષ કરી રહ્યા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) Old but Gold. ઉંમર વધી પણ કામ પ્રત્યેની નિષ્ઠા ઓછી ન થઈ, જે જોઈ લેખક દ્રવી ઉઠ્યા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "મિસ્ટર ગેસલરના મૃત્યુનું મુખ્ય કારણ શું હતું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> મિસ્ટર ગેસલરનું મૃત્યુ 'ધીમા ઉપવાસ' (Slow starvation) ને કારણે થયું હતું. તેઓ પોતાનો બધો જ સમય બૂટ બનાવવામાં ગાળતા હતા, ખાવા-પીવા માટે પણ પૈસા બચાવતા નહોતા. બધું જ ભાડું અને ચામડામાં જતું રહેતું હતું.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) Starvation for Art. કલા માટે તેમણે પોતાના શરીરના પોષણનો પણ ત્યાગ કર્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "દુકાન પર કામ કરતા અંગ્રેજ યુવાને ગેસલર વિશે શું કહ્યું?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> અંગ્રેજ યુવાને સ્વીકાર્યું કે મિસ્ટર ગેસલર લંડનમાં સૌથી શ્રેષ્ઠ બૂટ બનાવતા હતા. તેઓ ક્યારેય કોઈને તેમના બૂટને સ્પર્શ પણ કરવા દેતા નહીં અને દરેક કામ પોતે જ કરતા હતા. પરંતુ, તેમની સ્પર્ધામાં તેઓ હારી ગયા કારણ કે તેઓ બહુ ધીમા હતા.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) Slow but Best. તે યુવાન પણ ગેસલરની કલાનો પ્રશંસક હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "આ પ્રકરણના શીર્ષક 'Quality' ની યથાર્થતા સમજાવો.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> આ શીર્ષક મિસ્ટર ગેસલરના જીવનના મૂલ્યો દર્શાવે છે. તેમના માટે નફો કમાવવા કરતા બૂટની 'ગુણવત્તા' (Quality) જાળવવી વધુ મહત્વની હતી. ભલે તેઓ ભૂખે મરી ગયા, પણ તેમણે ક્યારેય ગુણવત્તા સાથે સમાધાન કર્યું નહીં.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes) Character = Quality. ગેસલરના બૂટ અને તેમનું ચરિત્ર બંને 'Quality' ના પ્રતિક હતા.</p></div>"
+    }
+  ]
+}
