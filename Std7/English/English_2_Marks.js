@@ -404,3 +404,61 @@ var Std7_English_2_Marks = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "A Homage to our Brave Soldiers",
+  "questionType": "બે ગુણના ટૂંક જવાબી પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "Where is the National War Memorial located and what is its significance?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The National War Memorial is located in New Delhi, near India Gate. It was built to honor and pay homage to the brave Indian soldiers who sacrificed their lives for the country in post-independence conflicts.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): યાદ રાખો - Delhi = Capital, Memorial = Sacrifice. દેશની રાજધાનીમાં શહીદોની યાદમાં બનેલું સ્મારક.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "What is the 'Amar Chakra' in the National War Memorial?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The 'Amar Chakra' (Circle of Immortality) is the innermost circle of the memorial. It features an obelisk with the 'Amar Jawan Jyoti' (Eternal Flame), which symbolizes the immortality of the spirit of the fallen soldiers.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Amar = જે કદી ન મરે (Eternal Flame). જ્યોત જે હંમેશા પ્રજ્વલિત રહે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "Explain the significance of the 'Veerta Chakra'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The 'Veerta Chakra' (Circle of Bravery) is a gallery that displays bronze murals. These murals depict various battle scenes and the heroic deeds of the Indian Armed Forces during different wars and operations.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Veerta = Bravery. આ ચક્રમાં બહાદુરીના કિસ્સાઓ ચિત્રો (Murals) દ્વારા બતાવવામાં આવ્યા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "What does the 'Tyag Chakra' represent?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The 'Tyag Chakra' (Circle of Sacrifice) is made of circular walls of granite. On these walls, the names of the soldiers who made the supreme sacrifice in various battles are inscribed in golden letters.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Tyag = Sacrifice. શહીદોના નામની દીવાલ એટલે ત્યાગ ચક્ર.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "Describe the 'Rakshak Chakra' in the memorial.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The 'Rakshak Chakra' (Circle of Protection) is the outermost circle of the memorial. It consists of more than 600 trees that symbolize the soldiers who protect the country's borders day and night.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Rakshak = Protector. જેવી રીતે વૃક્ષો રક્ષણ આપે છે, તેમ સૈનિકો આપણું રક્ષણ કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "Who was Major Somnath Sharma and why is he remembered?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Major Somnath Sharma was a brave soldier of the Indian Army. He is remembered as the first recipient of the 'Param Vir Chakra', India's highest military decoration for showing exemplary courage during the 1947 war.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): First Hero = Somnath Sharma. PVC એટલે પરમવીર ચક્રના પ્રથમ વિજેતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "Why was Soumya excited after receiving the letter from Ananda?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Soumya was excited because Ananda had sent her a beautiful letter describing her school trip to the National War Memorial. It made Soumya feel proud of the soldiers and curious about the memorial's design.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Letter = Information. આનંદાના પત્ર દ્વારા સૌમ્યાને શહીદ સ્મારકની જાણકારી મળી એટલે તે ઉત્સાહિત હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "What message does the chapter 'A Homage to our Brave Soldiers' convey?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The chapter conveys the message of patriotism and gratitude. It teaches us to respect the soldiers who protect our freedom and encourages the youth to acknowledge their sacrifice for the nation.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Homage = શ્રદ્ધાંજલિ. આ પાઠ દેશપ્રેમ અને સૈનિકો પ્રત્યે આભાર વ્યક્ત કરવાનો સંદેશ આપે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "What is the Param Vir Chakra (PVC)?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The Param Vir Chakra is India's highest military decoration, awarded for displaying distinguished acts of valor during wartime. It means the 'Wheel of the Ultimate Brave'.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): PVC = Highest Bravery Award. યુદ્ધના સમયે અપ્રતિમ શૌર્ય માટે અપાતું સર્વોચ્ચ સન્માન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "How did Ananda describe her feelings when she saw the 'Amar Jawan Jyoti'?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Ananda felt deeply moved and emotional. She described that seeing the eternal flame made her realize the immense sacrifice of the soldiers and filled her heart with pride and respect for the armed forces.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes): Feel = Pride + Respect. જ્યોત જોઈને ગર્વ અને માનની લાગણી જન્મી.</p></div>"
+    }
+  ]
+}
