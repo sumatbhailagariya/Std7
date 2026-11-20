@@ -230,3 +230,61 @@ var Std7_English_3_Marks = {
     }
   ]
 }
+,
+"5": {
+  "chapterName": "પ્રકરણ 5",
+  "chapterTitle": "Quality (ક્વોલિટી)",
+  "questionType": "ત્રણ ગુણના મુદ્દાસર પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "Describe the atmosphere and appearance of Mr. Gessler's shop.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Mr. Gessler’s shop was located in a small by-street in London. It was a simple shop without any flashy advertisements. There were no signs on the shop except for the name 'Gessler Brothers'. In the window, there were a few pairs of boots on display. The atmosphere inside was as quiet and serene as a church, and one had to wait on a dark wooden chair for Mr. Gessler to appear. The shop reflected his dedication to hard work rather than commercial show-off.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes): ‘Simple & Silent’ - બસ આટલું યાદ રાખો: નો જાહેરાત (Ads), માત્ર ક્વોલિટી બૂટ્સ અને ચર્ચ જેવી શાંતિ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "Why did the narrator consider Mr. Gessler the best bootmaker?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The narrator considered Mr. Gessler the best because he treated bootmaking as an art, not just a business. He used only the finest quality leather, and his boots were known for their perfect fit and extreme durability. They lasted much longer than ordinary boots. Mr. Gessler personally made every pair of boots, ensuring that they were 'mysterious and wonderful'. His passion for his craft made him stand out from others.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes): ‘Art + Quality + Fit’ - ગેસલર માટે બૂટ બનાવવું એ ધંધો નહીં પણ એક 'કળા' હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "What was Mr. Gessler's opinion about big firms?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Mr. Gessler had a very low opinion of big firms. He believed that they focused on advertisements rather than the quality of their work. According to him, big firms took away the business from small, honest craftsmen by using marketing tricks. He felt bitter that even though his boots were superior, people preferred big brands due to their popularity, which eventually led to the downfall of genuine bootmakers like himself.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes): ‘Ads vs Work’ - મોટી કંપનીઓ કામ (Work) કરતા જાહેરાત (Ads) પર વધુ ધ્યાન આપે છે, એવું ગેસલર માનતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "How did Mr. Gessler react when the narrator complained about a pair of boots creaking?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> When the narrator mentioned that a pair of boots creaked, Mr. Gessler was shocked and found it hard to believe. He looked at the narrator as if he had said something impossible. He told the narrator to send the boots back so he could check them. He even promised that if he couldn't fix them, he would take them off the narrator's bill. This shows his extreme honesty and commitment to his work.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes): ‘Shock & Honesty’ - ગેસલરને નવાઈ લાગી અને જો ઠીક ન થાય તો પૈસા પાછા આપવાની તૈયારી બતાવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "Why did the narrator feel sorry for Mr. Gessler during his later visits?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The narrator felt sorry because he saw Mr. Gessler growing older, thinner, and more exhausted. He had lost his older brother and was struggling to keep his shop running against big firms. Mr. Gessler was starving himself to save money for rent and quality leather. Despite his hard work and talent, he was living in poverty because he refused to compromise on the quality of his boots.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes): ‘Poverty for Quality’ - ક્વોલિટી જાળવવા માટે ગેસલર પોતે ભૂખ્યા રહેતા, આ જોઈ લેખકને દુઃખ થયું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "What was the cause of Mr. Gessler’s death according to the young man?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> According to the young man who took over the shop, Mr. Gessler died of 'slow starvation'. He was so dedicated to his craft that he spent all his time making boots and didn't leave enough time or money for himself to eat. Every penny he earned went into paying the rent and buying the best leather. He never gave himself time to rest, which eventually led to his death.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes): ‘Slow Starvation’ - કામ પાછળ એટલા પાગલ હતા કે જમવાનું ભૂલી ગયા અને ભૂખમરાથી તેમનું અવસાન થયું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "Explain the significance of the title 'Quality' in the context of the story.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The title 'Quality' refers to the exceptional standard of work maintained by Mr. Gessler. For him, quality was not just a word but a lifestyle. Even in the face of poverty and competition from big firms, he never compromised on the leather or the craftsmanship. The story highlights that in a world of mass production and advertising, 'quality' often comes at a heavy personal price for the artist.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes): ‘Quality = Sacrifice’ - ગેસલર માટે ક્વોલિટી જ બધું હતું, જેના માટે તેમણે પોતાના જીવનું પણ બલિદાન આપ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "What difference did the narrator notice between the boots made by Mr. Gessler and those from big firms?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The narrator noticed that boots from big firms were made for mass consumption and often lacked a perfect fit or durability. In contrast, Mr. Gessler's boots were custom-made to fit the narrator's feet perfectly. They were made from superior leather and lasted for years, whereas boots from big firms often felt uncomfortable or wore out quickly. Mr. Gessler’s boots had a 'soul' in them.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes): ‘Soul vs Machine’ - મોટી કંપનીના બૂટ મશીન જેવા હતા, જ્યારે ગેસલરના બૂટમાં જીવ (Soul) હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "How did Mr. Gessler show his love for the leather he used?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Whenever the narrator visited, Mr. Gessler would hold up a piece of gold-brown leather and admire it, calling it 'a beautiful piece'. He treated the leather with great respect and care. He would only work with the finest quality, and his eyes would light up while looking at it. This shows that he didn't just see leather as a material, but as something precious to create art.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes): ‘Beautiful Piece’ - ગેસલર માટે ચામડું (Leather) માત્ર વસ્તુ નહીં પણ સુંદરતાનું પ્રતીક હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "Why did the narrator order so many pairs of boots at the end of the story?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The narrator ordered many pairs of boots because he realized that Mr. Gessler was in a very bad financial condition and was struggling to survive. He wanted to help the old man financially without hurting his self-respect. By ordering many pairs, he ensured that Mr. Gessler would have enough work and money for some time. It was a gesture of sympathy and respect for the dying art of the bootmaker.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: (NJ Classes): ‘Help with Respect’ - લેખકે ગેસલરને આર્થિક મદદ કરવા માટે ઘણા બધા બૂટનો ઓર્ડર આપ્યો હતો.</p></div>"
+    }
+  ]
+}
