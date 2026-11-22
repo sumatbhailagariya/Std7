@@ -172,3 +172,61 @@ var Std7_English_4_Marks = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "The Ashes That Made Trees Bloom",
+  "questionType": "ચાર ગુણના વિસ્તૃત પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "Describe the character of the kind old couple in the story 'The Ashes That Made Trees Bloom'.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The kind old couple in the story were very humble, hardworking, and compassionate. They had no children, so they loved their pet dog, Muko, like their own child. They were industrious farmers who worked hard in their fields from morning till evening. Their kindness was not limited to their pet; they were also generous toward their neighbors and lived a simple, contented life. Even when they became rich after finding gold, they remained humble and shared their wealth with their poor neighbors, showing their noble character.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'KCG' યાદ રાખો - K (Kindness to Muko), C (Compassion for neighbors), G (Generous sharing of wealth).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "Compare the kind old couple with their greedy neighbors.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The story presents a sharp contrast between the two couples. The kind old couple were selfless and loved animals, while the greedy neighbors were cruel and stingy. When Muko helped the kind couple find gold, it was a reward for their love. In contrast, the greedy neighbors dragged the dog and killed him when he didn't find treasure for them. The kind couple used their wealth to help others, whereas the greedy neighbors only wanted more wealth for themselves. Ultimately, the kind couple received honor and riches, while the greedy neighbors faced failure and punishment.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'L vs G' - Love (Kind Couple) vs Greed (Neighbors). પ્રેમથી સોનું મળે, લાલચથી રાખ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "How did the spirit of the dog Muko help the kind old couple for the first time after its death?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> After the dog was killed by the greedy neighbors, its spirit appeared in the old man's dream. The spirit told him to cut down the pine tree over its grave and make a mortar for rice pastry and a mill for bean sauce. When the old man followed these instructions and started making rice pastry for the New Year, each grain of rice turned into a heap of gold coins. Similarly, when they used the mill for bean sauce, the gold dropped like rain. This was the first way the dog's spirit rewarded the couple's love from beyond the grave.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'PMM' - Pine tree leads to Mortar and Mill, which brings Money.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "What happened when the greedy neighbors tried to use the mortar and the mill?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Seeing the kind couple's success, the greedy neighbors borrowed the mortar and the mill. They prepared the boiled rice and beans just as the old couple had done. However, instead of turning into gold, the pastry and sauce turned into a foul-smelling mass of worms. Furious at this result, the greedy neighbors chopped the mortar and the mill into pieces to use as firewood. Their greed and lack of true compassion resulted in failure instead of the wealth they expected.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'G to W' - Greed (લાલચ) leads to Worms (કીડા). મટકીમાં સોનું નહીં પણ કીડા નીકળ્યા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "Describe the miracle performed by the old man when the Daimio passed by.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> When the Daimio (the landlord) was passing through the village, the kind old man took a basket of ashes from the burnt mill. He climbed a withered cherry tree by the roadside. As the Daimio’s procession approached, he scattered a pinch of ashes over the tree. Miraculously, the withered tree burst into bloom, filling the air with perfume. The Daimio was so delighted by this magic that he stopped his procession, thanked the old man, and rewarded him with silk robes, sponge cake, and other precious gifts.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'A to B' - Ashes to Bloom. રાખ નાખતા જ ફૂલો ખીલી ઉઠ્યા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "Why did the greedy neighbor fail to impress the Daimio with the ashes?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The greedy neighbor tried to imitate the kind old man by taking the remaining ashes to show the Daimio. Instead of kneeling like others, he climbed a tree. When the Daimio passed under him, he threw a handful of ashes. However, the ashes did not make the tree bloom. Instead, the fine dust blew into the eyes and noses of the Daimio and his wife, causing them to sneeze and choke. This spoiled the dignity of the procession. The angry guards dragged the greedy man down and beat him severely for his foolishness.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Dust in Eyes' - બીજાની નકલ અને મનમાં ખોટ હોય તો ફળ ખરાબ જ મળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "What is the central theme or moral of the story 'The Ashes That Made Trees Bloom'?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The central theme of the story is that 'kindness is always rewarded, and greed leads to downfall.' The story emphasizes that being good-hearted and hardworking brings happiness and prosperity. The kind couple's love for their dog and their honesty earned them divine help even after the dog died. On the other hand, the greedy neighbors, who were motivated by jealousy and cruelty, faced humiliation and punishment. It teaches us to be compassionate toward animals and humans alike and to avoid being envious of others' success.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Karma Rule' - જેવું વાવશો તેવું લણશો. (Good seeds, good fruits).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "How did the dog Muko show its loyalty to the kind old man while it was alive?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Muko was a very loyal and loving pet. He used to follow the old man to the fields every day, never harming the white herons that walked in the footsteps of the old man to find worms. One day, Muko came running to the old man, putting his paws against his legs and motioning with his head to a spot behind. He kept whining and running to and fro until the old man followed him. There, Muko started scratching the earth, leading the old man to discover a pile of gold. This act showed Muko's desire to help his masters who took care of him so well.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Paws & Motion' - કુતરાએ પંજા અને ઈશારાથી સોનાનો રસ્તો બતાવ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "Explain the significance of the second dream the old man had.",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The second dream occurred after the greedy neighbors had burnt the mortar and the mill. The spirit of the dog appeared again and told the old man to take the ashes of the burnt mill and sprinkle them on withered trees to make them bloom again. This dream was significant because it provided a way for the old man to regain his connection with the dog's spirit and prove his goodness to the world (and the Daimio). It moved the story from material wealth (gold) to a more magical and spiritual reward (blooming trees), highlighting the old man's pure soul.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Dream 2 = Magic' - બીજી વારના સ્વપ્નથી કુદરતી ચમત્કાર થયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "What was the final fate of the greedy neighbor in the story?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The final fate of the greedy neighbor was tragic and served as a punishment for his cruelty and greed. After he failed to make the trees bloom and instead caused the Daimio and his wife to choke on ashes, the Daimio’s officer beat him soundly. He was thrown into the ditch by the road. The story mentions that the 'wicked old man died in the mud.' In contrast, the kind old couple lived to a green old age, healthy and happy. This ending reinforces the message that evil actions lead to a miserable end.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Muddy End' - દુષ્ટ પડોશીનો અંત કાદવમાં થયો, જ્યારે દયાળુ દંપતી સુખી થયા.</p></div>"
+    }
+  ]
+}
