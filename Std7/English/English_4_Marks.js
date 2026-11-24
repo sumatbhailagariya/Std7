@@ -346,3 +346,61 @@ var Std7_English_4_Marks = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "The Invention of Vita-Wonk",
+  "questionType": "ચાર ગુણના વિસ્તૃત પ્રશ્નો",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "What was 'Wonka-Vite' and why did Mr. Willy Wonka decide to invent 'Vita-Wonk'? (વોન્કા-વાઈટ શું હતું અને મિસ્ટર વિલી વોન્કાએ 'વીટા-વોન્ક' શોધવાનું નક્કી કેમ કર્યું?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Mr. Willy Wonka initially invented 'Wonka-Vite', which was a powerful medicine designed to make people younger. However, it was too strong, and its side effects were disastrous. Some people became so young that their age became minus, and one person even became minus 87, meaning he had to wait 87 years to be born again! To rectify this and bring people back to their normal age or make them older, Mr. Wonka had to invent a new medicine called 'Vita-Wonk', which would have the opposite effect—making people older instead of younger.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>યાદ રાખો: Wonka-Vite = Minus Age (નાના બનાવે), Vita-Wonk = Plus Age (મોટા બનાવે). 'Vite' થી 'Wonk' સુધીની સફર એટલે ઉંમર ઘટાડવાથી વધારવા સુધીની સફર!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "Which were the oldest living things that Mr. Wonka mentioned? List at least five of them. (મિસ્ટર વોન્કાએ કઈ સૌથી જૂની જીવંત વસ્તુઓનો ઉલ્લેખ કર્યો હતો? તેમાંથી ઓછામાં ઓછી પાંચની યાદી આપો.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Mr. Wonka travelled across the world in his Great Glass Elevator to collect samples from the oldest living things. Five such things mentioned in the story are: <br>1. A 4000-year-old Bristlecone pine tree from Wheeler Peak. <br>2. A toe-nail clipping from a 168-year-old Russian Farmer called Petrovitch Gregorovitch. <br>3. An egg laid by a 200-year-old tortoise belonging to the King of Tonga. <br>4. The tail of a 51-year-old horse in Arabia. <br>5. The whiskers of a 36-year-old cat called Crumpets.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>યાદ રાખવા માટે 'B-R-T-H-C' કોડ વાપરો: Bristlecone, Russian Farmer, Tortoise, Horse, Cat. આ પાંચેય વસ્તુઓ ઉંમર વધારવાની રેસીપીના મુખ્ય અંગો હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "Describe the process of how Mr. Wonka prepared 'Vita-Wonk' in his Inventing Room. (મિસ્ટર વોન્કાએ તેમના ઇન્વેન્ટિંગ રૂમમાં 'વીટા-વોન્ક' કેવી રીતે તૈયાર કર્યું તેની પ્રક્રિયા વર્ણવો.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> After collecting various items from the oldest living things worldwide, Mr. Wonka returned to his Inventing Room. He mixed all the ancient samples—like the whiskers of a cat, the tail of a giant rat, and the sap of a 4000-year-old pine—in a large cauldron. He boiled, bubbled, and mixed them thoroughly. After much scientific experimentation and refining, he produced one tiny cupful of an oily black liquid. This liquid was the final version of 'Vita-Wonk', designed to increase a person's age instantly.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>મિક્સિંગ -> બોઈલિંગ -> બબલિંગ -> બ્લેક લિક્વિડ! આ ક્રમ યાદ રાખશો તો પ્રક્રિયા લખવી સરળ પડશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "What happened to the Oompa-Loompa volunteer who took the four drops of the new medicine? (નવી દવાના ચાર ટીપાં લેનારા ઉમ્પા-લુમ્પા સ્વયંસેવકનું શું થયું?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A brave 20-year-old Oompa-Loompa volunteer agreed to test the new 'Vita-Wonk'. As soon as he swallowed the four drops of the black oily liquid, a dramatic transformation began. He started wrinkling and shrivelling up all over his body. His hair started dropping off and his teeth started falling out. Before anyone knew it, the young 20-year-old volunteer had suddenly become an old man of seventy-five! This proved that Mr. Wonka’s invention of Vita-Wonk was successful.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>પરિવર્તનના સ્ટેપ્સ: કરચલીઓ (Wrinkles) -> વાળ ખરવા (Hair loss) -> દાંત પડવા (Teeth falling) -> 20 થી સીધા 75 વર્ષ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "Why did Mr. Wonka mention the Bristlecone Pine tree specifically? What is its significance? (મિસ્ટર વોન્કાએ ખાસ કરીને બ્રિસ્ટલકોન પાઈન વૃક્ષનો ઉલ્લેખ કેમ કર્યો? તેનું મહત્વ શું છે?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Mr. Wonka mentioned the Bristlecone Pine because, according to him, it is the longest-living organism on Earth. He told Charlie that these trees grow on the slopes of Wheeler Peak in Nevada, USA, and can live for over 4000 years. For his invention of Vita-Wonk, he needed the 'essence of age'. Since the Bristlecone Pine was the oldest living thing he could find, its sap became the most important ingredient in his recipe to make people grow older.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>યાદ રાખો: Bristlecone Pine = 4000 Years + Nevada. આ પ્રકરણનું સૌથી 'વૃદ્ધ' પાત્ર એક ઝાડ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "What kind of a person was Mr. Willy Wonka according to the story? (વાર્તા મુજબ મિસ્ટર વિલી વોન્કા કેવા વ્યક્તિ હતા?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Mr. Willy Wonka appears to be a brilliant but eccentric and imaginative scientist or inventor. He has a great sense of adventure, as seen by his travels in the Great Glass Elevator. He is highly energetic and passionate about his work, constantly thinking of new formulas. Although his inventions can sometimes have dangerous consequences (like people disappearing), he is determined to solve problems with his creativity. He treats his assistant Charlie with kindness and shares his knowledge with him.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>વોન્કાના વ્યક્તિત્વના 3 મુખ્ય ગુણો: Eccentric (વિચિત્ર), Creative (સર્જનાત્મક) અને Adventurous (સાહસિક).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "Describe the strange items collected by Mr. Wonka from different animals. (મિસ્ટર વોન્કાએ વિવિધ પ્રાણીઓ પાસેથી એકઠી કરેલી વિચિત્ર વસ્તુઓનું વર્ણન કરો.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> To make Vita-Wonk, Mr. Wonka collected very strange parts from ancient animals. These included: the whiskers of a 36-year-old cat named Crumpets, a tail from a 51-year-old horse in Arabia, the tail of a 207-year-old giant rat from Tibet, and the black teeth of a 97-year-old Grimalkin living in a cave. He even collected the 'knucklebones' of a 700-year-old Cattaloo from Peru. These bizarre items show that Mr. Wonka believed that the older the source, the more effective the medicine would be.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ટૂંકમાં યાદ રાખો: Cat's whiskers, Horse's tail, Rat's tail, Grimalkin's teeth. બધી જ વસ્તુઓ 'જૂની અને વિચિત્ર' હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "Explain the concept of 'Ageing' as presented in a humorous way in this chapter. (આ પ્રકરણમાં રમુજી રીતે રજૂ કરવામાં આવેલ 'ઉંમર વધવાની' વિભાવના સમજાવો.)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The chapter presents 'ageing' not as a natural process but as a chemical one that can be controlled by a medicine. It uses humor by showing extreme cases: a person becoming 'minus 87' years old and having to wait to be born, and another person turning from 20 to 75 in a few seconds. The idea of collecting toe-nails, whiskers, and tails of old animals to create 'old age' is a funny take on how science works in Roald Dahl's imaginary world.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>આ વાર્તામાં ઉંમર એ માત્ર એક નંબર છે જેને વોન્કા પોતાની લેબમાં બદલી શકે છે - આ જ મુખ્ય રમુજ (Humor) છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "What role does Charlie play in the story? (વાર્તામાં ચાર્લીની ભૂમિકા શું છે?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> Charlie plays the role of an attentive listener and an assistant to Mr. Wonka. Throughout the story, Charlie asks important questions that allow Mr. Wonka to explain his inventions and ideas. Charlie represents the curiosity of a child. By answering Charlie’s doubts, Mr. Wonka provides the readers with information about Wonka-Vite, the Bristlecone Pine, and the ingredients of Vita-Wonk. Charlie's presence makes the complex and magical world of Mr. Wonka easier to understand.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>ચાર્લી = ધ લિસનર (શ્રોતા). તે પ્રશ્નો પૂછે છે અને આપણે (વાચકો) જવાબ જાણીએ છીએ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "What was the final result of the Vita-Wonk experiment? (વીટા-વોન્ક પ્રયોગનું અંતિમ પરિણામ શું આવ્યું?)",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> The final result was a success. Mr. Wonka produced a small amount of powerful black liquid. After testing it on the Oompa-Loompa volunteer, he saw the volunteer age rapidly from 20 to 75 years. Mr. Wonka excitedly announced to Charlie that \"Vita-Wonk was invented!\". This meant that he now had the power to increase anyone's age instantly, counteracting the effects of Wonka-Vite and solving the problem of people disappearing into 'minus' ages.</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p><p>યાદ રાખો: પ્રયોગ સફળ થયો! પરિણામ = કાળું તેલી પ્રવાહી (Black oily liquid) અને 75 વર્ષનો વૃદ્ધ માણસ.</p></div>"
+    }
+  ]
+}
