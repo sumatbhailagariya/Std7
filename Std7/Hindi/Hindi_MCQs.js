@@ -339,3 +339,191 @@ var Std7_Hindi_MCQs = {
     }
   ]
 }
+,
+"3": {
+  "chapterName": "પ્રકરણ 3",
+  "chapterTitle": "कुत्ते की वफादारी",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "‘कुत्ते की वफादारी’ पाठ के लेखक कौन हैं?",
+      "options": "A. प्रेमचंद, B. लल्लूभाई रबारी, C. यशपाल, D. हजारीप्रसाद द्विवेदी",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. लल्लूभाई रबारी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> કુતરાની વફાદારીની આ વાર્તા 'લલ્લુભાઈ' એ લખી છે, એમ યાદ રાખો કે વફાદાર પ્રાણીની વાત 'લલ્લુ' (પ્રેમળ) વ્યક્તિ જ લખી શકે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "पुराने जमाने में व्यापार का सामान लाने-ले जाने का काम कौन करते थे?",
+      "options": "A. किसान, B. बंजारे, C. ग्वाले, D. शिकारी",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. बंजारे</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> 'બ' પરથી બજાર અને 'બ' પરથી બંજારા - જે બજારનો માલ લાવે-લઈ જાય તે બંજારા.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "लाखा बंजारा अपने पास क्या रखता था, जो रात को पड़ाव की रखवाली करता था?",
+      "options": "A. शेर, B. घोड़ा, C. कुत्ता, D. ऊँट",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. कुत्ता</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> રખેવાળી માટે હંમેશા 'વફાદાર કુતરો' જ શ્રેષ્ઠ ગણાય.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "लाखा बंजारा किस शहर के सेठ के पास रुपए उधार लेने गया?",
+      "options": "A. पाटन, B. राधनपुर, C. सिद्धपुर, D. मेहसाणा",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. राधनपुर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> રાધનપુર - 'રાધન' એટલે રાંધવું, પણ લાખા પાસે રાંધવા પૈસા નહોતા એટલે તે રાધનપુર ગયો.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "सेठ ने लाखा से जमानत के रूप में क्या माँगा?",
+      "options": "A. उसके ऊँट, B. उसका घर, C. उसका कुत्ता, D. उसके जेवर",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. उसका कुत्ता</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> પાઠનું શીર્ષક જ 'કુતરો' છે, એટલે જામીન પણ કુતરો જ હોય!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "लाखा का नाम 'लाखा' क्यों पड़ा था?",
+      "options": "A. वह लाखों का व्यापार करता था, B. उसके पास लाख ऊँट थे, C. वह बहुत सुंदर था, D. वह गाँव का मुखिया था",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. वह लाखों का व्यापार करता था</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> લાખ = લાખોનો વેપાર કરનાર લાખો.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "सेठ के यहाँ चोरी होने पर चोरों ने माल-सामान कहाँ छुपाया था?",
+      "options": "A. घर की छत पर, B. कुएँ में, C. जंगल में जमीन खोदकर, D. नदी के किनारे",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. जंगल में जमीन खोदकर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> ચોર હંમેશા માલ જમીનમાં 'દાટી' દે જેથી કોઈ જોઈ ન શકે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "कुत्ते ने सेठ को उसकी धोती पकड़कर कहाँ ले गया?",
+      "options": "A. पुलिस स्टेशन, B. जंगल में जहाँ सामान छिपाया था, C. लाखा के पास, D. श्मशान में",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. जंगल में जहाँ सामान छिपाया था</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> કુતરો વફાદાર હતો એટલે તે નુકસાનની ભરપાઈ કરવા સાચી જગ્યાએ લઈ ગયો.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "सेठ ने कुत्ते को मुक्त क्यों कर दिया?",
+      "options": "A. कुत्ता बीमार था, B. कुत्ते ने चोरी का माल वापस दिला दिया था, C. लाखा ने पैसे लौटा दिए थे, D. सेठ को कुत्ता पसंद नहीं था",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. कुत्ते ने चोरी का माल वापस दिला दिया था</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> કામ પૂરું થાય એટલે આઝાદી મળે - કુતરાએ તેનું 'ઋણ' ચૂકવી દીધું હતું.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "सेठ ने कुत्ते के गले में जो चिट्ठी बाँधी थी, उसमें क्या लिखा था?",
+      "options": "A. पैसे जल्दी भेजना, B. कुत्ते ने मेरा कर्ज चुका दिया है, C. कुत्ते को मार देना, D. लाखा चोर है",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. कुत्ते ने मेरा कर्ज चुका दिया है</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> ચિઠ્ઠીમાં હંમેશા 'રિપોર્ટ' હોય, અહીં રિપોર્ટ કુતરાની વફાદારીનો હતો.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "लाखा ने दूर से अपने कुत्ते को अपनी ओर आते देख क्या सोचा?",
+      "options": "A. कुत्ता मुझे प्यार करने आ रहा है, B. कुत्ते ने मेरी जबान काट ली है (बेवफाई की है), C. कुत्ता बीमार लग रहा है, D. सेठ ने उसे भगा दिया है",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. कुत्ते ने मेरी जबान काट ली है (बेवफाई की है)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> ઉતાવળિયો સ્વભાવ હંમેશા ખોટું જ વિચારે - 'જબાન કાટના' રૂઢિપ્રયોગ યાદ રાખવો.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "लाखा ने गुस्से में आकर कुत्ते पर किससे प्रहार किया?",
+      "options": "A. पत्थर से, B. लाठी से, C. बंदूक से, D. तलवार से",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. लाठी से</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> લાખા પાસે પશુઓ હાંકવા માટે હંમેશા 'લાઠી' જ હોય.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "कुत्ते की मृत्यु के बाद लाखा को अपनी गलती का अहसास कब हुआ?",
+      "options": "A. जब कुत्ता मर गया, B. जब उसने कुत्ते के गले में बँધી चिट्ठी पढ़ी, C. जब सेठ उसके घर आया, D. जब उसे बहुत धन मिला",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. जब उसने कुत्ते के गले में बँધી चिट्ठी पढ़ी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> સત્ય હંમેશા 'પુરાવા' (ચિઠ્ઠી) સાથે જ સામે આવે છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "लाखा ने कुत्ते की याद में क्या बनवाया?",
+      "options": "A. मंदिर, B. समाधि, C. घर, D. किला",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. समाधि</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> વફાદારની યાદમાં હંમેશા 'સમાધિ' કે સ્મારક બનાવાય.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "कुत्ते की समाधि गुजरात के किस जिले में है?",
+      "options": "A. महेसाणा, B. पाटन, C. बनासकांठा, D. कच्छ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. पाटन</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> રાધનપુર પાસે પાટણ જિલ્લામાં 'રાધનપુર' તાલુકો છે, એટલે પાટણ યાદ રાખવું.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "कुत्ते की समाधि किस तालाब के किनारे बनी है?",
+      "options": "A. सहस्रलिंग, B. राधनपुर के तालाब, C. मान सरोवर, D. नल सरोवर",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. राधनपुर के तालाब</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> જ્યાં ઘટના બની (રાધનપુર), ત્યાં જ યાદગીરી (તાલાબ) બની.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "‘नौ दो ग्यारह होना’ मुहावरे का अर्थ क्या है?",
+      "options": "A. गिनती करना, B. भाग जाना, C. रुक जाना, D. साथ देना",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. भाग जाना</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> 9 + 2 = 11 (ઝડપથી દોડીને ભાગી જવું).</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "‘मार खा जाना’ मुहावरे का इस पाठ के संदर्भ में अर्थ क्या है?",
+      "options": "A. पिटना, B. नुकसान होना, C. खाना खाना, D. मर जाना",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. नुकसान होना</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> વેપારમાં જ્યારે પૈસા ડૂબે ત્યારે કહેવાય કે 'માર ખા ગયા' એટલે કે નુકસાન થયું.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "बंजारा सामान ढोने के लिए किन जानवरों का उपयोग करता था?",
+      "options": "A. हाथियों का, B. ऊँटों का, C. बैलों का, D. घोड़ों का",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. ऊँटों का</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> રેતાળ પ્રદેશ અને લાંબી મુસાફરી માટે 'ઊંટ' જ કાફલામાં હોય.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "इस कहानी से हमें क्या सीख मिलती है?",
+      "options": "A. कुत्ता पालना चाहिए, B. बिना विचारे कोई कार्य नहीं करना चाहिए, C. कर्ज नहीं लेना चाहिए, D. व्यापार नहीं करना चाहिए",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. बिना विचारे कोई कार्य नहीं करना चाहिए</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> લાખાએ વિચાર્યા વગર લાઠી મારી અને પસ્તાયો, એટલે 'વિચારીને કામ કરો'.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "‘हृदय पसीजना’ मुहावरे का अर्थ क्या है?",
+      "options": "A. गर्मी लगना, B. दया आना, C. बीमार होना, D. दुख होना",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. दया आना</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> હૃદય પીગળે ત્યારે દયા આવે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "लाखा का व्यापार किससे जुड़ा था?",
+      "options": "A. मसालों और गुड़ से, B. सोने और चाँदी से, C. कपड़ों से, D. मिट्टी के बर्तनों से",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A. मसालों और गुड़ से</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> ગામડામાં ગોળ અને મસાલાની જ સૌથી વધુ લે-વેચ થતી.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "‘फूटी कौड़ी न होना’ का अर्थ क्या है?",
+      "options": "A. कौड़ी का टूट जाना, B. बहुत गरीब होना (पास में पैसा न होना), C. अंधेरा होना, D. व्यापार में लाभ होना",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. बहुत गरीब होना (पास में पैसा न होना)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> ફૂટેલી કોડીની કોઈ કિંમત ન હોય, એટલે કે સાવ ખાલી ખિસ્સું.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "सेठ ने कुत्ते की पीठ क्यों थपथपाई?",
+      "options": "A. वह उसे प्यार करता था, B. कुत्ते की वफादारी और सूझबूझ देख कर, C. वह उसे मारना चाहता था, D. कुत्ता सो रहा था",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. कुत्ते की वफादारी और सूझबूझ देख कर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> શાબાશી આપવા માટે હંમેશા પીઠ થપથપાવવામાં આવે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "लाखा ने अंत में क्या किया?",
+      "options": "A. वह फिर से अमीर बन गया, B. उसने आत्महत्या कर ली, C. वह रोने लगा और पछताने लगा, D. उसने दूसरा कुत्ता पाल लिया",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. वह रोने लगा और पछताने लगा</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> 'अब पछताए होत क्या जब चिड़ियाँ चुग गई खेत' - આ કહેવત અહીં સાર્થક થાય છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "सेठ के घर किसने डाका डाला था?",
+      "options": "A. बंजारों ने, B. चोरों ने, C. लाखा ने, D. पड़ोसियों ने",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. चोरों ने</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> ધનવાન શેઠના ઘરે હંમેશા 'ચોર' જ ત્રાટકે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "कुत्ता चोरों का पीछा करते हुए कहाँ तक गया?",
+      "options": "A. शहर के बाहर तक, B. जंगल तक, C. नदी तक, D. दूसरे गाँव तक",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. जंगल तक</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> ચોર છુપાવવા માટે હંમેશા વેરાન 'જંગલ' પસંદ કરે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "सेठ को अपना खोया हुआ माल मिलने पर कैसा महसूस हुआ?",
+      "options": "A. बहुत दुख हुआ, B. उसकी खुशी का पार न रहा, C. उसे गुस्सा आया, D. वह डर गया",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. उसकी खुशी का पार न रहा</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> હારી ગયેલી બાજી જીતી જઈએ ત્યારે ખુશીનો પાર ન રહે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "कुत्ता लाखा को देख कर क्या करने लगा?",
+      "options": "A. भोंकने लगा, B. भाग गया, C. खुश होकर पूँछ हिलाने लगा, D. गुर्राने लगा",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C. खुश होकर पूँछ हिलाने लगा</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> કુતરો ગમે તેટલો દૂર જાય, માલિકને જોઈ 'પૂંછડી' જ પટપટાવે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "लाखा ने कुत्ते के शव को अपनी गोद में लेकर क्या किया?",
+      "options": "A. उसे फेंक दिया, B. फूट-फूटकर रोने लगा, C. उसे दफना दिया, D. गाना गाने लगा",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B. फूट-फूटकर रोने लगा</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p> જ્યારે પોતાની ભૂલ સમજાય ત્યારે માણસ 'ફૂટી-ફૂટીને' રડે છે.</div>"
+    }
+  ]
+}
