@@ -527,3 +527,161 @@ var Std7_Hindi_MCQs = {
     }
   ]
 }
+,
+"4": {
+  "chapterName": "પ્રકરણ 4",
+  "chapterTitle": "कथनी और करनी",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "ઈશ્વરને મનુષ્ય કો અન્ય પ્રાણીઓ સે કૈસા બનાયા હૈ? \n(A) કમજોર \n(B) સમાન \n(C) સર્વશ્રેષ્ઠ \n(D) આલસી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સર્વશ્રેષ્ઠ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠની શરૂઆતની લાઈન યાદ રાખો - ઈશ્વરે મનુષ્યને બુદ્ધિ અને વિચારવાની શક્તિ આપીને બધા કરતા 'શ્રેષ્ઠ' બનાવ્યો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "બસ્તી કે બીચ સરકારને કિસકે લિએ જગહ છોડ રખી થી? \n(A) મંદિર બનાને કે લિએ \n(B) બાગ-બગીચા (પાર્ક) બનાને કે લિએ \n(C) સ્કૂલ બનાને કે લિએ \n(D) અસ્પતાલ બનાને કે લિએ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) બાગ-બગીચા (પાર્ક) બનાને કે લિએ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'બસ્તી' માં હંમેશા રમવા અને ફરવા માટે 'પાર્ક' ની જગ્યા ખાલી રખાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "સજ્જનને પાર્ક મેં ક્યા લગાયા? \n(A) પેડ \n(B) ઘાસ \n(C) ફૂલોં કે પૌધે \n(D) બેંચ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ફૂલોં કે પૌધે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફૂલો સુંદર લાગે છે, એટલે સજ્જને તેને રોપ્યા જેથી પાર્ક સુંદર દેખાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "સજ્જનને પાર્ક મેં કૌનસી તખ્તી (બોર્ડ) લગાઈ થી? \n(A) ફૂલ તોડના મના હૈ \n(B) યહાં ગંદકી ન કરે \n(C) શાંતિ રખે \n(D) બચ્ચોં કા ખેલના મના હૈ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) ફૂલ તોડના મના હૈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે માણસ જે વસ્તુથી ડરતો હોય તે જ બોર્ડ મારે, સજ્જનને બીક હતી કે કોઈ ફૂલ તોડી ન લે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "લોગોં ને સજ્જન કો ક્યા કરતે હુએ દેખ લિયા? \n(A) પૌધોં કો પાની દેતે \n(B) ખુદ હી ફૂલ તોડતે \n(C) સોતે હુએ \n(D) સફાઈ કરતે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ખુદ હી ફૂલ તોડતે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ પાઠનું નામ જ 'કથની અને કરની' છે, એટલે જે ના પાડી હતી તે જ પોતે કર્યું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "જિબ લોગોં ને સજ્જન કો ફૂલ તોડતે દેખા, તો ઉન્હોંને ક્યા બહાના બનાયા? \n(A) મેં પૌધોં કી સફાઈ કર રહા હૂં \n(B) મેં પૂજા કે લિએ ફૂલ તોડ રહા હૂં \n(C) મેં માલી હૂં \n(D) યહ મેરા બગીચા હૈ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મેં પૂજા કે લિએ ફૂલ તોડ રહા હૂં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પકડાઈ જઈએ ત્યારે લોકો હંમેશા 'ભગવાન કે પૂજા' નું બહાનું કાઢતા હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "બસ કંડક્ટરને યાત્રી કો ક્યા કરને સે રોકા? \n(A) સોને સે \n(B) ગાના ગાને સે \n(C) સિગારેટ પીને સે \n(D) ખિડકી સે બહાર દેખને સે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) સિગારેટ પીને સે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બસમાં હંમેશા 'ધૂમ્રપાન નિષેધ' (Smoking prohibited) લખેલું હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "કંડક્ટર ખુદ કહાં બૈઠકર સિગારેટ પીને લગા? \n(A) અપની સીટ પર \n(B) બસ કે ઉપર \n(C) ડ્રાઈવર કે કેબિન મેં \n(D) પિછલે દરવાજે પર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ડ્રાઈવર કે કેબિન મેં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કંડક્ટર અને ડ્રાઈવર મિત્રો હોય, એટલે તે છુપાઈને ડ્રાઈવર પાસે ગયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "જબ યાત્રી ને કંડક્ટર સે પૂછા, તો કંડક્ટર ને ક્યા કહા? \n(A) માફ કરના \n(B) યહ નિયમ આપકે લિએ હૈ, મેરે લિએ નહીં \n(C) મેં ડ્રાઈવર હૂં \n(D) મૈંને સિગારેટ નહીં પી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) યહ નિયમ આપકે લિએ હૈ, મેરે લિએ નહીં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ વાક્ય દંભી લોકોની નિશાની છે, જે બીજાને શિખામણ આપે પણ પોતે ન પાળે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "બિજલી કા બિલ જમા કરાને કૌન ગયા થા? \n(A) પિતાજી \n(B) સજ્જન ઓર ઉનકા પોતા \n(C) નોકર \n(D) માતાજી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સજ્જન ઓર ઉનકા પોતા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દાદા અને પૌત્ર (Grandfather & Grandson) ની જોડી બિલ ભરવા ગઈ હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "બિલ જમા કરાને વાલે સજ્જન કે પોતે કી ઉમ્ર કિતની થી? \n(A) 5 વર્ષ \n(B) 10 વર્ષ \n(C) 8 વર્ષ \n(D) 12 વર્ષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) 8 વર્ષ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આઠ' વર્ષનો 'પૌત્ર' (8 years old grandson).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "બિલ જમા કરાને કે લિએ સજ્જનને કૌનસા રાસ્તા અપનાયા? \n(A) કતાર મેં ખડે રહે \n(B) કિસી પરિચિત કો ઢૂંઢા \n(C) વાપસ આ ગયે \n(D) લડાઈ કી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) કિસી પરિચિત કો ઢૂંઢા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: લાઈનમાં ન ઊભા રહેવું પડે એટલે દાદાએ 'ઓળખાણ' શોધી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "દાદાજી ને પરિચિત વ્યક્તિ કો ક્યા બહાના બતાકર બિલ થમા દિયા? \n(A) મેં બીમાર હૂં \n(B) મુઝે દેર હો રહી હૈ \n(C) બિલ જમા કરાના ભૂલ ગયા થા, આજ આખરી તારીખ હૈ \n(D) મેરે પાસ પૈસે નહીં હૈ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) બિલ જમા કરાના ભૂલ ગયા થા, આજ આખરી તારીખ હૈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સરકારી બિલ માટે સૌથી મોટું બહાનું 'આખરી તારીખ' (Last Date) જ હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "જબ સજ્જન બિલ જમા કરાકે વાપસ આ રહે થે, તબ પોતે ને ક્યા કહા? \n(A) ચલો આઈસ્ક્રીમ ખાતે હૈ \n(B) દાદાજી, આપને જૂઠ બોલા \n(C) દાદાજી, ચલો ઘર ચલે \n(D) દાદાજી, આપને લાઈન ક્યોં નહીં લગાઈ?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) દાદાજી, આપને લાઈન ક્યોં નહીં લગાઈ?</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળકો નિખાલસ હોય છે, જે જુએ તે બોલી દે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "કિરાયેદાર કે ઘર કૌન આયા થા? \n(A) ઉસકા દોસ્ત \n(B) મકાન માલિક \n(C) ડોક્ટર \n(D) પોલીસ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મકાન માલિક</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભાડું લેવા માટે હંમેશા 'મકાન માલિક' જ આવે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "મકાન માલિક પિછલે કિતને મહીનોં કા કિરાયા માંગને આયા થા? \n(A) દો મહીને \n(B) તીન મહીને \n(C) ચાર મહીને \n(D) પાંચ મહીને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) તીન મહીને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: યાદ રાખો - '3' મહિનાનું ભાડું બાકી હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "કિરાયેદાર ને અપને બેટે સે ક્યા કહા? \n(A) દરવાજા ખોલો \n(B) મકાન માલિક કો ચાય પિલાઓ \n(C) કહ દો કી પિતાજી ઘર પર નહીં હૈ \n(D) મકાન માલિક કો પૈસે દે દો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) કહ દો કી પિતાજી ઘર પર નહીં હૈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કરજથી બચવા માટે લોકો પોતાને 'ગેરહાજર' જ બતાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "બચ્ચે ને મકાન માલિક કો ક્યા જવાબ દિયા? \n(A) પાપા ઘર પર નહીં હૈ \n(B) પાપા ને કહા હૈ કી વે ઘર પર નહીં હૈ \n(C) પાપા સો રહે હૈ \n(D) પાપા નહા રહે હૈ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પાપા ને કહા હૈ કી વે ઘર પર નહીં હૈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળકની સત્યનિષ્ઠા - તેણે પપ્પાએ જે લાઈન કહી હતી તે બેઠી જ બોલી દીધી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "'કથની' શબ્દ કા અર્થ ક્યા હૈ? \n(A) કરના \n(B) બોલના/કહના \n(C) લડના \n(D) ખેલના",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) બોલના/કહના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કથની એટલે 'કહેવું' (Saying) અને કરની એટલે 'કરવું' (Doing).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "સમાજ મેં કિસે સન્માન મિલતા હૈ? \n(A) જિસકી કથની ઔર કરની અલગ હો \n(B) જિસકી કથની ઔર કરની એક હો \n(C) જો બહુત બોલતા હો \n(D) જો અમીર હો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) જિસકી કથની ઔર કરની એક હો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠનો મુખ્ય બોધ - 'કથની + કરની = સન્માન'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "'તખ્તી' શબ્દ કા ગુજરાતી અર્થ ક્યા હોતા હૈ? \n(A) પાટલી \n(B) પાટિયું/બોર્ડ \n(C) પથ્થર \n(D) કાગળ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) પાટિયું/બોર્ડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તખ્તી એટલે 'નામ કે સૂચના લખવાનું બોર્ડ'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "મનુષ્ય અપને આપ કો ક્યા સમજતા હૈ? \n(A) મૂર્ખ \n(B) ગુણોં કી ખાન \n(C) કંગાલ \n(D) સ્વાર્થી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ગુણોં કી ખાન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દરેક માણસ પોતાને 'ખૂબ જ ગુણવાન' સમજે છે, ભલે તેમાં ગુણ ન હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "બિજલી કા બિલ દેખકર સજ્જન કો ક્યા પતા ચલા? \n(A) બિલ બહુત કમ હૈ \n(B) બિલ ગલત હૈ \n(C) પિછલે મહિને કા બિલ ભી બાકી હૈ \n(D) બિલ કી તારીખ અભી બાકી હૈ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) પિછલે મહિને કા બિલ ભી બાકી હૈ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે ઓળખાણવાળા ભાઈએ બિલ જોયું ત્યારે ખબર પડી કે જૂનું બિલ પણ બાકી હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "ઈશ્વરને મનુષ્ય કો કૌનસી શક્તિ દી હૈ? \n(A) ઉડને કી \n(B) વિચારને ઔર વાણી કી \n(C) ગાયબ હોને કી \n(D) તેજ દોડને કી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વિચારને ઔર વાણી કી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માણસ જ એક એવું પ્રાણી છે જે વિચારી શકે છે અને બોલી શકે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "'કથની ઔર કરની' પાઠ કા વિષય ક્યા હૈ? \n(A) જાદુ \n(B) મનુષ્ય કા દંભ/પાખંડ \n(C) વિજ્ઞાન \n(D) ખેતી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મનુષ્ય કા દંભ/પાખંડ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ પાઠ માણસના બેવડા સ્વભાવ (Double standard) પર કટાક્ષ કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "બાગ મેં ફૂલ તોડતે હુએ સજ્જન કો કિસને દેખા? \n(A) પોલીસ ને \n(B) મોહલ્લે કે લોગોં ને \n(C) બચ્ચોં ને \n(D) જાનવરોં ને",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) મોહલ્લે કે લોગોં ને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોહલ્લાના લોકો જ સવારમાં ફરવા નીકળે અને જુએ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "સજ્જનને બગીચે કી ક્યા કરની ચાહી? \n(A) બરબાદી \n(B) સુંદરતા બઢાની \n(C) ચોરી \n(D) ખેતી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) સુંદરતા બઢાની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ફૂલો હંમેશા 'સુંદરતા' માટે જ રોપવામાં આવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "'કતાર' શબ્દ કા સહી અર્થ ક્યા હૈ? \n(A) પંક્તિ/લાઈન \n(B) પથ્થર \n(C) કાગળ \n(D) મેદાન",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) પંક્તિ/લાઈન</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બિલ ભરવા માટે આપણે હંમેશા 'લાઈન' માં ઉભા રહીએ છીએ, જેને હિન્દીમાં 'કતાર' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "કિરાયેદાર કા બેટા કહાં થા જબ મકાન માલિક આયા? \n(A) સ્કૂલ મેં \n(B) ઘર કે અંદર \n(C) બગીચે મેં \n(D) બજાર મેં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ઘર કે અંદર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પિતાએ બાળકને ઘરની અંદરથી જ બહાર મોકલ્યો હતો જવાબ આપવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "પાઠ કે અંત મેં કિસ પર કટાક્ષ કિયા ગયા હૈ? \n(A) ગરીબોં પર \n(B) પશુઓં પર \n(C) દોહરે વ્યક્તિત્વ વાલે લોગોં પર \n(D) બચ્ચોં પર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) દોહરે વ્યક્તિત્વ વાલે લોગોં પર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કહેવું કંઈક અને કરવું કંઈક' એને જ દોહરું વ્યક્તિત્વ કહેવાય.</p></div>"
+    }
+  ]
+}
