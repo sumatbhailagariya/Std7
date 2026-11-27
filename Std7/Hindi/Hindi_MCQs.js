@@ -1001,3 +1001,341 @@ var Std7_Hindi_MCQs = {
     }
   ]
 }
+,
+"7": {
+  "chapterName": "પ્રકરણ 7",
+  "chapterTitle": "ढूँढते रह जाओगे (पहेलियाँ)",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'सोने की वह चीज़ है, पर बेचे नहीं सुनार।' - इस पहेली का सही उत्तर क्या है?",
+      "options": {
+        "A": "बिस्तर",
+        "B": "चारपाई",
+        "C": "सोना (धातु)",
+        "D": "तकिया"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) चारपाई</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>અહીં 'સોના' શબ્દના બે અર્થ થાય છે: ઊંઘવું અને સોનું (ધાતુ). ખાટલો (ચારપાઈ) ઊંઘવા માટે વપરાય છે પણ તેને સોની વેચતો નથી.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "'एक नगर में चालीस चोर, सबका मुँહ काला।' - इस पહીલી में 'नगर' किसे कहा गया है?",
+      "options": {
+        "A": "शहर",
+        "B": "माचिस की डिबिया",
+        "C": "जंगल",
+        "D": "कमरा"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) माचिस की डिबिया</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>માચીસની પેટી એક નગર જેવી છે અને તેમાં રહેલી દીવાસળીઓ (કાળા મોઢાવાળી) ચોર જેવી છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "'पानी मेरा बाप, पानी ही मेरा बेटा।' - यह पहेली किसके बारे में है?",
+      "options": {
+        "A": "नदी",
+        "B": "समुद्र",
+        "C": "बादल",
+        "D": "मछली"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) बादल</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>વાદળ પાણીની વરાળ (બાષ્પ) માંથી બને છે અને પાછું વરસાદ રૂપે પાણી જ આપે છે, એટલે પાણી તેનો બાપ પણ છે અને દીકરો પણ!</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "'खुली रात में मैं पैदा होती, हरी घास पर सोती हूँ।' - यहाँ किसकी बात की गई है?",
+      "options": {
+        "A": "तारा",
+        "B": "चाँदनी",
+        "C": "ओस",
+        "D": "बिजली"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) ओस</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>'ઓસ' એટલે કે ઝાકળનાં બિંદુઓ રાત્રે ઘાસ પર જોવા મળે છે અને મોતી જેવાં લાગે છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "'इधर की बात उधर मैं करता, चुगलखोर पर नाम नहीं।' - यह यंत्र कौन-सा है?",
+      "options": {
+        "A": "रेडियो",
+        "B": "टेलीफोन",
+        "C": "अखबार",
+        "D": "टी.वी."
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) टेलीफोन</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>ફોન દ્વારા આપણે એક જગ્યાએથી બીજી જગ્યાએ વાતો પહોંચાડીએ છીએ, પણ ફોન ક્યારેય 'ચુગલી' કરતો કહેવાતો નથી.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "'दो सखियाँ, दोनों चंचल, फिरतीं फाटक खोले।' - यहाँ 'सखियाँ' और 'फाटक' का क्या अर्थ है?",
+      "options": {
+        "A": "दो सहेलियाँ और दरवाजा",
+        "B": "हाथ और अंगुलियाँ",
+        "C": "आँखें और पलकें",
+        "D": "पैर और जूते"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) आँखें और पलकें</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>આપણી બે આંખો હંમેશા સાથે હોય છે (સખીઓ) અને પાંપણો તેને ખોલવા-બંધ કરવાનું (ફાટક) કામ કરે છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "'सोने' शब्द के इस पाठ में कौन-से दो अर्थ निकलते हैं?",
+      "options": {
+        "A": "स्वर्ण और निद्रा",
+        "B": "जागना और हँसना",
+        "C": "पीला और लाल",
+        "D": "महँगा और सस्ता"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) स्वर्ण और निद्रा</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>પહેલી પંક્તિમાં 'સોના' એટલે ઊંઘવું અને 'સુનાર' ના સંદર્ભમાં સોનું (ધાતુ/સ્વર્ણ).</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "माचिस की तीलियों का सिर कैसा होता है?",
+      "options": {
+        "A": "लाल",
+        "B": "सफेद",
+        "C": "काला",
+        "D": "नीला"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) काला</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>પહેલીમાં 'સબકા મુખ કાલા' પંક્તિ દીવાસળીના કાળા મસાલાવાળા ભાગની ઓળખ આપે છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "बादल का पिता और पुत्र दोनों किसे कहा गया है?",
+      "options": {
+        "A": "आकाश",
+        "B": "सूरज",
+        "C": "पानी",
+        "D": "हवा"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) पानी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>જલ ચક્ર (Water Cycle) યાદ રાખો. પાણી -> વરાળ (વાદળ) -> વરસાદ (પાણી).</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "ओस (Dew drops) दिखने में किसके समान लगती है?",
+      "options": {
+        "A": "चाँदी जैसी",
+        "B": "मोती जैसी",
+        "C": "सोने जैसी",
+        "D": "हीरे जैसी"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) मोती जैसी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>કાવ્ય પંક્તિમાં 'મેં મોતી જેસી લગતી હૂં' દ્વારા ઝાકળના ટીપાંની ચમક વર્ણવી છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "'ढूँढते रह जाओगे' पाठ का साहित्य प्रकार क्या है?",
+      "options": {
+        "A": "कहानी",
+        "B": "निबंध",
+        "C": "पहेलियाँ",
+        "D": "जीवनी"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) पहेलियाँ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>આ પાઠમાં આપણી બુદ્ધિ કસવા માટે વિવિધ કોયડાઓ (પહેલીઓ) આપવામાં આવ્યા છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "'मोल-तोल उसका नहीं, बहुत भारी उसका भार।' - यहाँ भार का अर्थ क्या है?",
+      "options": {
+        "A": "वजन",
+        "B": "कीमत",
+        "C": "जिम्मेदारी",
+        "D": "महत्व"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> A) वजन</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>'ભાર' એટલે વજન. ચારપાઈ (ખાટલો) સોના કરતાં વજનમાં ભારે હોય છે પણ કિંમતમાં સસ્તો.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "पहेलियों से मनुष्य की किस शक्ति का विकास होता है?",
+      "options": {
+        "A": "शारीरिक शक्ति",
+        "B": "विचार करने की शक्ति",
+        "C": "दौड़ने की शक्ति",
+        "D": "सोने की शक्ति"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) विचार करने की शक्ति</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>કોયડા ઉકેલવાથી આપણું મગજ સક્રિય બને છે અને તાર્કિક શક્તિ વધે છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "'सुनी' रात में ओस पैदा नहीं होती, पहेली के अनुसार ओस कब पैदा होती है?",
+      "options": {
+        "A": "अँधेरी रात में",
+        "B": "खुली रात में",
+        "C": "दोपहर में",
+        "D": "शाम को"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) खुली रात में</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>પહેલીની શરૂઆત જ 'ખુલી રાત મેં મેં પૈદા હોતી' થી થાય છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "ओस की तुलना पहेली में किससे की गई है?",
+      "options": {
+        "A": "चाँदी के सिक्के से",
+        "B": "आसमान के तारे से",
+        "C": "मोती और आँसू से",
+        "D": "काँच के टुकड़े से"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) मोती और आँसू से</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>'મોતી જેસી લગતી હૂં, ઓર આંસુ જેસી' - આ પંક્તિ ઝાકળની પારદર્શકતા બતાવે છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "पहेली में किसे 'चुगलखोर' न होने पर भी वैसी विशेषता वाला बताया गया है?",
+      "options": {
+        "A": "पत्र",
+        "B": "मोबाइल/फोन",
+        "C": "रेडियो",
+        "D": "कंप्यूटर"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) मोबाइल/फोन</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>'ઇધર કી બાત ઉધર કરના' એ ચુગલખોરનું કામ છે, પણ ફોન તે કામ સંદેશા વ્યવહાર માટે કરે છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "'फाटक' शब्द का समानार्थी शब्द कौन-सा है?",
+      "options": {
+        "A": "रास्ता",
+        "B": "दरवाजा",
+        "C": "दीवार",
+        "D": "खिड़की"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) दरवाजा</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>આંખોના સંદર્ભમાં પાંપણો દરવાજા (ફાટક) જેવું કામ કરે છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "आँखों के लिए पहेली में किस विशेषण का प्रयोग हुआ है?",
+      "options": {
+        "A": "शांत",
+        "B": "चंचल",
+        "C": "सुस्त",
+        "D": "गहरी"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) चंचल</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>'દો સખિયાં, દોનોં ચંચલ' - આંખો સતત આમ-તેમ ફરતી હોવાથી તેને ચંચળ કહી છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "सुनार क्या बेचता है?",
+      "options": {
+        "A": "लोहा",
+        "B": "लकड़ी",
+        "C": "सोने के गहने",
+        "D": "मिट्टी के बर्तन"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) सोने के गहने</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>પહેલીમાં સ્પષ્ટ છે કે જે 'સોના' ની વસ્તુ સુનાર નથી વેચતો તે ચારપાઈ છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "माचिस की डिबिया में 'चालीस चोर' का क्या अर्थ है?",
+      "options": {
+        "A": "सच्चे चोर",
+        "B": "पैसे",
+        "C": "माचिस की तीलियाँ",
+        "D": "कागज के टुकड़े"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) माचिस की तीलियाँ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>દીવાસળીઓની સંખ્યા અંદાજે 40 જેટલી હોય છે, તેથી તેને 40 ચોર કહ્યા છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "'सिर काट देने पर' जो उजाला करता है, वह कौन है?",
+      "options": {
+        "A": "बल्ब",
+        "B": "दीपक",
+        "C": "माचिस की तीली",
+        "D": "सूरज"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) माचिस की तीली</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>'ગળાં' (સીર) ઘસવાથી (કાપવાથી) દીવાસળી સળગીને પ્રકાશ આપે છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "नदी, तालाब और समुद्र सबका आधार क्या है?",
+      "options": {
+        "A": "मछली",
+        "B": "नाव",
+        "C": "पानी",
+        "D": "किनारा"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) पानी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>પહેલીમાં 'પાની મેરા બાપ...' દ્વારા પાણીના મહત્વ અને ચક્ર વિશે જણાવ્યું છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "सुबह होते ही ओस कहाँ चली जाती है?",
+      "options": {
+        "A": "जमीन के अंदर",
+        "B": "समुद्र में",
+        "C": "आकाश में (भाप बनकर)",
+        "D": "पेड़ के ऊपर"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) आकाश में (भाप बनकर)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>સૂર્યના તાપથી ઝાકળ અદ્રશ્ય થઈ જાય છે, જે વરાળ બની આકાશમાં જાય છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "पहेली के अनुसार 'जागते समय' क्या खुला रहता है?",
+      "options": {
+        "A": "मुँह",
+        "B": "दरवाजा",
+        "C": "आँखें (फाटक)",
+        "D": "किताब"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) आँखें (फाटक)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>'સોતી હૈં તો મિલકર સોતી, જાગી હો તો ખોલે' - એટલે કે આંખો.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "पहेलियों को और क्या कहा जाता है?",
+      "options": {
+        "A": "कहानी",
+        "B": "मुहावरे",
+        "C": "बुझौवल",
+        "D": "कविता"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) बुझौवल</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>હિન્દીમાં કોયડા ઉકેલવાની પ્રક્રિયાને 'બુઝૌવલ' પણ કહેવામાં આવે છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "ओस किस पर सोती है?",
+      "options": {
+        "A": "फूलों पर",
+        "B": "हरी घास पर",
+        "C": "छत पर",
+        "D": "काँच पर"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) हरी घास पर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>'હરી ઘાસ પર સોતી હૂં' - આ પંક્તિ ઝાકળના સ્થાન વિશે જણાવે છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "किसके पैर नहीं होते फिर भी वह चलती है? (સામાન્ય જ્ઞાન આધારિત પહેલી)",
+      "options": {
+        "A": "साँप",
+        "B": "घड़ी",
+        "C": "हवा",
+        "D": "मछली"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) घड़ी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>ઘડિયાળને પગ નથી હોતા પણ તેના કાંટા સતત ચાલતા રહે છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "पहेली में 'स्वर्ण' का समानार्थी शब्द कौन-सा प्रयुक्त हुआ है?",
+      "options": {
+        "A": "चाँदी",
+        "B": "पीतल",
+        "C": "सोना",
+        "D": "लोहा"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> C) सोना</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>સોના (ધાતુ) ને હિન્દીમાં સ્વર્ણ કે કંચન પણ કહેવામાં આવે છે.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "'मुख' का पर्यायवाची शब्द पहेली के अनुसार क्या है?",
+      "options": {
+        "A": "नयन",
+        "B": "मुँह",
+        "C": "हाथ",
+        "D": "पैर"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) मुँह</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>'સબકા મુખ કાલા' માં મુખ એટલે આપણું મોઢું.</div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "चारपाई का उपयोग हम मुख्य रूप से किसलिए करते हैं?",
+      "options": {
+        "A": "खाना बनाने",
+        "B": "सोने/आराम करने",
+        "C": "पढ़ने",
+        "D": "खेलने"
+      },
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> B) सोने/आराम करने</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક (NJ Classes):</p>સોવા માટેની વસ્તુ હોવાથી જ પહેલીમાં તેને 'સોને કી ચીઝ' કહીને મજાક કરી છે.</div>"
+    }
+  ]
+}
