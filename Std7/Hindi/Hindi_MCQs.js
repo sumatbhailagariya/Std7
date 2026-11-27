@@ -843,3 +843,161 @@ var Std7_Hindi_MCQs = {
     }
   ]
 }
+,
+"6": {
+  "chapterName": "પ્રકરણ 6",
+  "chapterTitle": "मालवजी फौजदार (એકાંકી)",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'मालवजी फौजदार' પાઠનો સાહિત્ય પ્રકાર જણાવો.\n(A) કહાની\n(B) એકાંકી (નાટક)\n(C) કવિતા\n(D) નિબંધ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) એકાંકી (નાટક)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાત્ર અને સંવાદો હોય તેને 'એકાંકી' કે નાટક કહેવાય. આ પ્રકરણમાં શિવાજી અને માલવજી વચ્ચેના સંવાદો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "શિવાજીના ઓરડામાં માલવજી કયા ઈરાદાથી આવ્યો હતો?\n(A) શિવાજીને મળવા\n(B) શિવાજીની હત્યા કરવા\n(C) મદદ માંગવા\n(D) નોકરી મેળવવા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) શિવાજીની હત્યા કરવા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માલવજી લાલચમાં આવીને શિવાજી પર તલવાર ઉઠાવવા આવ્યો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "માલવજી જ્યારે શિવાજી પર વાર કરવા ગયો ત્યારે તેનો હાથ કોણે પકડી લીધો?\n(A) કોઈ સૈનિકે\n(B) દરબારીએ\n(C) તાનાજીએ\n(D) શિવાજીએ પોતે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) તાનાજીએ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિવાજીના પરમ મિત્ર અને સેનાપતિ તાનાજી હંમેશા તેમની રક્ષા કરતા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "માલવજીની ઉંમર અંદાજે કેટલી હતી?\n(A) 8-9 વર્ષ\n(B) 12-13 વર્ષ\n(C) 15-16 વર્ષ\n(D) 18-20 વર્ષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 12-13 વર્ષ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠમાં 'બારહ-તેરહ વર્ષ' નો ઉલ્લેખ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "માલવજીના પિતા કોની સેનામાં સૈનિક હતા?\n(A) મુઘલ સેનામાં\n(B) શિવાજીની સેનામાં\n(C) અંગ્રેજ સેનામાં\n(D) રાજા જયસિંહની સેનામાં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) શિવાજીની સેનામાં</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માલવજીના પિતા શિવાજી માટે લડતા લડતા શહીદ થયા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "માલવજીએ શિવાજીની હત્યા કરવાનું સાહસ કેમ કર્યું?\n(A) વેર લેવા માટે\n(B) ગરીબી અને ધનની લાલચને કારણે\n(C) રાજા બનવા માટે\n(D) સજાથી બચવા માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) ગરીબી અને ધનની લાલચને કારણે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ઘરે ખાવાનું નહોતું એટલે એક વ્યક્તિની ધનની લાલચમાં આવીને તેણે આ પગલું ભર્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "મૃત્યુદંડ પહેલા માલવજીએ કઈ અંતિમ ઈચ્છા વ્યક્ત કરી?\n(A) ખાવાનું ખાવાની\n(B) ધન મેળવવાની\n(C) પોતાની માતાને મળવાની\n(D) માફી માંગવાની",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) પોતાની માતાને મળવાની</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સાચો વીર હંમેશા પોતાની માતાનો આદર કરે છે, એટલે જ તે મરતા પહેલા માતાને મળવા માંગતો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "શિવાજી માલવજીના કયા ગુણથી અત્યંત પ્રભાવિત થયા?\n(A) તેની સુંદરતાથી\n(B) તેની નીડરતા અને સત્યનિષ્ઠાથી\n(C) તેની તલવારબાજીથી\n(D) તેની ગરીબીથી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) તેની નીડરતા અને સત્યનિષ્ઠાથી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માલવજીએ ડર્યા વગર સત્ય કહી દીધું, આ વાત શિવાજીને સ્પર્શી ગઈ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "શિવાજીએ તાનાજીને કોની સરખામણી આપી હતી?\n(A) સિંહ સાથે\n(B) પથ્થર સાથે\n(C) માતા જેવી મમતા અને રક્ષક સાથે\n(D) ભાઈ સાથે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) માતા જેવી મમતા અને રક્ષક સાથે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિવાજી કહે છે કે તાનાજીએ તેમની રક્ષા કરીને માતા જેવું કામ કર્યું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "માતાને મળીને પાછા આવ્યા પછી માલવજીએ શું કહ્યું?\n(A) મને માફ કરો\n(B) હવે હું તૈયાર છું, મારો વધ કરો\n(C) મારે હજી જીવવું છે\n(D) હું ભાગી જઈશ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) હવે હું તૈયાર છું, મારો વધ કરો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માલવજી વચનનો પાકો હતો, એટલે તે સામે ચાલીને મરવા તૈયાર થયો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "શિવાજીએ માલવજીને કઈ સજા આપી?\n(A) ફાંસીની સજા\n(B) જેલની સજા\n(C) તેની નીડરતા જોઈને તેને સેનામાં ભરતી કર્યો\n(D) દેશનિકાલ કર્યો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) તેની નીડરતા જોઈને તેને સેનામાં ભરતી કર્યો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિવાજી પારખુ હતા, તેમણે હીરાને (માલવજીને) જેલને બદલે સેનામાં સ્થાન આપ્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "તાનાજી કોણ હતા?\n(A) શિવાજીના દુશ્મન\n(B) શિવાજીના સેનાપતિ\n(C) માલવજીના પિતા\n(D) એક સાધારણ ચોકીદાર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) શિવાજીના સેનાપતિ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાનાજી એટલે શિવાજીના જમણા હાથ સમાન બહાદુર સેનાપતિ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "માલવજીના પિતાના અવસાનને કેટલો સમય થયો હતો?\n(A) એક વર્ષ\n(B) બે વર્ષ\n(C) પાંચ વર્ષ\n(D) દસ વર્ષ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) બે વર્ષ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠના સંવાદમાં 'દો વર્ષ' નો ઉલ્લેખ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "'ઘાતક' શબ્દનો અર્થ શું થાય?\n(A) મદદગાર\n(B) રક્ષક\n(C) મારવા વાળો (હત્યારો)\n(D) મિત્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) મારવા વાળો (હત્યારો)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ઘાત' એટલે હુમલો, અને હુમલો કરનાર તે 'ઘાતક'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "શિવાજી કોના કલ્યાણ માટે રાત-દિવસ ચિંતા કરતા હતા?\n(A) પોતાના પરિવાર માટે\n(B) ધન મેળવવા માટે\n(C) પ્રજા અને દેશના હિત માટે\n(D) યુદ્ધ જીતવા માટે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) પ્રજા અને દેશના હિત માટે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આદર્શ રાજા હંમેશા પોતાની 'પ્રજા' (People) ના સુખની ચિંતા કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "માલવજીએ શિવાજીને પોતાનો પરિચય કઈ રીતે આપ્યો?\n(A) ડરતા ડરતા\n(B) અભિમાનથી\n(C) નીડરતાથી\n(D) રડતા રડતા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) નીડરતાથી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માલવજી એક સૈનિકનો પુત્ર હતો, એટલે તે મૃત્યુ સામે પણ નીડર હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "શિવાજીએ માલવજીની પરીક્ષા લેવા માટે શું કર્યું?\n(A) તેને જેલમાં નાખ્યો\n(B) તેને ડરાવ્યો\n(C) તેને મૃત્યુદંડની જાહેરાત કરી\n(D) તેની પાસે કામ કરાવ્યું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) તેને મૃત્યુદંડની જાહેરાત કરી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિવાજી જોવા માંગતા હતા કે છોકરો ડરીને માફી માંગે છે કે પોતાના શબ્દો પર કાયમ રહે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "તાનાજીએ શિવાજી માટે કયા શબ્દો વાપર્યા?\n(A) આપ કાયર છો\n(B) આપ બહુ દયાળુ છો\n(C) આપ અન્યાયી છો\n(D) આપ કઠોર છો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) આપ બહુ દયાળુ છો</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તાનાજી જાણતા હતા કે શિવાજી મહારાજ ઉપરથી કઠોર પણ અંદરથી દયાળુ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "માલવજીએ ઘરે જઈને માતાને શું કહ્યું?\n(A) બધું સત્ય કહી દીધું\n(B) કશું જ ન કહ્યું\n(C) જૂઠું બોલ્યો\n(D) ફક્ત આશીર્વાદ લીધા",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) કશું જ ન કહ્યું</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માલવજીએ વિચાર્યું કે જો તે બધું કહેશે તો તેની માતા તેને પાછો જવા નહીં દે અને દુઃખી થશે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "આ પાઠમાં 'પ્રસ્થાન' શબ્દનો અર્થ શું થાય?\n(A) આવવું\n(B) જવું (રવાના થવું)\n(C) બેસવું\n(D) ઉભા રહેવું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) જવું (રવાના થવું)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પ્ર' એટલે આગળ, અને 'સ્થાન' બદલવું - એટલે કે ક્યાંક જવા નીકળવું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "શિવાજીએ માલવજીની માતાના જવાબદારી વિશે શું કહ્યું?\n(A) તેને ભૂખે મરવા દઈશું\n(B) તેને જેલમાં નાખીશું\n(C) તેના પાલન-પોષણની જવાબદારી હું લઈશ\n(D) તેને ગામની બહાર કાઢીશું",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) તેના પાલન-પોષણની જવાબદારી હું લઈશ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિવાજી એક ઉદાર શાસક હતા, તેમણે એક વીર બાળકનો પરિવાર સંભાળવાનું નક્કી કર્યું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "એકાંકીના બીજા દ્રશ્યમાં શિવાજી કોની સાથે વાતો કરી રહ્યા છે?\n(A) માલવજી સાથે\n(B) સૈનિક સાથે\n(C) તાનાજી સાથે\n(D) પંડિત સાથે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) તાનાજી સાથે</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બીજા દ્રશ્યની શરૂઆતમાં શિવાજી અને તાનાજી માલવજીના સાહસ વિશે ચર્ચા કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "માલવજીએ કોના પગે પડીને માફી માંગી?\n(A) તાનાજીના\n(B) શિવાજીના\n(C) સૈનિકના\n(D) પોતાની માતાના",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) શિવાજીના</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે શિવાજીએ તેને માફ કર્યો અને સેનામાં લીધો, ત્યારે કૃતજ્ઞતા પૂર્વક તે પગે લાગ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "શિવાજી મહારાજ કેવા રાજા હતા?\n(A) અત્યાચારી\n(B) વીર અને ન્યાયી\n(C) ડરપોક\n(D) સ્વાર્થી",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વીર અને ન્યાયી</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિવાજીનું આખું જીવન વીરતા અને ન્યાયના પાયા પર ટકેલું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "'તત્પર' શબ્દનો સમાનાર્થી શબ્દ આપો.\n(A) આળસુ\n(B) તૈયાર\n(C) ઉદાસ\n(D) ગુસ્સે",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) તૈયાર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે આપણે કોઈ કામ માટે રેડી હોઈએ, ત્યારે તેને હિન્દીમાં 'તત્પર' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "માલવજીએ કોને આપેલું વચન નિભાવ્યું?\n(A) શિવાજીને\n(B) પોતાની માતાને\n(C) તાનાજીને\n(D) કોઈને નહીં",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) શિવાજીને</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માલવજીએ શિવાજીને વચન આપ્યું હતું કે તે માતાને મળીને પાછો આવશે, અને તે પાછો આવ્યો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "શિવાજીએ કયા શહેરના કિલ્લામાં આ એકાંકીનું દ્રશ્ય ભજવ્યું છે?\n(A) રાયગઢ\n(B) પુણે\n(C) સુરત\n(D) મુંબઈ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) રાયગઢ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિવાજી મહારાજની મુખ્ય રાજધાની રાયગઢ હતી, એટલે જ ત્યાંનું દ્રશ્ય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "આ એકાંકીમાંથી આપણને કયો બોધ મળે છે?\n(A) ચોરી કરવી જોઈએ\n(B) હિંમત અને સત્ય બોલવું જોઈએ\n(C) લાલચ રાખવી જોઈએ\n(D) ડરીને જીવવું જોઈએ",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) હિંમત અને સત્ય બોલવું જોઈએ</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માલવજીએ સત્ય બોલીને જ શિવાજીનું દિલ જીત્યું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "માલવજી કઈ જાતિનો બાળક હતો?\n(A) મરાઠા\n(B) રાજપૂત\n(C) બ્રાહ્મણ\n(D) શૂદ્ર",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) મરાઠા</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શિવાજી મહારાજની સેનામાં મોટાભાગના વીર સૈનિકો 'મરાઠા' હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "શિવાજીએ માલવજીને શું કહીને બોલાવ્યો?\n(A) કાયર બાળક\n(B) વીર પુત્ર\n(C) અપરાધી\n(D) અજાણ્યો",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) વીર પુત્ર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તેની નીડરતા જોઈને શિવાજીએ તેને સન્માન આપતા 'વીર પુત્ર' કહ્યો.</p></div>"
+    }
+  ]
+}
