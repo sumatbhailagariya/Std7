@@ -1339,3 +1339,211 @@ var Std7_Hindi_MCQs = {
     }
   ]
 }
+,
+"8": {
+  "chapterName": "પ્રકરણ 8",
+  "chapterTitle": "मुस्कान के मोती (हास्य चुटकुले)",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "'मुस्कान के मोती' पाठ का साहित्य प्रकार क्या है?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) चुटकुले</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જીવનમાં હાસ્યનું મહત્વ સમજાવવા માટે આ પાઠમાં 'ચુટકુલે' (જોક્સ) આપવામાં આવ્યા છે. 'મુસ્કાન' એટલે હાસ્ય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "चिंटू के होमवर्क में गलतियाँ किसने निकाली थीं?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) अध्यापक ने</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: શાળામાં લેસન (Home work) હંમેશા 'અધ્યાપક' (શિક્ષક) જ તપાસે અને ભૂલો કાઢે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "चिंटू का गृहकार्य (Home work) किसने किया था?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) उसके पिताजी ने</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જોક્સ મુજબ, પિતાજીએ લેસન કર્યું હતું એટલે જ શિક્ષકે કાઢેલી ભૂલો માટે પિતાજી જવાબદાર હતા!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "पत्नी ने आईने में अपना चेहरा देखकर पति से क्या पूछा?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) क्या मैं बहुत बुरी लग रही हूँ?</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અરીસામાં જોતી વખતે સ્ત્રીઓ અવારનવાર પોતાની સુંદરતા વિશે પૂછતી હોય છે, અહીં હાસ્ય માટે આ પ્રશ્ન પૂછાયો છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "किरायेदार मालिक से क्यों नाराज था?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) दरवाजे के पैर की आवाज से</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માલિકે કહ્યું હતું કે 'દરવાજા ખટખટાવશો નહીં, પણ પેર (પગ) ની આહટ સંભળાય તો ખોલજો', એટલે ભાડૂઆત મૂંઝાયો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "सोनू किसे पत्र लिख रहा था?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) अपने छोटे भाई को</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોનુ તેના ભાઈને પત્ર લખતો હતો, પણ તે પોતે જ વાંચી શકતો નહોતો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "सोनू ने ऐसा क्यों कहा कि उसका भाई पत्र नहीं पढ़ पाएगा?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) क्योंकि सोनू की लिखावट खराब थी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોનુના અક્ષર ગંદા હતા, એટલે તેને લાગ્યું કે ભાઈ પણ નહીં વાંચી શકે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "अध्यापक ने राहुल से क्या पूछा?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) बताओ, अमेरिका कहाँ है?</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભૂગોળ (Geography) ના પિરિયડમાં મેપ પર અમેરિકા શોધવાની વાત આ જોક્સનો મુખ્ય ભાગ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "राहुल ने अपनी उँगली कहाँ रखी?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) मानचित्र (मैप) पर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: નકશામાં અમેરિકા બતાવવા માટે રાહુલે નકશા પર આંગળી મૂકી હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "अध्यापक के अनुसार अमेरिका की खोज किसने की?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) कोलंबस ने</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અહીં 'કોલંબસ' સાચો ઐતિહાસિક જવાબ છે, પણ જોક્સમાં ટીચરે મજાકમાં રાહુલને પૂછ્યું હતું.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "राहुल ने छोटे बच्चे की तरह क्या जवाब दिया?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) नहीं सर, अमेरिका की खोज तो मैंने की</p><hr><p style='color:#d32f2f; border-radius:8px; border-left:5px solid #d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કારણ કે રાહુલે નકશા પર અમેરિકા 'શોધી' કાઢ્યું હતું, એટલે તેણે મજાકમાં પોતાની શોધ ગણાવી!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "'मुस्कान' शब्द का अर्थ क्या है?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) हँसी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મુસ્કાન = સ્મિત અથવા હાસ્ય. શબ્દાર્થ યાદ રાખવા NJ ટ્રીક!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "भिखारी को कितने पैसे मिले?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) एक रुपया</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જોક્સમાં ભિખારી અને કંજૂસ વચ્ચેની વાતચીતમાં 'એક રૂપિયો' કેન્દ્રમાં છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "'अकलमंद' शब्द का अर्थ क्या है?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) बुद्धिमान</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'અક્કલ' હોવી એટલે 'બુદ્ધિ' હોવી. અકલમંદ = બુદ્ધિમાન.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "हँसी हमारे स्वास्थ्य के लिए कैसी है?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) लाभदायक</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Laughter is the best medicine' - હાસ્ય એ ઉત્તમ દવા છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "मालिक ने किरायेदार से क्या कहा था?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) इसे अपना ही घर समझना</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: આ એક સામાન્ય વિવેક છે જે માલિક ભાડૂઆતને કહેતા હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "'किरायेदार' शब्द का अर्थ क्या है?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) किराया देकर रहने वाला</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'કિરાયા' (ભાડું) આપનાર વ્યક્તિ એટલે 'કિરાયેદાર'.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "पिता ने राहुल से परीक्षा के बारे में क्या पूछा?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) नतीजा क्या रहा?</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'નતીજા' એટલે રિઝલ્ટ કે પરિણામ.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "राहुल ने परीक्षा में कितने अंक प्राप्त किए थे?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) शून्य (0)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠના રમુજી કિસ્સામાં રાહુલને 'ઝીરો' મળ્યા હતા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "हँसी हमें किससे दूर रखती है?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) दुख और तनाव से</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જ્યારે આપણે હસીએ છીએ ત્યારે આપણું દુઃખ ગાયબ થઈ જાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "'मूर्ख' शब्द का विलोम (विरुद्धार्थी) शब्द क्या है?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) बुद्धिमान</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મૂર્ખનો ઉલટો અર્થ બુદ્ધિમાન થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "सोनु को खुद का पत्र क्यों नहीं पढ़ पा रहा था?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) पत्र उसे नहीं, उसके भाई को लिखा था</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સોનુએ જે રમુજી જવાબ આપ્યો તે આ જ હતો!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "पड़ोसी ने मालिक से क्या माँगा?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) कुल्हाड़ी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: કુલ્હાડી (કુહાડી) માંગવાનો કિસ્સો પાઠમાં રમુજ પેદા કરે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "अध्यापक ने बच्चे से पृथ्वी के बारे में क्या पूछा?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) पृथ्वी गोल है, यह किसने सिद्ध किया?</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પૃથ્વીના આકાર વિશેનો પ્રશ્ન સામાન્ય રીતે ભૂગોળમાં પૂછાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "'दोस्त' शब्द का पर्यायवाची शब्द चुनिए।",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) मित्र</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દોસ્ત અને મિત્ર બંને સમાન અર્થ ધરાવે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 26",
+      "question": "हँसी के मोती बिखरने का अर्थ क्या है?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) चारों तरफ आनंद फैलना</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મોતી જેમ ચમકે છે તેમ હાસ્ય આખા વાતાવરણને ચમકાવી દે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 27",
+      "question": "भिखारी ने दरवाजा खटखटाकर क्या कहा?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) माँ, कुछ खाने को दे दो</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ભિખારીની આ સામાન્ય વિનંતી જોક્સની શરૂઆત છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 28",
+      "question": "मकान मालिक किरायेदार से क्या लेना चाहता था?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) किराया</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: માલિક હંમેશા 'કિરાયા' (ભાડું) લેવા જ આવતા હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 29",
+      "question": "हँसी मानसिक स्वास्थ्य के लिए क्या है?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) टॉनिक</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠમાં હાસ્યને સ્વાસ્થ્ય માટે 'ટૉનિક' જેવું ગણાવ્યું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 30",
+      "question": "राहुल के पिता जी ने उसे क्यों डांटा?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) कम अंक आने पर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પરીક્ષામાં ઓછા માર્કસ આવે તો પિતાજી ખીજાય જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 31",
+      "question": "किरायेदार ने माचिस की तीली क्यों फेंक दी?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) क्योंकि वह नहीं जल रही थी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અહીં 'તીલી' (દીવાસળી) ના કિસ્સામાં હાસ્ય છુપાયેલું છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 32",
+      "question": "'हँसी' शब्द का विशेषण रूप क्या होगा?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) हँसमुख</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જે વ્યક્તિ વધુ હસતી હોય તેને 'હંસમુખ' કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 33",
+      "question": "पति ने अपनी पत्नी के सवाल का क्या जवाब दिया?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) तुम बहुत अच्छी लग रही हो</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જોક્સમાં પતિએ પત્નીને ખુશ કરવા માટે આવો જવાબ આપ્યો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 34",
+      "question": "राहुल ने अपनी गलती को कैसे छिपाया?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) बहाना बनाकर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બાળકો ભૂલો છુપાવવા નવા નવા 'બહાના' બનાવતા હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 35",
+      "question": "'साहब' शब्द का स्त्रीलिंग शब्द क्या होगा?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) मेमसाहब</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યાકરણની દ્રષ્ટિએ સાહબ નું સ્ત્રીલિંગ મેમસાહબ થાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 36",
+      "question": "किरायेदार को दरवाजा कब खोलना था?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) जब पैरों की आवाज आए</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પાઠના જોક્સ મુજબ, પેર (પગ) ની આહટ પર દરવાજો ખોલવાની શરત હતી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 37",
+      "question": "हास्य चुटकुले पढ़ने से क्या कम होता है?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) मानसिक तनाव</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રમુજી ટુચકાઓથી મગજનો સ્ટ્રેસ ઓછો થાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 38",
+      "question": "चिट्ठी का जवाब कौन देगा?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) पत्र पाने वाला</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જેને પત્ર મળે તે જ તેનો જવાબ આપે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 39",
+      "question": "राहुल ने टीचर को क्या उत्तर दिया?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) मैंने खोजा है</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રાહુલે ગંભીરતાને બદલે રમુજમાં જવાબ આપ્યો હતો.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 40",
+      "question": "'अध्यापक' शब्द का पुल्लिंग शब्द क्या होगा?",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) अध्यापक स्वयं पुल्लिंग है</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્રશ્ન બરાબર વાંચો, 'અધ્યાપક' પોતે જ પુલ્લિંગ છે, તેનું સ્ત્રીલિંગ 'અધ્યાપિકા' થાય.</p></div>"
+    }
+  ]
+}
