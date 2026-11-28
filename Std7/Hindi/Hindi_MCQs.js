@@ -1547,3 +1547,136 @@ var Std7_Hindi_MCQs = {
     }
   ]
 }
+,
+"9": {
+  "chapterName": "પ્રકરણ 9",
+  "chapterTitle": "समय सारिणी (Samay Sarini)",
+  "questionType": "બહુવિકલ્પી પ્રશ્નો (MCQs)",
+  "qa_list": [
+    {
+      "questionNumber": "પ્રશ્ન 1",
+      "question": "हमारे दैनिक जीवन में समय का सदुपयोग करने के लिए क्या बनाना आवश्यक है?\n(A) खेल सूची\n(B) समय सारिणी\n(C) मित्रों की सूची\n(D) सामान की सूची",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) समय सारिणी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: વ્યવસ્થિત જીવન જીવવા માટે 'સમય' નું ટેબલ હોવું જરૂરી છે. પાઠનું નામ જ આપણો જવાબ છે!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 2",
+      "question": "बस डिपो में गाड़ियों के आने-जाने का विवरण कहाँ दिया होता है?\n(A) टिकट खिड़की पर\n(B) पूछताछ कक्ष में\n(C) समय सारिणी बोर्ड પર\n(D) ड्राइवर के पास",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) समय सारिणी बोर्ड પર</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ડેપોમાં મોટા અક્ષરે જે લખેલું હોય તેને 'ટાઈમ ટેબલ' (સમય સારણી) કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 3",
+      "question": "रेलवे के समय पत्रक में 'आगमन' शब्द का क्या अर्थ है?\n(A) जाने का समय\n(B) आने का समय\n(C) रुकने का समय\n(D) विश्राम का समय",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) आने का समय</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'આ' થી 'આગમન' અને 'આ' થી 'આવવું' (Coming). યાદ રહી જશે ને!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 4",
+      "question": "रेलवे समय सारिणी में 'प्रस्थान' का अर्थ क्या होता है?\n(A) वापस आना\n(B) ट्रेन का पहुँचना\n(C) ट्रेन का रवाना होना\n(D) ट्रेन की सफाई",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) ट्रेन का रवाना होना</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'પ્રસ્થાન' એટલે છૂટા પડવું અથવા ઉપડવું (Departure).</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 5",
+      "question": "समय सारिणी के अनुसार रेलगाड़ी का समय 20:30 दिया गया है, तो साधारण घड़ी में क्या समय होगा?\n(A) रात के 10:30\n(B) सुबह के 8:30\n(C) रात के 8:30\n(D) शाम के 6:30",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) रात के 8:30</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેલ્વેમાં 12 પછી 13, 14 ગણાય. 20 માંથી 12 બાદ કરો એટલે 8 મળી જાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 6",
+      "question": "एस.टी. (S.T.) बस सेवा का पूरा नाम क्या है?\n(A) स्टेट ट्रांसपोर्ट\n(B) स्कूल ट्रांसपोर्ट\n(C) सुपर ट्रांसपोर्ट\n(D) सिटी ट्रांसपोर्ट",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) સ્ટેટ ટ્રાન્સપોર્ટ (State Transport)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: S = State (રાજ્ય), T = Transport (વાહનવ્યવહાર). આપણી લાલ બસ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 7",
+      "question": "गुजरात में एस.टी. (S.T.) को और किस नाम से जाना जाता है?\n(A) निगम\n(B) स्थानीय बस\n(C) सरकारी गाड़ी\n(D) ग्राम सेवा",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) निगम (GSRTC)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બસ સ્ટેન્ડ પર 'ગુજરાત રાજ્ય માર્ગ વાહન વ્યવહાર નિગમ' લખેલું હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 8",
+      "question": "समय सारिणी हमें क्या सिखाती है?\n(A) पैसा खर्च करना\n(B) समय का मूल्य\n(C) आलस करना\n(D) भागना",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) समय का मूल्य</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટાઇમ ટેબલ એટલે જ સમયનું મહત્વ. જે સમયને સાચવે તે જીવનમાં સફળ થાય!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 9",
+      "question": "टेलीविज़ન पर आने वाले कार्यक्रमों की जानकारी कहाँ से मिलती है?\n(A) रेडियो से\n(B) समाचार पत्र या समय सारिणी से\n(C) पड़ोसियों से\n(D) किताब से",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) समाचार पत्र या समय सारिणी से</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અખબારમાં પણ ટીવી કાર્યક્રમોનો સમય (Schedule) આપેલો હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 10",
+      "question": "रेलवे स्टेशन पर टिकट लेने के लिए कहाँ जाना पड़ता है?\n(A) पूछताछ केंद्र\n(B) बुकिंग विंडो (टिकट खिड़की)\n(C) प्लेटफार्म नंबर 1\n(D) रेलवे कैंटीन",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) बुकिंग विंडो (टिकટ खिड़की)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટિકિટ લેવા 'ટિકિટ બારી' (Booking Window) પર જ લાઇન લગાવવી પડે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 11",
+      "question": "समय सारिणी में लिखे 'वाया' (Via) शब्द का क्या अर्थ है?\n(A) जाने वाली\n(B) होकर जाने वाली\n(C) रुकने वाली\n(D) खाली बस",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) होकर जाने वाली</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: Via એટલે 'દ્વારા' અથવા 'ત્યાં થઈને'. દા.ત. અમદાવાદ વાયા ખેડા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 12",
+      "question": "बिजली के बिल में 'Unit' शब्द का अर्थ क्या होता है?\n(A) लाइट का रंग\n(B) खपत की मात्रा\n(C) बल्ब की संख्या\n(D) घर का पता",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) खपत की मात्रा</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: તમે જેટલી લાઈટ વાપરો તે 'યુનિટ' માં ગણાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 13",
+      "question": "समय सारिणी का पालन करने से व्यक्ति कैसा बनता है?\n(A) आलसी\n(B) नियमित और अनुशासित\n(C) बीमार\n(D) अमीर",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) नियमित और अनुशासित</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: અનુશાસન (Discipline) જ સમયપાલનનું બીજું નામ છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 14",
+      "question": "रेलवे स्टेशन पर उद्घोषणा (Announcement) क्यों की जाती है?\n(A) गाना सुनाने के लिए\n(B) यात्रियों को सूचना देने के लिए\n(C) झगड़ा सुलझाने के लिए\n(D) विज्ञापन करने के लिए",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) यात्रियों को सूचना देने के लिए</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'ધ્યાન દીજીયે...' એટલે કે મુસાફરોને સાવધાન અને માહિતગાર કરવા.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 15",
+      "question": "यदि बस का समय 00:15 है, तो इसका अर्थ है:\n(A) दोपहर के 12:15\n(B) सुबह के 6:15\n(C) रात के 12:15\n(D) शाम के 5:15",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (C) रात के 12:15</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: રેલ્વે ટાઇમમાં રાત્રે 12 વાગ્યે ઘડિયાળ 00:00 થઈ જાય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 16",
+      "question": "हमें अपना बिजली का बिल कब तक भर देना चाहिए?\n(A) कभी भी\n(B) नियत तारीख (Due Date) से पहले\n(C) बिल खोने के बाद\n(D) एक साल बाद",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) नियत तारीख (Due Date) से पहले</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: જો મોડા ભરો તો પેનલ્ટી લાગે, માટે સમયસર (On Time) ભરવું!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 17",
+      "question": "समय सारिणी बोर्ड पर 'काले' रंग से लिखे मार्ग का क्या अर्थ होता है?\n(A) लोकल बस\n(B) एक्सप्रेस बस\n(C) पार्सल बस\n(D) वोल्वो बस",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) लोकल बस (Local Bus)</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સામાન્ય રીતે બોર્ડ પર કાળા અક્ષર લોકલ અને લાલ અક્ષર એક્સપ્રેસ માટે હોય છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 18",
+      "question": "रेलवे समय सारिणी में '13:00' का क्या अर्थ है?\n(A) सुबह का 1:00 बजे\n(B) दोपहर का 1:00 बजे\n(C) रात का 1:00 बजे\n(D) शाम के 3:00 बजे",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) दोपहर का 1:00 बजे</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 12 + 1 = 13. એટલે કે બપોરનો એક વાગ્યો કહેવાય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 19",
+      "question": "क्या समय सारिणी केवल विद्यार्थियों के लिए उपयोगी है?\n(A) हाँ\n(B) नहीं, सबके लिए\n(C) केवल शिक्षकों के लिए\n(D) केवल ड्राइवर के लिए",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) नहीं, सबके लिए</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: સમય કોઈની રાહ નથી જોતો, એટલે ટાઇમ ટેબલ બધા માટે જરૂરી છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 20",
+      "question": "बैंक में समय सारिणी का उपयोग किस लिए होता है?\n(A) खेलने के लिए\n(B) लेन-देन के समय के लिए\n(C) सोने के लिए\n(D) खाना खाने के लिए",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) लेन-देन के समय के लिए</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: બેંક ક્યારે ખુલશે અને ક્યારે બંધ થશે તેની માહિતી 'સમય સારણી' આપે છે.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 21",
+      "question": "बस स्टेशन पर 'पूछताछ' खिड़की पर हम क्या पूछ सकते हैं?\n(A) खाने का मेनू\n(B) गाड़ियों का समय और प्लेटफार्म नंबर\n(C) फिल्म की टिकट\n(D) स्कूल का होमवर्क",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) गाड़ियों का समय और प्लेटफार्म नंबर</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: 'Inquiry' (પૂછપરછ) એટલે જ મુસાફરીની વિગતો લેવી.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 22",
+      "question": "घर में माँ समय सारिणी का उपयोग क्यों करती है?\n(A) घर के कामों को सुचारू रूप से करने के लिए\n(B) आराम करने के लिए\n(C) टीवी देखने के लिए\n(D) बच्चों को डांटने के लिए",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) घर के कामों को सुचारू रूप से करने के लिए</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: મમ્મી એ ઘરની મેનેજર છે, અને દરેક મેનેજર પાસે પ્લાન (ટાઇમ ટેબલ) હોય જ!</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 23",
+      "question": "इनमें से कौन-सा विवरण रेलवे टिकट पर होता है?\n(A) ट्रेन का नाम और नंबर\n(B) यात्री का नाम (आरक्षित टिकट में)\n(C) यात्रा की तिथि और किराया\n(D) उपर्युक्त सभी",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (D) उपर्युक्त सभी</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: ટિકિટ એટલે પ્રવાસનો પુરાવો, જેમાં બધી જ વિગતો હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 24",
+      "question": "समय सारिणी बोर्ड पर 'प्लेटफार्म नंबर' का क्या महत्त्व है?\n(A) बस/ट्रेन खड़ी होने की जगह बताना\n(B) टिकट की कीमत बताना\n(C) स्टेशन का नाम बताना\n(D) ड्राइवर का नाम बताना",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (A) बस/ट्रेन खड़ी होने की जगह बताना</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: પ્લેટફોર્મ એટલે ગાડીનું 'સરનામું' જ્યાં આપણે પહોંચવાનું હોય.</p></div>"
+    },
+    {
+      "questionNumber": "પ્રશ્ન 25",
+      "question": "रात के 12 बजे को 24 घंटे वाली घड़ी में कैसे लिखा जाता है?\n(A) 12:00\n(B) 24:00 या 00:00\n(C) 13:00\n(D) 18:00",
+      "answer": "<div style='background-color:#f0f8ff; padding:15px; border-left:5px solid #16a085; border-radius:8px;'><p><strong>ઉકેલ/જવાબ:</strong> (B) 24:00 या 00:00</p><hr><p style='color:#d32f2f; font-weight:bold;'>💡 નિતેશ સરની શોર્ટકટ ટ્રીક: દિવસ પૂરો થાય એટલે 'ઝીરો-ઝીરો' થઈ જાય અને નવો દિવસ શરૂ થાય.</p></div>"
+    }
+  ]
+}
